@@ -1,0 +1,2810 @@
+{
+  "schema_version": "1.0",
+  "generated_from": "imports/ud-phrygian-kul.json",
+  "source_id": "ud-phrygian-kul",
+  "counts": {
+    "distinct_tm_ids": 162,
+    "source_sentences": 203,
+    "tokens": 1921,
+    "canonical_admissions": 0,
+    "independently_reviewed": 0
+  },
+  "policy": "This is an inscription-identity reconciliation ledger derived from attributed UD metadata. TM identifiers are useful identity anchors but do not independently verify readings, dates, provenance, object identity, period assignment, or edition authority.",
+  "records": [
+    {
+      "trismegistos_id": "TM756906",
+      "source_sentence_ids": [
+        "UD-TM756906-1"
+      ],
+      "sentence_count": 1,
+      "token_count": 7,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM756907",
+      "source_sentence_ids": [
+        "UD-TM756907-1"
+      ],
+      "sentence_count": 1,
+      "token_count": 7,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM756908",
+      "source_sentence_ids": [
+        "UD-TM756908-1"
+      ],
+      "sentence_count": 1,
+      "token_count": 3,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM756909",
+      "source_sentence_ids": [
+        "UD-TM756909-1",
+        "UD-TM756909-2"
+      ],
+      "sentence_count": 2,
+      "token_count": 7,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM756910",
+      "source_sentence_ids": [
+        "UD-TM756910-1"
+      ],
+      "sentence_count": 1,
+      "token_count": 6,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM756911",
+      "source_sentence_ids": [
+        "UD-TM756911-1"
+      ],
+      "sentence_count": 1,
+      "token_count": 6,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM756912",
+      "source_sentence_ids": [
+        "UD-TM756912-1"
+      ],
+      "sentence_count": 1,
+      "token_count": 3,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM756913",
+      "source_sentence_ids": [
+        "UD-TM756913-1"
+      ],
+      "sentence_count": 1,
+      "token_count": 4,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM756914",
+      "source_sentence_ids": [
+        "UD-TM756914-1"
+      ],
+      "sentence_count": 1,
+      "token_count": 3,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM756915",
+      "source_sentence_ids": [
+        "UD-TM756915-1"
+      ],
+      "sentence_count": 1,
+      "token_count": 4,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM756916",
+      "source_sentence_ids": [
+        "UD-TM756916-1"
+      ],
+      "sentence_count": 1,
+      "token_count": 1,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM756917",
+      "source_sentence_ids": [
+        "UD-TM756917-1"
+      ],
+      "sentence_count": 1,
+      "token_count": 1,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM756918",
+      "source_sentence_ids": [
+        "UD-TM756918-1"
+      ],
+      "sentence_count": 1,
+      "token_count": 2,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM756919",
+      "source_sentence_ids": [
+        "UD-TM756919-1",
+        "UD-TM756919-2"
+      ],
+      "sentence_count": 2,
+      "token_count": 4,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM757149a",
+      "source_sentence_ids": [
+        "UD-TM757149a-1"
+      ],
+      "sentence_count": 1,
+      "token_count": 2,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM757149b",
+      "source_sentence_ids": [
+        "UD-TM757149b-1"
+      ],
+      "sentence_count": 1,
+      "token_count": 2,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM757150",
+      "source_sentence_ids": [
+        "UD-TM757150-1"
+      ],
+      "sentence_count": 1,
+      "token_count": 2,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM757243",
+      "source_sentence_ids": [
+        "UD-TM757243-1",
+        "UD-TM757243-2",
+        "UD-TM757243-3",
+        "UD-TM757243-4",
+        "UD-TM757243-5",
+        "UD-TM757243-6"
+      ],
+      "sentence_count": 6,
+      "token_count": 52,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM757257",
+      "source_sentence_ids": [
+        "UD-TM757257-1"
+      ],
+      "sentence_count": 1,
+      "token_count": 1,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM757258",
+      "source_sentence_ids": [
+        "UD-TM757258-1"
+      ],
+      "sentence_count": 1,
+      "token_count": 3,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM757259",
+      "source_sentence_ids": [
+        "UD-TM757259-1"
+      ],
+      "sentence_count": 1,
+      "token_count": 1,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM757260",
+      "source_sentence_ids": [
+        "UD-TM757260-1"
+      ],
+      "sentence_count": 1,
+      "token_count": 1,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM757261",
+      "source_sentence_ids": [
+        "UD-TM757261-1"
+      ],
+      "sentence_count": 1,
+      "token_count": 1,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM757262",
+      "source_sentence_ids": [
+        "UD-TM757262-1"
+      ],
+      "sentence_count": 1,
+      "token_count": 1,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM757263",
+      "source_sentence_ids": [
+        "UD-TM757263-1"
+      ],
+      "sentence_count": 1,
+      "token_count": 1,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM757264",
+      "source_sentence_ids": [
+        "UD-TM757264-1"
+      ],
+      "sentence_count": 1,
+      "token_count": 1,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM757265",
+      "source_sentence_ids": [
+        "UD-TM757265-1"
+      ],
+      "sentence_count": 1,
+      "token_count": 1,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM757266",
+      "source_sentence_ids": [
+        "UD-TM757266-1"
+      ],
+      "sentence_count": 1,
+      "token_count": 1,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM757267",
+      "source_sentence_ids": [
+        "UD-TM757267-1"
+      ],
+      "sentence_count": 1,
+      "token_count": 1,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM757268",
+      "source_sentence_ids": [
+        "UD-TM757268-1"
+      ],
+      "sentence_count": 1,
+      "token_count": 1,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM757269",
+      "source_sentence_ids": [
+        "UD-TM757269-1"
+      ],
+      "sentence_count": 1,
+      "token_count": 1,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM757270",
+      "source_sentence_ids": [
+        "UD-TM757270-1",
+        "UD-TM757270-2",
+        "UD-TM757270-3",
+        "UD-TM757270-4",
+        "UD-TM757270-5",
+        "UD-TM757270-6",
+        "UD-TM757270-7",
+        "UD-TM757270-8",
+        "UD-TM757270-9",
+        "UD-TM757270-10"
+      ],
+      "sentence_count": 10,
+      "token_count": 21,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM757271",
+      "source_sentence_ids": [
+        "UD-TM757271-1"
+      ],
+      "sentence_count": 1,
+      "token_count": 2,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM844852",
+      "source_sentence_ids": [
+        "UD-TM844852-2"
+      ],
+      "sentence_count": 1,
+      "token_count": 14,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM844853",
+      "source_sentence_ids": [
+        "UD-TM844853-1",
+        "UD-TM844853-2"
+      ],
+      "sentence_count": 2,
+      "token_count": 36,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM845156",
+      "source_sentence_ids": [
+        "UD-TM845156-2"
+      ],
+      "sentence_count": 1,
+      "token_count": 5,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM845157",
+      "source_sentence_ids": [
+        "UD-TM845157-1"
+      ],
+      "sentence_count": 1,
+      "token_count": 6,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM845198",
+      "source_sentence_ids": [
+        "UD-TM845198-1"
+      ],
+      "sentence_count": 1,
+      "token_count": 12,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM845306",
+      "source_sentence_ids": [
+        "UD-TM845306-1"
+      ],
+      "sentence_count": 1,
+      "token_count": 15,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM845334",
+      "source_sentence_ids": [
+        "UD-TM845334-1"
+      ],
+      "sentence_count": 1,
+      "token_count": 10,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM845335",
+      "source_sentence_ids": [
+        "UD-TM845335-1"
+      ],
+      "sentence_count": 1,
+      "token_count": 11,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM845394",
+      "source_sentence_ids": [
+        "UD-TM845394-2"
+      ],
+      "sentence_count": 1,
+      "token_count": 18,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM845437",
+      "source_sentence_ids": [
+        "UD-TM845437-1"
+      ],
+      "sentence_count": 1,
+      "token_count": 3,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM845501",
+      "source_sentence_ids": [
+        "UD-TM845501-1"
+      ],
+      "sentence_count": 1,
+      "token_count": 12,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM845532",
+      "source_sentence_ids": [
+        "UD-TM845532-1"
+      ],
+      "sentence_count": 1,
+      "token_count": 11,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM845568",
+      "source_sentence_ids": [
+        "UD-TM845568-5"
+      ],
+      "sentence_count": 1,
+      "token_count": 16,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM845569",
+      "source_sentence_ids": [
+        "UD-TM845569-1"
+      ],
+      "sentence_count": 1,
+      "token_count": 19,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM845570",
+      "source_sentence_ids": [
+        "UD-TM845570-2"
+      ],
+      "sentence_count": 1,
+      "token_count": 4,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM845586",
+      "source_sentence_ids": [
+        "UD-TM845586-1"
+      ],
+      "sentence_count": 1,
+      "token_count": 23,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM845616",
+      "source_sentence_ids": [
+        "UD-TM845616-2"
+      ],
+      "sentence_count": 1,
+      "token_count": 12,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM845617",
+      "source_sentence_ids": [
+        "UD-TM845617-2"
+      ],
+      "sentence_count": 1,
+      "token_count": 3,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM845632",
+      "source_sentence_ids": [
+        "UD-TM845632-1"
+      ],
+      "sentence_count": 1,
+      "token_count": 5,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM846122",
+      "source_sentence_ids": [
+        "UD-TM846122-2"
+      ],
+      "sentence_count": 1,
+      "token_count": 9,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM846124",
+      "source_sentence_ids": [
+        "UD-TM846124-1"
+      ],
+      "sentence_count": 1,
+      "token_count": 13,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM846169",
+      "source_sentence_ids": [
+        "UD-TM846169-1"
+      ],
+      "sentence_count": 1,
+      "token_count": 13,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM846203",
+      "source_sentence_ids": [
+        "UD-TM846203-2"
+      ],
+      "sentence_count": 1,
+      "token_count": 20,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM846318",
+      "source_sentence_ids": [
+        "UD-TM846318-1"
+      ],
+      "sentence_count": 1,
+      "token_count": 12,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM846319",
+      "source_sentence_ids": [
+        "UD-TM846319-2"
+      ],
+      "sentence_count": 1,
+      "token_count": 9,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM846320",
+      "source_sentence_ids": [
+        "UD-TM846320-2"
+      ],
+      "sentence_count": 1,
+      "token_count": 11,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM846321",
+      "source_sentence_ids": [
+        "UD-TM846321-2"
+      ],
+      "sentence_count": 1,
+      "token_count": 12,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM846322",
+      "source_sentence_ids": [
+        "UD-TM846322-1",
+        "UD-TM846322-2"
+      ],
+      "sentence_count": 2,
+      "token_count": 9,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM847650",
+      "source_sentence_ids": [
+        "UD-TM847650-1"
+      ],
+      "sentence_count": 1,
+      "token_count": 11,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM867059",
+      "source_sentence_ids": [
+        "UD-TM867059-1"
+      ],
+      "sentence_count": 1,
+      "token_count": 12,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM867064",
+      "source_sentence_ids": [
+        "UD-TM867064-2"
+      ],
+      "sentence_count": 1,
+      "token_count": 11,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM867069",
+      "source_sentence_ids": [
+        "UD-TM867069-2"
+      ],
+      "sentence_count": 1,
+      "token_count": 13,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM867070",
+      "source_sentence_ids": [
+        "UD-TM867070-2"
+      ],
+      "sentence_count": 1,
+      "token_count": 28,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM867071",
+      "source_sentence_ids": [
+        "UD-TM867071-2"
+      ],
+      "sentence_count": 1,
+      "token_count": 12,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM867072",
+      "source_sentence_ids": [
+        "UD-TM867072-2"
+      ],
+      "sentence_count": 1,
+      "token_count": 14,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM867073",
+      "source_sentence_ids": [
+        "UD-TM867073-2"
+      ],
+      "sentence_count": 1,
+      "token_count": 23,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM867074",
+      "source_sentence_ids": [
+        "UD-TM867074-1"
+      ],
+      "sentence_count": 1,
+      "token_count": 11,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM867098",
+      "source_sentence_ids": [
+        "UD-TM867098-2"
+      ],
+      "sentence_count": 1,
+      "token_count": 12,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM867130",
+      "source_sentence_ids": [
+        "UD-TM867130-2"
+      ],
+      "sentence_count": 1,
+      "token_count": 12,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM867131",
+      "source_sentence_ids": [
+        "UD-TM867131-2"
+      ],
+      "sentence_count": 1,
+      "token_count": 6,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM867135",
+      "source_sentence_ids": [
+        "UD-TM867135-2"
+      ],
+      "sentence_count": 1,
+      "token_count": 24,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM867154",
+      "source_sentence_ids": [
+        "UD-TM867154-1"
+      ],
+      "sentence_count": 1,
+      "token_count": 19,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM867450",
+      "source_sentence_ids": [
+        "UD-TM867450-1",
+        "UD-TM867450-2",
+        "UD-TM867450-3",
+        "UD-TM867450-4"
+      ],
+      "sentence_count": 4,
+      "token_count": 24,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM875203",
+      "source_sentence_ids": [
+        "UD-TM875203-2"
+      ],
+      "sentence_count": 1,
+      "token_count": 3,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM877307",
+      "source_sentence_ids": [
+        "UD-TM877307-3"
+      ],
+      "sentence_count": 1,
+      "token_count": 5,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM884470",
+      "source_sentence_ids": [
+        "UD-TM884470-2"
+      ],
+      "sentence_count": 1,
+      "token_count": 15,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM917779",
+      "source_sentence_ids": [
+        "UD-TM917779-1"
+      ],
+      "sentence_count": 1,
+      "token_count": 14,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM917781",
+      "source_sentence_ids": [
+        "UD-TM917781-1"
+      ],
+      "sentence_count": 1,
+      "token_count": 9,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM918536",
+      "source_sentence_ids": [
+        "UD-TM918536-1"
+      ],
+      "sentence_count": 1,
+      "token_count": 14,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM918546",
+      "source_sentence_ids": [
+        "UD-TM918546-1"
+      ],
+      "sentence_count": 1,
+      "token_count": 20,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM918549",
+      "source_sentence_ids": [
+        "UD-TM918549-2"
+      ],
+      "sentence_count": 1,
+      "token_count": 8,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM918553",
+      "source_sentence_ids": [
+        "UD-TM918553-1"
+      ],
+      "sentence_count": 1,
+      "token_count": 9,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM918555",
+      "source_sentence_ids": [
+        "UD-TM918555-2"
+      ],
+      "sentence_count": 1,
+      "token_count": 16,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM918556",
+      "source_sentence_ids": [
+        "UD-TM918556-2"
+      ],
+      "sentence_count": 1,
+      "token_count": 9,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM918557",
+      "source_sentence_ids": [
+        "UD-TM918557-2"
+      ],
+      "sentence_count": 1,
+      "token_count": 16,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM918559",
+      "source_sentence_ids": [
+        "UD-TM918559-1"
+      ],
+      "sentence_count": 1,
+      "token_count": 13,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM918580",
+      "source_sentence_ids": [
+        "UD-TM918580-1"
+      ],
+      "sentence_count": 1,
+      "token_count": 4,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM918589",
+      "source_sentence_ids": [
+        "UD-TM918589-2"
+      ],
+      "sentence_count": 1,
+      "token_count": 10,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM918632",
+      "source_sentence_ids": [
+        "UD-TM918632-1"
+      ],
+      "sentence_count": 1,
+      "token_count": 10,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM918640",
+      "source_sentence_ids": [
+        "UD-TM918640-1",
+        "UD-TM918640-2"
+      ],
+      "sentence_count": 2,
+      "token_count": 21,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM919096",
+      "source_sentence_ids": [
+        "UD-TM919096-2"
+      ],
+      "sentence_count": 1,
+      "token_count": 10,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM919107",
+      "source_sentence_ids": [
+        "UD-TM919107-2"
+      ],
+      "sentence_count": 1,
+      "token_count": 15,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM928661",
+      "source_sentence_ids": [
+        "UD-TM928661-2"
+      ],
+      "sentence_count": 1,
+      "token_count": 5,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM928663",
+      "source_sentence_ids": [
+        "UD-TM928663-2"
+      ],
+      "sentence_count": 1,
+      "token_count": 17,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM931661",
+      "source_sentence_ids": [
+        "UD-TM931661-2"
+      ],
+      "sentence_count": 1,
+      "token_count": 9,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM931697",
+      "source_sentence_ids": [
+        "UD-TM931697-1"
+      ],
+      "sentence_count": 1,
+      "token_count": 19,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM931700",
+      "source_sentence_ids": [
+        "UD-TM931700-2"
+      ],
+      "sentence_count": 1,
+      "token_count": 13,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM932037",
+      "source_sentence_ids": [
+        "UD-TM932037-2"
+      ],
+      "sentence_count": 1,
+      "token_count": 12,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM932092",
+      "source_sentence_ids": [
+        "UD-TM932092-2"
+      ],
+      "sentence_count": 1,
+      "token_count": 9,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM932096",
+      "source_sentence_ids": [
+        "UD-TM932096-2"
+      ],
+      "sentence_count": 1,
+      "token_count": 4,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM932138",
+      "source_sentence_ids": [
+        "UD-TM932138-1",
+        "UD-TM932138-2"
+      ],
+      "sentence_count": 2,
+      "token_count": 29,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM932139",
+      "source_sentence_ids": [
+        "UD-TM932139-2",
+        "UD-TM932139-3"
+      ],
+      "sentence_count": 2,
+      "token_count": 13,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM932140",
+      "source_sentence_ids": [
+        "UD-TM932140-2"
+      ],
+      "sentence_count": 1,
+      "token_count": 11,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM932141",
+      "source_sentence_ids": [
+        "UD-TM932141-2"
+      ],
+      "sentence_count": 1,
+      "token_count": 12,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM932142",
+      "source_sentence_ids": [
+        "UD-TM932142-2"
+      ],
+      "sentence_count": 1,
+      "token_count": 12,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM932144",
+      "source_sentence_ids": [
+        "UD-TM932144-1"
+      ],
+      "sentence_count": 1,
+      "token_count": 7,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM932145",
+      "source_sentence_ids": [
+        "UD-TM932145-1"
+      ],
+      "sentence_count": 1,
+      "token_count": 26,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM932155",
+      "source_sentence_ids": [
+        "UD-TM932155-1"
+      ],
+      "sentence_count": 1,
+      "token_count": 12,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM932245",
+      "source_sentence_ids": [
+        "UD-TM932245-2"
+      ],
+      "sentence_count": 1,
+      "token_count": 15,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM938752",
+      "source_sentence_ids": [
+        "UD-TM938752-1"
+      ],
+      "sentence_count": 1,
+      "token_count": 4,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM938753",
+      "source_sentence_ids": [
+        "UD-TM938753-2"
+      ],
+      "sentence_count": 1,
+      "token_count": 11,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM942648",
+      "source_sentence_ids": [
+        "UD-TM942648-1"
+      ],
+      "sentence_count": 1,
+      "token_count": 8,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM942649",
+      "source_sentence_ids": [
+        "UD-TM942649-3"
+      ],
+      "sentence_count": 1,
+      "token_count": 17,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM963204",
+      "source_sentence_ids": [
+        "UD-TM963204-2"
+      ],
+      "sentence_count": 1,
+      "token_count": 18,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM969745",
+      "source_sentence_ids": [
+        "UD-TM969745-2"
+      ],
+      "sentence_count": 1,
+      "token_count": 11,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM970282",
+      "source_sentence_ids": [
+        "UD-TM970282-3"
+      ],
+      "sentence_count": 1,
+      "token_count": 11,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM970283",
+      "source_sentence_ids": [
+        "UD-TM970283-2"
+      ],
+      "sentence_count": 1,
+      "token_count": 15,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM978063",
+      "source_sentence_ids": [
+        "UD-TM978063-2"
+      ],
+      "sentence_count": 1,
+      "token_count": 21,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM984504",
+      "source_sentence_ids": [
+        "UD-TM984504-1"
+      ],
+      "sentence_count": 1,
+      "token_count": 1,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM984510",
+      "source_sentence_ids": [
+        "UD-TM984510-1"
+      ],
+      "sentence_count": 1,
+      "token_count": 1,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM984511",
+      "source_sentence_ids": [
+        "UD-TM984511-1"
+      ],
+      "sentence_count": 1,
+      "token_count": 1,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM984512",
+      "source_sentence_ids": [
+        "UD-TM984512-1",
+        "UD-TM984512-2",
+        "UD-TM984512-3"
+      ],
+      "sentence_count": 3,
+      "token_count": 5,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM984513",
+      "source_sentence_ids": [
+        "UD-TM984513-1"
+      ],
+      "sentence_count": 1,
+      "token_count": 1,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM984517",
+      "source_sentence_ids": [
+        "UD-TM984517-2"
+      ],
+      "sentence_count": 1,
+      "token_count": 12,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM984518",
+      "source_sentence_ids": [
+        "UD-TM984518-1"
+      ],
+      "sentence_count": 1,
+      "token_count": 11,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM984519",
+      "source_sentence_ids": [
+        "UD-TM984519-2",
+        "UD-TM984519-3",
+        "UD-TM984519-8"
+      ],
+      "sentence_count": 3,
+      "token_count": 41,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM984523",
+      "source_sentence_ids": [
+        "UD-TM984523-1"
+      ],
+      "sentence_count": 1,
+      "token_count": 12,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM984524",
+      "source_sentence_ids": [
+        "UD-TM984524-3"
+      ],
+      "sentence_count": 1,
+      "token_count": 18,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM984525",
+      "source_sentence_ids": [
+        "UD-TM984525-2"
+      ],
+      "sentence_count": 1,
+      "token_count": 15,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM984526",
+      "source_sentence_ids": [
+        "UD-TM984526-1"
+      ],
+      "sentence_count": 1,
+      "token_count": 18,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM984527",
+      "source_sentence_ids": [
+        "UD-TM984527-2"
+      ],
+      "sentence_count": 1,
+      "token_count": 15,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM984528",
+      "source_sentence_ids": [
+        "UD-TM984528-1"
+      ],
+      "sentence_count": 1,
+      "token_count": 20,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM984529",
+      "source_sentence_ids": [
+        "UD-TM984529-1"
+      ],
+      "sentence_count": 1,
+      "token_count": 18,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM984530",
+      "source_sentence_ids": [
+        "UD-TM984530-1"
+      ],
+      "sentence_count": 1,
+      "token_count": 12,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM984531",
+      "source_sentence_ids": [
+        "UD-TM984531-1",
+        "UD-TM984531-2"
+      ],
+      "sentence_count": 2,
+      "token_count": 45,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM984532",
+      "source_sentence_ids": [
+        "UD-TM984532-1"
+      ],
+      "sentence_count": 1,
+      "token_count": 4,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM984533",
+      "source_sentence_ids": [
+        "UD-TM984533-3"
+      ],
+      "sentence_count": 1,
+      "token_count": 11,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM984534",
+      "source_sentence_ids": [
+        "UD-TM984534-1",
+        "UD-TM984534-2",
+        "UD-TM984534-3"
+      ],
+      "sentence_count": 3,
+      "token_count": 28,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM984535",
+      "source_sentence_ids": [
+        "UD-TM984535-1",
+        "UD-TM984535-2"
+      ],
+      "sentence_count": 2,
+      "token_count": 58,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM984536",
+      "source_sentence_ids": [
+        "UD-TM984536-2"
+      ],
+      "sentence_count": 1,
+      "token_count": 16,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM984537",
+      "source_sentence_ids": [
+        "UD-TM984537-1"
+      ],
+      "sentence_count": 1,
+      "token_count": 21,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM984538",
+      "source_sentence_ids": [
+        "UD-TM984538-1"
+      ],
+      "sentence_count": 1,
+      "token_count": 15,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM984539",
+      "source_sentence_ids": [
+        "UD-TM984539-1"
+      ],
+      "sentence_count": 1,
+      "token_count": 17,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM984540",
+      "source_sentence_ids": [
+        "UD-TM984540-1"
+      ],
+      "sentence_count": 1,
+      "token_count": 15,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM984541",
+      "source_sentence_ids": [
+        "UD-TM984541-1"
+      ],
+      "sentence_count": 1,
+      "token_count": 20,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM984542",
+      "source_sentence_ids": [
+        "UD-TM984542-2"
+      ],
+      "sentence_count": 1,
+      "token_count": 21,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM984543",
+      "source_sentence_ids": [
+        "UD-TM984543-2"
+      ],
+      "sentence_count": 1,
+      "token_count": 12,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM984544",
+      "source_sentence_ids": [
+        "UD-TM984544-1"
+      ],
+      "sentence_count": 1,
+      "token_count": 19,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM984545",
+      "source_sentence_ids": [
+        "UD-TM984545-1"
+      ],
+      "sentence_count": 1,
+      "token_count": 13,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM984546",
+      "source_sentence_ids": [
+        "UD-TM984546-1"
+      ],
+      "sentence_count": 1,
+      "token_count": 5,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM984547",
+      "source_sentence_ids": [
+        "UD-TM984547-2"
+      ],
+      "sentence_count": 1,
+      "token_count": 11,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM984548",
+      "source_sentence_ids": [
+        "UD-TM984548-1"
+      ],
+      "sentence_count": 1,
+      "token_count": 12,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM984549",
+      "source_sentence_ids": [
+        "UD-TM984549-1"
+      ],
+      "sentence_count": 1,
+      "token_count": 12,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM1001271",
+      "source_sentence_ids": [
+        "UD-TM1001271-1",
+        "UD-TM1001271-2",
+        "UD-TM1001271-3",
+        "UD-TM1001271-4",
+        "UD-TM1001271-5",
+        "UD-TM1001271-6",
+        "UD-TM1001271-7",
+        "UD-TM1001271-8",
+        "UD-TM1001271-9",
+        "UD-TM1001271-10"
+      ],
+      "sentence_count": 10,
+      "token_count": 45,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM1001273",
+      "source_sentence_ids": [
+        "UD-TM1001273-1"
+      ],
+      "sentence_count": 1,
+      "token_count": 3,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM1002266",
+      "source_sentence_ids": [
+        "UD-TM1002266-1"
+      ],
+      "sentence_count": 1,
+      "token_count": 1,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM1002267",
+      "source_sentence_ids": [
+        "UD-TM1002267-1"
+      ],
+      "sentence_count": 1,
+      "token_count": 1,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM1002268",
+      "source_sentence_ids": [
+        "UD-TM1002268-1"
+      ],
+      "sentence_count": 1,
+      "token_count": 15,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    },
+    {
+      "trismegistos_id": "TM1002269",
+      "source_sentence_ids": [
+        "UD-TM1002269-1"
+      ],
+      "sentence_count": 1,
+      "token_count": 9,
+      "reference_text_present": true,
+      "canonical_epigraphic_admission": false,
+      "independent_epigraphic_review": false,
+      "reconciliation_status": "TM_ID_LINKED_REFERENCE_ONLY",
+      "authoritative_edition_locator": null,
+      "physical_object_id": null,
+      "period": null,
+      "provenance": null,
+      "expert_required_for_reading_adjudication": true
+    }
+  ]
+}
