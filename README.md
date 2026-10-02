@@ -2,6 +2,14 @@
 
 A source-attributed research corpus and reproducible toolkit for Old and Neo-Phrygian inscriptions.
 
+## AI research skill
+
+This corpus project includes a vendor-neutral, evidence-first AI research skill in [`ai-skill/`](ai-skill/). The corpus remains the scholarly source of truth; the skill is an interface to it, not a second corpus or independent authority.
+
+Researchers can provide the repository or AI-ready bundle to a capable AI together with [`ai-skill/SKILL.md`](ai-skill/SKILL.md). The skill preserves provenance, uncertainty, exclusions, source dependence, rights, and this project's scientific gates. Check [`ai-skill/generated/source-state.json`](ai-skill/generated/source-state.json) and the research-bundle index before substantive use.
+
+For questions spanning corpus projects, use the **Combined Corpus Research AI** in [`combined-ai-skill/`](https://github.com/hawkinsnick/Linear-A/tree/ai-skill-v0.1/combined-ai-skill). It orchestrates registered individual skills without merging their evidence. Membership does not imply linguistic relationship, sign equivalence, chronology, decipherment, or independent replication.
+
 ## Status
 
 **0.1.0 — project scaffold and source-policy baseline.**
