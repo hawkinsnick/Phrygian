@@ -1,0 +1,12 @@
+{
+  "sources": [
+    {
+      "source_id": "titus-phrygian",
+      "name": "TITUS Phrygian Corpus",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm",
+      "role": "digital_source_target",
+      "rights_status": "verify_before_redistribution",
+      "notes": "Old- and Neo-Phrygian digital corpus preserving editorial conventions; source-derived material must retain upstream terms."
+    }
+  ]
+}
