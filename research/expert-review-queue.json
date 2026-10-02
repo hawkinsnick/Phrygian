@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "corpus": "Phrygian",
+  "generated_for": "expert_validation",
+  "principle": "UD/TM-linked records are useful machine-readable evidence but do not constitute independent epigraphic verification.",
+  "items": [
+    {
+      "id": "PHR-VAL-001",
+      "priority": "critical",
+      "object_scope": "203 UD sentences / 162 distinct TM identifiers",
+      "task": "Reconcile machine-readable UD/TM-linked records to authoritative epigraphic editions.",
+      "decision_needed": "source reading, restoration, locator and edition lineage",
+      "status": "awaiting_expert_or_primary_source"
+    },
+    {
+      "id": "PHR-VAL-002",
+      "priority": "high",
+      "object_scope": "Old Phrygian subset",
+      "task": "Validate period attribution and inscription-level metadata against authoritative catalogues.",
+      "decision_needed": "period, provenance and catalogue reconciliation",
+      "status": "awaiting_expert"
+    },
+    {
+      "id": "PHR-VAL-003",
+      "priority": "high",
+      "object_scope": "Neo-Phrygian subset",
+      "task": "Validate period attribution and inscription-level metadata against authoritative catalogues.",
+      "decision_needed": "period, provenance and catalogue reconciliation",
+      "status": "awaiting_expert"
+    },
+    {
+      "id": "PHR-VAL-004",
+      "priority": "high",
+      "object_scope": "digital-source relationships",
+      "task": "Determine which digital witnesses derive from the same editions and therefore are not independent confirmations.",
+      "decision_needed": "source dependence graph",
+      "status": "awaiting_source_reconciliation"
+    }
+  ],
+  "admission_rule": "Do not upgrade digital-source assertions to independently verified readings without source-level reconciliation."
+}
