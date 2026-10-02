@@ -1,0 +1,69 @@
+{
+  "schema_version": "1.0",
+  "corpus": "Phrygian",
+  "target": "PRE_EXPERT_MAXIMUM",
+  "checked": "2026-10-02",
+  "established": [
+    {
+      "gate": "licensed_machine_reference",
+      "status": "PASS",
+      "sentences": 203,
+      "tokens": 1921,
+      "distinct_trismegistos_ids": 162
+    },
+    {
+      "gate": "canonical_reference_separation",
+      "status": "PASS",
+      "canonical_records": 0
+    },
+    {
+      "gate": "reference_integrity_tests",
+      "status": "PASS"
+    },
+    {
+      "gate": "claim_sealing",
+      "status": "PASS",
+      "blocked": [
+        "exhaustive_world_corpus",
+        "independently_verified_critical_edition",
+        "independent_replication_between_digital_sources",
+        "corpus_complete_frequency"
+      ]
+    }
+  ],
+  "remaining_nonexpert_work": [
+    {
+      "id": "PHR-PRE-001",
+      "scope": "162 TM-linked inscription identities",
+      "action": "Build inscription-level reconciliation ledger linking digital IDs, period labels, provenance and authoritative edition locators where accessible.",
+      "blocked_by": "catalogue_and_edition_access"
+    },
+    {
+      "id": "PHR-PRE-002",
+      "scope": "203 UD sentences",
+      "action": "Map sentence records to inscription identities and source lineage without upgrading readings to independent verification.",
+      "blocked_by": "source_reconciliation"
+    },
+    {
+      "id": "PHR-PRE-003",
+      "scope": "digital witnesses",
+      "action": "Document derivation/dependence between UD, TITUS and cited editions wherever bibliographically determinable.",
+      "blocked_by": "source_lineage_access"
+    }
+  ],
+  "human_only_boundary": [
+    {
+      "id": "PHR-HUM-001",
+      "decision": "adjudicate damaged/restored readings against authoritative editions"
+    },
+    {
+      "id": "PHR-HUM-002",
+      "decision": "independently validate Old/Neo-Phrygian period and inscription-level epigraphic metadata where contested"
+    },
+    {
+      "id": "PHR-HUM-003",
+      "decision": "resolve linguistic/editorial interpretations not explicit in sources"
+    }
+  ],
+  "completion_rule": "Pre-Expert Maximum is reached when all 162 linked identities have a reconciliation disposition and all digital-source dependence that can be established bibliographically is recorded; canonical admission still requires source-level epigraphic verification."
+}
