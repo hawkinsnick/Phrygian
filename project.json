@@ -1,9 +1,23 @@
 {
   "project": "Phrygian",
   "adapter": "titus_phrygian",
-  "scope": "Old- and Neo-Phrygian source-attributed inscriptions; initial digital-source target TITUS with source rights preserved.",
+  "scope": "Old- and Neo-Phrygian source-attributed inscriptions; canonical epigraphic admission remains gated while a separately attributed UD/TM-linked machine-readable reference layer is available.",
   "record_unit": "source_attributed_inscription_reading",
   "python_minimum": "3.10",
   "data_license": "mixed_upstream_terms",
-  "status": "scaffold"
+  "status": "source_acquisition_and_alignment",
+  "layers": {
+    "canonical_epigraphic_records": {
+      "path": "data/records.json",
+      "count": 0,
+      "independent_epigraphic_review_required_for_admission": true
+    },
+    "machine_readable_reference": {
+      "path": "imports/ud-phrygian-kul.json",
+      "sentences": 203,
+      "tokens": 1921,
+      "distinct_trismegistos_ids": 162,
+      "independent_epigraphic_review": false
+    }
+  }
 }
