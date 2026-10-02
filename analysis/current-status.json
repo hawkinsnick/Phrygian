@@ -3,12 +3,21 @@
   "repository_version": "0.2.0-dev",
   "checked": "2026-10-01",
   "milestone": "SOURCE_ACQUISITION_AND_ALIGNMENT",
-  "committed_record_count": 0,
+  "committed_record_count": 203,
   "blocked_claims": [
     "exhaustive_world_corpus",
     "independently_verified_critical_edition",
     "independent_replication_between_digital_sources",
     "corpus_complete_frequency"
   ],
-  "next_gate": "Acquire source snapshots and import attributed records while retaining period, uncertainty, provenance and source dependence."
+  "next_gate": "Reconcile UD/TM-linked records with epigraphic source editions and period metadata; acquire independent/source-primary confirmation before upgrading source assertions.",
+  "machine_readable_reference": {
+    "source": "UniversalDependencies/UD_Phrygian-KUL",
+    "source_blob_sha": "399fa856aa61dca243db5dbf2138e28db7bb52ef",
+    "sentences": 203,
+    "tokens": 1921,
+    "distinct_trismegistos_ids": 162,
+    "license": "CC-BY-SA-4.0",
+    "project_epigraphic_review": false
+  }
 }
