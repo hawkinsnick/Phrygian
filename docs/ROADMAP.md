@@ -15,3 +15,8 @@ Canonical `data/records.json` remains empty until inscription-level readings can
 5. Expand source coverage without treating corpus size as evidence quality.
 
 See `research/expert-review-queue.json` for the human-validation boundary.
+
+
+## Pre-Expert identity reconciliation — 2026-10-02
+
+`research/tm-reconciliation-ledger.json` now accounts for all 162 Trismegistos identity anchors represented by the 203 licensed UD reference sentences. This is identity/source reconciliation only: authoritative edition locators, physical-object identities, period assignments and provenance remain unset until source-level evidence supports them. No record is thereby admitted to the canonical epigraphic layer.
