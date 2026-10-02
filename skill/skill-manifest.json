@@ -1,0 +1,9 @@
+{
+  "name": "ancient-corpus-factory",
+  "version": "0.1.0",
+  "description": "Portable AI workflow for source-attributed ancient-language and epigraphic corpus creation, validation, interoperability, and maintenance.",
+  "source_of_truth": "Git repository",
+  "refresh_policy": "On every use, read current repository VERSION, schemas, METHOD, rights documentation, and release status before acting.",
+  "entrypoint": "skill/SKILL.md",
+  "interoperability_contract": "1.1.0"
+}
