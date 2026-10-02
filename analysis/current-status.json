@@ -1,0 +1,14 @@
+{
+  "schema_version": "1.0",
+  "repository_version": "0.2.0-dev",
+  "checked": "2026-10-01",
+  "milestone": "SOURCE_ACQUISITION_AND_ALIGNMENT",
+  "committed_record_count": 0,
+  "blocked_claims": [
+    "exhaustive_world_corpus",
+    "independently_verified_critical_edition",
+    "independent_replication_between_digital_sources",
+    "corpus_complete_frequency"
+  ],
+  "next_gate": "Acquire source snapshots and import attributed records while retaining period, uncertainty, provenance and source dependence."
+}
