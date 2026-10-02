@@ -1,0 +1,36 @@
+{
+  "format": "phrygian-source-documentation-reconciliation-v1",
+  "documentation_path": "imports/ud-phrygian-kul-readme.md",
+  "documentation_sha256": "396131d9c22897458aa6750491d23c0384d9a82edc1c6a8df90a88c76eaf29d1",
+  "assertions": [
+    {
+      "trismegistos_id": "TM1002268",
+      "editor": "Anfosso (2021)",
+      "edition_number": "34.2",
+      "reference_record_ids": [
+        "UD-TM1002268-1"
+      ],
+      "period": "New Phrygian",
+      "period_evidence": "Upstream README introduces this table as New Phrygian additions.",
+      "source_locator": "README Edition table",
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "trismegistos_id": "TM1002269",
+      "editor": "Güney & Yanık (2022)",
+      "edition_number": "67.1",
+      "reference_record_ids": [
+        "UD-TM1002269-1"
+      ],
+      "period": "New Phrygian",
+      "period_evidence": "Upstream README introduces this table as New Phrygian additions.",
+      "source_locator": "README Edition table",
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    }
+  ],
+  "explicit_tm_joins": 2,
+  "canonical_admissions": 0,
+  "boundary": "Explicit upstream table joins only; no fuzzy text matching, physical identity certification or independent collation. Source editions remain attribution targets."
+}

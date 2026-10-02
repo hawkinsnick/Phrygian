@@ -41,6 +41,21 @@
       "role": "tm_reconciliation",
       "path": "research/tm-reconciliation-ledger.json",
       "required": true
+    },
+    {
+      "role": "source_inspection",
+      "path": "research/source-inspection-2026-10-02.json",
+      "required": true
+    },
+    {
+      "role": "source_documentation_reconciliation",
+      "path": "research/source-documentation-reconciliation-v1.json",
+      "required": true
+    },
+    {
+      "role": "ud_source_documentation",
+      "path": "imports/ud-phrygian-kul-readme.md",
+      "required": true
     }
   ],
   "behavioral_gates": [
