@@ -1,0 +1,9 @@
+{
+  "project": "Phrygian",
+  "adapter": "titus_phrygian",
+  "scope": "Old- and Neo-Phrygian source-attributed inscriptions; initial digital-source target TITUS with source rights preserved.",
+  "record_unit": "source_attributed_inscription_reading",
+  "python_minimum": "3.10",
+  "data_license": "mixed_upstream_terms",
+  "status": "scaffold"
+}
