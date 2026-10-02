@@ -1,0 +1,108 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Phrygian source-attributed inscription reading 0.1",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "record_id",
+    "period",
+    "source_id",
+    "source_locator",
+    "label",
+    "provenance",
+    "reading",
+    "review"
+  ],
+  "properties": {
+    "record_id": {
+      "type": "string"
+    },
+    "period": {
+      "enum": [
+        "old_phrygian",
+        "neo_phrygian",
+        "unknown"
+      ]
+    },
+    "source_id": {
+      "type": "string"
+    },
+    "source_locator": {
+      "type": "string"
+    },
+    "label": {
+      "type": "string"
+    },
+    "provenance": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "url",
+        "retrieved_at",
+        "sha256",
+        "rights_status"
+      ],
+      "properties": {
+        "url": {
+          "type": "string",
+          "format": "uri"
+        },
+        "retrieved_at": {
+          "type": "string"
+        },
+        "sha256": {
+          "type": "string",
+          "pattern": "^[a-f0-9]{64}$"
+        },
+        "rights_status": {
+          "type": "string"
+        }
+      }
+    },
+    "reading": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "text",
+        "direction",
+        "uncertainty_preserved",
+        "editorial_marks_preserved",
+        "analysis_eligible"
+      ],
+      "properties": {
+        "text": {
+          "type": "string"
+        },
+        "direction": {
+          "enum": [
+            "dextroverse",
+            "sinistroverse",
+            "mixed",
+            "unknown"
+          ]
+        },
+        "uncertainty_preserved": {
+          "type": "boolean"
+        },
+        "editorial_marks_preserved": {
+          "type": "boolean"
+        },
+        "analysis_eligible": {
+          "type": "boolean"
+        }
+      }
+    },
+    "review": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "independent_epigraphic_review"
+      ],
+      "properties": {
+        "independent_epigraphic_review": {
+          "type": "boolean"
+        }
+      }
+    }
+  }
+}
