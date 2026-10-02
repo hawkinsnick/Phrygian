@@ -7,6 +7,14 @@
       "role": "digital_source_target",
       "rights_status": "verify_before_redistribution",
       "notes": "Old- and Neo-Phrygian digital corpus preserving editorial conventions; source-derived material must retain upstream terms."
+    },
+    {
+      "source_id": "ud-phrygian-kul",
+      "name": "Universal Dependencies Phrygian-KUL",
+      "url": "https://github.com/UniversalDependencies/UD_Phrygian-KUL",
+      "role": "machine_readable_reference",
+      "rights_status": "CC-BY-SA-4.0",
+      "notes": "Separately attributed machine-readable reference with stable inscription identifiers; not treated as independent epigraphic confirmation."
     }
   ]
 }

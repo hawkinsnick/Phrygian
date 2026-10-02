@@ -16,6 +16,21 @@
       "role": "interoperability",
       "path": "schemas/interoperability-contract.json",
       "required": true
+    },
+    {
+      "role": "current_status",
+      "path": "analysis/current-status.json",
+      "required": true
+    },
+    {
+      "role": "sources",
+      "path": "data/sources.json",
+      "required": true
+    },
+    {
+      "role": "ud_import",
+      "path": "imports/ud-phrygian-kul.json",
+      "required": true
     }
   ],
   "behavioral_gates": [
@@ -23,6 +38,7 @@
     "Old and Neo-Phrygian remain explicit period partitions",
     "Digital source entries and alternate editions are not automatically independent physical witnesses",
     "Normalized or Greek-script renderings never overwrite source readings",
-    "TITUS and underlying edition rights remain controlling"
+    "TITUS and underlying edition rights remain controlling",
+    "Machine-readable linguistic annotations remain attributed source assertions and are not independent epigraphic confirmation."
   ]
 }
