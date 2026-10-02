@@ -1,9 +1,8 @@
 {
   "schema_version": "1.0",
-  "repository_version": "0.2.0-dev",
-  "checked": "2026-10-01",
+  "repository_version": "0.2.0",
+  "checked": "2026-10-02",
   "milestone": "SOURCE_ACQUISITION_AND_ALIGNMENT",
-  "committed_record_count": 203,
   "blocked_claims": [
     "exhaustive_world_corpus",
     "independently_verified_critical_edition",
@@ -19,5 +18,8 @@
     "distinct_trismegistos_ids": 162,
     "license": "CC-BY-SA-4.0",
     "project_epigraphic_review": false
-  }
+  },
+  "canonical_epigraphic_record_count": 0,
+  "committed_reference_record_count": 203,
+  "layer_boundary": "imports/ud-phrygian-kul.json is a source-attributed reference layer; data/records.json is the canonical epigraphic layer and remains empty pending source-level reconciliation."
 }
