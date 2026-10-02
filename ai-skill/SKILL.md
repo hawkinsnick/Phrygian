@@ -1,7 +1,7 @@
 ---
 name: phrygian-research
 description: Evidence-first AI research skill for the Phrygian corpus.
-version: 0.1.0
+version: 0.3.1
 ---
 
 # Phrygian Research Skill
@@ -26,3 +26,10 @@ Give the direct answer, followed as relevant by Evidence; Evidentiary status; Un
 
 ## Synchronization
 Read `ai-skill/generated/source-state.json` before substantive work. It records the corpus commit from which the AI-facing package was synchronized. Generated files are rebuildable views; canonical corpus files govern if a discrepancy is found.
+
+## Academic-scrutiny gates
+- The current repository is a scaffold/source-policy baseline, not an exhaustive corpus
+- Old and Neo-Phrygian remain explicit period partitions
+- Digital source entries and alternate editions are not automatically independent physical witnesses
+- Normalized or Greek-script renderings never overwrite source readings
+- TITUS and underlying edition rights remain controlling
