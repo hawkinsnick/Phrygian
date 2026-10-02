@@ -29,6 +29,13 @@
         "independent_replication_between_digital_sources",
         "corpus_complete_frequency"
       ]
+    },
+    {
+      "gate": "tm_identity_reconciliation",
+      "status": "PASS_REFERENCE_LAYER",
+      "distinct_tm_ids": 162,
+      "source_sentences": 203,
+      "canonical_admissions": 0
     }
   ],
   "remaining_nonexpert_work": [
@@ -36,19 +43,24 @@
       "id": "PHR-PRE-001",
       "scope": "162 TM-linked inscription identities",
       "action": "Build inscription-level reconciliation ledger linking digital IDs, period labels, provenance and authoritative edition locators where accessible.",
-      "blocked_by": "catalogue_and_edition_access"
+      "blocked_by": "catalogue_and_edition_access",
+      "status": "PARTIAL_MACHINE_RECONCILIATION_COMPLETE",
+      "evidence": "research/tm-reconciliation-ledger.json enumerates all 162 TM-linked identities and maps all 203 source sentences; authoritative edition/object/period/provenance fields remain deliberately null pending source-level evidence."
     },
     {
       "id": "PHR-PRE-002",
       "scope": "203 UD sentences",
       "action": "Map sentence records to inscription identities and source lineage without upgrading readings to independent verification.",
-      "blocked_by": "source_reconciliation"
+      "blocked_by": "source_reconciliation",
+      "status": "COMPLETE_AT_REFERENCE_IDENTITY_LAYER",
+      "evidence": "All 203 UD sentence records are grouped under their 162 TM identity anchors without canonical promotion."
     },
     {
       "id": "PHR-PRE-003",
       "scope": "digital witnesses",
       "action": "Document derivation/dependence between UD, TITUS and cited editions wherever bibliographically determinable.",
-      "blocked_by": "source_lineage_access"
+      "blocked_by": "source_lineage_access",
+      "status": "OPEN"
     }
   ],
   "human_only_boundary": [
