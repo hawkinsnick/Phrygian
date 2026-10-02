@@ -1,0 +1,63 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Corpus Factory manifest 0.1",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "name",
+    "slug",
+    "language_or_script",
+    "record_profile",
+    "source_policy",
+    "interoperability"
+  ],
+  "properties": {
+    "name": {
+      "type": "string"
+    },
+    "slug": {
+      "type": "string",
+      "pattern": "^[A-Za-z0-9._-]+$"
+    },
+    "language_or_script": {
+      "type": "string"
+    },
+    "record_profile": {
+      "type": "string"
+    },
+    "source_policy": {
+      "type": "object",
+      "required": [
+        "attribution_required",
+        "rights_review_required",
+        "redistribute_only_if_permitted"
+      ],
+      "properties": {
+        "attribution_required": {
+          "const": true
+        },
+        "rights_review_required": {
+          "const": true
+        },
+        "redistribute_only_if_permitted": {
+          "const": true
+        }
+      }
+    },
+    "interoperability": {
+      "type": "object",
+      "required": [
+        "contract",
+        "version"
+      ],
+      "properties": {
+        "contract": {
+          "const": "hawkinsnick-epigraphic-corpus-interoperability"
+        },
+        "version": {
+          "const": "1.1.0"
+        }
+      }
+    }
+  }
+}
