@@ -1,0 +1,2536 @@
+# sent_id = TM756906-1
+# text = ates arkiaevais akenanogavos midai lavagtaei vanaktei edaes
+1	ates	ates	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	Ref=TM756906-1-1
+2	arkiaevais	arkiaevais	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	Ref=TM756906-1-2
+3	akenanogavos	akenanogavos	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	Ref=TM756906-1-3
+4	midai	midas	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	7	iobj	_	Ref=TM756906-1-4
+5	lavagtaei	lavagtaei	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	4	appos	_	Ref=TM756906-1-5
+6	vanaktei	vanaktei	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	4	appos	_	Ref=TM756906-1-6
+7	edaes	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=TM756906-1-7
+
+# sent_id = TM756907-1
+# text = baba memevais proitavos kφiyanaveyos sikeneman edaes
+1	baba	baba	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	Ref=TM756907-1-1
+2	memevais	memevais	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	Ref=TM756907-1-2
+3	proitavos	proitavos	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	Ref=TM756907-1-3
+4	kφiyanaveyos	k𐋇ianaveyos	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	Ref=TM756907-1-4
+5	si	σεμουν	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	6	det	_	Ref=TM756907-1-5|SpaceAfter=No
+6	keneman	keneman	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	7	obj	_	Ref=TM756907-1-6
+7	edaes	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=TM756907-1-7
+
+# sent_id = TM756908-1
+# text = matẹṛ[--] atatas ṃ?onokaua
+1	matẹṛ[--]	matar	NOUN	_	Gender=Fem	0	root	_	Ref=TM756908-1-1
+2	atatas	atatas	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	1	dep	_	Ref=TM756908-1-2
+3	ṃ?onokaua	ṃ?onokaua	X	_	_	1	dep	_	Ref=TM756908-1-3
+
+# sent_id = TM756909-1
+# text = midas smateran tvemes eneparkes?
+1	midas	midas	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	Ref=TM756909-1-1
+2	s	σεμουν	PRON	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	3	det	_	Ref=TM756909-1-2|SpaceAfter=No
+3	materan	matar	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	5	obj	_	Ref=TM756909-1-3
+4	tvemes	tvemes	X	_	_	5	dep	_	Ref=TM756909-1-4
+5	eneparkes?	eneparkes	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=TM756909-1-5
+
+# sent_id = TM756909-2
+# text = matera[n?] avie[---]
+1	matera[n?]	matar	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	0	root	_	Ref=TM756909-2-1
+2	avie[---]	avie[---]	X	_	_	1	dep	_	Ref=TM756909-2-2
+
+# sent_id = TM1001273-1
+# text = [---] materey [---]
+1	[---]	[---]	SYM	_	_	0	root	_	Ref=TM1001273-1-1
+2	materey	matar	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	1	dep	_	Ref=TM1001273-1-2
+3	[---]	[---]	SYM	_	_	1	dep	_	Ref=TM1001273-1-3
+
+# sent_id = TM756910-1
+# text = [---]as tuav?eniy ae esuryoyoy totin ẹḍaẹ[s]
+1	[---]as	[---]as	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	Ref=TM756910-1-1
+2	tuav?eniy	tuaveniy	X	_	_	6	dep	_	Ref=TM756910-1-2
+3	ae	ae	X	_	_	6	dep	_	Ref=TM756910-1-3
+4	esuryoyoy	esuryoyoy	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	6	iobj	_	Ref=TM756910-1-4
+5	totin	totin	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	6	obj	_	Ref=TM756910-1-5
+6	ẹḍaẹ[s]	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=TM756910-1-6
+
+# sent_id = TM756911-1
+# text = bba memevais proitavo[s] k𐋇ianaveyos akaragayun edaes
+1	bba	baba	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	Ref=TM756911-1-1
+2	memevais	memevais	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	Ref=TM756911-1-2
+3	proitavo[s]	proitavos	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	Ref=TM756911-1-3
+4	k𐋇ianaveyos	k𐋇ianaveyos	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	Ref=TM756911-1-4
+5	akaragayun	akaragayun	NOUN	_	Case=Acc|Number=Sing	6	obj	_	Ref=TM756911-1-5
+6	edaes	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=TM756911-1-6
+
+# sent_id = TM756912-1
+# text = [---]abas iṃaṇ akio[---]
+1	[---]abas	[---]abas	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Ref=TM756912-1-1
+2	iṃaṇ	iman	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	1	dep	_	Ref=TM756912-1-2
+3	akio[---]	akio[---]	X	_	_	1	dep	_	Ref=TM756912-1-3
+
+# sent_id = TM756913-1
+# text = ạkinanogavaṇ tiyes moḍroṿanak [.?]avarạ[.?]
+1	ạkinanogavaṇ	akenanogavos	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	0	root	_	Ref=TM756913-1-1
+2	tiyes	tiyes	PROPN	_	Case=Nom|Number=Sing	1	dep	_	Ref=TM756913-1-2
+3	moḍroṿanak	modrovanak	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	dep	_	Ref=TM756913-1-3
+4	[.?]avarạ[.?]	[.?]avarạ[.?]	X	_	_	1	dep	_	Ref=TM756913-1-4
+
+# sent_id = TM756914-1
+# text = apelan mekas tevanọ[---]
+1	apelan	apelan	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Ref=TM756914-1-1
+2	mekas	mekas	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	1	dep	_	Ref=TM756914-1-2
+3	tevanọ[---]	tevanọ[---]	X	_	_	1	dep	_	Ref=TM756914-1-3
+
+# sent_id = TM756915-1
+# text = [.?]ṛekun deiatiteeạ.? davoi iman
+1	[.?]ṛekun	vrekun	NOUN	_	Case=Acc|Number=Sing	0	root	_	Ref=TM756915-1-1
+2	deiatiteeạ.?	deiatiteeạ.?	X	_	_	1	dep	_	Ref=TM756915-1-2
+3	davoi	davoi	PROPN	_	Case=Dat|Number=Sing	1	iobj	_	Ref=TM756915-1-3
+4	iman	iman	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	1	nsubj	_	Ref=TM756915-1-4
+
+# sent_id = TM756916-1
+# text = tolos
+1	tolos	tolos	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Ref=TM756916-1-1
+
+# sent_id = TM756917-1
+# text = [---]ṣạbas
+1	[---]ṣạbas	[---]ṣạbas	X	_	_	0	root	_	Ref=TM756917-1-1
+
+# sent_id = TM756918-1
+# text = [---] ạkeṇ?ano[---]
+1	[---]	[---]	SYM	_	_	0	root	_	Ref=TM756918-1-1
+2	ạkeṇ?ano[---]	akenanogavos	NOUN	_	_	1	dep	_	Ref=TM756918-1-2
+
+# sent_id = TM756919-1
+# text = [---]gen [---]
+1	[---]gen	[---]gen	X	_	_	0	root	_	Ref=TM756919-1-1
+2	[---]	[---]	SYM	_	_	1	dep	_	Ref=TM756919-1-2
+
+# sent_id = TM756919-2
+# text = [---]ṭen [---]
+1	[---]ṭen	[---]ṭen	X	_	_	0	root	_	Ref=TM756919-2-1
+2	[---]	[---]	SYM	_	_	1	dep	_	Ref=TM756919-2-2
+
+# sent_id = TM984504-1
+# text = ṣarag̣iṣ
+1	ṣarag̣iṣ	saragis	PROPN	_	Case=Nom|Number=Sing	0	root	_	Ref=TM984504-1-1
+
+# sent_id = TM757149a-1
+# text = pseṛkeyoy atas
+1	pseṛkeyoy	pserkeyoy	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	Ref=TM757149a-1-2
+2	atas	ata	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Ref=TM757149a-1-2
+
+# sent_id = TM757149b-1
+# text = pseụkeyoy atas
+1	pseụkeyoy	pserkeyoy	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	Ref=TM757149b-1-2
+2	atas	ata	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Ref=TM757149b-1-2
+
+# sent_id = TM757150-1
+# text = surgastoy inas
+1	surgastoy	surgastoy	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	Ref=TM757150-1-1
+2	inas	inas	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Ref=TM757150-1-2
+
+# sent_id = TM757271-1
+# text = maneion en
+1	maneion	maneion	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	Ref=TM757271-1-1
+2	en	ituv	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	Ref=TM757271-1-2
+
+# sent_id = TM1002266-1
+# text = midas
+1	midas	midas	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Ref=TM1002266-1-1
+
+# sent_id = TM1002267-1
+# text = pakpuvas
+1	pakpuvas	pakpuvas	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Ref=TM1002267-1-1
+
+# sent_id = TM984513-1
+# text = atatas
+1	atatas	atatas	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Ref=TM984513-1-1
+
+# sent_id = TM984512-1
+# text = [-?-]
+1	[-?-]	[---]	SYM	_	_	0	root	_	Ref=TM984512-1-1
+
+# sent_id = TM984512-2
+# text = tanarị[---] [---]ḷiake edaie
+1	tanarị[---]	tanarị[---]	X	_	_	3	dep	_	Ref=TM984512-2-1
+2	[---]ḷiake	[---]ḷiake	X	_	_	3	dep	_	Ref=TM984512-2-2
+3	edaie	edaie	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	Ref=TM984512-2-3
+
+# sent_id = TM984512-3
+# text = [-?-]
+1	[-?-]	[---]	SYM	_	_	0	root	_	Ref=TM984512-3-1
+
+# sent_id = TM757257-1
+# text = per?bastidages
+1	per?bastidages	bastidages	PROPN	_	Case=Nom|Number=Sing	0	root	_	Ref=TM757257-1-1
+
+# sent_id = TM757258-1
+# text = midas aiasay mạ..uṇ
+1	midas	midas	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Ref=TM757258-1-1
+2	aiasay	aiasay	PROPN	_	Case=Dat|Number=Sing	1	iobj	_	Ref=TM757258-1-2
+3	mạ..uṇ	mạ..uṇ	NOUN	_	Case=Acc|Number=Sing	1	obj	_	Ref=TM757258-1-3
+
+# sent_id = TM757259-1
+# text = ates
+1	ates	ates	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Ref=TM757259-1-1
+
+# sent_id = TM757260-1
+# text = ates
+1	ates	ates	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Ref=TM757260-1-1
+
+# sent_id = TM757261-1
+# text = ates
+1	ates	ates	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Ref=TM757261-1-1
+
+# sent_id = TM757262-1
+# text = ates
+1	ates	ates	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Ref=TM757262-1-1
+
+# sent_id = TM757263-1
+# text = ates
+1	ates	ates	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Ref=TM757263-1-1
+
+# sent_id = TM757264-1
+# text = ates
+1	ates	ates	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Ref=TM757264-1-1
+
+# sent_id = TM757265-1
+# text = a𐋇ses
+1	a𐋇ses	a𐋇ses	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Ref=TM757265-1-1
+
+# sent_id = TM757266-1
+# text = si𐋇idos
+1	si𐋇idos	si𐋇idos	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Ref=TM757266-1-1
+
+# sent_id = TM757267-1
+# text = ata
+1	ata	ata	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Ref=TM757267-1-1
+
+# sent_id = TM757268-1
+# text = dide
+1	dide	dide	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Ref=TM757268-1-1
+
+# sent_id = TM757269-1
+# text = idi
+1	idi	idi	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Ref=TM757269-1-1
+
+# sent_id = TM757270-1
+# text = 30? ...ẹkẹs
+1	30?	30	NUM	_	_	2	amod	_	Ref=TM757270-1-1
+2	...ẹkẹs	[---]ekes	NOUN	_	Case=Nom|Number=Plur	0	root	_	Ref=TM757270-1-2
+
+# sent_id = TM757270-2
+# text = 30? i?..
+1	30?	30	NUM	_	_	2	amod	_	Ref=TM757270-2-1
+2	i?..	i[---]	NOUN	_	_	0	root	_	Ref=TM757270-2-2
+
+# sent_id = TM757270-3
+# text = 30? ṿ?ṛ?ekeṣ .
+1	30?	30	NUM	_	_	2	amod	_	Ref=TM757270-3-1
+2	ṿ?ṛ?ekeṣ	vrekun	NOUN	_	Case=Nom|Number=Plur	0	root	_	Ref=TM757270-3-2
+3	.	[---]	SYM	_	_	2	dep	_	Ref=TM757270-3-3
+
+# sent_id = TM757270-4
+# text = 30? knays
+1	30?	30	NUM	_	_	2	amod	_	Ref=TM757270-4-1
+2	knays	knais	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	0	root	_	Ref=TM757270-4-2
+
+# sent_id = TM757270-5
+# text = 30? ṣ?i?ṿ?ṛ?i
+1	30?	30	NUM	_	_	2	amod	_	Ref=TM757270-5-1
+2	ṣ?i?ṿ?ṛ?i	i?ṿ?ṛ?i	NOUN	_	_	0	root	_	Ref=TM757270-5-2
+
+# sent_id = TM757270-6
+# text = 40? knạỵḳẹ?[s]? .?
+1	40?	40	NUM	_	_	2	amod	_	Ref=TM757270-6-1
+2	knạỵḳẹ?[s]?	knais	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	0	root	_	Ref=TM757270-6-2
+3	.?	[---]	SYM	_	_	2	dep	_	Ref=TM757270-6-3
+
+# sent_id = TM757270-7
+# text = 40? m?akeṛes
+1	40?	40	NUM	_	_	2	amod	_	Ref=TM757270-7-1
+2	m?akeṛes	m?akeṛes	NOUN	_	Case=Nom|Number=Plur	0	root	_	Ref=TM757270-7-2
+
+# sent_id = TM757270-8
+# text = 40? [---]
+1	40?	40	NUM	_	_	2	amod	_	Ref=TM757270-8-1
+2	[---]	[---]	SYM	_	_	0	root	_	Ref=TM757270-8-2
+
+# sent_id = TM757270-9
+# text = [-?-]
+1	[-?-]	[---]	SYM	_	_	0	root	_	Ref=TM757270-9-1
+
+# sent_id = TM757270-10
+# text = .. ạṇamakạ
+1	..	[---]	SYM	_	_	2	dep	_	Ref=TM757270-10-1
+2	ạṇamakạ	ạṇamakạ	NOUN	_	Case=Nom|Number=Sing	0	root	_	Ref=TM757270-10-2
+
+# sent_id = TM984511-1
+# text = [---]ripos
+1	[---]ripos	[---]ripos	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Ref=TM984511-1-1
+
+# sent_id = TM984510-1
+# text = _
+1	_	_	SYM	_	_	0	root	_	Ref=TM984510-1-1
+
+# sent_id = TM757243-1
+# text = μανκα μεκας σας κιυιν εν κε βιλαταδεναν νεκοινουν :
+1	μανκα	μανκα	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	8	nsubj	_	Ref=TM757243-1-1
+2	μεκας	mekas	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	1	amod	_	Ref=TM757243-1-2
+3	σας	σεμουν	DET	_	Case=Nom|Gender=Masc|PronType=Dem	1	det	_	Ref=TM757243-1-3
+4	κιυιν	κισυις	PRON	_	Gender=Neut|Number=Sing|PronType=Ind	7	det	_	Ref=TM757243-1-4
+5	εν	εν	ADP	_	_	7	case	_	Ref=TM757243-1-5
+6	κε	ke	CCONJ	_	_	5	cc	_	Ref=TM757243-1-6
+7	βιλαταδεναν	βιλαταδεναν	NOUN	_	Case=Acc|Number=Sing	8	obj	_	Ref=TM757243-1-7
+8	νεκοινουν	νεκοινουν	VERB	_	Number=Plur|Person=3	0	root	_	Ref=TM757243-1-8
+9	:	:	PUNCT	_	_	8	punct	_	Ref=TM757243-1-9
+
+# sent_id = TM757243-2
+# text = ποκραιου κη γλουρεος γαμενο̣υ̣ν̣ σ̣α̣ σοροι ματι μακραν :
+1	ποκραιου	ποκραιου	X	_	Case=Gen|Number=Sing	3	amod	_	Ref=TM757243-2-1
+2	κη	ke	CCONJ	_	_	1	cc	_	Ref=TM757243-2-2
+3	γλουρεος	γλουρεος	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Ref=TM757243-2-3
+4	γαμενο̣υ̣ν̣	γαμενο̣υ̣ν̣	VERB	_	Number=Sing|VerbForm=Part|Voice=Mid	3	dep	_	Ref=TM757243-2-4
+5	σ̣α̣	σεμουν	DET	_	Case=Dat|Gender=Fem|Number=Sing|PronType=Dem	6	det	_	Ref=TM757243-2-5
+6	σοροι	σοροι	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	3	dep	_	Ref=TM757243-2-6
+7	ματι	ματι	NOUN	_	Case=Acc|Number=Sing	3	dep	_	Ref=TM757243-2-7
+8	μακραν	μακραν	ADJ	_	Case=Acc|Number=Sing	7	amod	_	Ref=TM757243-2-8
+9	:	:	PUNCT	_	_	3	punct	_	Ref=TM757243-2-9
+
+# sent_id = TM757243-3
+# text = βλασκον κε τακρις κε λο̣υ̣ν̣ι̣ο̣υ̣ μροτις λαπτα ματι αοινουν :
+1	βλασκον	βλασκον	X	_	_	9	dep	_	Ref=TM757243-3-1
+2	κε	ke	CCONJ	_	_	1	cc	_	Ref=TM757243-3-2
+3	τακρις	τακρις	NOUN	_	Case=Nom|Number=Sing	9	nsubj	_	Ref=TM757243-3-3
+4	κε	ke	CCONJ	_	_	3	cc	_	Ref=TM757243-3-4
+5	λο̣υ̣ν̣ι̣ο̣υ̣	λο̣υ̣ν̣ι̣ο̣υ̣	NOUN	_	Case=Gen|Number=Sing	9	dep	_	Ref=TM757243-3-5
+6	μροτις	μροτις	NOUN	_	Case=Nom|Number=Sing	3	appos	_	Ref=TM757243-3-6
+7	λαπτα	λαπτα	ADJ	_	Case=Nom|Number=Sing	6	amod	_	Ref=TM757243-3-7
+8	ματι	ματι	NOUN	_	Number=Sing	9	dep	_	Ref=TM757243-3-8
+9	αοινουν	αοινουν	VERB	_	Number=Sing|Person=3	0	root	_	Ref=TM757243-3-9
+10	:	:	PUNCT	_	_	9	punct	_	Ref=TM757243-3-10
+
+# sent_id = TM757243-4
+# text = νικοστρατο̣ς̣ κ̣λ̣ευμαχοι μιρος αιδομενου ματιν κισυις :̣
+1	νικοστρατο̣ς̣	νικοστρατο̣ς̣	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Ref=TM757243-4-1
+2	κ̣λ̣ευμαχοι	κ̣λ̣ευμαχοι	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	1	iobj	_	Ref=TM757243-4-2
+3	μιρος	meros	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	1	obj	_	Ref=TM757243-4-3
+4	αιδομενου	αιδομενου	VERB	_	Number=Sing|VerbForm=Part|Voice=Mid	1	dep	_	Ref=TM757243-4-4
+5	ματιν	ματι	NOUN	_	Case=Acc|Number=Sing	1	dep	_	Ref=TM757243-4-5
+6	κισυις	κισυις	PRON	_	Case=Nom|Number=Sing|PronType=Ind	1	dep	_	Ref=TM757243-4-6
+7	:̣	:	PUNCT	_	_	1	punct	_	Ref=TM757243-4-7
+
+# sent_id = TM757243-5
+# text = μ̣ο̣.κρος υιταν παρτιας πλαδε πορ κοροος̣ ..ρ̣ο̣ς̣ παντης :
+1	μ̣ο̣.κρος	μ̣ο̣.κρος	NOUN	_	Case=Nom|Number=Sing	2	dep	_	Ref=TM757243-5-1
+2	υιταν	υιταν	VERB	_	Mood=Opt|Number=Plur|Person=3|Voice=Act	0	root	_	Ref=TM757243-5-2
+3	παρτιας	παρτιας	X	_	_	2	dep	_	Ref=TM757243-5-3
+4	πλαδε	πλαδε	ADV	_	_	2	advmod	_	Ref=TM757243-5-4
+5	πορ	πορ	ADP	_	_	6	case	_	Ref=TM757243-5-5
+6	κοροος̣	κοροαν	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	2	obl	_	Ref=TM757243-5-6
+7	..ρ̣ο̣ς̣	..ρ̣ο̣ς̣	NOUN	_	_	2	dep	_	Ref=TM757243-5-7
+8	παντης	panta	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	2	nsubj	_	Ref=TM757243-5-8
+9	:	:	PUNCT	_	_	2	punct	_	Ref=TM757243-5-9
+
+# sent_id = TM757243-6
+# text = πεννιτι ιος κοροαν δετου̣ν̣ σ̣ο̣υ̣ν ομαστα ομνισιτους
+1	πεννιτι	πεννιτι	VERB	_	Number=Sing|Person=3	0	root	_	Ref=TM757243-6-1
+2	ιος	ios	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	7	nsubj	_	Ref=TM757243-6-2
+3	κοροαν	κοροαν	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	7	obj	_	Ref=TM757243-6-3
+4	δετου̣ν̣	δετουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	3	conj	_	Ref=TM757243-6-4
+5	σ̣ο̣υ̣ν	σεμουν	DET	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	Ref=TM757243-6-5
+6	ομαστα	ομαστα	ADJ	_	Case=Acc|Gender=Neut|Number=Plur	7	obl	_	Ref=TM757243-6-6
+7	ομνισιτου	umniṣet	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	csubj	_	Ref=TM757243-6-7|SpaceAfter=No
+8	ς	σεμουν	ADV	_	_	7	advmod	_	Ref=TM757243-6-8
+
+# sent_id = TM1001271-1
+# text = [...] antiyokoy ∙ Silẹṿkoỵ-kẹỵ
+1	[...]	[...]	SYM	_	_	0	root	_	Ref=TM1001271-1-2
+2	antiyokoy	antiyokoy	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	1	obl	_	Ref=TM1001271-1-2
+3	∙	∙	PUNCT	_	_	1	punct	_	Ref=TM1001271-1-3
+4-5	Silẹṿkoỵ-kẹỵ	_	_	_	_	_	_	_	_
+4	Silẹṿkoỵ	Silevkoy	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	1	obl	_	Ref=TM1001271-1-4
+5	kẹỵ	ke	CCONJ	_	_	4	cc	_	Ref=TM1001271-1-5
+
+# sent_id = TM1001271-2
+# text = [...]n manaṇ mlalin Sit-t [...]
+1	[...]n	[...]n	X	_	_	0	root	_	Ref=TM1001271-2-1
+2	manaṇ	manan	NOUN	Case=Acc|Number=Sing	_	1	dep	_	Ref=TM1001271-2-2
+3	mlalin	_	ADJ	Case=Acc|Number=Sing	_	2	amod	_	Ref=TM1001271-2-3
+4	Sit	_	DET	_	PronType=Dem	1	dep	_	Ref=TM1001271-2-4|SpaceAfter=No
+5	-t	t	ADV	_	_	4	advmod	_	Ref=TM1001271-2-5
+6	[...]	[...]	SYM	_	_	1	dep	_	Ref=TM1001271-2-6
+
+# sent_id = TM1001271-3
+# text = [...] ṃetebaẹs
+1	[...]	[...]	SYM	_	_	2	dep	_	Ref=TM1001271-3-1
+2	ṃetebaẹs	ṃetebaẹs	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=TM1001271-3-2
+
+# sent_id = TM1001271-4
+# text = eḳ ṃroteS-key [...]
+1	eḳ	eḳ	ADV	_	_	4	advmod	_	Ref=TM1001271-4-1
+2-3	ṃroteS-key	_	_	_	_	_	_	_	_
+2	ṃroteS	μροτις	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	Ref=TM1001271-4-2
+3	key	ke	CCONJ	_	_	2	cc	_	Ref=TM1001271-4-3
+4	[...]	[...]	SYM	_	_	0	root	_	Ref=TM1001271-4-3
+
+# sent_id = TM1001271-5
+# text = [...] parSaparnas˙
+1	[...]	[...]	SYM	_	_	0	root	_	Ref=TM1001271-5-1
+2	parSaparnas	parSaparnas	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	Ref=TM1001271-5-2|SpaceAfter=No
+3	˙	∙	PUNCT	_	_	1	punct	_	Ref=TM1001271-5-3
+
+# sent_id = TM1001271-6
+# text = eS-k ṃrey veiṢ-t perkạmạṇeiṣ [...]
+1-2	eS-k	_	_	_	_	_	_	_	_
+1	eS	ešt	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	3	det	_	Ref=TM1001271-6-1
+2	k	ke	CCONJ	_	_	1	flat	_	Ref=TM1001271-6-2
+3	ṃrey	_	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	7	obj	_	Ref=TM1001271-6-3
+4	veiṢ	va	DET	_	Case=Dat|Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	6	det	_	Ref=TM1001271-6-4|SpaceAfter=No
+5	-t	t	ADV	_	_	4	advmod	_	Ref=TM1001271-6-5
+6	perkạmạṇeiṣ	perkamaneis	PROPN	_	Case=Dat|Gender=Masc|Number=Plur	7	obl	_	Ref=TM1001271-6-6
+7	[...]	[...]	SYM	_	_	0	root	_	Ref=TM1001271-6-7
+
+# sent_id = TM1001271-7
+# text = [... i]ḅey gordiyoy puprayọỵ veban [...]
+1	[...	[...]	SYM	_	_	0	root	_	Ref=TM1001271-7-1
+2	i]ḅey	ibey	ADV	_	_	4	advmod	_	Ref=TM1001271-7-2
+3	gordiyoy	gordiyoy	PROPN	_	Case=Dat|Gender=Neut|Number=Sing	4	amod	_	Ref=TM1001271-7-3
+4	puprayọỵ	puprayoy	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	1	amod	_	Ref=TM1001271-7-4
+5	veban	veban	NOUN	_	Case=Acc|Number=Sing	1	obj	_	Ref=TM1001271-7-5
+6	[...]	[...]	SYM	_	_	1	dep	_	Ref=TM1001271-7-6
+
+# sent_id = TM1001271-8
+# text = [...]ṇin-key oḷvomun ∙
+1-2	[...]ṇin-key	_	_	_	_	_	_	_	_
+1	[...]ṇin	[...]nin	NOUN	_	Case=Acc|Number=Sing	0	root	_	Ref=TM1001271-8-1
+2	key	ke	CCONJ	_	_	1	cc	_	Ref=TM1001271-8-2
+3	oḷvomun	olvomun	NOUN	_	Case=Acc|Number=Sing	1	dep	_	Ref=TM1001271-8-3
+4	∙	∙	SYM	_	_	1	dep	_	Ref=TM1001271-8-4
+
+# sent_id = TM1001271-9
+# text = opoS-key iḅẹy [...]
+1-2	opoS-key	_	_	_	_	_	_	_	_
+1	opoS	opos	NOUN	_	Gender=Neut|Number=Plur	4	dep	_	Ref=TM1001271-9-1
+2	key	ke	CCONJ	_	_	1	cc	_	Ref=TM1001271-9-2
+3	iḅẹy	ibey	ADV	_	_	4	advmod	_	Ref=TM1001271-9-3
+4	[...]	[...]	SYM	_	_	0	root	_	Ref=TM1001271-9-4
+
+# sent_id = TM1001271-10
+# text = [...]ọy ạẹỵ-t maneis
+1	[...]ọy	[...]ọy	X	_	_	0	root	_	Ref=TM1001271-10-1
+2-3	ạẹỵ-t	_	_	_	_	_	_	_	_
+2	ạẹỵ	aey	ADP	_	ExtPos=ADP	4	case	_	Ref=TM1001271-10-2
+3	t	t	ADV	_	_	2	advmod	_	Ref=TM1001271-10-3
+4	maneis	manan	NOUN	_	Case=Acc|Number=Plur	1	obl	_	Ref=TM1001271-10-4
+
+# sent_id = TM867450-1
+# text = [].
+1	[]	[---]	SYM	_	_	0	root	_	SpaceAfter=No|Ref=TM867450-1-1
+2	.	.	PUNCT	_	_	1	punct	_	Ref=TM867450-1-2
+
+# sent_id = TM867450-2
+# text = ε[..]γ̣εντ̣ουμενος νιοισιος ναδροτος ειτου.
+1	ε[..]γ̣εντ̣ουμενος	ε[..]γ̣εντ̣ουμενος	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	0	root	_	Ref=TM867450-2-1
+2	νιοισιος	νιοισιος	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	1	conj	_	Ref=TM867450-2-2
+3	ναδροτος	ναδροτος	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	1	conj	_	Ref=TM867450-2-3
+4	ειτου	ituv	AUX	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	SpaceAfter=No|Ref=TM867450-2-4
+5	.	.	PUNCT	_	_	1	punct	_	Ref=TM867450-2-5
+
+# sent_id = TM867450-3
+# text = μιτραφατα κε μας τεμρογειος κε πουντας βας κε ενσταρνα̣.
+1	μιτραφατα	μιτραφατα	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	Ref=TM867450-3-1
+2	κε	ke	CCONJ	_	_	1	cc	_	Ref=TM867450-3-2
+3	μας	μας	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	1	conj	_	Ref=TM867450-3-3
+4	τεμρογειος	τεμρογειος	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	3	flat	_	Ref=TM867450-3-4
+5	κε	ke	CCONJ	_	_	3	cc	_	Ref=TM867450-3-5
+6	πουντας	πουντας	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	7	amod	_	Ref=TM867450-3-6
+7	βας	βας	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	1	conj	_	Ref=TM867450-3-7
+8	κε	ke	CCONJ	_	_	7	cc	_	Ref=TM867450-3-8
+9	ενσταρνα̣	ενσταρνα̣	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	SpaceAfter=No|Ref=TM867450-3-9
+10	.	.	PUNCT	_	_	9	punct	_	Ref=TM867450-3-10
+
+# sent_id = TM867450-4
+# text = δουμε κε οι ουεβαν αδδακετ ορουαν,
+1	δουμε	duman	NOUN	_	Case=Dat|Number=Sing	5	iobj	_	Ref=TM867450-4-1
+2	κε	ke	CCONJ	_	_	5	cc	_	Ref=TM867450-4-2
+3	οι	ιοι	DET	_	Case=Dat|Number=Sing|PronType=Dem	1	det	_	Ref=TM867450-4-3
+4	ουεβαν	veban	NOUN	_	Case=Acc|Number=Sing	5	obj	_	Ref=TM867450-4-4
+5	αδδακετ	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=TM867450-4-5
+6	ορουαν	ορουαν	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	SpaceAfter=No|Ref=TM867450-4-6
+7	,	,	PUNCT	_	_	5	punct	_	Ref=TM867450-4-7
+
+# sent_id = TM877307-3
+# text = δακαρεν πατερης ευκιν αργου.
+1	δακαρεν	αδδακετ	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=TM877307-3-1
+2	πατερης	πατερης	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	1	nsubj	_	Ref=TM877307-3-2
+3	ευκιν	ευκιν	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	1	obl	_	Ref=TM877307-3-3
+4	αργου	αργου	NOUN	_	Case=Gen|Number=Sing	3	case	_	SpaceAfter=No|Ref=TM877307-3-4
+5	.	.	PUNCT	_	_	1	punct	_	Ref=TM877307-3-5
+
+# sent_id = TM984523-1
+# text = ξευνη ταν ειξα υψοδαν προτυς σ[ε]σταμε̣ναν μανκαν αμι̣α̣σιαν ιοι αναρ δορυκα[νος ---]
+1	ξευνη	ξευνε	PROPN	_	Case=Dat|Gender=Fem|Number=Sing	12	iobj	_	Ref=TM984523-1-1
+2	ταν	τος	PRON	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	3	det	_	Ref=TM984523-1-2
+3	ειξα	ειξα	NOUN	_	Case=Acc|Number=Sing	12	dep	_	Ref=TM984523-1-3
+4	υψοδαν	υψοδαν	ADV	_	_	12	advmod	_	Ref=TM984523-1-4
+5	προτυς	προτυς	X	_	_	12	dep	_	Ref=TM984523-1-5
+6	σ[ε]σταμε̣ναν	estaes	VERB	_	Case=Acc|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Mid	7	amod	_	Ref=TM984523-1-6
+7	μανκαν	μανκα	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	12	obj	_	Ref=TM984523-1-7
+8	αμι̣α̣σιαν	αμι̣α̣σιαν	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	7	amod	_	Ref=TM984523-1-8
+9	ιοι	ιοι	PRON	_	Case=Dat|Gender=Fem|Number=Sing|Poss=Yes|PronType=Dem	10	det	_	Ref=TM984523-1-9
+10	αναρ	αναρ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	Ref=TM984523-1-10
+11	δορυκα[νος	δορυκα[νος]	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	10	appos	_	Ref=TM984523-1-11
+12	---]	[---]	SYM	_	_	0	root	_	Ref=TM984523-1-12
+
+# sent_id = TM984519-2
+# text = αινι ουεβαν δεδασσιννι πατρε̣ς σεμουν κορομανη σως κη γουμεις, καρπυς ειλικρινη εγουννου.
+1	αινι	aini	SCONJ	_	_	3	mark	_	Ref=TM984519-2-1
+2	ουεβαν	veban	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	3	obj	_	Ref=TM984519-2-2
+3	δεδασσιννι	αδδακετ	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	advcl	_	Ref=TM984519-2-3
+4	πατρε̣ς	πατρε̣ς	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	Ref=TM984519-2-4
+5	σεμουν	σεμουν	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	6	det	_	Ref=TM984519-2-5
+6	κορομανη	κορομανη	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	3	iobj	_	Ref=TM984519-2-6
+7	σως	σεμουν	DET	_	Case=Dat|Number=Plur|PronType=Dem	9	det	_	Ref=TM984519-2-7
+8	κη	ke	CCONJ	_	_	9	cc	_	Ref=TM984519-2-8
+9	γουμεις	γουμεις	NOUN	_	Case=Dat|Number=Plur	6	conj	_	SpaceAfter=No|Ref=TM984519-2-9
+10	,	,	PUNCT	_	_	13	punct	_	Ref=TM984519-2-10
+11	καρπυς	καρπυς	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	13	obl	_	Ref=TM984519-2-11
+12	ειλικρινη	ειλικρινη	ADJ	_	Case=Acc|Gender=Masc|Number=Plur	11	amod	_	Ref=TM984519-2-12
+13	εγουννου	egeseti	VERB	_	Mood=Imp|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Ref=TM984519-2-13
+14	.	.	PUNCT	_	_	13	punct	_	Ref=TM984519-2-14
+
+# sent_id = TM984519-3
+# text = αινι κος κακην αδδακετ κορομανη σως κη γουμεις, τιττετι[κ]μενος ειτου εικ αδ αυτον μεκαν τιαν.
+1	αινι	aini	SCONJ	_	_	4	mark	_	Ref=TM984519-3-1
+2	κος	kos	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	4	nsubj	_	Ref=TM984519-3-2
+3	κακην	kakey	ADV	_	_	4	advmod	_	Ref=TM984519-3-3
+4	αδδακετ	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	advcl	_	Ref=TM984519-3-4
+5	κορομανη	κορομανη	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	4	iobj	_	Ref=TM984519-3-5
+6	σως	σεμουν	DET	_	Case=Dat|Number=Plur|PronType=Dem	8	det	_	Ref=TM984519-3-6
+7	κη	ke	CCONJ	_	_	8	cc	_	Ref=TM984519-3-7
+8	γουμεις	γουμεις	NOUN	_	Case=Dat|Number=Plur	5	conj	_	SpaceAfter=No|Ref=TM984519-3-8
+9	,	,	PUNCT	_	_	10	punct	_	Ref=TM984519-3-9
+10	τιττετι[κ]μενος	τιττετικμενος	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	0	root	_	Ref=TM984519-3-10
+11	ειτου	ituv	AUX	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	cop	_	Ref=TM984519-3-11
+12	εικ	εικ	ADV	_	_	10	advmod	_	Ref=TM984519-3-12
+13	αδ	ad	ADP	_	_	16	case	_	Ref=TM984519-3-13
+14	αυτον	αυτος	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Emp	16	det	_	Ref=TM984519-3-14
+15	μεκαν	mekas	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	16	amod	_	Ref=TM984519-3-15
+16	τιαν	τιε	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	10	obl	_	SpaceAfter=No|Ref=TM984519-3-16
+17	.	.	PUNCT	_	_	10	punct	_	Ref=TM984519-3-17
+
+# sent_id = TM984519-8
+# text = Μ̣Η̣Π̣ΟΣ̣Α̣Ν̣Α̣ -- Ο̣… Ο̣Σ̣ ----- Α....Ε..Υ̣ ΑΣ̣..Α̣Ν̣ ---- Α -.Ο̣....Ο̣Υ̣
+1	Μ̣Η̣Π̣ΟΣ̣Α̣Ν̣Α̣	_	X	_	_	0	root	_	Ref=TM984519-8-1
+2	--	[---]	X	_	_	1	dep	_	Ref=TM984519-8-2
+3	Ο̣…	_	X	_	_	1	dep	_	Ref=TM984519-8-3
+4	Ο̣Σ̣	_	X	_	_	1	dep	_	Ref=TM984519-8-4
+5	-----	[---]	X	_	_	1	dep	_	Ref=TM984519-8-5
+6	Α....Ε..Υ̣	_	X	_	_	1	dep	_	Ref=TM984519-8-6
+7	ΑΣ̣..Α̣Ν̣	_	X	_	_	1	dep	_	Ref=TM984519-8-7
+8	----	[---]	X	_	_	1	dep	_	Ref=TM984519-8-8
+9	Α	_	X	_	_	1	dep	_	Ref=TM984519-8-9
+10	-.Ο̣....Ο̣Υ̣	_	X	_	_	1	dep	_	Ref=TM984519-8-10
+
+# sent_id = TM984524-3
+# text = ιος νι σεμον κνουμανε κακεν αδακετ αινι μανκα, με ζε⟨με⟩λως κε δεως κε τιε τιτετικμ[ενος ειτου].
+1	ιος	ios	PRON	_	Case=Nom|ExtPos=PRON|Gender=Masc|Number=Sing|PronType=Rel	6	nsubj	_	Ref=TM984524-3-1
+2	νι	ni	PART	_	_	1	fixed	_	Ref=TM984524-3-2
+3	σεμον	σεμουν	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	4	det	_	Ref=TM984524-3-3
+4	κνουμανε	κνουμανει	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	6	iobj	_	Ref=TM984524-3-4
+5	κακεν	kakey	ADV	_	_	6	advmod	_	Ref=TM984524-3-5
+6	αδακετ	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	16	csubj	_	Ref=TM984524-3-6
+7	αινι	aini	CCONJ	_	_	8	cc	_	Ref=TM984524-3-7
+8	μανκα	μανκα	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	4	conj	_	SpaceAfter=No|Ref=TM984524-3-8
+9	,	,	PUNCT	_	_	16	punct	_	Ref=TM984524-3-9
+10	με	με1	ADP	_	_	11	case	_	Ref=TM984524-3-10
+11	ζε⟨με⟩λως	ζεμελως	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	16	obl	_	Ref=TM984524-3-11
+12	κε	ke	CCONJ	_	_	11	cc	_	Ref=TM984524-3-12
+13	δεως	devos	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	11	conj	_	Ref=TM984524-3-13
+14	κε	ke	CCONJ	_	_	13	cc	_	Ref=TM984524-3-14
+15	τιε	τιε	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	16	obl	_	Ref=TM984524-3-15
+16	τιτετικμ[ενος	τιττετικμενος	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	0	root	_	Ref=TM984524-3-16
+17	ειτου]	ituv	AUX	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	16	cop	_	SpaceAfter=No|Ref=TM984524-3-16
+18	.	.	PUNCT	_	_	16	punct	_	Ref=TM984524-3-18
+
+# sent_id = TM984525-2
+# text = ιος σα μανκαι κακουν αδδακετ, τιε τιτ[τ]ετικμενος ειτου υ κε ακαλα οουιτετου ουα ❧
+1	ιος	ios	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	5	nsubj	_	Ref=TM984525-2-1
+2	σα	σεμουν	DET	_	Case=Dat|Gender=Fem|Number=Sing|PronType=Dem	3	det	_	Ref=TM984525-2-2
+3	μανκαι	μανκα	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	5	iobj	_	Ref=TM984525-2-3
+4	κακουν	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	5	obj	_	Ref=TM984525-2-4
+5	αδδακετ	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	csubj	_	SpaceAfter=No|Ref=TM984525-2-5
+6	,	,	PUNCT	_	_	8	punct	_	Ref=TM984525-2-6
+7	τιε	τιε	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	8	obl	_	Ref=TM984525-2-7
+8	τιτ[τ]ετικμενος	τιττετικμενος	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	0	root	_	Ref=TM984525-2-8
+9	ειτου	ituv	AUX	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	cop	_	Ref=TM984525-2-9
+10	υ	υ	PART	_	_	13	advmod	_	Ref=TM984525-2-10
+11	κε	ke	CCONJ	_	_	13	cc	_	Ref=TM984525-2-11
+12	ακαλα	ακκαλος	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	13	obj	_	Ref=TM984525-2-12
+13	οουιτετου	οουιτετου	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	conj	_	Ref=TM984525-2-13
+14	ουα	va	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	12	det	_	Ref=TM984525-2-14
+15	❧	❧	SYM	_	_	8	dep	_	Ref=TM984525-2-15
+
+# sent_id = TM931661-2
+# text = ιος σεμου κνουμανει κα[κον] ⟨αδδακ⟩ε⟨τ⟩, τιτετεικμενος ειτο[υ].
+1	ιος	ios	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	5	nsubj	_	Ref=TM931661-2-1
+2	σεμου	σεμουν	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	3	det	_	Ref=TM931661-2-2
+3	κνουμανει	κνουμανει	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	5	iobj	_	Ref=TM931661-2-3
+4	κα[κον]	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	5	obj	_	Ref=TM931661-2-4
+5	⟨αδδακ⟩ε⟨τ⟩	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	csubj	_	SpaceAfter=No|Ref=TM931661-2-5
+6	,	,	PUNCT	_	_	7	punct	_	Ref=TM931661-2-6
+7	τιτετεικμενος	τιττετικμενος	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	0	root	_	Ref=TM931661-2-7
+8	ειτο[υ]	ituv	AUX	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	_	SpaceAfter=No|Ref=TM931661-2-8
+9	.	.	PUNCT	_	_	7	punct	_	Ref=TM931661-2-9
+
+# sent_id = TM978063-2
+# text = ❧ ιος νι σεμουν κνουμανει κακε αδδακετ αωρω ουεναουιας, τιγγεγαριτμενος ιτου, πουρ ουανακταν κε ουρανιον ιστ?εικετ διουνσιν. ❧
+1	❧	❧	SYM	_	_	11	dep	_	Ref=TM978063-2-1
+2	ιος	ios	PRON	_	Case=Nom|ExtPos=PRON|Gender=Masc|Number=Sing|PronType=Rel	7	nsubj	_	Ref=TM978063-2-2
+3	νι	ni	PART	_	_	2	fixed	_	Ref=TM978063-2-3
+4	σεμουν	σεμουν	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	5	det	_	Ref=TM978063-2-4
+5	κνουμανει	κνουμανει	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	7	iobj	_	Ref=TM978063-2-5
+6	κακε	kakey	ADV	_	_	7	advmod	_	Ref=TM978063-2-6
+7	αδδακετ	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	csubj	_	Ref=TM978063-2-7
+8	αωρω	αωρω	ADJ	_	Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	Ref=TM978063-2-8
+9	ουεναουιας	ουεναουιας	PROPN	_	Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	SpaceAfter=No|Ref=TM978063-2-9
+10	,	,	PUNCT	_	_	11	punct	_	Ref=TM978063-2-10
+11	τιγγεγαριτμενος	γεγαριτμενος	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	0	root	_	Ref=TM978063-2-11
+12	ιτου	ituv	AUX	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	cop	_	SpaceAfter=No|Ref=TM978063-2-12
+13	,	,	PUNCT	_	_	11	punct	_	Ref=TM978063-2-13
+14	πουρ	por	ADP	_	_	19	case	_	Ref=TM978063-2-14
+15	ουανακταν	vanaktei	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	19	amod	_	Ref=TM978063-2-15
+16	κε	ke	CCONJ	_	_	18	cc	_	Ref=TM978063-2-16
+17	ουρανιον	ουρανιον	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	19	amod	_	Ref=TM978063-2-17
+18	ιστ?εικετ	ιστ?εικετ	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	conj	_	Ref=TM978063-2-18
+19	διουνσιν	διουνσιν	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	18	obl	_	SpaceAfter=No|Ref=TM978063-2-19
+20	.	.	PUNCT	_	_	11	punct	_	Ref=TM978063-2-20
+21	❧	❧	SYM	_	_	11	dep	_	Ref=TM978063-2-21
+
+# sent_id = TM984526-1
+# text = ιος νι σεμουν κνουμανει κακουν αββερετοι αινι ατεαμα, τος νι με σζεμελως κε τιε κε τιττετικμενος ειτου
+1	ιος	ios	PRON	_	Case=Nom|ExtPos=PRON|Gender=Masc|Number=Sing|PronType=Rel	6	nsubj	_	Ref=TM984526-1-1
+2	νι	ni	PART	_	_	1	fixed	_	Ref=TM984526-1-2
+3	σεμουν	σεμουν	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	4	det	_	Ref=TM984526-1-3
+4	κνουμανει	κνουμανει	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	6	iobj	_	Ref=TM984526-1-4
+5	κακουν	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	obj	_	Ref=TM984526-1-5
+6	αββερετοι	αββερετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	10	acl	_	Ref=TM984526-1-6
+7	αινι	aini	CCONJ	_	_	8	cc	_	Ref=TM984526-1-7
+8	ατεαμα	ατεαμα	NOUN	_	Case=Dat|Number=Sing	4	conj	_	SpaceAfter=No|Ref=TM984526-1-8
+9	,	,	PUNCT	_	_	6	punct	_	Ref=TM984526-1-9
+10	τος	τος	PRON	_	Case=Nom|ExtPos=PRON|Gender=Masc|Number=Sing|PronType=Dem	17	nsubj	_	Ref=TM984526-1-10
+11	νι	ni	PART	_	_	10	fixed	_	Ref=TM984526-1-11
+12	με	με1	ADP	_	_	13	case	_	Ref=TM984526-1-12
+13	σζεμελως	ζεμελως	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	17	obl	_	Ref=TM984526-1-13
+14	κε	ke	CCONJ	_	_	13	cc	_	Ref=TM984526-1-14
+15	τιε	τιε	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	13	conj	_	Ref=TM984526-1-15
+16	κε	ke	CCONJ	_	_	15	cc	_	Ref=TM984526-1-16
+17	τιττετικμενος	τιττετικμενος	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	0	root	_	Ref=TM984526-1-17
+18	ειτου	ituv	AUX	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	17	cop	_	Ref=TM984526-1-18
+
+# sent_id = TM867154-1
+# text = ιος νι σ̣εμον κνουμανει κα̣κε̣ αδακετ, τιτετικμενος ας ιαν ε̣ιτου, με κε οι τοτοσσειτι βας βεκος.
+1	ιος	ios	PRON	_	Case=Nom|ExtPos=PRON|Gender=Masc|Number=Sing|PronType=Rel	6	nsubj	_	Ref=TM867154-1-1
+2	νι	ni	PART	_	_	1	fixed	_	Ref=TM867154-1-2
+3	σ̣εμον	σεμουν	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	4	det	_	Ref=TM867154-1-3
+4	κνουμανει	κνουμανει	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	6	iobj	_	Ref=TM867154-1-4
+5	κα̣κε̣	kakey	ADV	_	_	6	advmod	_	Ref=TM867154-1-5
+6	αδακετ	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	csubj	_	SpaceAfter=No|Ref=TM867154-1-6
+7	,	,	PUNCT	_	_	8	punct	_	Ref=TM867154-1-7
+8	τιτετικμενος	τιττετικμενος	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	0	root	_	Ref=TM867154-1-8
+9	ας	as	ADP	_	_	10	case	_	Ref=TM867154-1-9
+10	ιαν	ios	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Ind	8	obl	_	Ref=TM867154-1-10
+11	ε̣ιτου	ituv	AUX	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	cop	_	SpaceAfter=No|Ref=TM867154-1-11
+12	,	,	PUNCT	_	_	8	punct	_	Ref=TM867154-1-12
+13	με	me2	PART	_	_	16	advmod	_	Ref=TM867154-1-13
+14	κε	ke	CCONJ	_	_	16	cc	_	Ref=TM867154-1-14
+15	οι	ιοι	PRON	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Dem	16	iobj	_	Ref=TM867154-1-15
+16	τοτοσσειτι	τοτοσσειτι	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	conj	_	Ref=TM867154-1-16
+17	βας	βας	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	16	nsubj	_	Ref=TM867154-1-17
+18	βεκος	βεκος	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	16	obj	_	SpaceAfter=No|Ref=TM867154-1-18
+19	.	.	PUNCT	_	_	8	punct	_	Ref=TM867154-1-19
+
+# sent_id = TM919096-2
+# text = [---] ιος αδακετ, βας ιοι β˹ε˺κος με βερετ [---]
+1	[---]	[---]	SYM	_	_	9	dep	_	Ref=TM919096-2-1
+2	ιος	ios	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	3	nsubj	_	Ref=TM919096-2-2
+3	αδακετ	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	acl	_	SpaceAfter=No|Ref=TM919096-2-3
+4	,	,	PUNCT	_	_	3	punct	_	Ref=TM919096-2-4
+5	βας	βας	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	Ref=TM919096-2-5
+6	ιοι	ιοι	PRON	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Dem	9	iobj	_	Ref=TM919096-2-6
+7	β˹ε˺κος	βεκος	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	9	obj	_	Ref=TM919096-2-7
+8	με	me2	PART	_	_	9	advmod	_	Ref=TM919096-2-8
+9	βερετ	αββερετ	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=TM919096-2-9
+10	[---]	[---]	SYM	_	_	9	dep	_	Ref=TM919096-2-10
+
+# sent_id = TM984527-2
+# text = ιος νι σεμουν κνουμανει κακιν αδακετ αιν’ αδ τεαμα̣ς, τιτετικμενος ασ τιαν [ειτο]υ.
+1	ιος	ios	PRON	_	Case=Nom|ExtPos=PRON|Gender=Masc|Number=Sing|PronType=Rel	6	nsubj	_	Ref=TM984527-2-1
+2	νι	ni	PART	_	_	1	fixed	_	Ref=TM984527-2-2
+3	σεμουν	σεμουν	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	4	det	_	Ref=TM984527-2-3
+4	κνουμανει	κνουμανει	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	6	iobj	_	Ref=TM984527-2-4
+5	κακιν	kakey	ADV	_	_	6	advmod	_	Ref=TM984527-2-5
+6	αδακετ	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	csubj	_	Ref=TM984527-2-6
+7	αιν’	aini	CCONJ	_	_	9	cc	_	Ref=TM984527-2-7
+8	αδ	ad	ADP	_	_	9	case	_	Ref=TM984527-2-8
+9	τεαμα̣ς	ατεαμα	NOUN	_	Case=Dat|Number=Plur	4	conj	_	SpaceAfter=No|Ref=TM984527-2-9
+10	,	,	PUNCT	_	_	11	punct	_	Ref=TM984527-2-10
+11	τιτετικμενος	τιττετικμενος	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	0	root	_	Ref=TM984527-2-11
+12	ασ	as	ADP	_	_	13	case	_	Ref=TM984527-2-12
+13	τιαν	τιε	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	11	obl	_	Ref=TM984527-2-13
+14	[ειτο]υ	ituv	AUX	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	cop	_	SpaceAfter=No|Ref=TM984527-2-14
+15	.	.	PUNCT	_	_	11	punct	_	Ref=TM984527-2-15
+
+# sent_id = TM984528-1
+# text = ιος νι σεμουν κ[νου]μανι κακουν αδδ[α]κετ αινι μανκης, βα[ς] ιοι βεκος με βερε[τ] α̣τ τιη κε τιττετικμ[ε]νος ειτου.
+1	ιος	ios	PRON	_	Case=Nom|ExtPos=PRON|Gender=Masc|Number=Sing|PronType=Rel	6	nsubj	_	Ref=TM984528-1-1
+2	νι	ni	PART	_	_	1	fixed	_	Ref=TM984528-1-2
+3	σεμουν	σεμουν	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	4	det	_	Ref=TM984528-1-3
+4	κ[νου]μανι	κνουμανει	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	6	iobj	_	Ref=TM984528-1-4
+5	κακουν	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	obj	_	Ref=TM984528-1-5
+6	αδδ[α]κετ	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	acl	_	Ref=TM984528-1-6
+7	αινι	aini	CCONJ	_	_	8	cc	_	Ref=TM984528-1-7
+8	μανκης	μανκα	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	4	conj	_	SpaceAfter=No|Ref=TM984528-1-8
+9	,	,	PUNCT	_	_	6	punct	_	Ref=TM984528-1-9
+10	βα[ς]	βας	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	Ref=TM984528-1-10
+11	ιοι	ιοι	PRON	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Dem	14	iobj	_	Ref=TM984528-1-11
+12	βεκος	βεκος	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	14	obj	_	Ref=TM984528-1-12
+13	με	me2	PART	_	_	14	advmod	_	Ref=TM984528-1-13
+14	βερε[τ]	αββερετ	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=TM984528-1-14
+15	α̣τ	ad	ADP	_	_	16	case	_	Ref=TM984528-1-15
+16	τιη	τιε	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	18	obl	_	Ref=TM984528-1-16
+17	κε	ke	CCONJ	_	_	18	cc	_	Ref=TM984528-1-17
+18	τιττετικμ[ε]νος	τιττετικμενος	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	14	conj	_	Ref=TM984528-1-18
+19	ειτου	ituv	AUX	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	18	cop	_	SpaceAfter=No|Ref=TM984528-1-19
+20	.	.	PUNCT	_	_	14	punct	_	Ref=TM984528-1-20
+
+# sent_id = TM984529-1
+# text = ιος νι σεμουν κνουμανει κακουν αδακετ αινι τιαμας, α τι αδειτου ο̣υελ̣ασκετου κε ισνου αστοι παρτης.
+1	ιος	ios	PRON	_	Case=Nom|ExtPos=PRON|Gender=Masc|Number=Sing|PronType=Rel	6	nsubj	_	Ref=TM984529-1-1
+2	νι	ni	PART	_	_	1	fixed	_	Ref=TM984529-1-2
+3	σεμουν	σεμουν	PRON	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	4	det	_	Ref=TM984529-1-3
+4	κνουμανει	κνουμανει	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	6	iobj	_	Ref=TM984529-1-4
+5	κακουν	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	obj	_	Ref=TM984529-1-5
+6	αδακετ	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	csubj	_	Ref=TM984529-1-6
+7	αινι	aini	CCONJ	_	_	8	cc	_	Ref=TM984529-1-7
+8	τιαμας	ατεαμα	NOUN	_	Case=Dat|Number=Plur	4	conj	_	SpaceAfter=No|Ref=TM984529-1-8
+9	,	,	PUNCT	_	_	12	punct	_	Ref=TM984529-1-9
+10	α	ad	ADP	_	_	11	case	_	Ref=TM984529-1-10
+11	τι	τιε	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	12	obl	_	Ref=TM984529-1-11
+12	αδειτου	ituv	AUX	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=TM984529-1-12
+13	ο̣υελ̣ασκετου	ουελασκετου	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	12	conj	_	Ref=TM984529-1-13
+14	κε	ke	CCONJ	_	_	13	cc	_	Ref=TM984529-1-14
+15	ισνου	isini	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	12	conj	_	Ref=TM984529-1-15
+16	αστοι	ασται	X	_	Case=Nom|Gender=Masc|Number=Plur	12	dep	_	Ref=TM984529-1-16
+17	παρτης	παρτης	X	_	Case=Nom|Gender=Masc|Number=Plur	12	dep	_	SpaceAfter=No|Ref=TM984529-1-17
+18	.	.	PUNCT	_	_	12	punct	_	Ref=TM984529-1-18
+
+# sent_id = TM919107-2
+# text = [ι]ος νι σεμον κνουμανε κακον αδακε̣τ̣ αινι ατεαμας, με δεως τιε τιττετικμενος ειτου.
+1	[ι]ος	ios	PRON	_	Case=Nom|ExtPos=PRON|Gender=Masc|Number=Sing|PronType=Rel	6	nsubj	_	Ref=TM919107-2-1
+2	νι	ni	PART	_	_	1	fixed	_	Ref=TM919107-2-2
+3	σεμον	σεμουν	PRON	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	4	det	_	Ref=TM919107-2-3
+4	κνουμανε	κνουμανει	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	6	iobj	_	Ref=TM919107-2-4
+5	κακον	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	obj	_	Ref=TM919107-2-5
+6	αδακε̣τ̣	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	csubj	_	Ref=TM919107-2-6
+7	αινι	aini	CCONJ	_	_	8	cc	_	Ref=TM919107-2-7
+8	ατεαμας	ατεαμα	NOUN	_	Case=Dat|Number=Plur	4	conj	_	SpaceAfter=No|Ref=TM919107-2-8
+9	,	,	PUNCT	_	_	13	punct	_	Ref=TM919107-2-9
+10	με	με1	ADP	_	_	11	case	_	Ref=TM919107-2-10
+11	δεως	devos	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	13	obl	_	Ref=TM919107-2-11
+12	τιε	τιε	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	11	conj	_	Ref=TM919107-2-12
+13	τιττετικμενος	τιττετικμενος	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	0	root	_	Ref=TM919107-2-13
+14	ειτου	ituv	AUX	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	cop	_	SpaceAfter=No|Ref=TM919107-2-14
+15	.	.	PUNCT	_	_	13	punct	_	Ref=TM919107-2-15
+
+# sent_id = TM984530-1
+# text = [---] [κακο]υν αββερετοι, με σζεμελως κε δυως κε τιτ̣[τετικμενος ειτου].
+1	[---]	[---]	SYM	_	_	10	dep	_	Ref=TM984530-1-1
+2	[κακο]υν	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	3	obj	_	Ref=TM984530-1-2
+3	αββερετοι	αββερετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	10	csubj	_	SpaceAfter=No|Ref=TM984530-1-3
+4	,	,	PUNCT	_	_	10	punct	_	Ref=TM984530-1-4
+5	με	με1	ADP	_	_	6	case	_	Ref=TM984530-1-5
+6	σζεμελως	ζεμελως	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	10	obl	_	Ref=TM984530-1-6
+7	κε	ke	CCONJ	_	_	6	cc	_	Ref=TM984530-1-7
+8	δυως	devos	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	6	conj	_	Ref=TM984530-1-8
+9	κε	ke	CCONJ	_	_	8	cc	_	Ref=TM984530-1-9
+10	τιτ̣[τετικμενος	τιττετικμενος	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	0	root	_	Ref=TM984530-1-10
+11	ειτου]	ituv	AUX	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	cop	_	SpaceAfter=No|Ref=TM984530-1-11
+12	.	.	PUNCT	_	_	10	punct	_	Ref=TM984530-1-12
+
+# sent_id = TM918580-1
+# text = [--- …με]ν̣ος ειτου.
+1	[---	[---]	SYM	_	_	2	dep	_	Ref=TM918580-1-1
+2	…με]ν̣ος	…με]νος	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Mid	0	root	_	Ref=TM918580-1-2
+3	ειτου	ituv	AUX	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	cop	_	SpaceAfter=No|Ref=TM918580-1-3
+4	.	.	PUNCT	_	_	2	punct	_	Ref=TM918580-1-4
+
+# sent_id = TM984531-1
+# text = [---]οι κνουμα ετι δεα̣δ̣α̣ μανκαν μ̣ιμογαδις ακε̣?νικου οκαυγοσι μ̣ιδακας δαδου λευκιωι δακαρ λευκις μ̣ιμογας κε ματαρ ευγεξαρναι̣ κ’οτ ατ̣ι̣αμα κνουμεν ταν ε[.]τας ται κολταμανει ιος νι ουκραον λατομειο̣ν εγ̣δ̣αες μουρσα̣
+1	[---]οι	[---]οι	X	_	_	0	root	_	Ref=TM984531-1-1
+2	κνουμα	κνουμανει	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	1	dep	_	Ref=TM984531-1-2
+3	ετι	eti	CCONJ	_	_	4	cc	_	Ref=TM984531-1-3
+4	δεα̣δ̣α̣	δεαδα	X	_	_	1	dep	_	Ref=TM984531-1-4
+5	μανκαν	μανκα	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	1	dep	_	Ref=TM984531-1-5
+6	μ̣ιμογαδις	μιμογας	PROPN	_	Case=Gen|Number=Sing	5	nmod	_	Ref=TM984531-1-6
+7	ακε̣?νικου	ακε?νικου	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	Ref=TM984531-1-7
+8	οκαυγοσι	οκκαυγοι	X	_	Case=Dat|Number=Plur	1	dep	_	Ref=TM984531-1-8
+9	μ̣ιδακας	μιδακας	PROPN	_	Case=Nom|Number=Sing	1	dep	_	Ref=TM984531-1-9
+10	δαδου	δαδου	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	9	dep	_	Ref=TM984531-1-10
+11	λευκιωι	λευκις	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	1	dep	_	Ref=TM984531-1-11
+12	δακαρ	daker	NOUN	_	Case=Nom|Number=Sing	1	dep	_	Ref=TM984531-1-12
+13	λευκις	λευκις	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	1	dep	_	Ref=TM984531-1-13
+14	μ̣ιμογας	μιμογας	PROPN	_	Case=Nom|Number=Sing	1	dep	_	Ref=TM984531-1-14
+15	κε	ke	CCONJ	_	_	1	dep	_	Ref=TM984531-1-15
+16	ματαρ	matar	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	1	dep	_	Ref=TM984531-1-16
+17	ευγεξαρναι̣	ευγεξαρναι	X	_	_	1	dep	_	Ref=TM984531-1-17
+18	κ’οτ	οτ	ADP	_	_	19	case	_	Ref=TM984531-1-18
+19	ατ̣ι̣αμα	ατεαμα	NOUN	_	Number=Sing	1	dep	_	Ref=TM984531-1-19
+20	κνουμεν	κνουμανει	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	1	dep	_	Ref=TM984531-1-20
+21	ταν	τος	PRON	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	1	dep	_	Ref=TM984531-1-21
+22	ε[.]τας	ε[.]τας	X	_	_	1	dep	_	Ref=TM984531-1-22
+23	ται	τος	PRON	_	Case=Dat|Gender=Fem|Number=Sing|PronType=Dem	1	dep	_	Ref=TM984531-1-23
+24	κολταμανει	κολταμανει	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	1	dep	_	Ref=TM984531-1-24
+25	ιος	ios	PRON	_	Case=Nom|ExtPos=PRON|Gender=Masc|Number=Sing|PronType=Rel	29	nsubj	_	Ref=TM984531-1-25
+26	νι	ni	PART	_	_	25	fixed	_	Ref=TM984531-1-26
+27	ουκραον	ουκραον	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	28	amod	_	Ref=TM984531-1-27
+28	λατομειο̣ν	λατομειον	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	29	obj	_	Ref=TM984531-1-28
+29	εγ̣δ̣αες	εγδαες	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	dep	_	Ref=TM984531-1-29
+30	μουρσα̣	μουρσα	X	_	Case=Acc|Gender=Neut|Number=Plur	29	dep	_	Ref=TM984531-1-30
+
+# sent_id = TM984531-2
+# text = αινι κος σεμουν κνουμανει κακουν αδδακετ αινι μανκα, β̣ε⟨κ⟩ος ιοι με τοτοσσει?τ?ι σαρναν.
+1	αινι	aini	CCONJ	_	_	13	cc	_	Ref=TM984531-2-1
+2	κος	kos	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	6	nsubj	_	Ref=TM984531-2-2
+3	σεμουν	σεμουν	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	4	det	_	Ref=TM984531-2-3
+4	κνουμανει	σεμουν	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	6	iobj	_	Ref=TM984531-2-4
+5	κακουν	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	obj	_	Ref=TM984531-2-5
+6	αδδακετ	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	acl	_	Ref=TM984531-2-6
+7	αινι	aini	CCONJ	_	_	8	cc	_	Ref=TM984531-2-7
+8	μανκα	μανκα	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	4	conj	_	SpaceAfter=No|Ref=TM984531-2-8
+9	,	,	PUNCT	_	_	6	punct	_	Ref=TM984531-2-9
+10	β̣ε⟨κ⟩ος	βεκος	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	13	obj	_	Ref=TM984531-2-10
+11	ιοι	ιοι	PRON	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Dem	13	iobj	_	Ref=TM984531-2-11
+12	με	me2	ADV	_	_	13	advmod	_	Ref=TM984531-2-12
+13	τοτοσσει?τ?ι	τοτοσσειτι	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=TM984531-2-13
+14	σαρναν	σαρναν	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	SpaceAfter=No|Ref=TM984531-2-14
+15	.	.	PUNCT	_	_	13	punct	_	Ref=TM984531-2-15
+
+# sent_id = TM984532-1
+# text = [--- …]μ̣ε̣νος ειτο[υ].
+1	[---	[---]	SYM	_	_	2	dep	_	Ref=TM984532-1-1
+2	…]μ̣ε̣νος	[…]μ̣ε̣νος	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Mid	0	root	_	Ref=TM984532-1-2
+3	ειτο[υ]	ituv	AUX	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	cop	_	SpaceAfter=No|Ref=TM984532-1-3
+4	.	.	PUNCT	_	_	2	punct	_	Ref=TM984532-1-4
+
+# sent_id = TM984533-3
+# text = ι̣ς̣ ν̣[ι κακου]ν̣ [αδδ]α̣κετορ, διως ορ ζεμ̣[ελ]ω̣ς τιττετικμενος̣ [ειτου].
+1	ι̣ς̣	ios	PRON	_	Case=Nom|ExtPos=PRON|Gender=Masc|Number=Sing|PronType=Rel	4	nsubj	_	Ref=TM984533-3-1
+2	ν̣[ι	ni	PART	_	_	1	fixed	_	Ref=TM984533-3-2
+3	κακου]ν̣	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	4	obj	_	Ref=TM984533-3-3
+4	[αδδ]α̣κετορ	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	9	csubj	_	SpaceAfter=No|Ref=TM984533-3-4
+5	,	,	PUNCT	_	_	9	punct	_	Ref=TM984533-3-5
+6	διως	devos	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	9	iobj	_	Ref=TM984533-3-6
+7	ορ	ορ	X	_	_	9	dep	_	Ref=TM984533-3-7
+8	ζεμ̣[ελ]ω̣ς	ζεμελως	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	6	conj	_	Ref=TM984533-3-8
+9	τιττετικμενος̣	τιττετικμενος	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	0	root	_	Ref=TM984533-3-9
+10	[ειτου]	ituv	AUX	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	cop	_	SpaceAfter=No|Ref=TM984533-3-10
+11	.	.	PUNCT	_	_	9	punct	_	Ref=TM984533-3-11
+
+# sent_id = TM969745-2
+# text = [ιο]ς [σε]μ̣ου̣ν [κ]ν̣ουμαν̣ει κακουν [αδ]δ[ακετ], [ατ τιε τιττετικμενος] ειτου.
+1	[ιο]ς	ios	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	5	nsubj	_	Ref=TM969745-2-1
+2	[σε]μ̣ου̣ν	σεμουν	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	3	det	_	Ref=TM969745-2-2
+3	[κ]ν̣ουμαν̣ει	κνουμανει	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	5	iobj	_	Ref=TM969745-2-3
+4	κακουν	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	5	obj	_	Ref=TM969745-2-4
+5	[αδ]δ[ακετ]	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	csubj	_	SpaceAfter=No|Ref=TM969745-2-5
+6	,	,	PUNCT	_	_	9	punct	_	Ref=TM969745-2-6
+7	[ατ	ad	ADP	_	_	8	case	_	Ref=TM969745-2-7
+8	τιε	τιε	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	9	obl	_	Ref=TM969745-2-8
+9	τιττετικμενος]	τιττετικμενος	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	0	root	_	Ref=TM969745-2-9
+10	ειτου	ituv	AUX	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	cop	_	SpaceAfter=No|Ref=TM969745-2-10
+11	.	.	PUNCT	_	_	9	punct	_	Ref=TM969745-2-11
+
+# sent_id = TM918555-2
+# text = ιος νι σεμον κνουμανι κακον αββερετορ αι̣ν̣ι σας μδυ̣ει, [δεως] ζεμελως τιε τιττετικμενος ειτου.
+1	ιος	ios	PRON	_	Case=Nom|ExtPos=PRON|Gender=Masc|Number=Sing|PronType=Rel	6	nsubj	_	Ref=TM918555-2-1
+2	νι	ni	PART	_	_	1	fixed	_	Ref=TM918555-2-2
+3	σεμον	σεμουν	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	4	det	_	Ref=TM918555-2-3
+4	κνουμανι	κνουμανει	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	6	iobj	_	Ref=TM918555-2-4
+5	κακον	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	obj	_	Ref=TM918555-2-5
+6	αββερετορ	αββερετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	14	csubj	_	Ref=TM918555-2-6
+7	αι̣ν̣ι	aini	CCONJ	_	_	9	cc	_	Ref=TM918555-2-7
+8	σας	σεμουν	DET	_	Case=Dat|Gender=Fem|Number=Sing|PronType=Dem	9	det	_	Ref=TM918555-2-8
+9	μδυ̣ει	μδυει	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	6	conj	_	SpaceAfter=No|Ref=TM918555-2-9
+10	,	,	PUNCT	_	_	14	punct	_	Ref=TM918555-2-10
+11	[δεως]	devos	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	14	obl	_	Ref=TM918555-2-11
+12	ζεμελως	ζεμελως	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	11	conj	_	Ref=TM918555-2-12
+13	τιε	τιε	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	14	obl	_	Ref=TM918555-2-13
+14	τιττετικμενος	τιττετικμενος	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	0	root	_	Ref=TM918555-2-14
+15	ειτου	ituv	AUX	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	cop	_	SpaceAfter=No|Ref=TM918555-2-15
+16	.	.	PUNCT	_	_	14	punct	_	Ref=TM918555-2-16
+
+# sent_id = TM984534-1
+# text = [............ π]αρτυς ουεβρα.
+1	[............	[---]	SYM	_	_	0	root	_	Ref=TM984534-1-1
+2	π]αρτυς	παρτης	X	_	_	1	dep	_	Ref=TM984534-1-2
+3	ουεβρα	vebras	NOUN	_	_	1	dep	_	SpaceAfter=No|Ref=TM984534-1-3
+4	.	.	PUNCT	_	_	1	punct	_	Ref=TM984534-1-4
+
+# sent_id = TM984534-2
+# text = ιος νι σεμον το [κνουμα]ν̣ε κακον αδδακετ αιν’ ατεαμα, ις τιε τι[ττετικ]μ̣ε̣ν̣ος ειτυ
+1	ιος	ios	PRON	_	Case=Nom|ExtPos=PRON|Gender=Masc|Number=Sing|PronType=Rel	7	nsubj	_	Ref=TM984534-2-1
+2	νι	ni	PART	_	_	1	fixed	_	Ref=TM984534-2-2
+3	σεμον	σεμουν	PRON	_	Case=Dat|ExtPos=DET|Gender=Neut|Number=Sing|PronType=Dem	5	det	_	Ref=TM984534-2-3
+4	το	τος	PART	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	3	fixed	_	Ref=TM984534-2-4
+5	[κνουμα]ν̣ε	κνουμανει	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	7	iobj	_	Ref=TM984534-2-5
+6	κακον	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	7	obj	_	Ref=TM984534-2-6
+7	αδδακετ	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	acl	_	Ref=TM984534-2-7
+8	αιν’	aini	CCONJ	_	_	9	cc	_	Ref=TM984534-2-8
+9	ατεαμα	ατεαμα	NOUN	_	Case=Dat|Number=Sing	5	conj	_	SpaceAfter=No|Ref=TM984534-2-9
+10	,	,	PUNCT	_	_	7	punct	_	Ref=TM984534-2-10
+11	ις	ios	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	13	nsubj	_	Ref=TM984534-2-11
+12	τιε	τιε	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	13	obl	_	Ref=TM984534-2-12
+13	τι[ττετικ]μ̣ε̣ν̣ος	τιττετικμενος	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	0	root	_	Ref=TM984534-2-13
+14	ειτυ	ituv	AUX	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	cop	_	Ref=TM984534-2-14
+
+# sent_id = TM984534-3
+# text = ουελασκοννου κ’ ηνκ- [.......]υ̣ο̣ι̣ς̣ γ̣ε̣ν̣τ̣ι̣ β̣ε̣π̣α̣ι̣ κε π̣αρτης β̣ε̣κος̣.
+1	ουελασκοννου	ουελασκετου	VERB	_	Mood=Imp|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	Ref=TM984534-3-1
+2	κ’	ke	CCONJ	_	_	1	cc	_	Ref=TM984534-3-2
+3	ηνκ-	ηνκ[---]	X	_	_	1	dep	_	Ref=TM984534-3-3
+4	[.......]υ̣ο̣ι̣ς̣	[.......]υ̣ο̣ι̣ς̣	X	_	_	1	dep	_	Ref=TM984534-3-4
+5	γ̣ε̣ν̣τ̣ι̣	γεντι	X	_	_	1	dep	_	Ref=TM984534-3-5
+6	β̣ε̣π̣α̣ι̣	βεπαι	X	_	_	1	dep	_	Ref=TM984534-3-6
+7	κε	ke	CCONJ	_	_	1	cc	_	Ref=TM984534-3-7
+8	π̣αρτης	παρτης	X	_	_	1	dep	_	Ref=TM984534-3-8
+9	β̣ε̣κος̣	βεκος	NOUN	_	Gender=Neut|Number=Sing	1	dep	_	SpaceAfter=No|Ref=TM984534-3-9
+10	.	.	PUNCT	_	_	1	punct	_	Ref=TM984534-3-10
+
+# sent_id = TM984535-1
+# text = ξ̣ε̣υνε ιοσος κε δετον̣ [ο?υ]ψοδ̣αν κε τα̣ν σαυναμαν [.?] κ̣νο̣υμαν κ' ακροδμαν κε λο̣δ̣ιμ̣ον μειομον ριδιτι ται τοα̣ μ̣ε̣ ο̣ν̣ομανιας εναρκε⟨ς⟩ ερμω[λ]α̣ο̣ς̣ κναικο⟨ς⟩ εκατηας ο̣μ̣ο̣υσασαι ποσεκανες ακα[.?]δ̣εο ποκ γονιον τευτωσι ιε[.]ν̣ο̣υταις εδαες πινκε τας δ̣[α?]κ̣ερης ονομανιαις μ̣ι̣ρου ικ[.] κ̣ναικαν εδαες, ις αργμενα[.?] ο̣π̣αρικο οαν οεαυται ις κε εν̣ τοισ̣ινιοι κνουμαν τιαν τε[.]
+1	ξ̣ε̣υνε	ξευνε	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	Ref=TM984535-1-1
+2	ιοσος	ιοσος	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	1	conj	_	Ref=TM984535-1-2
+3	κε	ke	CCONJ	_	_	2	cc	_	Ref=TM984535-1-3
+4	δετον̣	δετουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	1	obj	_	Ref=TM984535-1-4
+5	[ο?υ]ψοδ̣αν	υψοδαν	ADV	_	_	1	advmod	_	Ref=TM984535-1-5
+6	κε	ke	CCONJ	_	_	4	cc	_	Ref=TM984535-1-6
+7	τα̣ν	τος	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	8	det	_	Ref=TM984535-1-7
+8	σαυναμαν	σαυναμαν	X	_	Case=Acc|Gender=Fem|Number=Sing	4	conj	_	Ref=TM984535-1-8
+9	[.?]	[---]	SYM	_	_	1	dep	_	Ref=TM984535-1-9
+10	κ̣νο̣υμαν	κνουμανει	NOUN	_	Gender=Neut|Number=Sing	1	dep	_	Ref=TM984535-1-10
+11	κ'	ke	CCONJ	_	_	10	cc	_	Ref=TM984535-1-11
+12	ακροδμαν	ακροδμαν	NOUN	_	Number=Sing	1	dep	_	Ref=TM984535-1-12
+13	κε	ke	CCONJ	_	_	12	cc	_	Ref=TM984535-1-13
+14	λο̣δ̣ιμ̣ον	λοδιμον	X	_	Case=Acc|Number=Sing	1	dep	_	Ref=TM984535-1-14
+15	μειομον	μειομον	X	_	Case=Acc|Number=Sing	1	dep	_	Ref=TM984535-1-15
+16	ριδιτι	ριδιτι	VERB	_	_	1	dep	_	Ref=TM984535-1-16
+17	ται	τος	DET	_	Case=Dat|Gender=Fem|Number=Sing|PronType=Dem	1	dep	_	Ref=TM984535-1-17
+18	τοα̣	τοα	X	_	_	1	dep	_	Ref=TM984535-1-18
+19	μ̣ε̣	με1	ADP	_	_	1	dep	_	Ref=TM984535-1-19
+20	ο̣ν̣ομανιας	ονομανιας	NOUN	_	Case=Dat|Number=Plur	1	dep	_	Ref=TM984535-2-20
+21	εναρκε⟨ς⟩	εναρκε⟨ς⟩	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	dep	_	Ref=TM984535-1-21
+22	ερμω[λ]α̣ο̣ς̣	ερμω[λ]αος	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	21	nsubj	_	Ref=TM984535-1-22
+23	κναικο⟨ς⟩	knais	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	1	dep	_	Ref=TM984535-1-23
+24	εκατηας	εκατηας	PROPN	_	Case=Gen|Gender=Fem|Number=Sing	23	nmod	_	Ref=TM984535-1-24
+25	ο̣μ̣ο̣υσασαι	ομουσας	NOUN	_	_	1	dep	_	Ref=TM984535-1-25
+26	ποσεκανες	ποσεκανες	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	dep	_	Ref=TM984535-1-26
+27	ακα[.?]δ̣εο	ακα[.?]δεο	X	_	_	1	dep	_	Ref=TM984535-1-27
+28	ποκ	p?os	ADP	_	_	1	dep	_	Ref=TM984535-1-28
+29	γονιον	γονιον	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	28	obl	_	Ref=TM984535-1-29
+30	τευτωσι	τευτου	VERB	_	Mood=Imp|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	1	dep	_	Ref=TM984535-1-30
+31	ιε[.]ν̣ο̣υταις	ιε[.]νουταις	X	_	_	1	dep	_	Ref=TM984535-1-31
+32	εδαες	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	dep	_	Ref=TM984535-1-32
+33	πινκε	πινκε	NUM	_	NumType=Ord	1	dep	_	Ref=TM984535-1-33
+34	τας	τος	DET	_	Case=Dat|Gender=Fem|Number=Plur|PronType=Dem	1	dep	_	Ref=TM984535-1-34
+35	δ̣[α?]κ̣ερης	daker	NOUN	_	Case=Nom|Number=Plur	1	dep	_	Ref=TM984535-1-35
+36	ονομανιαις	ονομανιας	NOUN	_	Case=Acc|Number=Plur	1	dep	_	Ref=TM984535-1-36
+37	μ̣ι̣ρου	meros	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	1	dep	_	Ref=TM984535-1-37
+38	ικ[.]	ικ[.]	X	_	_	1	dep	_	Ref=TM984535-1-38
+39	κ̣ναικαν	knais	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	1	dep	_	Ref=TM984535-1-39
+40	εδαες	_	VERB	_	_	1	dep	_	SpaceAfter=No|Ref=TM984535-1-40
+41	,	,	PUNCT	_	_	1	punct	_	Ref=TM984535-1-41
+42	ις	ios	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	1	dep	_	Ref=TM984535-1-42
+43	αργμενα[.?]	αργμενα[.?]	X	_	_	1	dep	_	Ref=TM984535-1-43
+44	ο̣π̣αρικο	οπαρικο	X	_	_	1	dep	_	Ref=TM984535-1-44
+45	οαν	va	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	1	dep	_	Ref=TM984535-1-45
+46	οεαυται	venavtun	PRON	_	Case=Dat|Gender=Fem|Number=Sing|PronType=Emp|Reflex=Yes	1	dep	_	Ref=TM984535-1-46
+47	ις	ios	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	1	dep	_	Ref=TM984535-1-47
+48	κε	ke	CCONJ	_	_	47	cc	_	Ref=TM984535-1-48
+49	εν̣	εν	ADP	_	_	1	dep	_	Ref=TM984535-1-49
+50	τοισ̣ινιοι	τοισινιοι	X	_	_	1	dep	_	Ref=TM984535-1-50
+51	κνουμαν	κνουμανει	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	1	dep	_	Ref=TM984535-1-51
+52	τιαν	τιε	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	1	dep	_	Ref=TM984535-1-52
+53	τε	τε	X	_	_	1	dep	_	SpaceAfter=No|Ref=TM984535-1-53
+54	[.]	.	PUNCT	_	_	1	punct	_	Ref=TM984535-1-54
+
+# sent_id = TM984535-2
+# text = [.]μαρδ̣ι ιδετοι οινις.
+1	[.]μαρδ̣ι	.μαρδι	X	_	_	2	dep	_	Ref=TM984535-7-1
+2	ιδετοι	ιδετοι	VERB	_	Mood=Sub|Number=Sing|Person=3|VerbForm=Fin|Voice=Mid	0	root	_	Ref=TM984535-7-2
+3	οινις	οινις	X	_	_	2	dep	_	SpaceAfter=No|Ref=TM984535-7-3
+4	.	.	PUNCT	_	_	2	punct	_	Ref=TM984535-7-4
+
+# sent_id = TM928661-2
+# text = ις νι σεμου κνο[υμανει] [---]
+1	ις	ios	PRON	_	Case=Nom|ExtPos=PRON|Gender=Masc|Number=Sing|PronType=Rel	5	nsubj	_	Ref=TM928661-2-1
+2	νι	ni	PART	_	_	1	fixed	_	Ref=TM928661-2-2
+3	σεμου	σεμουν	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	4	det	_	Ref=TM928661-2-3
+4	κνο[υμανει]	κνουμανει	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	5	iobj	_	Ref=TM928661-2-4
+5	[---]	[---]	SYM	_	_	0	root	_	Ref=TM928661-2-5
+
+# sent_id = TM918546-1
+# text = ιος νι σεμον κνουμανει κακον αδ̣δακετ [αινι]? μ̣αν̣και, τ̣ο̣ς̣ ν̣ι̣ μ̣ε̣ [δ]ε̣[ως κε ζεμελως κ]ε Τιε τιττετικμενος ειτου.
+1	ιος	ios	PRON	_	Case=Nom|ExtPos=PRON|Gender=Masc|Number=Sing|PronType=Rel	6	nsubj	_	Ref=TM918546-1-1
+2	νι	ni	PART	_	_	1	fixed	_	Ref=TM918546-1-2
+3	σεμον	σεμουν	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	4	det	_	Ref=TM918546-1-3
+4	κνουμανει	κνουμανει	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	6	iobj	_	Ref=TM918546-1-4
+5	κακον	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	obj	_	Ref=TM918546-1-5
+6	αδ̣δακετ	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	acl	_	Ref=TM918546-1-6
+7	[αινι]?	aini	CCONJ	_	_	8	cc	_	Ref=TM918546-1-7
+8	μ̣αν̣και	μανκα	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	4	conj	_	SpaceAfter=No|Ref=TM918546-1-8
+9	,	,	PUNCT	_	_	6	punct	_	Ref=TM918546-1-9
+10	τ̣ο̣ς̣	τος	PRON	_	Case=Nom|ExtPos=PRON|Gender=Masc|Number=Sing|PronType=Dem	18	nsubj	_	Ref=TM918546-1-10
+11	ν̣ι̣	ni	PART	_	_	10	fixed	_	Ref=TM918546-1-11
+12	μ̣ε̣	με1	ADP	_	_	13	case	_	Ref=TM918546-1-12
+13	[δ]ε̣[ως	devos	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	18	obl	_	Ref=TM918546-1-13
+14	κε	ke	CCONJ	_	_	13	cc	_	Ref=TM918546-1-14
+15	ζεμελως	ζεμελως	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	13	conj	_	Ref=TM918546-1-15
+16	κ]ε	ke	CCONJ	_	_	15	cc	_	Ref=TM918546-1-16
+17	Τιε	τιε	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	18	obl	_	Ref=TM918546-1-17
+18	τιττετικμενος	τιττετικμενος	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	0	root	_	Ref=TM918546-1-18
+19	ειτου	ituv	AUX	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	18	cop	_	SpaceAfter=No|Ref=TM918546-1-19
+20	.	.	PUNCT	_	_	18	punct	_	Ref=TM918546-1-20
+
+# sent_id = TM931697-1
+# text = [ιος σεμου]ν κνουμανι κακα [αδδακ]εν, δεος κε ζεμ[ελος κε] [---] α̣κε οι ειροι α τιε τιττ[ετικμενοι ειν]νου.
+1	[ιος	ios	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	5	nsubj	_	Ref=TM931697-1-1
+2	σεμου]ν	σεμουν	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	3	det	_	Ref=TM931697-1-2
+3	κνουμανι	κνουμανει	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	5	iobj	_	Ref=TM931697-1-3
+4	κακα	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	5	obj	_	Ref=TM931697-1-4
+5	[αδδακ]εν	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	csubj	_	SpaceAfter=No|Ref=TM931697-1-5
+6	,	,	PUNCT	_	_	5	punct	_	Ref=TM931697-1-6
+7	δεος	devos	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	17	obl	_	Ref=TM931697-1-7
+8	κε	ke	CCONJ	_	_	7	cc	_	Ref=TM931697-1-8
+9	ζεμ[ελος	ζεμελως	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	7	conj	_	Ref=TM931697-1-9
+10	κε]	ke	CCONJ	_	_	9	cc	_	Ref=TM931697-1-10
+11	[---]	[---]	SYM	_	_	17	dep	_	Ref=TM931697-1-11
+12	α̣κε	ακκε	CCONJ	_	_	14	cc	_	Ref=TM931697-1-12
+13	οι	ιοι	PRON	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Dem	17	iobj	_	Ref=TM931697-1-13
+14	ειροι	ειροι	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	17	nsubj	_	Ref=TM931697-1-14
+15	α	ad	ADP	_	_	16	case	_	Ref=TM931697-1-15
+16	τιε	τιε	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	17	obl	_	Ref=TM931697-1-16
+17	τιττ[ετικμενοι	τιττετικμενος	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Mid	0	root	_	Ref=TM931697-1-17
+18	ειν]νου	ituv	AUX	_	Mood=Imp|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	17	cop	_	SpaceAfter=No|Ref=TM931697-1-18
+19	.	.	PUNCT	_	_	17	punct	_	Ref=TM931697-1-19
+
+# sent_id = TM846122-2
+# text = [ιος σεμουν] [κνουμ]ανε κακουν αδδακετ, ⟨τ⟩ε̣τ̣τετικμενος ειτο[υ].
+1	[ιος	ios	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	5	nsubj	_	Ref=TM846122-2-1
+2	σεμουν]	σεμουν	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	3	det	_	Ref=TM846122-2-2
+3	[κνουμ]ανε	κνουμανει	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	5	iobj	_	Ref=TM846122-2-3
+4	κακουν	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	5	obj	_	Ref=TM846122-2-4
+5	αδδακετ	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	csubj	_	SpaceAfter=No|Ref=TM846122-2-5
+6	,	,	PUNCT	_	_	7	punct	_	Ref=TM846122-2-6
+7	⟨τ⟩ε̣τ̣τετικμενος	τιττετικμενος	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	0	root	_	Ref=TM846122-2-7
+8	ειτο[υ]	ituv	AUX	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	_	SpaceAfter=No|Ref=TM846122-2-8
+9	.	.	PUNCT	_	_	7	punct	_	Ref=TM846122-2-9
+
+# sent_id = TM918536-1
+# text = [ιος νι σε]μ̣ον [κνουμανει] [κ]α̣κου̣[ν α]ββερετοι α⟨ι⟩νι α̣σ̣τ̣αι̣ σα μ̣[ανκ]ε, [τιτ]τετικμενος ειτου.
+1	[ιος	ios	PRON	_	Case=Nom|ExtPos=PRON|Gender=Masc|Number=Sing|PronType=Rel	6	nsubj	_	Ref=TM918536-1-1
+2	νι	ni	PART	_	_	1	fixed	_	Ref=TM918536-1-2
+3	σε]μ̣ον	σεμουν	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	4	det	_	Ref=TM918536-1-3
+4	[κνουμανει]	κνουμανει	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	6	iobj	_	Ref=TM918536-1-4
+5	[κ]α̣κου̣[ν	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	obj	_	Ref=TM918536-1-5
+6	α]ββερετοι	αββερετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	12	csubj	_	Ref=TM918536-1-6
+7	α⟨ι⟩νι	aini	CCONJ	_	_	10	cc	_	Ref=TM918536-1-7
+8	α̣σ̣τ̣αι̣	ασται	X	_	Case=Dat|Gender=Fem|Number=Sing	10	dep	_	Ref=TM918536-1-8
+9	σα	σεμουν	DET	_	Case=Dat|Gender=Fem|Number=Sing|PronType=Dem	10	det	_	Ref=TM918536-1-9
+10	μ̣[ανκ]ε	μανκα	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	4	conj	_	SpaceAfter=No|Ref=TM918536-1-10
+11	,	,	PUNCT	_	_	12	punct	_	Ref=TM918536-1-11
+12	[τιτ]τετικμενος	τιττετικμενος	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	0	root	_	Ref=TM918536-1-12
+13	ειτου	ituv	AUX	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	cop	_	SpaceAfter=No|Ref=TM918536-1-13
+14	.	.	PUNCT	_	_	12	punct	_	Ref=TM918536-1-14
+
+# sent_id = TM984536-2
+# text = ιο̣ς̣ νι σεμ̣[ουν] τ̣ο κνουμανε κακεν αδδακετ, με ζεμελως κε δεως κε τιτετικμενος ειτου.
+1	ιο̣ς̣	ios	PRON	_	Case=Nom|ExtPos=PRON|Gender=Masc|Number=Sing|PronType=Rel	7	nsubj	_	Ref=TM984536-2-1
+2	νι	ni	PART	_	_	1	fixed	_	Ref=TM984536-2-2
+3	σεμ̣[ουν]	σεμουν	DET	_	Case=Dat|ExtPos=DET|Gender=Neut|Number=Sing|PronType=Dem	5	det	_	Ref=TM984536-2-3
+4	τ̣ο	τος	PART	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	3	fixed	_	Ref=TM984536-2-4
+5	κνουμανε	κνουμανει	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	7	iobj	_	Ref=TM984536-2-5
+6	κακεν	kakey	ADV	_	_	7	advmod	_	Ref=TM984536-2-6
+7	αδδακετ	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	csubj	_	SpaceAfter=No|Ref=TM984536-2-7
+8	,	,	PUNCT	_	_	14	punct	_	Ref=TM984536-2-8
+9	με	με1	ADP	_	_	10	case	_	Ref=TM984536-2-9
+10	ζεμελως	ζεμελως	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	14	obl	_	Ref=TM984536-2-10
+11	κε	ke	CCONJ	_	_	10	cc	_	Ref=TM984536-2-11
+12	δεως	devos	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	10	conj	_	Ref=TM984536-2-12
+13	κε	ke	CCONJ	_	_	12	cc	_	Ref=TM984536-2-13
+14	τιτετικμενος	τιττετικμενος	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	0	root	_	Ref=TM984536-2-14
+15	ειτου	ituv	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	cop	_	SpaceAfter=No|Ref=TM984536-2-15
+16	.	.	PUNCT	_	_	14	punct	_	Ref=TM984536-2-16
+
+# sent_id = TM932245-2
+# text = ιος νι σεμον̣ [κνουμανει] κακουν αδακετ αινι οι θαλαμειδη, διως ζεμελω[ς τιτετ]ικμενος ειτου.
+1	ιος	ios	PRON	_	Case=Nom|ExtPos=PRON|Gender=Masc|Number=Sing|PronType=Rel	6	nsubj	_	Ref=TM932245-2-1
+2	νι	ni	PART	_	_	1	fixed	_	Ref=TM932245-2-2
+3	σεμον̣	σεμουν	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	4	det	_	Ref=TM932245-2-3
+4	[κνουμανει]	κνουμανει	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	6	iobj	_	Ref=TM932245-2-4
+5	κακουν	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	obj	_	Ref=TM932245-2-5
+6	αδακετ	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	csubj	_	Ref=TM932245-2-6
+7	αινι	aini	CCONJ	_	_	9	cc	_	Ref=TM932245-2-7
+8	οι	ιοι	DET	_	Case=Dat|Gender=Fem|Number=Sing|PronType=Dem	9	det	_	Ref=TM932245-2-8
+9	θαλαμειδη	θαλαμειδη	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	4	conj	_	SpaceAfter=No|Ref=TM932245-2-9
+10	,	,	PUNCT	_	_	13	punct	_	Ref=TM932245-2-10
+11	διως	devos	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	13	obl	_	Ref=TM932245-2-11
+12	ζεμελω[ς	ζεμελως	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	11	conj	_	Ref=TM932245-2-12
+13	τιτετ]ικμενος	τιττετικμενος	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	0	root	_	Ref=TM932245-2-13
+14	ειτου	ituv	AUX	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	cop	_	SpaceAfter=No|Ref=TM932245-2-14
+15	.	.	PUNCT	_	_	13	punct	_	Ref=TM932245-2-15
+
+# sent_id = TM931700-2
+# text = ις κε σεμουν κ⟨ν⟩ουμινος ⟨κακουν⟩ αδακεν, με διω[ς ζ]εμελως τιτετικμενος ητου.
+1	ις	ios	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	6	nsubj	_	Ref=TM931700-2-1
+2	κε	ke	CCONJ	_	_	11	cc	_	Ref=TM931700-2-2
+3	σεμουν	σεμουν	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	4	det	_	Ref=TM931700-2-3
+4	κ⟨ν⟩ουμινος	κνουμανει	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	6	iobj	_	Ref=TM931700-2-4
+5	⟨κακουν⟩	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	obj	_	Ref=TM931700-2-5
+6	αδακεν	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	csubj	_	SpaceAfter=No|Ref=TM931700-2-6
+7	,	,	PUNCT	_	_	11	punct	_	Ref=TM931700-2-7
+8	με	με1	ADP	_	_	9	case	_	Ref=TM931700-2-8
+9	διω[ς	devos	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	11	obl	_	Ref=TM931700-2-9
+10	ζ]εμελως	ζεμελως	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	9	conj	_	Ref=TM931700-2-10
+11	τιτετικμενος	τιττετικμενος	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	0	root	_	Ref=TM931700-2-11
+12	ητου	ituv	AUX	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	cop	_	SpaceAfter=No|Ref=TM931700-2-12
+13	.	.	PUNCT	_	_	11	punct	_	Ref=TM931700-2-13
+
+# sent_id = TM984537-1
+# text = [ιο]ς νι σεμουν κνουμανε κ̣[ακον] αββερετ ατ νου[.] μου[ρου]ν, τος νι με ζεμελος κε δεος κ̣ε τιη τιττετικμενος ε[ι]τ̣ου.
+1	[ιο]ς	ios	PRON	_	Case=Nom|ExtPos=PRON|Gender=Masc|Number=Sing|PronType=Rel	6	nsubj	_	Ref=TM984537-1-1
+2	νι	ni	PART	_	_	1	fixed	_	Ref=TM984537-1-2
+3	σεμουν	σεμουν	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	4	det	_	Ref=TM984537-1-3
+4	κνουμανε	κνουμανει	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	6	iobj	_	Ref=TM984537-1-4
+5	κ̣[ακον]	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	obj	_	Ref=TM984537-1-5
+6	αββερετ	αββερετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	acl	_	Ref=TM984537-1-6
+7	ατ	ad	ADP	_	_	9	case	_	Ref=TM984537-1-7
+8	νου[.]	νου.	X	_	Case=Acc|Gender=Neut|Number=Sing	9	dep	_	Ref=TM984537-1-8
+9	μου[ρου]ν	μουρουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	obl	_	SpaceAfter=No|Ref=TM984537-1-9
+10	,	,	PUNCT	_	_	6	punct	_	Ref=TM984537-1-10
+11	τος	τος	PRON	_	Case=Nom|ExtPos=PRON|Gender=Masc|Number=Sing|PronType=Dem	19	nsubj	_	Ref=TM984537-1-11
+12	νι	ni	PART	_	_	11	fixed	_	Ref=TM984537-1-12
+13	με	με1	ADP	_	_	14	case	_	Ref=TM984537-1-13
+14	ζεμελος	ζεμελως	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	19	obl	_	Ref=TM984537-1-14
+15	κε	ke	CCONJ	_	_	14	cc	_	Ref=TM984537-1-15
+16	δεος	devos	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	14	conj	_	Ref=TM984537-1-16
+17	κ̣ε	ke	CCONJ	_	_	16	cc	_	Ref=TM984537-1-17
+18	τιη	τιε	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	16	obl	_	Ref=TM984537-1-18
+19	τιττετικμενος	τιττετικμενος	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	0	root	_	Ref=TM984537-1-19
+20	ε[ι]τ̣ου	ituv	AUX	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	19	cop	_	SpaceAfter=No|Ref=TM984537-1-20
+21	.	.	PUNCT	_	_	19	punct	_	Ref=TM984537-1-21
+
+# sent_id = TM918549-2
+# text = μ̣ε δεως κε ζεμελως κε τιτετικμ̮ενος ειτου.
+1	μ̣ε	με1	ADP	_	_	2	case	_	Ref=TM918549-2-1
+2	δεως	devos	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	6	obl	_	Ref=TM918549-2-2
+3	κε	ke	CCONJ	_	_	2	cc	_	Ref=TM918549-2-3
+4	ζεμελως	ζεμελως	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	2	conj	_	Ref=TM918549-2-4
+5	κε	ke	CCONJ	_	_	4	cc	_	Ref=TM918549-2-5
+6	τιτετικμ̮ενος	τιττετικμενος	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	0	root	_	Ref=TM918549-2-6
+7	ειτου	ituv	AUX	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	_	SpaceAfter=No|Ref=TM918549-2-7
+8	.	.	PUNCT	_	_	6	punct	_	Ref=TM918549-2-8
+
+# sent_id = TM984538-1
+# text = ι̣ος νι σα μα̣τ?[ε]ρε κακον αββε̣ρ̣ετοι αινι σερ̣?οα, τος νι με ζ̣εμελω̣[ς ....] [---]
+1	ι̣ος	ios	PRON	_	Case=Nom|ExtPos=PRON|Gender=Masc|Number=Sing|PronType=Rel	6	nsubj	_	Ref=TM984538-1-1
+2	νι	ni	PART	_	_	1	fixed	_	Ref=TM984538-1-2
+3	σα	σεμουν	DET	_	Case=Dat|Gender=Fem|Number=Sing|PronType=Dem	4	det	_	Ref=TM984538-1-3
+4	μα̣τ?[ε]ρε	matar	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	6	iobj	_	Ref=TM984538-1-4
+5	κακον	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	obj	_	Ref=TM984538-1-5
+6	αββε̣ρ̣ετοι	αββερετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	10	acl	_	Ref=TM984538-1-6
+7	αινι	aini	CCONJ	_	_	8	cc	_	Ref=TM984538-1-7
+8	σερ̣?οα	σεροα	PROPN	_	Case=Dat|Gender=Fem|Number=Sing	4	conj	_	SpaceAfter=No|Ref=TM984538-1-8
+9	,	,	PUNCT	_	_	10	punct	_	Ref=TM984538-1-9
+10	τος	τος	PRON	_	Case=Nom|ExtPos=PRON|Gender=Masc|Number=Sing|PronType=Dem	0	root	_	Ref=TM984538-1-10
+11	νι	ni	PART	_	_	10	fixed	_	Ref=TM984538-1-11
+12	με	με1	ADP	_	_	13	case	_	Ref=TM984538-1-12
+13	ζ̣εμελω̣[ς	ζεμελως	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	10	obl	_	Ref=TM984538-1-13
+14	....]	[---]	SYM	_	_	10	dep	_	Ref=TM984538-1-14
+15	[---]	[---]	SYM	_	_	10	dep	_	Ref=TM984538-1-15
+
+# sent_id = TM918559-1
+# text = ιος νι σεμουν κνουμανε κακουν αδδα̣κεττο̣ρ, δεως ζεμελως κ̣ε τιτε{τε}τι[̣κμενο]ς [ειτου].
+1	ιος	ios	PRON	_	Case=Nom|ExtPos=PRON|Gender=Masc|Number=Sing|PronType=Rel	6	nsubj	_	Ref=TM918559-1-1
+2	νι	ni	PART	_	_	1	fixed	_	Ref=TM918559-1-2
+3	σεμουν	σεμουν	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	4	det	_	Ref=TM918559-1-3
+4	κνουμανε	κνουμανει	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	6	iobj	_	Ref=TM918559-1-4
+5	κακουν	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	obj	_	Ref=TM918559-1-5
+6	αδδα̣κεττο̣ρ	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	11	csubj	_	SpaceAfter=No|Ref=TM918559-1-6
+7	,	,	PUNCT	_	_	11	punct	_	Ref=TM918559-1-7
+8	δεως	devos	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	11	obl	_	Ref=TM918559-1-8
+9	ζεμελως	ζεμελως	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	8	conj	_	Ref=TM918559-1-9
+10	κ̣ε	ke	CCONJ	_	_	9	cc	_	Ref=TM918559-1-10
+11	τιτε{τε}τι[̣κμενο]ς	τιττετικμενος	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	0	root	_	Ref=TM918559-1-11
+12	[ειτου]	ituv	AUX	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	cop	_	SpaceAfter=No|Ref=TM918559-1-12
+13	.	.	PUNCT	_	_	11	punct	_	Ref=TM918559-1-13
+
+# sent_id = TM963204-2
+# text = ιος νι σεμουν κνουμανε κακουν αδδακετ, με δδεω με ζεμελος τιτετικμενος ειτου ας βαταν ορουεναν κε.
+1	ιος	ios	PRON	_	Case=Nom|ExtPos=PRON|Gender=Masc|Number=Sing|PronType=Rel	6	nsubj	_	Ref=TM963204-2-1
+2	νι	ni	PART	_	_	1	fixed	_	Ref=TM963204-2-2
+3	σεμουν	σεμουν	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	4	det	_	Ref=TM963204-2-3
+4	κνουμανε	κνουμανει	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	6	iobj	_	Ref=TM963204-2-4
+5	κακουν	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	obj	_	Ref=TM963204-2-5
+6	αδδακετ	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	csubj	_	SpaceAfter=No|Ref=TM963204-2-6
+7	,	,	PUNCT	_	_	12	punct	_	Ref=TM963204-2-7
+8	με	με1	ADP	_	_	9	case	_	Ref=TM963204-2-8
+9	δδεω	devos	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	12	obl	_	Ref=TM963204-2-9
+10	με	με1	ADP	_	_	11	case	_	Ref=TM963204-2-10
+11	ζεμελος	ζεμελως	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	12	obl	_	Ref=TM963204-2-11
+12	τιτετικμενος	τιττετικμενος	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	0	root	_	Ref=TM963204-2-12
+13	ειτου	ituv	AUX	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	cop	_	Ref=TM963204-2-13
+14	ας	ad	ADP	_	_	15	case	_	Ref=TM963204-2-14
+15	βαταν	βας	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	12	obl	_	Ref=TM963204-2-15
+16	ορουεναν	ορουαν	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	15	conj	_	Ref=TM963204-2-16
+17	κε	ke	CCONJ	_	_	16	cc	_	SpaceAfter=No|Ref=TM963204-2-17
+18	.	.	PUNCT	_	_	12	punct	_	Ref=TM963204-2-18
+
+# sent_id = TM984539-1
+# text = ιος νι σεμυν κνουμανει κακυν αδδακετ αι καν, ατ τιη κε δεως κε τιττετικμενος ειτου.
+1	ιος	ios	PRON	_	Case=Nom|ExtPos=PRON|Gender=Masc|Number=Sing|PronType=Rel	6	nsubj	_	Ref=TM984539-1-1
+2	νι	ni	PART	_	_	1	fixed	_	Ref=TM984539-1-2
+3	σεμυν	σεμουν	PRON	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	4	det	_	Ref=TM984539-1-3
+4	κνουμανει	κνουμανει	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	6	iobj	_	Ref=TM984539-1-4
+5	κακυν	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	obj	_	Ref=TM984539-1-5
+6	αδδακετ	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	15	csubj	_	Ref=TM984539-1-6
+7	αι	ai	CCONJ	_	_	8	cc	_	Ref=TM984539-1-7
+8	καν	kan	ADV	_	_	5	advmod	_	SpaceAfter=No|Ref=TM984539-1-8
+9	,	,	PUNCT	_	_	15	punct	_	Ref=TM984539-1-9
+10	ατ	ad	ADP	_	_	11	case	_	Ref=TM984539-1-10
+11	τιη	τιε	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	15	obl	_	Ref=TM984539-1-11
+12	κε	ke	CCONJ	_	_	11	cc	_	Ref=TM984539-1-12
+13	δεως	devos	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	11	conj	_	Ref=TM984539-1-13
+14	κε	ke	CCONJ	_	_	13	cc	_	Ref=TM984539-1-14
+15	τιττετικμενος	τιττετικμενος	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	0	root	_	Ref=TM984539-1-15
+16	ειτου	ituv	AUX	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	15	cop	_	SpaceAfter=No|Ref=TM984539-1-16
+17	.	.	PUNCT	_	_	15	punct	_	Ref=TM984539-1-17
+
+# sent_id = TM918557-2
+# text = ιος νι σεμον [κ]ν[ου]μανε[ι κακ]ο[υν] [τ]αι σα τρα[---]τη[ ζε]μελως κε ο̣[υ]ε̣λ̣α̣σ̣κοννου κε ισνιο[υ] αι παρτης.
+1	ιος	ios	PRON	_	Case=Nom|ExtPos=PRON|Gender=Masc|Number=Sing|PronType=Rel	15	dep	_	Ref=TM918557-2-1
+2	νι	ni	PART	_	_	1	fixed	_	Ref=TM918557-2-2
+3	σεμον	σεμουν	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	4	det	_	Ref=TM918557-2-3
+4	[κ]ν[ου]μανε[ι	κνουμανει	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	15	dep	_	Ref=TM918557-2-4
+5	κακ]ο[υν]	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	15	dep	_	Ref=TM918557-2-5
+6	[τ]αι	τος	DET	_	Case=Dat|Gender=Fem|Number=Sing|PronType=Dem	8	det	_	Ref=TM918557-2-6
+7	σα	σεμουν	DET	_	Case=Dat|Gender=Fem|Number=Sing|PronType=Dem	8	det	_	Ref=TM918557-2-7
+8	τρα[---]τη[	τρα[.....]τη[---]	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	15	dep	_	Ref=TM918557-2-8
+9	ζε]μελως	ζεμελως	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	15	dep	_	Ref=TM918557-2-9
+10	κε	ke	CCONJ	_	_	9	cc	_	Ref=TM918557-2-10
+11	ο̣[υ]ε̣λ̣α̣σ̣κοννου	ουελασκετου	VERB	_	Mood=Imp|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	Ref=TM918557-2-11
+12	κε	ke	CCONJ	_	_	11	cc	_	Ref=TM918557-2-12
+13	ισνιο[υ]	isini	VERB	_	Mood=Imp|Number=Plur|Person=3|VerbForm=Fin|Voice=Mid	11	conj	_	Ref=TM918557-2-13
+14	αι	ai	CCONJ	_	_	15	cc	_	Ref=TM918557-2-14
+15	παρτης	παρτης	NOUN	_	_	13	dep	_	SpaceAfter=No|Ref=TM918557-2-15
+16	.	.	PUNCT	_	_	11	punct	_	Ref=TM918557-2-16
+
+# sent_id = TM918556-2
+# text = [ι]ο̣ς νι σεμουν κνου[μ]ανει κακουν αδδακετ αινι α [τεαμας?]
+1	[ι]ο̣ς	ios	PRON	_	Case=Nom|ExtPos=PRON|Gender=Masc|Number=Sing|PronType=Rel	6	nsubj	_	Ref=TM918556-2-1
+2	νι	ni	PART	_	_	1	fixed	_	Ref=TM918556-2-2
+3	σεμουν	σεμουν	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	4	det	_	Ref=TM918556-2-3
+4	κνου[μ]ανει	κνουμανει	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	6	iobj	_	Ref=TM918556-2-4
+5	κακουν	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	obj	_	Ref=TM918556-2-5
+6	αδδακετ	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=TM918556-2-6
+7	αινι	aini	CCONJ	_	_	8	cc	_	Ref=TM918556-2-7
+8	α	ατεαμα	NOUN	_	Case=Dat|Number=Plur|Typo=Yes	4	conj	_	Ref=TM918556-2-8
+9	[τεαμας?]	_	X	_	_	8	goeswith	_	Ref=TM918556-2-9
+
+# sent_id = TM846124-1
+# text = υς δουμ?ετυου πασε δεκμουταις κινο[υ]μα ε̣τι μ⟨α⟩νκαν οπεσταμε̣ν̣α̣ν̣ δαδιτι νεν[υε]ρια παρτυς ουβρα.
+1	υς	υς	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	Ref=TM846124-1-1
+2	δουμ?ετυου	δουμ?ετυου	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	Ref=TM846124-1-2
+3	πασε	πασε	X	_	Case=Dat|Number=Sing	9	dep	_	Ref=TM846124-1-3
+4	δεκμουταις	δεκμουταις	X	_	Case=Acc|Number=Plur	9	dep	_	Ref=TM846124-1-4
+5	κινο[υ]μα	κνουμανει	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	9	dep	_	Ref=TM846124-1-5
+6	ε̣τι	eti	CCONJ	_	_	7	cc	_	Ref=TM846124-1-6
+7	μ⟨α⟩νκαν	μανκα	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	5	conj	_	Ref=TM846124-1-7
+8	οπεσταμε̣ν̣α̣ν̣	οπεσταμε̣ν̣α̣ν̣	VERB	_	Aspect=Perf|Case=Acc|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	7	amod	_	Ref=TM846124-1-8
+9	δαδιτι	δαδιτι	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=TM846124-1-9
+10	νεν[υε]ρια	νεν[υε]ρια	PROPN	_	Case=Dat|Gender=Fem|Number=Sing	8	iobj	_	Ref=TM846124-1-10
+11	παρτυς	παρτης	X	_	_	9	dep	_	Ref=TM846124-1-11
+12	ουβρα	vebras	X	_	_	9	dep	_	SpaceAfter=No|Ref=TM846124-1-12
+13	.	.	PUNCT	_	_	9	punct	_	Ref=TM846124-1-13
+
+# sent_id = TM984540-1
+# text = ιος νι σεμον κνουμανει κακον αδδακετ, τετιοκμενος ειτου διως κε ζεμελως κε παρτης.
+1	ιος	ios	PRON	_	Case=Nom|ExtPos=PRON|Gender=Masc|Number=Sing|PronType=Rel	6	nsubj	_	Ref=TM984540-1-1
+2	νι	ni	PART	_	_	1	fixed	_	Ref=TM984540-1-2
+3	σεμον	σεμουν	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	4	det	_	Ref=TM984540-1-3
+4	κνουμανει	κνουμανει	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	6	iobj	_	Ref=TM984540-1-4
+5	κακον	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	obj	_	Ref=TM984540-1-5
+6	αδδακετ	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	csubj	_	SpaceAfter=No|Ref=TM984540-1-6
+7	,	,	PUNCT	_	_	8	punct	_	Ref=TM984540-1-7
+8	τετιοκμενος	τιττετικμενος	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	0	root	_	Ref=TM984540-1-8
+9	ειτου	ituv	AUX	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	cop	_	Ref=TM984540-1-9
+10	διως	devos	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	8	obl	_	Ref=TM984540-1-10
+11	κε	ke	CCONJ	_	_	10	cc	_	Ref=TM984540-1-11
+12	ζεμελως	ζεμελως	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	10	conj	_	Ref=TM984540-1-12
+13	κε	ke	CCONJ	_	_	12	cc	_	Ref=TM984540-1-13
+14	παρτης	παρτης	X	_	_	8	dep	_	SpaceAfter=No|Ref=TM984540-1-14
+15	.	.	PUNCT	_	_	8	punct	_	Ref=TM984540-1-15
+
+# sent_id = TM932096-2
+# text = ιος νι σε[μουν ---]
+1	ιος	ios	PRON	_	Case=Nom|ExtPos=PRON|Gender=Masc|Number=Sing|PronType=Rel	4	nsubj	_	Ref=TM932096-2-1
+2	νι	ni	PART	_	_	1	fixed	_	Ref=TM932096-2-2
+3	σε[μουν	σεμουν	PRON	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	4	det	_	Ref=TM932096-2-3
+4	---]	[---]	SYM	_	_	0	root	_	Ref=TM932096-2-4
+
+# sent_id = TM846169-1
+# text = ιος νι σεμουν κνουμανε κακεν αδδακετορ, δεως ζεμελως κε τιττετικμε-•νος ειτου.
+1	ιος	ios	PRON	_	Case=Nom|ExtPos=PRON|Gender=Masc|Number=Sing|PronType=Rel	6	nsubj	_	Ref=TM846169-1-1
+2	νι	ni	PART	_	_	1	fixed	_	Ref=TM846169-1-2
+3	σεμουν	σεμουν	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	4	det	_	Ref=TM846169-1-3
+4	κνουμανε	κνουμανει	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	6	iobj	_	Ref=TM846169-1-4
+5	κακεν	kakey	ADV	_	_	6	advmod	_	Ref=TM846169-1-5
+6	αδδακετορ	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	11	csubj	_	SpaceAfter=No|Ref=TM846169-1-6
+7	,	,	PUNCT	_	_	11	punct	_	Ref=TM846169-1-7
+8	δεως	devos	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	11	obl	_	Ref=TM846169-1-8
+9	ζεμελως	ζεμελως	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	8	conj	_	Ref=TM846169-1-9
+10	κε	ke	CCONJ	_	_	9	cc	_	Ref=TM846169-1-10
+11	τιττετικμε-•νος	τιττετικμενος	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	0	root	_	Ref=TM846169-1-11
+12	ειτου	ituv	AUX	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	cop	_	SpaceAfter=No|Ref=TM846169-1-12
+13	.	.	PUNCT	_	_	11	punct	_	Ref=TM846169-1-13
+
+# sent_id = TM884470-2
+# text = ιος νι σεμον κνουμανει κακον αδακετ αινι σα τ[ο]υ τε͜αμας, τιε τιττετικμενος ειτ͜ου.
+1	ιος	ios	PRON	_	Case=Nom|ExtPos=PRON|Gender=Masc|Number=Sing|PronType=Rel	6	nsubj	_	Ref=TM884470-2-1
+2	νι	ni	PART	_	_	1	fixed	_	Ref=TM884470-2-2
+3	σεμον	σεμουν	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	4	det	_	Ref=TM884470-2-3
+4	κνουμανει	κνουμανει	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	6	iobj	_	Ref=TM884470-2-4
+5	κακον	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	obj	_	Ref=TM884470-2-5
+6	αδακετ	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	csubj	_	Ref=TM884470-2-6
+7	αινι	aini	CCONJ	_	_	10	cc	_	Ref=TM884470-2-7
+8	σα	σεμουν	DET	_	Case=Dat|ExtPos=DET|Gender=Fem|Number=Sing|PronType=Dem	10	det	_	Ref=TM884470-2-8
+9	τ[ο]υ	τος	PART	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	8	fixed	_	Ref=TM884470-2-9
+10	τε͜αμας	ατεαμα	NOUN	_	Case=Dat|Number=Plur	4	conj	_	SpaceAfter=No|Ref=TM884470-2-10
+11	,	,	PUNCT	_	_	13	punct	_	Ref=TM884470-2-11
+12	τιε	τιε	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	13	obl	_	Ref=TM884470-2-12
+13	τιττετικμενος	τιττετικμενος	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	0	root	_	Ref=TM884470-2-13
+14	ειτ͜ου	ituv	AUX	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	cop	_	SpaceAfter=No|Ref=TM884470-2-14
+15	.	.	PUNCT	_	_	13	punct	_	Ref=TM884470-2-15
+
+# sent_id = TM984517-2
+# text = ❧ ιος νι σεμουν κνουμανε κακ[ου]ν αδδακετ, Τι•ε τιτ•τε[•]τι•[κμενος] ε̣ιτου̣.
+1	❧	❧	SYM	_	_	10	dep	_	Ref=TM984517-2-1
+2	ιος	ios	PRON	_	Case=Nom|ExtPos=PRON|Gender=Masc|Number=Sing|PronType=Rel	7	nsubj	_	Ref=TM984517-2-2
+3	νι	ni	PART	_	_	2	fixed	_	Ref=TM984517-2-3
+4	σεμουν	σεμουν	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	5	det	_	Ref=TM984517-2-4
+5	κνουμανε	κνουμανει	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	7	iobj	_	Ref=TM984517-2-5
+6	κακ[ου]ν	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	7	obj	_	Ref=TM984517-2-6
+7	αδδακετ	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	csubj	_	SpaceAfter=No|Ref=TM984517-2-7
+8	,	,	PUNCT	_	_	10	punct	_	Ref=TM984517-2-8
+9	Τι•ε	τιε	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	10	obl	_	Ref=TM984517-2-9
+10	τιτ•τε[•]τι•[κμενος]	τιττετικμενος	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	0	root	_	Ref=TM984517-2-10
+11	ε̣ιτου̣	ituv	AUX	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	cop	_	SpaceAfter=No|Ref=TM984517-2-11
+12	.	.	PUNCT	_	_	10	punct	_	Ref=TM984517-2-12
+
+# sent_id = TM938752-1
+# text = [--- …]μενος ειτου.
+1	[---	[---]	SYM	_	_	2	dep	_	Ref=TM938752-1-1
+2	…]μενος	…]μενος	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Mid	0	root	_	Ref=TM938752-1-2
+3	ειτου	ituv	AUX	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	cop	_	SpaceAfter=No|Ref=TM938752-1-3
+4	.	.	PUNCT	_	_	2	punct	_	Ref=TM938752-1-4
+
+# sent_id = TM918553-1
+# text = [] κακο[υν [....... τι]τετικμενος ειτου, τιτεν̣[.] [.........]ις.
+1	[]	[---]	SYM	_	_	4	dep	_	Ref=TM918553-1-1
+2	κακο[υν	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	4	obj	_	Ref=TM918553-1-2
+3	[.......	[---]	SYM	_	_	4	dep	_	Ref=TM918553-1-3
+4	τι]τετικμενος	τιττετικμενος	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	0	root	_	Ref=TM918553-1-4
+5	ειτου	ituv	AUX	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	SpaceAfter=No|Ref=TM918553-1-5
+6	,	,	PUNCT	_	_	4	punct	_	Ref=TM918553-1-6
+7	τιτεν̣[.]	τιτεν[---]	X	_	_	4	dep	_	Ref=TM918553-1-7
+8	[.........]ις	[.........]ις	X	_	_	4	dep	_	SpaceAfter=No|Ref=TM918553-1-8
+9	.	.	PUNCT	_	_	4	punct	_	Ref=TM918553-1-9
+
+# sent_id = TM846203-2
+# text = ❧ ιος νι σ[εμουν κνου]μανε κακουν [αδακετ αι]νι κορου ουε̣[βας?, με ζεμ]ελωσι κε δεως̣ [κε τιε] κε τιτετικμ[ενος ειτου]
+1	❧	❧	SYM	_	_	19	dep	_	Ref=TM846203-2-1
+2	ιος	ios	PRON	_	Case=Nom|ExtPos=PRON|Gender=Masc|Number=Sing|PronType=Rel	7	nsubj	_	Ref=TM846203-2-2
+3	νι	ni	PART	_	_	2	fixed	_	Ref=TM846203-2-3
+4	σ[εμουν	σεμουν	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	5	det	_	Ref=TM846203-2-4
+5	κνου]μανε	κνουμανει	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	7	iobj	_	Ref=TM846203-2-5
+6	κακουν	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	7	obj	_	Ref=TM846203-2-6
+7	[αδακετ	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	19	csubj	_	Ref=TM846203-2-7
+8	αι]νι	aini	CCONJ	_	_	9	cc	_	Ref=TM846203-2-8
+9	κορου	κορου	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	5	iobj	_	Ref=TM846203-2-9
+10	ουε̣[βας?	veban	NOUN	_	Case=Acc|Number=Sing	9	nmod	_	SpaceAfter=No|Ref=TM846203-2-10
+11	,	,	PUNCT	_	_	19	punct	_	Ref=TM846203-2-11
+12	με	με1	ADP	_	_	13	case	_	Ref=TM846203-2-12
+13	ζεμ]ελωσι	ζεμελως	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	19	obl	_	Ref=TM846203-2-13
+14	κε	ke	CCONJ	_	_	13	cc	_	Ref=TM846203-2-14
+15	δεως̣	devos	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	13	conj	_	Ref=TM846203-2-15
+16	[κε	ke	CCONJ	_	_	15	cc	_	Ref=TM846203-2-16
+17	τιε]	τιε	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	15	obl	_	Ref=TM846203-2-17
+18	κε	ke	CCONJ	_	_	17	cc	_	Ref=TM846203-2-18
+19	τιτετικμ[ενος	τιττετικμενος	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	0	root	_	Ref=TM846203-2-19
+20	ειτου]	ituv	AUX	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	19	cop	_	Ref=TM846203-2-20
+
+# sent_id = TM932144-1
+# text = τις κε γερε[ν/τ], τιττετικμ̣[ε]νοι ιννου.
+1	τις	τις	PRON	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Ind	3	nsubj	_	Ref=TM932144-1-1
+2	κε	ke	CCONJ	_	_	5	cc	_	Ref=TM932144-1-2
+3	γερε[ν/τ]	egertoy	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	csubj	_	SpaceAfter=No|Ref=TM932144-1-3
+4	,	,	PUNCT	_	_	5	punct	_	Ref=TM932144-1-4
+5	τιττετικμ̣[ε]νοι	τιττετικμενος	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Mid	0	root	_	Ref=TM932144-1-5
+6	ιννου	ituv	AUX	_	Mood=Imp|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	SpaceAfter=No|Ref=TM932144-1-6
+7	.	.	PUNCT	_	_	5	punct	_	Ref=TM932144-1-7
+
+# sent_id = TM984541-1
+# text = ιος νι [σ]εμον κν[ου]μανη κακον αβ̣β̣ε̣ρετ ατ νουκτον μρος σας, ιος κε βρειτ περβεδαν, τιη τιττετικμενος ειτου.
+1	ιος	ios	PRON	_	Case=Nom|ExtPos=PRON|Gender=Masc|Number=Sing|PronType=Rel	6	nsubj	_	Ref=TM984541-1-1
+2	νι	ni	PART	_	_	1	fixed	_	Ref=TM984541-1-2
+3	[σ]εμον	σεμουν	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	4	det	_	Ref=TM984541-1-3
+4	κν[ου]μανη	κνουμανει	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	6	iobj	_	Ref=TM984541-1-4
+5	κακον	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	obj	_	Ref=TM984541-1-5
+6	αβ̣β̣ε̣ρετ	αββερετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	18	csubj	_	Ref=TM984541-1-6
+7	ατ	ad	ADP	_	_	8	case	_	Ref=TM984541-1-7
+8	νουκτον	νουκτον	NOUN	_	Case=Acc	6	obl	_	Ref=TM984541-1-8
+9	μρος	μρος	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	Ref=TM984541-1-9
+10	σας	σεμουν	DET	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	9	det	_	SpaceAfter=No|Ref=TM984541-1-10
+11	,	,	PUNCT	_	_	6	punct	_	Ref=TM984541-1-11
+12	ιος	ios	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	14	nsubj	_	Ref=TM984541-1-12
+13	κε	ke	CCONJ	_	_	14	cc	_	Ref=TM984541-1-13
+14	βρειτ	βρειτ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	conj	_	Ref=TM984541-1-14
+15	περβεδαν	περβεδαν	NOUN	_	Case=Acc|Number=Sing	14	obj	_	SpaceAfter=No|Ref=TM984541-1-15
+16	,	,	PUNCT	_	_	18	punct	_	Ref=TM984541-1-16
+17	τιη	τιε	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	18	obl	_	Ref=TM984541-1-17
+18	τιττετικμενος	τιττετικμενος	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	0	root	_	Ref=TM984541-1-18
+19	ειτου	ituv	AUX	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	18	cop	_	SpaceAfter=No|Ref=TM984541-1-19
+20	.	.	PUNCT	_	_	18	punct	_	Ref=TM984541-1-20
+
+# sent_id = TM984542-2
+# text = ιος νι σ[εμ]ον τ[ου] κνουμαν[ε] κακουν τι α̣δ[δ]ακετ, διος [κ]ε σ̣ζεμελως κε̣ τιτ[τ]ε[τ]ικμεν[ος] ε̣ιτου, ατ τιη κε αδειτου.
+1	ιος	ios	PRON	_	Case=Nom|ExtPos=PRON|Gender=Masc|Number=Sing|PronType=Rel	8	nsubj	_	Ref=TM984542-2-1
+2	νι	ni	PART	_	_	1	fixed	_	Ref=TM984542-2-2
+3	σ[εμ]ον	σεμουν	DET	_	Case=Dat|ExtPos=DET|Gender=Neut|Number=Sing|PronType=Dem	5	det	_	Ref=TM984542-2-3
+4	τ[ου]	τος	PART	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	3	fixed	_	Ref=TM984542-2-4
+5	κνουμαν[ε]	κνουμανει	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	8	iobj	_	Ref=TM984542-2-5
+6	κακουν	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	8	obj	_	Ref=TM984542-2-6
+7	τι	τις	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	6	det	_	Ref=TM984542-2-7
+8	α̣δ[δ]ακετ	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	csubj	_	SpaceAfter=No|Ref=TM984542-2-8
+9	,	,	PUNCT	_	_	14	punct	_	Ref=TM984542-2-9
+10	διος	devos	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	14	obl	_	Ref=TM984542-2-10
+11	[κ]ε	ke	CCONJ	_	_	10	cc	_	Ref=TM984542-2-11
+12	σ̣ζεμελως	ζεμελως	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	10	conj	_	Ref=TM984542-2-12
+13	κε̣	ke	CCONJ	_	_	12	cc	_	Ref=TM984542-2-13
+14	τιτ[τ]ε[τ]ικμεν[ος]	τιττετικμενος	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	0	root	_	Ref=TM984542-2-14
+15	ε̣ιτου	ituv	AUX	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	cop	_	SpaceAfter=No|Ref=TM984542-2-15
+16	,	,	PUNCT	_	_	14	punct	_	Ref=TM984542-2-16
+17	ατ	ad	ADP	_	_	18	case	_	Ref=TM984542-2-17
+18	τιη	τιε	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	20	obl	_	Ref=TM984542-2-18
+19	κε	ke	CCONJ	_	_	20	cc	_	Ref=TM984542-2-19
+20	αδειτου	ituv	AUX	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	conj	_	SpaceAfter=No|Ref=TM984542-2-20
+21	.	.	PUNCT	_	_	14	punct	_	Ref=TM984542-2-21
+
+# sent_id = TM984543-2
+# text = ιος νι ⟨σ⟩εμ̣[ουν κνουμανε? κα]κουν αδακε[τ --- ατ τι]ε τιτετικ[μενος ειτου].
+1	ιος	ios	PRON	_	Case=Nom|ExtPos=PRON|Gender=Masc|Number=Sing|PronType=Rel	6	nsubj	_	Ref=TM984543-2-1
+2	νι	ni	PART	_	_	1	fixed	_	Ref=TM984543-2-2
+3	⟨σ⟩εμ̣[ουν	σεμουν	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	4	det	_	Ref=TM984543-2-3
+4	κνουμανε?	κνουμανει	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	6	iobj	_	Ref=TM984543-2-4
+5	κα]κουν	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	obj	_	Ref=TM984543-2-5
+6	αδακε[τ	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	csubj	_	Ref=TM984543-2-6
+7	---	[---]	SYM	_	_	10	dep	_	Ref=TM984543-2-7
+8	ατ	ad	ADP	_	_	9	case	_	Ref=TM984543-2-8
+9	τι]ε	τιε	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	10	obl	_	Ref=TM984543-2-9
+10	τιτετικ[μενος	τιττετικμενος	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	0	root	_	Ref=TM984543-2-10
+11	ειτου]	ituv	AUX	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	cop	_	SpaceAfter=No|Ref=TM984543-2-11
+12	.	.	PUNCT	_	_	10	punct	_	Ref=TM984543-2-12
+
+# sent_id = TM846319-2
+# text = ιος σεμουν κνουμανε αινι μαν̣κ̣α̣ κ̣α̣κ̣ον αδδακ[ετ, ---]
+1	ιος	ios	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	7	nsubj	_	Ref=TM846319-2-1
+2	σεμουν	σεμουν	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	3	det	_	Ref=TM846319-2-2
+3	κνουμανε	κνουμανει	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	7	iobj	_	Ref=TM846319-2-3
+4	αινι	aini	CCONJ	_	_	5	cc	_	Ref=TM846319-2-4
+5	μαν̣κ̣α̣	μανκα	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	3	conj	_	Ref=TM846319-2-5
+6	κ̣α̣κ̣ον	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	7	obj	_	Ref=TM846319-2-6
+7	αδδακ[ετ	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Ref=TM846319-2-7
+8	,	,	PUNCT	_	_	7	punct	_	Ref=TM846319-2-8
+9	---]	[---]	SYM	_	_	7	dep	_	Ref=TM846319-2-9
+
+# sent_id = TM846318-1
+# text = ιος νι σεμον κνουμανε κακον̣ αδακετ, δεως ζεμελως τιτετικμενος ειτου.
+1	ιος	ios	PRON	_	Case=Nom|ExtPos=PRON|Gender=Masc|Number=Sing|PronType=Rel	6	nsubj	_	Ref=TM846318-1-1
+2	νι	ni	PART	_	_	1	fixed	_	Ref=TM846318-1-2
+3	σεμον	σεμουν	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	4	det	_	Ref=TM846318-1-3
+4	κνουμανε	κνουμανει	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	6	iobj	_	Ref=TM846318-1-4
+5	κακον̣	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	obj	_	Ref=TM846318-1-5
+6	αδακετ	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	csubj	_	SpaceAfter=No|Ref=TM846318-1-6
+7	,	,	PUNCT	_	_	10	punct	_	Ref=TM846318-1-7
+8	δεως	devos	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	10	obl	_	Ref=TM846318-1-8
+9	ζεμελως	ζεμελως	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	8	conj	_	Ref=TM846318-1-9
+10	τιτετικμενος	τιττετικμενος	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	0	root	_	Ref=TM846318-1-10
+11	ειτου	ituv	AUX	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	cop	_	SpaceAfter=No|Ref=TM846318-1-11
+12	.	.	PUNCT	_	_	10	punct	_	Ref=TM846318-1-12
+
+# sent_id = TM846320-2
+# text = ιος νι σεμουν κνουμανε κακουν αδακετ, ι?ος τιτετουκμενουν ειτου.
+1	ιος	ios	PRON	_	Case=Nom|ExtPos=PRON|Gender=Masc|Number=Sing|PronType=Rel	6	nsubj	_	Ref=TM846320-2-1
+2	νι	ni	PART	_	_	1	fixed	_	Ref=TM846320-2-2
+3	σεμουν	σεμουν	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	4	det	_	Ref=TM846320-2-3
+4	κνουμανε	κνουμανει	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	6	iobj	_	Ref=TM846320-2-4
+5	κακουν	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	obj	_	Ref=TM846320-2-5
+6	αδακετ	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	acl	_	SpaceAfter=No|Ref=TM846320-2-6
+7	,	,	PUNCT	_	_	6	punct	_	Ref=TM846320-2-7
+8	ι?ος	ios	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	9	nsubj	_	Ref=TM846320-2-8
+9	τιτετουκμενουν	τιττετικμενος	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	0	root	_	Ref=TM846320-2-9
+10	ειτου	ituv	AUX	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	cop	_	SpaceAfter=No|Ref=TM846320-2-10
+11	.	.	PUNCT	_	_	9	punct	_	Ref=TM846320-2-11
+
+# sent_id = TM846322-1
+# text = [---] [..].
+1	[---]	[---]	SYM	_	_	0	root	_	Ref=TM846322-1-1
+2	[..]	[---]	SYM	_	_	1	dep	_	SpaceAfter=No|Ref=TM846322-1-2
+3	.	.	PUNCT	_	_	1	punct	_	Ref=TM846322-1-3
+
+# sent_id = TM846322-2
+# text = ιος σεμουν κνουμανε κακουν [.....] [---]
+1	ιος	ios	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	5	nsubj	_	Ref=TM846322-2-1
+2	σεμουν	σεμουν	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	3	det	_	Ref=TM846322-2-2
+3	κνουμανε	κνουμανει	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	5	iobj	_	Ref=TM846322-2-3
+4	κακουν	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	5	obj	_	Ref=TM846322-2-4
+5	[.....]	[---]	SYM	_	_	0	root	_	Ref=TM846322-2-5
+6	[---]	[---]	SYM	_	_	5	dep	_	Ref=TM846322-2-6
+
+# sent_id = TM984518-1
+# text = ιος νι σεμον κνουμανι κακον αδ̣ακ˹ετ˺, τιε τιτετικμεν̣[ος ειτου].
+1	ιος	ios	PRON	_	Case=Nom|ExtPos=PRON|Gender=Masc|Number=Sing|PronType=Rel	6	nsubj	_	Ref=TM984518-1-1
+2	νι	ni	PART	_	_	1	fixed	_	Ref=TM984518-1-2
+3	σεμον	σεμουν	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	4	det	_	Ref=TM984518-1-3
+4	κνουμανι	κνουμανει	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	6	iobj	_	Ref=TM984518-1-4
+5	κακον	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	obj	_	Ref=TM984518-1-5
+6	αδ̣ακ˹ετ˺	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	csubj	_	SpaceAfter=No|Ref=TM984518-1-6
+7	,	,	PUNCT	_	_	9	punct	_	Ref=TM984518-1-7
+8	τιε	τιε	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	9	obl	_	Ref=TM984518-1-8
+9	τιτετικμεν̣[ος	τιττετικμενος	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	0	root	_	Ref=TM984518-1-9
+10	ειτου]	ituv	AUX	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	cop	_	SpaceAfter=No|Ref=TM984518-1-10
+11	.	.	PUNCT	_	_	9	punct	_	Ref=TM984518-1-11
+
+# sent_id = TM846321-2
+# text = ισος κε σεμουν κνουμανε ❧ [κακουν αδδακετ, τιττετκιμενο]ς ειτου. ❧
+1	ισος	ios	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	7	nsubj	_	Ref=TM846321-2-1
+2	κε	ke	CCONJ	_	_	9	cc	_	Ref=TM846321-2-2
+3	σεμουν	σεμουν	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	4	det	_	Ref=TM846321-2-3
+4	κνουμανε	κνουμανει	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	7	iobj	_	Ref=TM846321-2-4
+5	❧	❧	SYM	_	_	9	dep	_	Ref=TM846321-2-5
+6	[κακουν	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	7	obj	_	Ref=TM846321-2-6
+7	αδδακετ	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	csubj	_	SpaceAfter=No|Ref=TM846321-2-7
+8	,	,	PUNCT	_	_	9	punct	_	Ref=TM846321-2-8
+9	τιττετκιμενο]ς	τιττετικμενος	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	0	root	_	Ref=TM846321-2-9
+10	ειτου	ituv	AUX	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	cop	_	SpaceAfter=No|Ref=TM846321-2-10
+11	.	.	PUNCT	_	_	9	punct	_	Ref=TM846321-2-11
+12	❧	❧	SYM	_	_	9	dep	_	Ref=TM846321-2-12
+
+# sent_id = TM1002268-1
+# text = ιος νι σεμουν κνουμανε κακουν αδδακετ (με δεως κε ζεμελως κε) τιττετικμενος ειτου
+1	ιος	ios	PRON	_	Case=Nom|ExtPos=PRON|Gender=Masc|Number=Sing|PronType=Rel	6	nsubj	_	Ref=TM1002268-1-1
+2	νι	ni	PART	_	_	1	fixed	_	Ref=TM1002268-2
+3	σεμουν	σεμουν	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	4	det	_	Ref=TM1002268-1-3
+4	κνουμανε	κνουμανει	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	6	iobj	_	Ref=TM1002268-1-4
+5	κακουν	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	obj	_	Ref=TM1002268-1-5
+6	αδδακετ	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	csubj	_	Ref=TM1002268-1-6
+7	(	(	PUNCT	_	_	14	punct	_	Ref=TM1002268-1-7|SpaceAfter=No
+8	με	με	ADP	_	_	9	case	_	Ref=TM1002268-1-8
+9	δεως	devos	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	14	obl	_	Ref=TM1002268-1-9
+10	κε	ke	CCONJ	_	_	9	cc	_	Ref=TM1002268-1-10
+11	ζεμελως	ζεμελως	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	9	conj	_	Ref=TM1002268-1-11
+12	κε	ke	CCONJ	_	_	11	cc	_	Ref=TM1002268-1-12|SpaceAfter=No
+13	)	)	PUNCT	_	_	14	punct	_	Ref=TM1002268-1-13
+14	τιττετικμενος	τιττετικμενος	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	0	root	_	Ref=TM1002268-1-14
+15	ειτου	ituv	AUX	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	cop	_	Ref=TM1002268-1-15
+
+# sent_id = TM984544-1
+# text = ιος νι σιμουν κνουμανι κακουν αββιρετο αινι μμυρα, τος νι δ̣[ιως ζ]ιμε̣λως τι μεκα τ[ιε] τιττετικμενος ειτου.
+1	ιος	ios	PRON	_	Case=Nom|ExtPos=PRON|Gender=Masc|Number=Sing|PronType=Rel	6	nsubj	_	Ref=TM984544-1-1
+2	νι	ni	PART	_	_	1	fixed	_	Ref=TM984544-1-2
+3	σιμουν	σεμουν	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	4	det	_	Ref=TM984544-1-3
+4	κνουμανι	κνουμανει	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	6	iobj	_	Ref=TM984544-1-4
+5	κακουν	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	obj	_	Ref=TM984544-1-5
+6	αββιρετο	αββερετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	10	acl	_	Ref=TM984544-1-6
+7	αινι	aini	CCONJ	_	_	8	cc	_	Ref=TM984544-1-7
+8	μμυρα	μουρουν	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	4	conj	_	SpaceAfter=No|Ref=TM984544-1-8
+9	,	,	PUNCT	_	_	6	punct	_	Ref=TM984544-1-9
+10	τος	τος	PRON	_	Case=Nom|ExtPos=PRON|Gender=Masc|Number=Sing|PronType=Dem	17	nsubj	_	Ref=TM984544-1-10
+11	νι	ni	PART	_	_	10	fixed	_	Ref=TM984544-1-11
+12	δ̣[ιως	devos	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	17	obl	_	Ref=TM984544-1-12
+13	ζ]ιμε̣λως	ζεμελως	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	12	conj	_	Ref=TM984544-1-13
+14	τι	τος	DET	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Dem	16	det	_	Ref=TM984544-1-14
+15	μεκα	mekas	ADJ	_	Case=Dat|Gender=Masc|Number=Sing	16	amod	_	Ref=TM984544-1-15
+16	τ[ιε]	τιε	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	17	obl	_	Ref=TM984544-1-16
+17	τιττετικμενος	τιττετικμενος	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	0	root	_	Ref=TM984544-1-17
+18	ειτου	ituv	AUX	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	17	cop	_	SpaceAfter=No|Ref=TM984544-1-18
+19	.	.	PUNCT	_	_	17	punct	_	Ref=TM984544-1-19
+
+# sent_id = TM984545-1
+# text = ιος νι σεμον κνουμανε κακον δακετ αινι μανκα, τιε τιττετικμενος ειτου.
+1	ιος	ios	PRON	_	Case=Nom|ExtPos=PRON|Gender=Masc|Number=Sing|PronType=Rel	6	nsubj	_	Ref=TM984545-1-1
+2	νι	ni	PART	_	_	1	fixed	_	Ref=TM984545-1-2
+3	σεμον	σεμουν	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	4	det	_	Ref=TM984545-1-3
+4	κνουμανε	κνουμανει	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	6	iobj	_	Ref=TM984545-1-4
+5	κακον	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	obj	_	Ref=TM984545-1-5
+6	δακετ	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	csubj	_	Ref=TM984545-1-6
+7	αινι	aini	CCONJ	_	_	8	cc	_	Ref=TM984545-1-7
+8	μανκα	μανκα	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	4	conj	_	SpaceAfter=No|Ref=TM984545-1-8
+9	,	,	PUNCT	_	_	11	punct	_	Ref=TM984545-1-9
+10	τιε	τιε	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	11	obl	_	Ref=TM984545-1-10
+11	τιττετικμενος	τιττετικμενος	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	0	root	_	Ref=TM984545-1-11
+12	ειτου	ituv	AUX	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	cop	_	SpaceAfter=No|Ref=TM984545-1-12
+13	.	.	PUNCT	_	_	11	punct	_	Ref=TM984545-1-13
+
+# sent_id = TM984546-1
+# text = ιος σεμον το κακον οδ̣[---]
+1	ιος	ios	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	5	nsubj	_	Ref=TM984546-1-1
+2	σεμον	σεμουν	DET	_	Case=Dat|ExtPos=DET|Gender=Neut|Number=Sing|PronType=Dem	5	orphan	_	Ref=TM984546-1-2
+3	το	τος	PART	_	Case=Dat|Gender=Neut|Number=Sing	2	fixed	_	Ref=TM984546-1-3
+4	κακον	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	5	obj	_	Ref=TM984546-1-4
+5	οδ̣[---]	οδ̣[---]	X	_	_	0	root	_	Ref=TM984546-1-5
+
+# sent_id = TM847650-1
+# text = [ιος σ]α μακκα κακουν αδακετ, ατ τιε τιτετικμενος ειτου.
+1	[ιος	ios	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	5	nsubj	_	Ref=TM847650-1-1
+2	σ]α	σεμουν	DET	_	Case=Dat|Gender=Fem|Number=Sing|PronType=Dem	3	det	_	Ref=TM847650-1-2
+3	μακκα	μανκα	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	5	iobj	_	Ref=TM847650-1-3
+4	κακουν	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	5	obj	_	Ref=TM847650-1-4
+5	αδακετ	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	csubj	_	SpaceAfter=No|Ref=TM847650-1-5
+6	,	,	PUNCT	_	_	9	punct	_	Ref=TM847650-1-6
+7	ατ	ad	ADP	_	_	8	case	_	Ref=TM847650-1-7
+8	τιε	τιε	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	9	obl	_	Ref=TM847650-1-8
+9	τιτετικμενος	τιττετικμενος	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	0	root	_	Ref=TM847650-1-9
+10	ειτου	ituv	AUX	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	cop	_	SpaceAfter=No|Ref=TM847650-1-10
+11	.	.	PUNCT	_	_	9	punct	_	Ref=TM847650-1-11
+
+# sent_id = TM984547-2
+# text = ιος νι σεμουν του κνουμανει κακουν αδδακετ, [τιττ]ετικμενος ειτου.
+1	ιος	ios	PRON	_	Case=Nom|ExtPos=PRON|Gender=Masc|Number=Sing|PronType=Rel	7	nsubj	_	Ref=TM984547-2-1
+2	νι	ni	PART	_	_	1	fixed	_	Ref=TM984547-2-2
+3	σεμουν	σεμουν	DET	_	Case=Dat|ExtPos=DET|Gender=Neut|Number=Sing|PronType=Dem	5	det	_	Ref=TM984547-2-3
+4	του	τος	PART	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	3	fixed	_	Ref=TM984547-2-4
+5	κνουμανει	κνουμανει	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	7	iobj	_	Ref=TM984547-2-5
+6	κακουν	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	7	obj	_	Ref=TM984547-2-6
+7	αδδακετ	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	csubj	_	SpaceAfter=No|Ref=TM984547-2-7
+8	,	,	PUNCT	_	_	9	punct	_	Ref=TM984547-2-8
+9	[τιττ]ετικμενος	τιττετικμενος	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	0	root	_	Ref=TM984547-2-9
+10	ειτου	ituv	AUX	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	cop	_	SpaceAfter=No|Ref=TM984547-2-10
+11	.	.	PUNCT	_	_	9	punct	_	Ref=TM984547-2-11
+
+# sent_id = TM918640-1
+# text = [................]ι επρι̣ [...........]ει κ’ ονομα [...........] δ̣ουδας ακαλας ευκιν αργου.
+1	[................]ι	[................]ι	X	_	_	0	root	_	Ref=TM918640-1-1
+2	επρι̣	επρι	X	_	_	1	dep	_	Ref=TM918640-1-2
+3	[...........]ει	[...........]ει	X	_	_	1	dep	_	Ref=TM918640-1-3
+4	κ’	ke	CCONJ	_	_	3	cc	_	Ref=TM918640-1-4
+5	ονομα	onoman	NOUN	_	_	1	dep	_	Ref=TM918640-1-5
+6	[...........]	[---]	SYM	_	_	1	dep	_	Ref=TM918640-1-6
+7	δ̣ουδας	δουδας	PROPN	_	Gender=Masc|Number=Sing	1	dep	_	Ref=TM918640-1-7
+8	ακαλας	ακαλας	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	Ref=TM918640-1-8
+9	ευκιν	ευκιν	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	1	obl	_	Ref=TM918640-1-9
+10	αργου	αργου	NOUN	_	Case=Gen	9	case	_	SpaceAfter=No|Ref=TM918640-1-10
+11	.	.	PUNCT	_	_	1	punct	_	Ref=TM918640-1-11
+
+# sent_id = TM918640-2
+# text = σιβη [...........] ουεβαν εγερετοι αυτω αυταη κε ταν εινν̣ο̣υ̣.
+1	σιβη	σιβη[-?-]	X	_	_	4	dep	_	Ref=TM918640-2-1
+2	[...........]	[---]	SYM	_	_	4	dep	_	Ref=TM918640-2-2
+3	ουεβαν	veban	NOUN	_	Case=Acc|Number=Sing	4	dep	_	Ref=TM918640-2-3
+4	εγερετοι	egertoy	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	Ref=TM918640-2-4
+5	αυτω	αυτος	PRON	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Emp	4	dep	_	Ref=TM918640-2-5
+6	αυταη	αυτος	PRON	_	Case=Dat|Gender=Fem|Number=Sing|PronType=Emp	5	conj	_	Ref=TM918640-2-6
+7	κε	ke	CCONJ	_	_	6	cc	_	Ref=TM918640-2-7
+8	ταν	τος	PRON	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	4	dep	_	Ref=TM918640-2-8
+9	εινν̣ο̣υ̣	ituv	AUX	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	SpaceAfter=No|Ref=TM918640-2-9
+10	.	.	PUNCT	_	_	4	punct	_	Ref=TM918640-2-10
+
+# sent_id = TM845335-1
+# text = [ι]ος α̣ν̣ σ̣[εμουν κακου]ν̣ κνου̣μ̣μανει δοκε[τ, ατ τ]ι αδειτου.
+1	[ι]ος	ios	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	6	nsubj	_	Ref=TM845335-1-1
+2	α̣ν̣	αν	X	_	_	6	dep	_	Ref=TM845335-1-2
+3	σ̣[εμουν	σεμουν	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	5	det	_	Ref=TM845335-1-3
+4	κακου]ν̣	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	obj	_	Ref=TM845335-1-4
+5	κνου̣μ̣μανει	κνουμανει	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	6	iobj	_	Ref=TM845335-1-5
+6	δοκε[τ	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Ref=TM845335-1-6
+7	,	,	PUNCT	_	_	6	punct	_	Ref=TM845335-1-7
+8	ατ	ad	ADP	_	_	9	case	_	Ref=TM845335-1-8
+9	τ]ι	τιε	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	6	obl	_	Ref=TM845335-1-9
+10	αδειτου	ituv	AUX	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	_	SpaceAfter=No|Ref=TM845335-1-10
+11	.	.	PUNCT	_	_	6	punct	_	Ref=TM845335-1-11
+
+# sent_id = TM984548-1
+# text = [ιος σε]μον κνου[μανε]ι κακων [....]αν αββε[ρετ, τι]τετικμε[νος α]τ τι αδε[ι]του.
+1	[ιος	ios	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	6	nsubj	_	Ref=TM984548-1-1
+2	σε]μον	σεμουν	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	3	det	_	Ref=TM984548-1-2
+3	κνου[μανε]ι	κνουμανει	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	6	iobj	_	Ref=TM984548-1-3
+4	κακων	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	obj	_	Ref=TM984548-1-4
+5	[....]αν	[....]αν	X	_	_	8	dep	_	Ref=TM984548-1-5
+6	αββε[ρετ	αββερετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	csubj	_	SpaceAfter=No|Ref=TM984548-1-6
+7	,	,	PUNCT	_	_	8	punct	_	Ref=TM984548-1-7
+8	τι]τετικμε[νος	τιττετικμενος	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	0	root	_	Ref=TM984548-1-8
+9	α]τ	ad	ADP	_	_	10	case	_	Ref=TM984548-1-9
+10	τι	τιε	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	8	obl	_	Ref=TM984548-1-10
+11	αδε[ι]του	ituv	AUX	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	cop	_	SpaceAfter=No|Ref=TM984548-1-11
+12	.	.	PUNCT	_	_	8	punct	_	Ref=TM984548-1-12
+
+# sent_id = TM928663-2
+# text = ειος νι σεμουν κνουμανι κακον αδδακετ, ζειρα κε οι πετ̣ες κε τιττετικμενα ατ τιε αδειννου.
+1	ειος	ios	PRON	_	Case=Nom|ExtPos=PRON|Gender=Masc|Number=Sing|PronType=Rel	6	nsubj	_	Ref=TM928663-2-1
+2	νι	ni	PART	_	_	1	fixed	_	Ref=TM928663-2-2
+3	σεμουν	σεμουν	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	4	det	_	Ref=TM928663-2-3
+4	κνουμανι	κνουμανει	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	6	iobj	_	Ref=TM928663-2-4
+5	κακον	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	obj	_	Ref=TM928663-2-5
+6	αδδακετ	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	acl	_	SpaceAfter=No|Ref=TM928663-2-6
+7	,	,	PUNCT	_	_	6	punct	_	Ref=TM928663-2-7
+8	ζειρα	𐋇iray	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	13	nsubj	_	Ref=TM928663-2-8
+9	κε	ke	CCONJ	_	_	8	cc	_	Ref=TM928663-2-9
+10	οι	ιοι	PRON	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Dem	8	iobj	_	Ref=TM928663-2-10
+11	πετ̣ες	petes	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	8	conj	_	Ref=TM928663-2-11
+12	κε	ke	CCONJ	_	_	11	cc	_	Ref=TM928663-2-12
+13	τιττετικμενα	τιττετικμενος	VERB	_	Aspect=Perf|Case=Nom|Gender=Neut|Number=Plur|Tense=Past|VerbForm=Part|Voice=Mid	0	root	_	Ref=TM928663-2-13
+14	ατ	ad	ADP	_	_	15	case	_	Ref=TM928663-2-14
+15	τιε	τιε	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	13	obl	_	Ref=TM928663-2-15
+16	αδειννου	ituv	AUX	_	Mood=Imp|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	cop	_	SpaceAfter=No|Ref=TM928663-2-16
+17	.	.	PUNCT	_	_	13	punct	_	Ref=TM928663-2-17
+
+# sent_id = TM942648-1
+# text = [--- κ]α̣κουν αββερετ αιν̣[ι ---] [---] αδειτου.
+1	[---	[---]	SYM	_	_	3	dep	_	Ref=TM942648-1-1
+2	κ]α̣κουν	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	3	obj	_	Ref=TM942648-1-2
+3	αββερετ	αββερετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=TM942648-1-3
+4	αιν̣[ι	aini	CCONJ	_	_	5	cc	_	Ref=TM942648-1-4
+5	---]	[---]	SYM	_	_	3	dep	_	Ref=TM942648-1-5
+6	[---]	[---]	SYM	_	_	3	dep	_	Ref=TM942648-1-6
+7	αδειτου	ituv	AUX	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	SpaceAfter=No|Ref=TM942648-1-7
+8	.	.	PUNCT	_	_	3	punct	_	Ref=TM942648-1-8
+
+# sent_id = TM932138-1
+# text = ας σεμουν κνουμαν αδιθρερακ ξευνεοι αδικες εσ?αν μανκαν ιαν εσταες βρατερε μαιμαρηαν, πουκρος μανισ[ο]υ ενεπαρκες δετουν.
+1	ας	as	ADP	_	_	3	case	_	Ref=TM932138-1-1
+2	σεμουν	σεμουν	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	3	det	_	Ref=TM932138-1-2
+3	κνουμαν	κνουμανει	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	obl	_	Ref=TM932138-1-3
+4	αδιθρερακ	αδιθρερακ	PROPN	_	Case=Nom|Number=Sing	6	nsubj	_	Ref=TM932138-1-4
+5	ξευνεοι	ξευνε	PROPN	_	Case=Dat|Gender=Fem|Number=Sing	6	iobj	_	Ref=TM932138-1-5
+6	αδικες	αδικεσει	VERB	_	Number=Sing|Person=3|Typo=Yes	0	root	_	Ref=TM932138-1-6
+7	εσ?αν	_	X	_	_	6	goeswith	_	Ref=TM932138-1-7
+8	μανκαν	μανκα	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	6	obj	_	Ref=TM932138-1-8
+9	ιαν	ios	PRON	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Rel	10	obj	_	Ref=TM932138-1-9
+10	εσταες	estaes	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	8	acl	_	Ref=TM932138-1-10
+11	βρατερε	braterais	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	10	iobj	_	Ref=TM932138-1-11
+12	μαιμαρηαν	μαιμαρηαν	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	10	dislocated	_	SpaceAfter=No|Ref=TM932138-1-12
+13	,	,	PUNCT	_	_	16	punct	_	Ref=TM932138-1-13
+14	πουκρος	πουκρος	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	16	nsubj	_	Ref=TM932138-1-14
+15	μανισ[ο]υ	μανισου	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	14	nmod	_	Ref=TM932138-1-15
+16	ενεπαρκες	eneparkes	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	conj	_	Ref=TM932138-1-16
+17	δετουν	δετουν	NOUN	_	Case=Acc|Number=Sing	16	obj	_	SpaceAfter=No|Ref=TM932138-1-17
+18	.	.	PUNCT	_	_	6	punct	_	Ref=TM932138-1-18
+
+# sent_id = TM932138-2
+# text = [… ξ]ευναν αι δμως βροκειω [.......] δεκμουταης ιου [.........] προ τοσου
+1	[…	[---]	SYM	_	_	0	root	_	Ref=TM932138-2-1
+2	ξ]ευναν	ξευνε	PROPN	_	Case=Acc|Gender=Fem|Number=Sing	1	dep	_	Ref=TM932138-2-2
+3	αι	ai	CCONJ	_	_	2	cc	_	Ref=TM932138-2-3
+4	δμως	δμως	X	_	_	1	dep	_	Ref=TM932138-2-4
+5	βροκειω	βροκειω	X	_	_	1	dep	_	Ref=TM932138-2-5
+6	[.......]	[---]	SYM	_	_	1	dep	_	Ref=TM932138-2-6
+7	δεκμουταης	δεκμουταις	X	_	Case=Acc|Number=Plur	1	dep	_	Ref=TM932138-2-7
+8	ιου	ios	PRON	_	Case=Gen|Number=Sing|PronType=Rel	1	dep	_	Ref=TM932138-2-8
+9	[.........]	[---]	SYM	_	_	1	dep	_	Ref=TM932138-2-9
+10	προ	προ	X	_	_	1	dep	_	Ref=TM932138-2-10
+11	τοσου	τοσου	X	_	_	1	dep	_	Ref=TM932138-2-11
+
+# sent_id = TM845306-1
+# text = [ι]ος νι σεμον κνουμανε [κα]κον αδακετ αινι α τεα̣μ̣[ας, α] τιε τιτετικμενος ειτ[ου].
+1	[ι]ος	ios	PRON	_	Case=Nom|ExtPos=PRON|Gender=Masc|Number=Sing|PronType=Rel	6	nsubj	_	Ref=TM845306-1-1
+2	νι	ni	PART	_	_	1	fixed	_	Ref=TM845306-1-2
+3	σεμον	σεμουν	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	4	det	_	Ref=TM845306-1-3
+4	κνουμανε	κνουμανει	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	6	iobj	_	Ref=TM845306-1-4
+5	[κα]κον	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	obj	_	Ref=TM845306-1-5
+6	αδακετ	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	csubj	_	Ref=TM845306-1-6
+7	αινι	aini	CCONJ	_	_	9	cc	_	Ref=TM845306-1-7
+8	α	as	ADP	_	_	9	case	_	Ref=TM845306-1-8
+9	τεα̣μ̣[ας	ατεαμα	NOUN	_	Case=Dat|Number=Plur	6	conj	_	SpaceAfter=No|Ref=TM845306-1-9
+10	,	,	PUNCT	_	_	6	punct	_	Ref=TM845306-1-10
+11	α]	ad	ADP	_	_	12	case	_	Ref=TM845306-1-11
+12	τιε	τιε	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	13	obl	_	Ref=TM845306-1-12
+13	τιτετικμενος	τιττετικμενος	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	0	root	_	Ref=TM845306-1-13
+14	ειτ[ου]	ituv	AUX	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	cop	_	SpaceAfter=No|Ref=TM845306-1-14
+15	.	.	PUNCT	_	_	13	punct	_	Ref=TM845306-1-15
+
+# sent_id = TM845334-1
+# text = ιος σεμου[ν κ]νουμ̣ανει κακ̣ο̣υ[ν α]δδακετ τιττετικμενος ατ Τιε αδειτου.
+1	ιος	ios	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	5	nsubj	_	Ref=TM845334-1-1
+2	σεμου[ν	σεμουν	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	3	det	_	Ref=TM845334-1-2
+3	κ]νουμ̣ανει	κνουμανει	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	5	iobj	_	Ref=TM845334-1-3
+4	κακ̣ο̣υ[ν	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	5	obj	_	Ref=TM845334-1-4
+5	α]δδακετ	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	csubj	_	Ref=TM845334-1-5
+6	τιττετικμενος	τιττετικμενος	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	0	root	_	Ref=TM845334-1-6
+7	ατ	ad	ADP	_	_	8	case	_	Ref=TM845334-1-7
+8	Τιε	τιε	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	6	obl	_	Ref=TM845334-1-8
+9	αδειτου	ituv	AUX	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	_	SpaceAfter=No|Ref=TM845334-1-9
+10	.	.	PUNCT	_	_	6	punct	_	Ref=TM845334-1-10
+
+# sent_id = TM845198-1
+# text = [ιος νι σεμουν κνο]υνμανει κακουν αδ[δακετ, τιτ?τετικμε]νος ατ τι αδειτου.
+1	[ιος	ios	PRON	_	Case=Nom|ExtPos=PRON|Gender=Masc|Number=Sing|PronType=Rel	6	nsubj	_	Ref=TM845198-1-1
+2	νι	ni	PART	_	_	1	fixed	_	Ref=TM845198-1-2
+3	σεμουν	σεμουν	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	4	det	_	Ref=TM845198-1-3
+4	κνο]υνμανει	κνουμανει	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	6	iobj	_	Ref=TM845198-1-4
+5	κακουν	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	obj	_	Ref=TM845198-1-5
+6	αδ[δακετ	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	csubj	_	SpaceAfter=No|Ref=TM845198-1-6
+7	,	,	PUNCT	_	_	8	punct	_	Ref=TM845198-1-7
+8	τιτ?τετικμε]νος	τιττετικμενος	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	0	root	_	Ref=TM845198-1-8
+9	ατ	ad	ADP	_	_	10	case	_	Ref=TM845198-1-9
+10	τι	τιε	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	8	obl	_	Ref=TM845198-1-10
+11	αδειτου	ituv	AUX	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	cop	_	SpaceAfter=No|Ref=TM845198-1-11
+12	.	.	PUNCT	_	_	8	punct	_	Ref=TM845198-1-12
+
+# sent_id = TM844853-1
+# text = εινεα̣͜ μδους, ξευνε πειρ aρεοπ αδεν⟨π⟩ατω κν̣ο̣υμαν [ο]υ̣εκρω δαδωνει ονουεια̣ ειροι τε̣ αδ̣ενπα̣τη̣ς δεουε̣ιας μα̣νεις δαδων κε οκκαυγοι ουρν̣ουσαεν.
+1	εινεα̣͜	εινεα	PROPN	_	Number=Sing	20	dep	_	Ref=TM844853-1-1
+2	μδους	μδυει	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	20	dep	_	SpaceAfter=No|Ref=TM844853-1-2
+3	,	,	PUNCT	_	_	20	punct	_	Ref=TM844853-1-3
+4	ξευνε	ξευνε	PROPN	_	Case=Dat|Gender=Fem|Number=Sing	20	dep	_	Ref=TM844853-1-4
+5	πειρ	πειρ	X	_	_	20	dep	_	Ref=TM844853-1-5
+6	aρεοπ	αρεοπ	X	_	_	20	dep	_	Ref=TM844853-1-6
+7	αδεν⟨π⟩ατω	αδενπα̣τ̣η̣ς	PROPN	_	_	20	dep	_	Ref=TM844853-1-7
+8	κν̣ο̣υμαν	κνουμανει	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	20	dep	_	Ref=TM844853-1-8
+9	[ο]υ̣εκρω	ουεκρω	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	20	iobj	_	Ref=TM844853-1-9
+10	δαδωνει	δαδων	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	9	dep	_	Ref=TM844853-1-10
+11	ονουεια̣	ονουεια	X	_	_	20	dep	_	Ref=TM844853-1-11
+12	ειροι	ειροι	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	20	dep	_	Ref=TM844853-1-12
+13	τε̣	τε	X	_	_	20	dep	_	Ref=TM844853-1-13
+14	αδ̣ενπα̣τη̣ς	αδενπα̣τ̣η̣ς	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	20	nsubj	_	Ref=TM844853-1-14
+15	δεουε̣ιας	δεουειας	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	20	dep	_	Ref=TM844853-1-15
+16	μα̣νεις	manes	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	20	dep	_	Ref=TM844853-1-16
+17	δαδων	δαδων	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	16	conj	_	Ref=TM844853-1-17
+18	κε	ke	CCONJ	_	_	17	cc	_	Ref=TM844853-1-18
+19	οκκαυγοι	οκκαυγοι	X	_	Case=Nom|Number=Plur	20	dep	_	Ref=TM844853-1-19
+20	ουρν̣ουσαεν	ουρνουσαεν	VERB	_	Number=Plur|Person=3|Tense=Past	0	root	_	SpaceAfter=No|Ref=TM844853-1-20
+21	.	.	PUNCT	_	_	20	punct	_	Ref=TM844853-1-21
+
+# sent_id = TM844853-2
+# text = ιος σαι κακον αδδακετ μανκαι, τ̣[ος] νι ζως κ̣ε πεις κε τιτετικμενος ειτου.
+1	ιος	ios	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	4	nsubj	_	Ref=TM844853-2-1
+2	σαι	σεμουν	DET	_	Case=Dat|Gender=Fem|Number=Sing|PronType=Dem	5	det	_	Ref=TM844853-2-2
+3	κακον	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	4	obj	_	Ref=TM844853-2-3
+4	αδδακετ	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	acl	_	Ref=TM844853-2-4
+5	μανκαι	μανκα	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	4	iobj	_	SpaceAfter=No|Ref=TM844853-2-5
+6	,	,	PUNCT	_	_	4	punct	_	Ref=TM844853-2-6
+7	τ̣[ος]	τος	PRON	_	Case=Nom|ExtPos=PRON|Gender=Masc|Number=Sing|PronType=Dem	13	nsubj	_	Ref=TM844853-2-7
+8	νι	ni	PART	_	_	7	fixed	_	Ref=TM844853-2-8
+9	ζως	ζως	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	7	amod	_	Ref=TM844853-2-9
+10	κ̣ε	ke	CCONJ	_	_	9	cc	_	Ref=TM844853-2-10
+11	πεις	πεις	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	9	conj	_	Ref=TM844853-2-11
+12	κε	ke	CCONJ	_	_	11	cc	_	Ref=TM844853-2-12
+13	τιτετικμενος	τιττετικμενος	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	0	root	_	Ref=TM844853-2-13
+14	ειτου	ituv	AUX	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	cop	_	SpaceAfter=No|Ref=TM844853-2-14
+15	.	.	PUNCT	_	_	13	punct	_	Ref=TM844853-2-15
+
+# sent_id = TM932142-2
+# text = ιος σεμουν του κνουμανει κακον αδακετ, τιτετικμενος ατ τιε αδειτου.
+1	ιος	ios	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	6	nsubj	_	Ref=TM932142-2-1
+2	σεμουν	σεμουν	DET	_	Case=Dat|ExtPos=DET|Gender=Neut|Number=Sing|PronType=Dem	4	det	_	Ref=TM932142-2-2
+3	του	τος	PART	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	2	fixed	_	Ref=TM932142-2-3
+4	κνουμανει	κνουμανει	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	6	iobj	_	Ref=TM932142-2-4
+5	κακον	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	obj	_	Ref=TM932142-2-5
+6	αδακετ	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	csubj	_	SpaceAfter=No|Ref=TM932142-2-6
+7	,	,	PUNCT	_	_	8	punct	_	Ref=TM932142-2-7
+8	τιτετικμενος	τιττετικμενος	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	0	root	_	Ref=TM932142-2-8
+9	ατ	ad	ADP	_	_	10	case	_	Ref=TM932142-2-9
+10	τιε	τιε	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	8	obl	_	Ref=TM932142-2-10
+11	αδειτου	ituv	AUX	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	cop	_	SpaceAfter=No|Ref=TM932142-2-11
+12	.	.	PUNCT	_	_	8	punct	_	Ref=TM932142-2-12
+
+# sent_id = TM984549-1
+# text = ιος [νι σεμουν] κν[ουμανει κ]ακο[υν αδδα]κετ̣, [τιττετικ]με[νος ατ τι]ε α[δειτου].
+1	ιος	ios	PRON	_	Case=Nom|ExtPos=PRON|Gender=Masc|Number=Sing|PronType=Rel	6	nsubj	_	Ref=TM984549-1-1
+2	[νι	ni	PART	_	_	1	fixed	_	Ref=TM984549-1-2
+3	σεμουν]	σεμουν	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	4	det	_	Ref=TM984549-1-3
+4	κν[ουμανει	κνουμανει	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	6	iobj	_	Ref=TM984549-1-4
+5	κ]ακο[υν	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	obj	_	Ref=TM984549-1-5
+6	αδδα]κετ̣	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	csubj	_	SpaceAfter=No|Ref=TM984549-1-6
+7	,	,	PUNCT	_	_	8	punct	_	Ref=TM984549-1-7
+8	[τιττετικ]με[νος	τιττετικμενος	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	0	root	_	Ref=TM984549-1-8
+9	ατ	ad	ADP	_	_	10	case	_	Ref=TM984549-1-9
+10	τι]ε	τιε	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	8	obl	_	Ref=TM984549-1-10
+11	α[δειτου]	ituv	AUX	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	cop	_	SpaceAfter=No|Ref=TM984549-1-11
+12	.	.	PUNCT	_	_	8	punct	_	Ref=TM984549-1-12
+
+# sent_id = TM932037-2
+# text = ιος σα τι σκελεδριαι κακουν δακετ, ατετικμενος ατ τι αδειτου.
+1	ιος	ios	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	6	nsubj	_	Ref=TM932037-2-1
+2	σα	σεμουν	DET	_	Case=Dat|ExtPos=DET|Gender=Fem|Number=Sing|PronType=Dem	4	det	_	Ref=TM932037-2-2
+3	τι	τος	PART	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	2	fixed	_	Ref=TM932037-2-3
+4	σκελεδριαι	σκελεδριαι	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	6	iobj	_	Ref=TM932037-2-4
+5	κακουν	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	obj	_	Ref=TM932037-2-5
+6	δακετ	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	csubj	_	SpaceAfter=No|Ref=TM932037-2-6
+7	,	,	PUNCT	_	_	8	punct	_	Ref=TM932037-2-7
+8	ατετικμενος	τιττετικμενος	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	0	root	_	Ref=TM932037-2-8
+9	ατ	ad	ADP	_	_	10	case	_	Ref=TM932037-2-9
+10	τι	τιε	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	8	obl	_	Ref=TM932037-2-10
+11	αδειτου	ituv	AUX	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	cop	_	SpaceAfter=No|Ref=TM932037-2-11
+12	.	.	PUNCT	_	_	8	punct	_	Ref=TM932037-2-12
+
+# sent_id = TM867059-1
+# text = []Τ[] ιος σεμου κνουμαν[ει κα]κου[ν] αδ̣[δακε]τ̣, ατ τιη θ̣ιτ[τ]ετικμενο̣[ς αδ]ειτου.
+1	[]Τ[]	[]Τ[]	X	_	_	10	dep	_	Ref=TM867059-1-1
+2	ιος	ios	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	6	nsubj	_	Ref=TM867059-1-2
+3	σεμου	σεμουν	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	4	det	_	Ref=TM867059-1-3
+4	κνουμαν[ει	κνουμανει	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	6	iobj	_	Ref=TM867059-1-4
+5	κα]κου[ν]	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	obj	_	Ref=TM867059-1-5
+6	αδ̣[δακε]τ̣	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	csubj	_	SpaceAfter=No|Ref=TM867059-1-6
+7	,	,	PUNCT	_	_	10	punct	_	Ref=TM867059-1-7
+8	ατ	ad	ADP	_	_	9	case	_	Ref=TM867059-1-8
+9	τιη	τιε	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	10	obl	_	Ref=TM867059-1-9
+10	θ̣ιτ[τ]ετικμενο̣[ς	τιττετικμενος	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	0	root	_	Ref=TM867059-1-10
+11	αδ]ειτου	ituv	AUX	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	cop	_	SpaceAfter=No|Ref=TM867059-1-11
+12	.	.	PUNCT	_	_	10	punct	_	Ref=TM867059-1-12
+
+# sent_id = TM844852-2
+# text = ιος νι σεμουν κν[ου]μμανει κακουν [α]δδακεττ αι καν̣, τιττετικμεν[ος] ας τιαν ειτου.
+1	ιος	ios	PRON	_	Case=Nom|ExtPos=PRON|Gender=Masc|Number=Sing|PronType=Rel	6	nsubj	_	Ref=TM844852-2-1
+2	νι	ni	PART	_	_	1	fixed	_	Ref=TM844852-2-2
+3	σεμουν	σεμουν	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	4	det	_	Ref=TM844852-2-3
+4	κν[ου]μμανει	κνουμανει	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	6	iobj	_	Ref=TM844852-2-4
+5	κακουν	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	obj	_	Ref=TM844852-2-5
+6	[α]δδακεττ	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	csubj	_	Ref=TM844852-2-6
+7	αι	ai	CCONJ	_	_	8	cc	_	Ref=TM844852-2-7
+8	καν̣	kan	ADV	_	_	5	conj	_	SpaceAfter=No|Ref=TM844852-2-8
+9	,	,	PUNCT	_	_	10	punct	_	Ref=TM844852-2-9
+10	τιττετικμεν[ος]	τιττετικμενος	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	0	root	_	Ref=TM844852-2-10
+11	ας	as	ADP	_	_	12	case	_	Ref=TM844852-2-11
+12	τιαν	τιε	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	10	obl	_	Ref=TM844852-2-12
+13	ειτου	ituv	AUX	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	cop	_	SpaceAfter=No|Ref=TM844852-2-13
+14	.	.	PUNCT	_	_	10	punct	_	Ref=TM844852-2-14
+
+# sent_id = TM932139-2
+# text = [ιος σεμ]ον ρεκ̣τεον̣ [κακου]ν αδακε, ατε[τικμενο]ς ατ τ[ι] αδει[του.
+1	[ιος	ios	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	5	nsubj	_	Ref=TM932139-2-1
+2	σεμ]ον	σεμουν	DET	_	Case=Dat|Number=Sing|PronType=Dem	3	det	_	Ref=TM932139-2-2
+3	ρεκ̣τεον̣	ρεκτεοι	NOUN	_	Case=Dat|Number=Sing	5	iobj	_	Ref=TM932139-2-3
+4	[κακου]ν	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	5	obj	_	Ref=TM932139-2-4
+5	αδακε	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	csubj	_	SpaceAfter=No|Ref=TM932139-2-5
+6	,	,	PUNCT	_	_	7	punct	_	Ref=TM932139-2-6
+7	ατε[τικμενο]ς	τιττετικμενος	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	0	root	_	Ref=TM932139-2-7
+8	ατ	ad	ADP	_	_	9	case	_	Ref=TM932139-2-8
+9	τ[ι]	τιε	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	7	obl	_	Ref=TM932139-2-9
+10	αδει[του	ituv	AUX	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	_	SpaceAfter=No|Ref=TM932139-2-10
+11	.	.	PUNCT	_	_	7	punct	_	Ref=TM932139-2-11
+
+# sent_id = TM932139-3
+# text = ....] α̣σγ̣
+1	....]	[---]	SYM	_	_	0	root	_	Ref=TM932139-3-1
+2	α̣σγ̣	ασγ	X	_	_	1	dep	_	Ref=TM932139-3-2
+
+# sent_id = TM875203-2
+# text = ιος κν̣[ουμανει ---]
+1	ιος	ios	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	3	nsubj	_	Ref=TM875203-2-1
+2	κν̣[ουμανει	κνουμανει	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	3	iobj	_	Ref=TM875203-2-2
+3	---]	[---]	SYM	_	_	0	root	_	Ref=TM875203-2-3
+
+# sent_id = TM845156-2
+# text = ιος σεμ[ουν του] κνου[μανει ---]
+1	ιος	ios	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	5	nsubj	_	Ref=TM845156-2-1
+2	σεμ[ουν	σεμουν	DET	_	Case=Dat|ExtPos=DET|Gender=Neut|Number=Sing|PronType=Dem	4	det	_	Ref=TM845156-2-2
+3	του]	τος	PART	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	2	fixed	_	Ref=TM845156-2-3
+4	κνου[μανει	κνουμανει	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	5	iobj	_	Ref=TM845156-2-4
+5	---]	[---]	X	_	_	0	root	_	Ref=TM845156-2-5
+
+# sent_id = TM845157-1
+# text = [--- …τετικμεν]ο̣ς ατ τι αδειτου.
+1	[---	[---]	SYM	_	_	2	dep	_	Ref=TM845157-1-1
+2	…τετικμεν]ο̣ς	τιττετικμενος	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	0	root	_	Ref=TM845157-1-2
+3	ατ	ad	ADP	_	_	4	case	_	Ref=TM845157-1-3
+4	τι	τιε	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	2	obl	_	Ref=TM845157-1-4
+5	αδειτου	ituv	AUX	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	cop	_	SpaceAfter=No|Ref=TM845157-1-5
+6	.	.	PUNCT	_	_	2	punct	_	Ref=TM845157-1-6
+
+# sent_id = TM845632-1
+# text = ιος σεμουν κνο[υ]μ̣[αν]ε̣ι̣ κακ̣[ουν] [---]
+1	ιος	ios	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	5	nsubj	_	Ref=TM845632-1-1
+2	σεμουν	σεμουν	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	3	det	_	Ref=TM845632-1-2
+3	κνο[υ]μ̣[αν]ε̣ι̣	κνουμανει	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	5	iobj	_	Ref=TM845632-1-3
+4	κακ̣[ουν]	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	5	obj	_	Ref=TM845632-1-4
+5	[---]	[---]	SYM	_	_	0	root	_	Ref=TM845632-1-5
+
+# sent_id = TM932140-2
+# text = [ι]ος κε σεμουν κνο[υ]μανει κακουν δοκετ, ατ τι αδει[του].
+1	[ι]ος	ios	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	6	nsubj	_	Ref=TM932140-2-1
+2	κε	ke	CCONJ	_	_	6	cc	_	Ref=TM932140-2-2
+3	σεμουν	σεμουν	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	4	det	_	Ref=TM932140-2-3
+4	κνο[υ]μανει	κνουμανει	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	6	iobj	_	Ref=TM932140-2-4
+5	κακουν	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	obj	_	Ref=TM932140-2-5
+6	δοκετ	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Ref=TM932140-2-6
+7	,	,	PUNCT	_	_	6	punct	_	Ref=TM932140-2-7
+8	ατ	ad	ADP	_	_	9	case	_	Ref=TM932140-2-8
+9	τι	τιε	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	6	obl	_	Ref=TM932140-2-9
+10	αδει[του]	ituv	AUX	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	_	SpaceAfter=No|Ref=TM932140-2-10
+11	.	.	PUNCT	_	_	6	punct	_	Ref=TM932140-2-11
+
+# sent_id = TM932141-2
+# text = ιο[ς νι σεμ]ουν κ[νουμα]νει κ[ακουν] αδδακ[ετ, ..]ι οι πουσ[....]ι διισιν.
+1	ιο[ς	ios	PRON	_	Case=Nom|ExtPos=PRON|Gender=Masc|Number=Sing|PronType=Rel	6	nsubj	_	Ref=TM932141-2-1
+2	νι	ni	PART	_	_	1	fixed	_	Ref=TM932141-2-2
+3	σεμ]ουν	σεμουν	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	4	det	_	Ref=TM932141-2-3
+4	κ[νουμα]νει	κνουμανει	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	6	iobj	_	Ref=TM932141-2-4
+5	κ[ακουν]	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	obj	_	Ref=TM932141-2-5
+6	αδδακ[ετ	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	dep	_	SpaceAfter=No|Ref=TM932141-2-6
+7	,	,	PUNCT	_	_	8	punct	_	Ref=TM932141-2-7
+8	..]ι	..]ι	X	_	_	0	root	_	Ref=TM932141-2-8
+9	οι	ιοι	PRON	_	Case=Dat|Number=Sing|PronType=Dem	8	dep	_	Ref=TM932141-2-9
+10	πουσ[....]ι	πουσ[	X	_	_	8	dep	_	Ref=TM932141-2-10
+11	διισιν	διισιν	X	_	_	8	dep	_	SpaceAfter=No|Ref=TM932141-2-11
+12	.	.	PUNCT	_	_	8	punct	_	Ref=TM932141-2-12
+
+# sent_id = TM867074-1
+# text = [ιος σεμο]υ̣ν κνου[μανει] κακουν [α]δδακετ, τιτ̣[ετ]ικμενο[ς] ατ τι αδειτου.
+1	[ιος	ios	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	5	nsubj	_	Ref=TM867074-1-1
+2	σεμο]υ̣ν	σεμουν	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	3	det	_	Ref=TM867074-1-2
+3	κνου[μανει]	κνουμανει	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	5	iobj	_	Ref=TM867074-1-3
+4	κακουν	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	5	obj	_	Ref=TM867074-1-4
+5	[α]δδακετ	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	csubj	_	SpaceAfter=No|Ref=TM867074-1-5
+6	,	,	PUNCT	_	_	7	punct	_	Ref=TM867074-1-6
+7	τιτ̣[ετ]ικμενο[ς]	τιττετικμενος	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	0	root	_	Ref=TM867074-1-7
+8	ατ	ad	ADP	_	_	9	case	_	Ref=TM867074-1-8
+9	τι	τιε	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	7	obl	_	Ref=TM867074-1-9
+10	αδειτου	ituv	AUX	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	_	SpaceAfter=No|Ref=TM867074-1-10
+11	.	.	PUNCT	_	_	7	punct	_	Ref=TM867074-1-11
+
+# sent_id = TM845532-1
+# text = ιος κακον αββερ̣ετορ κνουμανει αινι [---] ζεμελως ˹τι˺ε τιττετικμενος ειτου̣.
+1	ιος	ios	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	3	nsubj	_	Ref=TM845532-1-1
+2	κακον	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	3	obj	_	Ref=TM845532-1-2
+3	αββερ̣ετορ	αββερετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	9	csubj	_	Ref=TM845532-1-3
+4	κνουμανει	κνουμανει	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	3	iobj	_	Ref=TM845532-1-4
+5	αινι	aini	CCONJ	_	_	6	cc	_	Ref=TM845532-1-5
+6	[---]	[---]	SYM	_	_	4	conj	_	Ref=TM845532-1-6
+7	ζεμελως	ζεμελως	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	9	obl	_	Ref=TM845532-1-7
+8	˹τι˺ε	τιε	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	9	obl	_	Ref=TM845532-1-8
+9	τιττετικμενος	τιττετικμενος	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	0	root	_	Ref=TM845532-1-9
+10	ειτου̣	ituv	AUX	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	cop	_	SpaceAfter=No|Ref=TM845532-1-10
+11	.	.	PUNCT	_	_	9	punct	_	Ref=TM845532-1-11
+
+# sent_id = TM867135-2
+# text = ιος νι σεμιντ κνουμανει κακουν αδδακετ, τιττετικμενος ατ τι αδειτου ακκε οι βεκος ακκαλος τιδρερουν ειτου, γεγρειμεναν κ’ εγεδου τιος ουταν.
+1	ιος	ios	PRON	_	Case=Nom|ExtPos=PRON|Gender=Masc|Number=Sing|PronType=Rel	6	nsubj	_	Ref=TM867135-2-1
+2	νι	ni	PART	_	_	1	fixed	_	Ref=TM867135-2-2
+3	σεμιντ	σεμουν	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	4	det	_	Ref=TM867135-2-3
+4	κνουμανει	κνουμανει	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	6	iobj	_	Ref=TM867135-2-4
+5	κακουν	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	obj	_	Ref=TM867135-2-5
+6	αδδακετ	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	csubj	_	SpaceAfter=No|Ref=TM867135-2-6
+7	,	,	PUNCT	_	_	8	punct	_	Ref=TM867135-2-7
+8	τιττετικμενος	τιττετικμενος	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	0	root	_	Ref=TM867135-2-8
+9	ατ	ad	ADP	_	_	10	case	_	Ref=TM867135-2-9
+10	τι	τιε	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	8	obl	_	Ref=TM867135-2-10
+11	αδειτου	ituv	AUX	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	cop	_	Ref=TM867135-2-11
+12	ακκε	ακκε	CCONJ	_	_	16	cc	_	Ref=TM867135-2-12
+13	οι	ιοι	PRON	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Dem	16	iobj	_	Ref=TM867135-2-13
+14	βεκος	βεκος	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	16	nsubj	_	Ref=TM867135-2-14
+15	ακκαλος	ακκαλος	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	14	amod	_	Ref=TM867135-2-15
+16	τιδρερουν	τιδρεγρουν	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	8	conj	_	Ref=TM867135-2-16
+17	ειτου	ituv	AUX	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	16	cop	_	SpaceAfter=No|Ref=TM867135-2-17
+18	,	,	PUNCT	_	_	8	punct	_	Ref=TM867135-2-18
+19	γεγρειμεναν	γεγρειμεναν	VERB	_	Aspect=Perf|Case=Acc|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	23	amod	_	Ref=TM867135-2-19
+20	κ’	ke	CCONJ	_	_	19	cc	_	Ref=TM867135-2-20
+21	εγεδου	egeseti	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	8	conj	_	Ref=TM867135-2-21
+22	τιος	τιε	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	23	nmod	_	Ref=TM867135-2-22
+23	ουταν	ουταν	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	21	obj	_	SpaceAfter=No|Ref=TM867135-2-23
+24	.	.	PUNCT	_	_	8	punct	_	Ref=TM867135-2-24
+
+# sent_id = TM932155-1
+# text = [ιος νι κουμα][ν]ει κακ[ου]ν αδδακετ, τιττετικμενος ατ τι αδειτου. ☩
+1	[ιος	ios	PRON	_	Case=Nom|ExtPos=PRON|Gender=Masc|Number=Sing|PronType=Rel	5	nsubj	_	Ref=TM932155-1-1
+2	νι	ni	PART	_	_	1	fixed	_	Ref=TM932155-1-2
+3	κουμα][ν]ει	κνουμανει	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	5	iobj	_	Ref=TM932155-1-3
+4	κακ[ου]ν	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	5	obj	_	Ref=TM932155-1-4
+5	αδδακετ	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	csubj	_	SpaceAfter=No|Ref=TM932155-1-5
+6	,	,	PUNCT	_	_	7	punct	_	Ref=TM932155-1-6
+7	τιττετικμενος	τιττετικμενος	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	0	root	_	Ref=TM932155-1-7
+8	ατ	ad	ADP	_	_	9	case	_	Ref=TM932155-1-8
+9	τι	τιε	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	7	obl	_	Ref=TM932155-1-9
+10	αδειτου	ituv	AUX	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	_	SpaceAfter=No|Ref=TM932155-1-10
+11	.	.	PUNCT	_	_	7	punct	_	Ref=TM932155-1-11
+12	☩	☩	SYM	_	_	7	dep	_	Ref=TM932155-1-12
+
+# sent_id = TM845617-2
+# text = ιος νι [---]
+1	ιος	ios	PRON	_	Case=Nom|ExtPos=PRON|Gender=Masc|Number=Sing|PronType=Rel	3	nsubj	_	Ref=TM845617-2-1
+2	νι	ni	PART	_	_	1	fixed	_	Ref=TM845617-2-2
+3	[---]	[---]	SYM	_	_	0	root	_	Ref=TM845617-2-3
+
+# sent_id = TM845586-1
+# text = ιος ν[ι σεμουν κ]νουμανει κακο[υν αδδακ]ε̣τ̣, τιττεττικμε[νος α]τ [Τι] α̣δ̣ειτου γεγρειμε[ναν κε εγεδ]ου τιος ουτ[αν ακκε οι] βεκος ακκαλο̣[ς τιδρ]ε̣γρουν ειδο[υ].
+1	ιος	ios	PRON	_	Case=Nom|ExtPos=PRON|Gender=Masc|Number=Sing|PronType=Rel	6	nsubj	_	Ref=TM845586-1-1
+2	ν[ι	ni	PART	_	_	1	fixed	_	Ref=TM845586-1-2
+3	σεμουν	σεμουν	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	4	det	_	Ref=TM845586-1-3
+4	κ]νουμανει	κνουμανει	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	6	iobj	_	Ref=TM845586-1-4
+5	κακο[υν	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	obj	_	Ref=TM845586-1-5
+6	αδδακ]ε̣τ̣	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	csubj	_	SpaceAfter=No|Ref=TM845586-1-6
+7	,	,	PUNCT	_	_	8	punct	_	Ref=TM845586-1-7
+8	τιττεττικμε[νος	τιττετικμενος	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	0	root	_	Ref=TM845586-1-8
+9	α]τ	ad	ADP	_	_	10	case	_	Ref=TM845586-1-9
+10	[Τι]	τιε	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	8	obl	_	Ref=TM845586-1-10
+11	α̣δ̣ειτου	ituv	AUX	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	cop	_	Ref=TM845586-1-11
+12	γεγρειμε[ναν	γεγρειμεναν	VERB	_	Aspect=Perf|Case=Acc|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	16	amod	_	Ref=TM845586-1-12
+13	κε	ke	CCONJ	_	_	14	cc	_	Ref=TM845586-1-13
+14	εγεδ]ου	egeseti	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	8	conj	_	Ref=TM845586-1-14
+15	τιος	τιε	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	16	nmod	_	Ref=TM845586-1-15
+16	ουτ[αν	ουταν	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	14	obj	_	Ref=TM845586-1-16
+17	ακκε	ακκε	CCONJ	_	_	21	cc	_	Ref=TM845586-1-17
+18	οι]	ιοι	PRON	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Dem	21	iobj	_	Ref=TM845586-1-18
+19	βεκος	βεκος	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	21	nsubj	_	Ref=TM845586-1-19
+20	ακκαλο̣[ς	ακκαλος	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	19	amod	_	Ref=TM845586-1-20
+21	τιδρ]ε̣γρουν	τιδρεγρουν	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	8	conj	_	Ref=TM845586-1-21
+22	ειδο[υ]	ituv	AUX	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	21	cop	_	SpaceAfter=No|Ref=TM845586-1-22
+23	.	.	PUNCT	_	_	8	punct	_	Ref=TM845586-1-23
+
+# sent_id = TM845616-2
+# text = [ι]ος σας του σκερεδ̣ρ̣ιας κακουν δακετ, [τ]ε̣ιττετικμενος α̣τ̣ τ̣ι̣ε ειτου.
+1	[ι]ος	ios	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	6	nsubj	_	Ref=TM845616-2-1
+2	σας	σεμουν	DET	_	Case=Dat|ExtPos=DET|Gender=Fem|Number=Sing|PronType=Dem	4	det	_	Ref=TM845616-2-2
+3	του	τος	PART	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	2	fixed	_	Ref=TM845616-2-3
+4	σκερεδ̣ρ̣ιας	σκελεδριαι	NOUN	_	Case=Dat|Number=Plur	6	iobj	_	Ref=TM845616-2-4
+5	κακουν	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	obj	_	Ref=TM845616-2-5
+6	δακετ	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	csubj	_	SpaceAfter=No|Ref=TM845616-2-6
+7	,	,	PUNCT	_	_	8	punct	_	Ref=TM845616-2-7
+8	[τ]ε̣ιττετικμενος	τιττετικμενος	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	0	root	_	Ref=TM845616-2-8
+9	α̣τ̣	ad	ADP	_	_	10	case	_	Ref=TM845616-2-9
+10	τ̣ι̣ε	τιε	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	8	obl	_	Ref=TM845616-2-10
+11	ειτου	ituv	AUX	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	cop	_	SpaceAfter=No|Ref=TM845616-2-11
+12	.	.	PUNCT	_	_	8	punct	_	Ref=TM845616-2-12
+
+# sent_id = TM867130-2
+# text = ιος νι σεμουν κνουμανε κακουν αδδακετ, ττιττετικμενος ατ τι αδειτου.
+1	ιος	ios	PRON	_	Case=Nom|ExtPos=PRON|Gender=Masc|Number=Sing|PronType=Rel	6	nsubj	_	Ref=TM867130-2-1
+2	νι	ni	PART	_	_	1	fixed	_	Ref=TM867130-2-2
+3	σεμουν	σεμουν	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	4	det	_	Ref=TM867130-2-3
+4	κνουμανε	κνουμανει	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	6	iobj	_	Ref=TM867130-2-4
+5	κακουν	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	obj	_	Ref=TM867130-2-5
+6	αδδακετ	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	csubj	_	SpaceAfter=No|Ref=TM867130-2-6
+7	,	,	PUNCT	_	_	8	punct	_	Ref=TM867130-2-7
+8	ττιττετικμενος	τιττετικμενος	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	0	root	_	Ref=TM867130-2-8
+9	ατ	ad	ADP	_	_	10	case	_	Ref=TM867130-2-9
+10	τι	τιε	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	8	obl	_	Ref=TM867130-2-10
+11	αδειτου	ituv	AUX	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	cop	_	SpaceAfter=No|Ref=TM867130-2-11
+12	.	.	PUNCT	_	_	8	punct	_	Ref=TM867130-2-12
+
+# sent_id = TM867131-2
+# text = μοναν μροτιη ιον εγεσιτ γεγριμενον.
+1	μοναν	μοναν	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	0	root	_	Ref=TM867131-2-1
+2	μροτιη	μροτις	NOUN	_	Case=Dat|Number=Sing	1	iobj	_	Ref=TM867131-2-2
+3	ιον	ios	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Rel	4	obj	_	Ref=TM867131-2-3
+4	εγεσιτ	egeseti	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	acl	_	Ref=TM867131-2-4
+5	γεγριμενον	γεγρειμεναν	VERB	_	Aspect=Perf|Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	4	amod	_	SpaceAfter=No|Ref=TM867131-2-5
+6	.	.	PUNCT	_	_	1	punct	_	Ref=TM867131-2-6
+
+# sent_id = TM942649-3
+# text = αι κος [σεμουν του κνουμαν]ει κα[κουν αδδακετ], γεγρ̣[ειμεναν εγεδου Τιος ουταν κε τοτο]σσει[τι βας βεκος].
+1	αι	ai	CCONJ	_	_	10	cc	_	Ref=TM942649-3-1
+2	κος	kos	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	7	nsubj	_	Ref=TM942649-3-2
+3	[σεμουν	σεμουν	DET	_	Case=Dat|ExtPos=DET|Gender=Neut|Number=Sing|PronType=Dem	5	det	_	Ref=TM942649-3-3
+4	του	τος	PART	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	3	fixed	_	Ref=TM942649-3-4
+5	κνουμαν]ει	κνουμανει	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	7	iobj	_	Ref=TM942649-3-5
+6	κα[κουν	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	7	obj	_	Ref=TM942649-3-6
+7	αδδακετ]	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	csubj	_	SpaceAfter=No|Ref=TM942649-3-7
+8	,	,	PUNCT	_	_	10	punct	_	Ref=TM942649-3-8
+9	γεγρ̣[ειμεναν	γεγρειμεναν	VERB	_	Aspect=Perf|Case=Acc|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	12	amod	_	Ref=TM942649-3-9
+10	εγεδου	egeseti	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	Ref=TM942649-3-10
+11	Τιος	τιε	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	12	nmod	_	Ref=TM942649-3-11
+12	ουταν	ουταν	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	10	obj	_	Ref=TM942649-3-12
+13	κε	ke	CCONJ	_	_	12	cc	_	Ref=TM942649-3-13
+14	τοτο]σσει[τι	τοτοσσειτι	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	conj	_	Ref=TM942649-3-14
+15	βας	βας	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	Ref=TM942649-3-15
+16	βεκος]	βεκος	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	14	obj	_	SpaceAfter=No|Ref=TM942649-3-16
+17	.	.	PUNCT	_	_	10	punct	_	Ref=TM942649-3-17
+
+# sent_id = TM918632-1
+# text = ιος σεμουν̣ [κ]νουμανε κακουν αδ[δ]ακετ, [τ]ετικμε[νο]ς ε̣ι[τ]ο[υ.] Τ̣?Λ?Ω̣?
+1	ιος	ios	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	5	nsubj	_	Ref=TM918632-1-1
+2	σεμουν̣	σεμουν	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	3	det	_	Ref=TM918632-1-2
+3	[κ]νουμανε	κνουμανει	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	5	iobj	_	Ref=TM918632-1-3
+4	κακουν	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	5	obj	_	Ref=TM918632-1-4
+5	αδ[δ]ακετ	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	csubj	_	SpaceAfter=No|Ref=TM918632-1-5
+6	,	,	PUNCT	_	_	7	punct	_	Ref=TM918632-1-6
+7	[τ]ετικμε[νο]ς	τιττετικμενος	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	0	root	_	Ref=TM918632-1-7
+8	ε̣ι[τ]ο[υ	ituv	AUX	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	_	SpaceAfter=No|Ref=TM918632-1-8
+9	.]	.	PUNCT	_	_	7	punct	_	Ref=TM918632-1-9
+10	Τ̣?Λ?Ω̣?	Τ?Λ?Ω?	X	_	_	7	dep	_	Ref=TM918632-1-10
+
+# sent_id = TM932145-1
+# text = ιος [νι κε σ]εμ̣ουν κ[νο]υ⟨μανει⟩ {σεμον} κακον αδακετ, [τ]ιτετικμεν̣ος [ατ] τι αδ̣ειτ̣ου, [αι] κος κ̣[ακον αδα]κκιτορ, [.] κε [........]ε αυ̣τος ειτου. ☩
+1	ιος	ios	PRON	_	Case=Nom|ExtPos=PRON|Gender=Masc|Number=Sing|PronType=Rel	8	nsubj	_	Ref=TM932145-1-1
+2	[νι	ni	PART	_	_	1	fixed	_	Ref=TM932145-1-2
+3	κε	ke	CCONJ	_	_	13	cc	_	Ref=TM932145-1-3
+4	σ]εμ̣ουν	σεμουν	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	5	det	_	Ref=TM932145-1-4
+5	κ[νο]υ⟨μανει⟩	κνουμανει	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	8	iobj	_	Ref=TM932145-1-5
+6	{σεμον}	σεμουν	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	7	det	_	Ref=TM932145-1-6
+7	κακον	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	8	obj	_	Ref=TM932145-1-7
+8	αδακετ	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	csubj	_	SpaceAfter=No|Ref=TM932145-1-8
+9	,	,	PUNCT	_	_	10	punct	_	Ref=TM932145-1-9
+10	[τ]ιτετικμεν̣ος	τιττετικμενος	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	0	root	_	Ref=TM932145-1-10
+11	[ατ]	ad	ADP	_	_	12	case	_	Ref=TM932145-1-11
+12	τι	τιε	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	10	obl	_	Ref=TM932145-1-12
+13	αδ̣ειτ̣ου	ituv	AUX	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	cop	_	SpaceAfter=No|Ref=TM932145-1-13
+14	,	,	PUNCT	_	_	10	punct	_	Ref=TM932145-1-14
+15	[αι]	ai	CCONJ	_	_	24	cc	_	Ref=TM932145-1-15
+16	κος	kos	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	18	nsubj	_	Ref=TM932145-1-16
+17	κ̣[ακον	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	18	obj	_	Ref=TM932145-1-17
+18	αδα]κκιτορ	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	23	acl	_	SpaceAfter=No|Ref=TM932145-1-18
+19	,	,	PUNCT	_	_	18	punct	_	Ref=TM932145-1-19
+20	[.]	[.]	SYM	_	_	10	dep	_	Ref=TM932145-1-20
+21	κε	ke	CCONJ	_	_	24	cc	_	Ref=TM932145-1-21
+22	[........]ε	[........]ε	X	_	_	24	dep	_	Ref=TM932145-1-22
+23	αυ̣τος	αυτος	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Emp	24	nsubj	_	Ref=TM932145-1-23
+24	ειτου	ituv	AUX	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	conj	_	SpaceAfter=No|Ref=TM932145-1-24
+25	.	.	PUNCT	_	_	10	punct	_	Ref=TM932145-1-25
+26	☩	☩	SYM	_	_	10	dep	_	Ref=TM932145-1-26
+
+# sent_id = TM845570-2
+# text = ιος σεμ̣ιν κνο[μανει] [---]
+1	ιος	ios	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	4	nsubj	_	Ref=TM845570-2-1
+2	σεμ̣ιν	σεμουν	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	3	det	_	Ref=TM845570-2-2
+3	κνο[μανει]	κνουμανει	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	4	iobj	_	Ref=TM845570-2-3
+4	[---]	[---]	SYM	_	_	0	root	_	Ref=TM845570-2-4
+
+# sent_id = TM932092-2
+# text = ιος νι σεμ[υ]ν κνουμα̣νει κακο[υ]ν α̣δ̣δ̣α̣κ̣ε̣τ̣, [---] [---]
+1	ιος	ios	PRON	_	Case=Nom|ExtPos=PRON|Gender=Masc|Number=Sing|PronType=Rel	6	nsubj	_	Ref=TM932092-2-1
+2	νι	ni	PART	_	_	1	fixed	_	Ref=TM932092-2-2
+3	σεμ[υ]ν	σεμουν	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	4	det	_	Ref=TM932092-2-3
+4	κνουμα̣νει	κνουμανει	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	6	iobj	_	Ref=TM932092-2-4
+5	κακο[υ]ν	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	obj	_	Ref=TM932092-2-5
+6	α̣δ̣δ̣α̣κ̣ε̣τ̣	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Ref=TM932092-2-6
+7	,	,	PUNCT	_	_	6	punct	_	Ref=TM932092-2-7
+8	[---]	[---]	SYM	_	_	6	dep	_	Ref=TM932092-2-8
+9	[---]	[---]	SYM	_	_	6	dep	_	Ref=TM932092-2-9
+
+# sent_id = TM845568-5
+# text = [ι]ος σεμουν [κνο]υ̣μανει κα[κου]ν̣ αδδακετ, [αββ]ε̣ρετορ [.....]ε̣μερη [...]υ̣ ορβουν [....] τος τυ.[.. γεγ]α̣ριτμ[ενος ειτου].
+1	[ι]ος	ios	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	5	nsubj	_	Ref=TM845568-5-1
+2	σεμουν	σεμουν	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	3	det	_	Ref=TM845568-5-2
+3	[κνο]υ̣μανει	κνουμανει	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	5	iobj	_	Ref=TM845568-5-3
+4	κα[κου]ν̣	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	5	obj	_	Ref=TM845568-5-4
+5	αδδακετ	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	csubj	_	SpaceAfter=No|Ref=TM845568-5-5
+6	,	,	PUNCT	_	_	7	punct	_	Ref=TM845568-5-6
+7	[αββ]ε̣ρετορ	αββερετ	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	Ref=TM845568-5-7
+8	[.....]ε̣μερη	[.....]ε̣μερη	X	_	_	7	dep	_	Ref=TM845568-5-8
+9	[...]υ̣	[...]υ̣	X	_	_	7	dep	_	Ref=TM845568-5-9
+10	ορβουν	ορβουν	NOUN	_	_	7	dep	_	Ref=TM845568-5-10
+11	[....]	[---]	SYM	_	_	7	dep	_	Ref=TM845568-5-11
+12	τος	τος	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	14	nsubj	_	Ref=TM845568-5-12
+13	τυ.[..	τυ.[...]	X	_	_	14	dep	_	Ref=TM845568-5-13
+14	γεγ]α̣ριτμ[ενος	γεγαριτμενος	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	7	conj	_	Ref=TM845568-5-14
+15	ειτου]	ituv	AUX	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	aux	_	SpaceAfter=No|Ref=TM845568-5-15
+16	.	.	PUNCT	_	_	7	punct	_	Ref=TM845568-5-16
+
+# sent_id = TM845569-1
+# text = ιος νι σεμουν κνουμανει κακουν αδοκετ ζειραι, τιτετικμενος ατ τι αδειτου, γεγρειμενον κ’ εγεδου ορουενος ουτον.
+1	ιος	ios	PRON	_	Case=Nom|ExtPos=PRON|Gender=Masc|Number=Sing|PronType=Rel	6	nsubj	_	Ref=TM845569-1-1
+2	νι	ni	PART	_	_	1	fixed	_	Ref=TM845569-1-2
+3	σεμουν	σεμουν	DET	_	Case=Dat|Gender=Neut|PronType=Dem	4	det	_	Ref=TM845569-1-3
+4	κνουμανει	κνουμανει	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	6	iobj	_	Ref=TM845569-1-4
+5	κακουν	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	obj	_	Ref=TM845569-1-5
+6	αδοκετ	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	csubj	_	Ref=TM845569-1-6
+7	ζειραι	𐋇iray	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	6	obl	_	SpaceAfter=No|Ref=TM845569-1-7
+8	,	,	PUNCT	_	_	9	punct	_	Ref=TM845569-1-8
+9	τιτετικμενος	τιττετικμενος	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	0	root	_	Ref=TM845569-1-9
+10	ατ	ad	ADP	_	_	11	case	_	Ref=TM845569-1-10
+11	τι	τιε	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	9	obl	_	Ref=TM845569-1-11
+12	αδειτου	ituv	AUX	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	cop	_	SpaceAfter=No|Ref=TM845569-1-12
+13	,	,	PUNCT	_	_	9	punct	_	Ref=TM845569-1-13
+14	γεγρειμενον	γεγρειμεναν	VERB	_	Aspect=Perf|Case=Acc|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	16	amod	_	Ref=TM845569-1-14
+15	κ’	ke	CCONJ	_	_	16	cc	_	Ref=TM845569-1-15
+16	εγεδου	egeseti	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	9	conj	_	Ref=TM845569-1-16
+17	ορουενος	ορουαν	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	18	nmod	_	Ref=TM845569-1-17
+18	ουτον	ουταν	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	16	obj	_	SpaceAfter=No|Ref=TM845569-1-18
+19	.	.	PUNCT	_	_	9	punct	_	Ref=TM845569-1-19
+
+# sent_id = TM917781-1
+# text = [---] κακ[ου]ν̣ αδδακετ, γεγρειμεναν εγεδ[ου τ]ιος ουαν.
+1	[---]	[---]	SYM	_	_	6	dep	_	Ref=TM917781-1-1
+2	κακ[ου]ν̣	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	3	obj	_	Ref=TM917781-1-2
+3	αδδακετ	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	csubj	_	SpaceAfter=No|Ref=TM917781-1-3
+4	,	,	PUNCT	_	_	6	punct	_	Ref=TM917781-1-4
+5	γεγρειμεναν	γεγρειμεναν	VERB	_	Aspect=Perf|Case=Acc|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	6	amod	_	Ref=TM917781-1-5
+6	εγεδ[ου	egeseti	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	Ref=TM917781-1-6
+7	τ]ιος	τιε	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	Ref=TM917781-1-7
+8	ουαν	ουταν	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	6	obj	_	SpaceAfter=No|Ref=TM917781-1-8
+9	.	.	PUNCT	_	_	6	punct	_	Ref=TM917781-1-9
+
+# sent_id = TM867098-2
+# text = ιος νι σαν κακουν αδ[δα]κε μανκαι, γεγ̣[ρε]ιμεναν εγεδου τιος ουταν.
+1	ιος	ios	PRON	_	Case=Nom|ExtPos=PRON|Gender=Masc|Number=Sing|PronType=Rel	5	nsubj	_	Ref=TM867098-2-1
+2	νι	ni	PART	_	_	1	fixed	_	Ref=TM867098-2-2
+3	σαν	σεμουν	DET	_	Case=Dat|Gender=Fem|Number=Sing|PronType=Dem	6	det	_	Ref=TM867098-2-3
+4	κακουν	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	5	obj	_	Ref=TM867098-2-4
+5	αδ[δα]κε	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	csubj	_	Ref=TM867098-2-5
+6	μανκαι	μανκα	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	5	iobj	_	SpaceAfter=No|Ref=TM867098-2-6
+7	,	,	PUNCT	_	_	9	punct	_	Ref=TM867098-2-7
+8	γεγ̣[ρε]ιμεναν	γεγρειμεναν	VERB	_	Aspect=Perf|Case=Acc|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	9	amod	_	Ref=TM867098-2-8
+9	εγεδου	egeseti	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	Ref=TM867098-2-9
+10	τιος	τιε	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	Ref=TM867098-2-10
+11	ουταν	ουταν	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	9	obj	_	SpaceAfter=No|Ref=TM867098-2-11
+12	.	.	PUNCT	_	_	9	punct	_	Ref=TM867098-2-12
+
+# sent_id = TM917779-1
+# text = ιος σεμιν κνουμανε μουρου[ν δα][κετ αι]νι κακουν κιν, τιτετικμεν[ος] [ατ τ]ιε αδε̣[ι]του.
+1	ιος	ios	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	5	nsubj	_	Ref=TM917779-1-1
+2	σεμιν	σεμουν	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	3	det	_	Ref=TM917779-1-2
+3	κνουμανε	κνουμανει	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	5	iobj	_	Ref=TM917779-1-3
+4	μουρου[ν	μουρουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	5	obj	_	Ref=TM917779-1-4
+5	δα][κετ	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	csubj	_	Ref=TM917779-1-5
+6	αι]νι	aini	CCONJ	_	_	7	cc	_	Ref=TM917779-1-6
+7	κακουν	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	4	conj	_	Ref=TM917779-1-7
+8	κιν	kos	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	7	det	_	SpaceAfter=No|Ref=TM917779-1-8
+9	,	,	PUNCT	_	_	10	punct	_	Ref=TM917779-1-9
+10	τιτετικμεν[ος]	τιττετικμενος	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	0	root	_	Ref=TM917779-1-10
+11	[ατ	ad	ADP	_	_	12	case	_	Ref=TM917779-1-11
+12	τ]ιε	τιε	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	10	obl	_	Ref=TM917779-1-12
+13	αδε̣[ι]του	ituv	AUX	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	cop	_	SpaceAfter=No|Ref=TM917779-1-13
+14	.	.	PUNCT	_	_	10	punct	_	Ref=TM917779-1-14
+
+# sent_id = TM867069-2
+# text = ιος νι σεμουν κνουμανει ⟦ιο⟧ κ̣α̣κουν αδδακεκ, γεγρειμε̣ναν εγεδου τιος ουταν.
+1	ιος	ios	PRON	_	Case=Nom|ExtPos=PRON|Gender=Masc|Number=Sing|PronType=Rel	7	nsubj	_	Ref=TM867069-2-1
+2	νι	ni	PART	_	_	1	fixed	_	Ref=TM867069-2-2
+3	σεμουν	σεμουν	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	4	det	_	Ref=TM867069-2-3
+4	κνουμανει	κνουμανει	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	7	iobj	_	Ref=TM867069-2-4
+5	⟦ιο⟧	⟦ιο⟧	X	_	_	10	dep	_	Ref=TM867069-2-5
+6	κ̣α̣κουν	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	7	obj	_	Ref=TM867069-2-6
+7	αδδακεκ	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	csubj	_	SpaceAfter=No|Ref=TM867069-2-7
+8	,	,	PUNCT	_	_	10	punct	_	Ref=TM867069-2-8
+9	γεγρειμε̣ναν	γεγρειμεναν	VERB	_	Aspect=Perf|Case=Acc|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	12	amod	_	Ref=TM867069-2-9
+10	εγεδου	egeseti	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	Ref=TM867069-2-10
+11	τιος	τιε	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	12	nmod	_	Ref=TM867069-2-11
+12	ουταν	ουταν	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	10	obj	_	SpaceAfter=No|Ref=TM867069-2-12
+13	.	.	PUNCT	_	_	10	punct	_	Ref=TM867069-2-13
+
+# sent_id = TM867070-2
+# text = ιος νι σεμουν κνουμανει κακον αδδακετ, γεγειμεναν εγεδου τιος ουταν α̣κ̣κε οι βεκος ακκαλος τιδρεγρουν ειτου ❧ αυτος κε ουα κο̣?ροκα γεγαριτμενος ας βαταν τευτους.
+1	ιος	ios	PRON	_	Case=Nom|ExtPos=PRON|Gender=Masc|Number=Sing|PronType=Rel	6	nsubj	_	Ref=TM867070-2-1
+2	νι	ni	PART	_	_	1	fixed	_	Ref=TM867070-2-2
+3	σεμουν	σεμουν	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	4	det	_	Ref=TM867070-2-3
+4	κνουμανει	κνουμανει	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	6	iobj	_	Ref=TM867070-2-4
+5	κακον	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	obj	_	Ref=TM867070-2-5
+6	αδδακετ	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	csubj	_	SpaceAfter=No|Ref=TM867070-2-6
+7	,	,	PUNCT	_	_	9	punct	_	Ref=TM867070-2-7
+8	γεγειμεναν	γεγρειμεναν	VERB	_	Aspect=Perf|Case=Acc|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	11	amod	_	Ref=TM867070-2-8
+9	εγεδου	egeseti	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	Ref=TM867070-2-9
+10	τιος	τιε	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	Ref=TM867070-2-10
+11	ουταν	ουταν	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	9	obj	_	Ref=TM867070-2-11
+12	α̣κ̣κε	ακκε	CCONJ	_	_	16	cc	_	Ref=TM867070-2-12
+13	οι	ιοι	PRON	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Dem	16	iobj	_	Ref=TM867070-2-13
+14	βεκος	βεκος	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	16	nsubj	_	Ref=TM867070-2-14
+15	ακκαλος	ακκαλος	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	14	amod	_	Ref=TM867070-2-15
+16	τιδρεγρουν	τιδρεγρουν	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	9	conj	_	Ref=TM867070-2-16
+17	ειτου	ituv	AUX	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	16	cop	_	Ref=TM867070-2-17
+18	❧	❧	SYM	_	_	9	dep	_	Ref=TM867070-2-18
+19	αυτος	αυτος	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Emp	26	nsubj	_	Ref=TM867070-2-19
+20	κε	ke	CCONJ	_	_	26	cc	_	Ref=TM867070-2-20
+21	ουα	va	DET	_	Case=Nom|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	22	det	_	Ref=TM867070-2-21
+22	κο̣?ροκα	κο?ροκα	X	_	_	26	dep	_	Ref=TM867070-2-22
+23	γεγαριτμενος	γεγαριτμενος	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	19	amod	_	Ref=TM867070-2-23
+24	ας	as	ADP	_	_	25	case	_	Ref=TM867070-2-24
+25	βαταν	βας	PROPN	_	Case=Acc|Gender=Fem|Number=Sing	26	obl	_	Ref=TM867070-2-25
+26	τευτου	τευτου	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	9	conj	_	Ref=TM867070-2-26|SpaceAfter=No
+27	ς	σεμουν	ADV	_	_	26	advmod	_	Ref=TM867070-2-27|SpaceAfter=No
+28	.	.	PUNCT	_	_	9	punct	_	Ref=TM867070-2-28
+
+# sent_id = TM867071-2
+# text = ιος κε σεμ⟨ου⟩ν κνουμανει κακουν αδδακετ, γεγρειμεναν εγεδου τιος ουταν.
+1	ιος	ios	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	6	nsubj	_	Ref=TM867071-2-1
+2	κε	ke	CCONJ	_	_	6	cc	_	Ref=TM867071-2-2
+3	σεμ⟨ου⟩ν	σεμουν	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	4	det	_	Ref=TM867071-2-3
+4	κνουμανει	κνουμανει	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	6	iobj	_	Ref=TM867071-2-4
+5	κακουν	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	obj	_	Ref=TM867071-2-5
+6	αδδακετ	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	csubj	_	SpaceAfter=No|Ref=TM867071-2-6
+7	,	,	PUNCT	_	_	9	punct	_	Ref=TM867071-2-7
+8	γεγρειμεναν	γεγρειμεναν	VERB	_	Aspect=Perf|Case=Acc|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	11	amod	_	Ref=TM867071-2-8
+9	εγεδου	egeseti	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	Ref=TM867071-2-9
+10	τιος	τιε	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	Ref=TM867071-2-10
+11	ουταν	ουταν	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	9	obj	_	SpaceAfter=No|Ref=TM867071-2-11
+12	.	.	PUNCT	_	_	9	punct	_	Ref=TM867071-2-12
+
+# sent_id = TM867072-2
+# text = ιος νι σαι κακουν αδδακεμ μανκαι, ας ανανκαι οι παντα κενα ⟨ι⟩ννου.
+1	ιος	ios	PRON	_	Case=Nom|ExtPos=PRON|Gender=Masc|Number=Sing|PronType=Rel	5	nsubj	_	Ref=TM867072-2-1
+2	νι	ni	PART	_	_	1	fixed	_	Ref=TM867072-2-2
+3	σαι	σεμουν	DET	_	Case=Dat|Gender=Fem|Number=Sing|PronType=Dem	6	det	_	Ref=TM867072-2-3
+4	κακουν	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	5	obj	_	Ref=TM867072-2-4
+5	αδδακεμ	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	acl	_	Ref=TM867072-2-5
+6	μανκαι	μανκα	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	5	iobj	_	SpaceAfter=No|Ref=TM867072-2-6
+7	,	,	PUNCT	_	_	5	punct	_	Ref=TM867072-2-7
+8	ας	as	ADP	_	_	9	case	_	Ref=TM867072-2-8
+9	ανανκαι	ανανκαι	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	12	obl	_	Ref=TM867072-2-9
+10	οι	ιοι	PRON	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Prs	12	iobj	_	Ref=TM867072-2-10
+11	παντα	panta	ADJ	_	Case=Nom|Gender=Neut|Number=Plur	12	nsubj	_	Ref=TM867072-2-11
+12	κενα	κενα	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	0	root	_	Ref=TM867072-2-12
+13	⟨ι⟩ννου	ituv	AUX	_	Mood=Imp|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	cop	_	SpaceAfter=No|Ref=TM867072-2-13
+14	.	.	PUNCT	_	_	12	punct	_	Ref=TM867072-2-14
+
+# sent_id = TM867073-2
+# text = ιος κε σεμουν κνουμανι κακουν αδακετ, ερα γεγρειμεν[α]ν εγεδο[υ] τιος ουταν, αυτος κ’ ουα κοροκα [γ]εγ̣[αριτ]με[ν]ος α βαταν τευτους.
+1	ιος	ios	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	6	nsubj	_	Ref=TM867073-2-1
+2	κε	ke	CCONJ	_	_	10	cc	_	Ref=TM867073-2-2
+3	σεμουν	σεμουν	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	4	det	_	Ref=TM867073-2-3
+4	κνουμανι	κνουμανει	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	6	iobj	_	Ref=TM867073-2-4
+5	κακουν	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	obj	_	Ref=TM867073-2-5
+6	αδακετ	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	csubj	_	SpaceAfter=No|Ref=TM867073-2-6
+7	,	,	PUNCT	_	_	10	punct	_	Ref=TM867073-2-7
+8	ερα	ερα	ADV	_	_	10	advmod	_	Ref=TM867073-2-8
+9	γεγρειμεν[α]ν	γεγρειμεναν	VERB	_	Aspect=Perf|Case=Acc|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	10	amod	_	Ref=TM867073-2-9
+10	εγεδο[υ]	egeseti	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	Ref=TM867073-2-10
+11	τιος	τιε	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	12	nmod	_	Ref=TM867073-2-11
+12	ουταν	ουταν	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	10	obj	_	SpaceAfter=No|Ref=TM867073-2-12
+13	,	,	PUNCT	_	_	10	punct	_	Ref=TM867073-2-13
+14	αυτος	αυτος	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Emp	21	nsubj	_	Ref=TM867073-2-14
+15	κ’	ke	CCONJ	_	_	21	cc	_	Ref=TM867073-2-15
+16	ουα	va	DET	_	Case=Nom|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	17	det	_	Ref=TM867073-2-16
+17	κοροκα	κοροκα	NOUN	_	_	21	dep	_	Ref=TM867073-2-17
+18	[γ]εγ̣[αριτ]με[ν]ος	γεγαριτμενος	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	14	amod	_	Ref=TM867073-2-18
+19	α	as	ADP	_	_	20	case	_	Ref=TM867073-2-19
+20	βαταν	βας	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	21	obl	_	Ref=TM867073-2-20
+21	τευτου	τευτου	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	10	conj	_	SpaceAfter=No|Ref=TM867073-2-21
+22	ς	σεμουν	ADV	_	_	21	advmod	_	Ref=TM867073-2-22|SpaceAfter=No
+23	.	.	PUNCT	_	_	10	punct	_	Ref=TM867073-2-23
+
+# sent_id = TM845501-1
+# text = ιος νι σεμουν κνουμανει κακουν αδα[κ]ετ, γεγρειμεναν εγεδου Τιος ουτ[αν] [---]
+1	ιος	ios	PRON	_	Case=Nom|ExtPos=PRON|Gender=Masc|Number=Sing|PronType=Rel	6	nsubj	_	Ref=TM845501-1-1
+2	νι	ni	PART	_	_	1	fixed	_	Ref=TM845501-1-2
+3	σεμουν	σεμουν	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	4	det	_	Ref=TM845501-1-3
+4	κνουμανει	κνουμανει	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	6	iobj	_	Ref=TM845501-1-4
+5	κακουν	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	obj	_	Ref=TM845501-1-5
+6	αδα[κ]ετ	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	csubj	_	SpaceAfter=No|Ref=TM845501-1-6
+7	,	,	PUNCT	_	_	9	punct	_	Ref=TM845501-1-7
+8	γεγρειμεναν	γεγρειμεναν	VERB	_	Aspect=Perf|Case=Acc|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	11	amod	_	Ref=TM845501-1-8
+9	εγεδου	egeseti	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	Ref=TM845501-1-9
+10	Τιος	τιε	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	11	nmod	_	Ref=TM845501-1-10
+11	ουτ[αν]	ουταν	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	9	obj	_	Ref=TM845501-1-11
+12	[---]	[---]	SYM	_	_	9	dep	_	Ref=TM845501-1-12
+
+# sent_id = TM970282-3
+# text = ιος νι σεμ̣[ουν κνου]μ̣ανει κα̣κ[ουν αδ]δ̣[ακ]ετ, τιε τιττ̣ε̣τ̣̣ικμε̣νος ειτ[ου].
+1	ιος	_	PRON	_	Case=Nom|ExtPos=PRON|Gender=Masc|Number=Sing|PronType=Rel	6	nsubj	_	Ref=TM970282-3-1
+2	νι	ni	PART	_	_	1	fixed	_	Ref=TM970282-3-2
+3	σεμ̣[ουν	σεμουν	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	4	det	_	Ref=TM970282-3-3
+4	κνου]μ̣ανει	κνουμανει	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	6	iobj	_	Ref=TM970282-3-4
+5	κα̣κ[ουν	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	obj	_	Ref=TM970282-3-5
+6	αδ]δ̣[ακ]ετ	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	csubj	_	SpaceAfter=No|Ref=TM970282-3-6
+7	,	,	PUNCT	_	_	9	punct	_	Ref=TM970282-3-7
+8	τιε	τιε	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	9	obl	_	Ref=TM970282-3-8
+9	τιττ̣ε̣τ̣̣ικμε̣νος	τιττετικμενος	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	0	root	_	Ref=TM970282-3-9
+10	ειτ[ου]	ituv	AUX	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	cop	_	SpaceAfter=No|Ref=TM970282-3-10
+11	.	.	PUNCT	_	_	9	punct	_	Ref=TM970282-3-11
+
+# sent_id = TM867064-2
+# text = ιος νι σα του μανκα κακουν αδδακετ, τι̣τ̣ετικμενος ειτου.
+1	ιος	ios	PRON	_	Case=Nom|ExtPos=PRON|Gender=Masc|Number=Sing|PronType=Rel	7	nsubj	_	Ref=TM867064-2-1
+2	νι	ni	PART	_	_	1	fixed	_	Ref=TM867064-2-2
+3	σα	σεμουν	DET	_	Case=Dat|ExtPos=DET|Gender=Fem|Number=Sing|PronType=Dem	5	det	_	Ref=TM867064-2-3
+4	του	τος	PART	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	3	fixed	_	Ref=TM867064-2-4
+5	μανκα	μανκα	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	7	iobj	_	Ref=TM867064-2-5
+6	κακουν	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	7	obj	_	Ref=TM867064-2-6
+7	αδδακετ	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	csubj	_	SpaceAfter=No|Ref=TM867064-2-7
+8	,	punct	PUNCT	_	_	9	punct	_	Ref=TM867064-2-8
+9	τι̣τ̣ετικμενος	τιττετικμενος	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	0	root	_	Ref=TM867064-2-9
+10	ειτου	ituv	AUX	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	cop	_	SpaceAfter=No|Ref=TM867064-2-10
+11	.	.	PUNCT	_	_	9	punct	_	Ref=TM867064-2-11
+
+# sent_id = TM918589-2
+# text = ιος νι σεμ[ουν κνου]μανει κακουν αδακετ, τ̣ιτετικμενος αας κνουμ̣[---]
+1	ιος	ios	PRON	_	Case=Nom|ExtPos=PRON|Gender=Masc|Number=Sing|PronType=Rel	6	nsubj	_	Ref=TM918589-2-1
+2	νι	ni	PART	_	_	1	fixed	_	Ref=TM918589-2-2
+3	σεμ[ουν	σεμουν	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	4	det	_	Ref=TM918589-2-3
+4	κνου]μανει	κνουμανει	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	6	iobj	_	Ref=TM918589-2-4
+5	κακουν	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	obj	_	Ref=TM918589-2-5
+6	αδακετ	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	csubj	_	SpaceAfter=No|Ref=TM918589-2-6
+7	,	,	PUNCT	_	_	6	punct	_	Ref=TM918589-2-7
+8	τ̣ιτετικμενος	τιττετικμενος	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	0	root	_	Ref=TM918589-2-8
+9	αας	as	ADP	_	_	10	case	_	Ref=TM918589-2-9
+10	κνουμ̣[---]	κνουμανει	NOUN	_	Gender=Neut|Number=Sing	6	obl	_	Ref=TM918589-2-10
+
+# sent_id = TM845437-1
+# text = [τιττετι]κμενος ειτου.
+1	[τιττετι]κμενος	τιττετικμενος	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	0	root	_	Ref=TM845437-1-1
+2	ειτου	ituv	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	SpaceAfter=No|Ref=TM845437-1-2
+3	.	.	PUNCT	_	_	1	punct	_	Ref=TM845437-1-3
+
+# sent_id = TM938753-2
+# text = ιος σα σορου κακε αδακετ, με ζεμελως τιττετιμενος ειτου.
+1	ιος	ios	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	5	nsubj	_	Ref=TM938753-2-1
+2	σα	σεμουν	DET	_	Case=Dat|Gender=Fem|Number=Sing|PronType=Dem	3	det	_	Ref=TM938753-2-2
+3	σορου	σοροι	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	5	iobj	_	Ref=TM938753-2-3
+4	κακε	kakey	ADV	_	_	5	advmod	_	Ref=TM938753-2-4
+5	αδακετ	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	csubj	_	SpaceAfter=No|Ref=TM938753-2-5
+6	,	,	PUNCT	_	_	9	punct	_	Ref=TM938753-2-6
+7	με	με1	ADP	_	_	8	case	_	Ref=TM938753-2-7
+8	ζεμελως	ζεμελως	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	9	obl	_	Ref=TM938753-2-8
+9	τιττετιμενος	τιττετικμενος	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	0	root	_	Ref=TM938753-2-9
+10	ειτου	ituv	AUX	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	cop	_	SpaceAfter=No|Ref=TM938753-2-10
+11	.	.	PUNCT	_	_	9	punct	_	Ref=TM938753-2-11
+
+# sent_id = TM970283-2
+# text = ιος σα του σορου κακε αδδακετ, με ζεμελως οττιττετικμενος ❧ ειτου. ❧ ❧
+1	ιος	ios	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	6	nsubj	_	Ref=TM970283-2-1
+2	σα	σεμουν	DET	_	Case=Dat|ExtPos=DET|Gender=Fem|Number=Sing|PronType=Dem	4	det	_	Ref=TM970283-2-2
+3	του	τος	PART	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	2	fixed	_	Ref=TM970283-2-3
+4	σορου	σοροι	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	6	iobj	_	Ref=TM970283-2-4
+5	κακε	kakey	ADV	_	_	6	advmod	_	Ref=TM970283-2-5
+6	αδδακετ	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	csubj	_	SpaceAfter=No|Ref=TM970283-2-6
+7	,	,	PUNCT	_	_	10	punct	_	Ref=TM970283-2-7
+8	με	με1	ADP	_	_	9	case	_	Ref=TM970283-2-8
+9	ζεμελως	ζεμελως	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	10	obl	_	Ref=TM970283-2-9
+10	οττιττετικμενος	τιττετικμενος	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	0	root	_	Ref=TM970283-2-10
+11	❧	❧	SYM	_	_	10	dep	_	Ref=TM970283-2-11
+12	ειτου	ituv	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	cop	_	SpaceAfter=No|Ref=TM970283-2-12
+13	.	.	PUNCT	_	_	10	punct	_	Ref=TM970283-2-13
+14	❧	❧	SYM	_	_	10	dep	_	Ref=TM970283-2-14
+15	❧	❧	SYM	_	_	10	dep	_	Ref=TM970283-2-15
+
+# sent_id = TM845394-2
+# text = [ιος] σεμον τι κνουμανι κ[ακ][ον α]βερετι ζ̣ει[ραι] παρταν, το[ς] [νι με] ζ̣ι[μελως] α τι ατιτικμενος [ειτ]ου.
+1	[ιος]	ios	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	6	nsubj	_	Ref=TM845394-2-1
+2	σεμον	σεμουν	DET	_	Case=Dat|ExtPos=DET|Gender=Neut|Number=Sing|PronType=Dem	4	det	_	Ref=TM845394-2-2
+3	τι	τος	PART	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	2	fixed	_	Ref=TM845394-2-3
+4	κνουμανι	κνουμανει	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	6	iobj	_	Ref=TM845394-2-4
+5	κ[ακ][ον	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	obj	_	Ref=TM845394-2-5
+6	α]βερετι	αββερετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	acl	_	Ref=TM845394-2-6
+7	ζ̣ει[ραι]	𐋇iray	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	6	obl	_	Ref=TM845394-2-7
+8	παρταν	παρτης	ADJ	_	_	6	dep	_	SpaceAfter=No|Ref=TM845394-2-8
+9	,	,	PUNCT	_	_	6	punct	_	Ref=TM845394-2-9
+10	το[ς]	τος	PRON	_	Case=Nom|ExtPos=PRON|Gender=Masc|Number=Sing|PronType=Dem	16	nsubj	_	Ref=TM845394-2-10
+11	[νι	ni	PART	_	_	10	fixed	_	Ref=TM845394-2-11
+12	με]	με1	ADP	_	_	13	case	_	Ref=TM845394-2-12
+13	ζ̣ι[μελως]	ζεμελως	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	16	obl	_	Ref=TM845394-2-13
+14	α	ad	ADP	_	_	15	case	_	Ref=TM845394-2-14
+15	τι	τιε	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	16	obl	_	Ref=TM845394-2-15
+16	ατιτικμενος	τιττετικμενος	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	0	root	_	Ref=TM845394-2-16
+17	[ειτ]ου	ituv	AUX	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	16	cop	_	SpaceAfter=No|Ref=TM845394-2-17
+18	.	.	PUNCT	_	_	16	punct	_	Ref=TM845394-2-18
+
+# sent_id = TM1002269-1
+# text = [ιος νι σεμον κνου]μ̣ανει κακον αδδακετ τιτετικ[μεν]ος ειτου.
+1	[ιος	ios	PRON	_	Case=Nom|ExtPos=PRON|Gender=Masc|Number=Sing|PronType=Rel	6	nsubj	_	Ref=TM1002269-1-1
+2	νι	ni	PART	_	_	1	fixed	_	Ref=TM1002269-1-2
+3	σεμον	σεμουν	DET	_	Case=Dat|ExtPos=DET|Gender=Neut|Number=Sing|PronType=Dem	4	det	_	Ref=TM1002269-1-3
+4	κνου]μ̣ανει	κνουμανει	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	6	iobj	_	Ref=TM1002269-1-4
+5	κακον	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	obj	_	Ref=TM1002269-1-5
+6	αδδακετ	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	csubj	_	Ref=TM1002269-1-7
+7	τιτετικ[μεν]ος	τιττετικμενος	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	0	root	_	Ref=TM1002269-1-7
+8	ειτου	ituv	AUX	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	_	SpaceAfter=No|Ref=TM1002269-1-8
+9	.	.	PUNCT	_	_	7	punct	_	Ref=TM1002269-1-9
+
