@@ -31,6 +31,16 @@
       "role": "ud_import",
       "path": "imports/ud-phrygian-kul.json",
       "required": true
+    },
+    {
+      "role": "pre_expert_maximum",
+      "path": "research/pre-expert-maximum.json",
+      "required": true
+    },
+    {
+      "role": "tm_reconciliation",
+      "path": "research/tm-reconciliation-ledger.json",
+      "required": true
     }
   ],
   "behavioral_gates": [
@@ -39,6 +49,7 @@
     "Digital source entries and alternate editions are not automatically independent physical witnesses",
     "Normalized or Greek-script renderings never overwrite source readings",
     "TITUS and underlying edition rights remain controlling",
-    "Machine-readable linguistic annotations remain attributed source assertions and are not independent epigraphic confirmation."
+    "Machine-readable linguistic annotations remain attributed source assertions and are not independent epigraphic confirmation.",
+    "A Trismegistos identity anchor does not establish an authoritative edition, physical-object identity, date, provenance, period assignment, or independently verified reading."
   ]
 }
