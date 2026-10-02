@@ -12,9 +12,9 @@ For questions spanning corpus projects, use the **Combined Corpus Research AI** 
 
 ## Status
 
-**0.1.0 — project scaffold and source-policy baseline.**
+**0.2.0 — source acquisition and alignment milestone.**
 
-This release establishes the data model, provenance rules, interoperability contract, validation workflow, and corpus-factory compatibility. It does **not** claim exhaustive coverage, independent epigraphic review, or a new critical edition.
+The repository now also preserves a separately attributed UD Phrygian-KUL machine-readable reference snapshot: 203 sentences, 1,921 tokens, and 162 distinct Trismegistos identifiers. The canonical epigraphic layer remains empty pending source-level reconciliation. The reference layer is **not** independent epigraphic review and does not constitute a new critical edition.
 
 Initial digital source target: the TITUS Phrygian corpus, which preserves Old- and Neo-Phrygian readings, uncertainty marks, directionality, restorations, and editorial conventions derived from published editions. Third-party source terms remain controlling; this repository will not redistribute material beyond what source rights permit.
 
