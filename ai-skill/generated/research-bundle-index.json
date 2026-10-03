@@ -1,9 +1,9 @@
 {
   "schema_version": "0.3.1",
   "skill_version": "0.3.1",
-  "source_commit": "2b70f00203d541c6fb5fe45c26c5958a9c446290",
+  "source_commit": "985614b5e536c19f4306cad4e3e5c6b4f39f57f8",
   "canonical_repository": true,
-  "generated_at_utc": "2026-10-03T03:35:59+00:00",
+  "generated_at_utc": "2026-10-03T17:39:20+00:00",
   "contract": {
     "corpus_is_authoritative": true,
     "missing_means_unknown": true,
@@ -66,6 +66,12 @@
       "path": "schemas/interoperability-contract.json",
       "sha256": "8254b130a3524e1e8a41f51074912de0bd85a8d57735db7b050cae6155d57005",
       "bytes": 841
+    },
+    {
+      "role": "notice",
+      "path": "NOTICE",
+      "sha256": "cc5120da762ed398aac92590de299e5f07114af48ec2766259df03dc81c98cdb",
+      "bytes": 918
     },
     {
       "role": "pre_expert_maximum",
