@@ -40,6 +40,14 @@
   ],
   "remaining_nonexpert_work": [
     {
+      "id": "PHR-PRE-000",
+      "scope": "TM Phrygian discovery benchmark",
+      "action": "Expand identity discovery beyond the 162 UD-linked TM IDs toward the 536-attestation TM language-page benchmark, preserving duplicates/period/source distinctions.",
+      "blocked_by": "public enumeration/API access and record-level reconciliation",
+      "status": "OPEN_LARGE_MACHINE_FRONTIER",
+      "evidence": "research/tm-coverage-benchmark.json"
+    },
+    {
       "id": "PHR-PRE-001",
       "scope": "162 TM-linked inscription identities",
       "action": "Build inscription-level reconciliation ledger linking digital IDs, period labels, provenance and authoritative edition locators where accessible.",
@@ -77,5 +85,10 @@
       "decision": "resolve linguistic/editorial interpretations not explicit in sources"
     }
   ],
-  "completion_rule": "Pre-Expert Maximum is reached when all 162 linked identities have a reconciliation disposition and all digital-source dependence that can be established bibliographically is recorded; canonical admission still requires source-level epigraphic verification."
+  "completion_rule": "Pre-Expert Maximum requires disposition of the broader TM discovery frontier as well as reconciliation of the current 162 UD-linked identities and digital-source dependence; canonical admission still requires source-level epigraphic verification.",
+  "discovery_benchmark": {
+    "tm_reported_attestations": 536,
+    "current_ud_linked_tm_ids": 162,
+    "status": "LARGE_DISCOVERY_EXPANSION_FRONTIER"
+  }
 }
