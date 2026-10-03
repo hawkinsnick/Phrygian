@@ -1,0 +1,70 @@
+{
+  "schema_version": "1.0",
+  "scope": "Digital-source and edition dependence known before record-level collation",
+  "nodes": [
+    {
+      "id": "Brixhe-Lejeune-1984",
+      "type": "scholarly_edition",
+      "role": "Old Phrygian corpus baseline"
+    },
+    {
+      "id": "Obrador-Cursach-2020",
+      "type": "scholarly_edition",
+      "role": "principal UD reading/lemma source"
+    },
+    {
+      "id": "Oreshko-Alagoz-2023",
+      "type": "scholarly_edition_or_study",
+      "role": "UD source for included material"
+    },
+    {
+      "id": "TITUS-Phrygian",
+      "type": "digital_edition",
+      "role": "Old/Neo Phrygian digital representation"
+    },
+    {
+      "id": "UD-Phrygian-KUL",
+      "type": "annotated_digital_corpus",
+      "role": "203-sentence machine reference"
+    },
+    {
+      "id": "Trismegistos",
+      "type": "identity_metadata_aggregator",
+      "role": "stable text identities/provenance/date discovery benchmark"
+    }
+  ],
+  "edges": [
+    {
+      "from": "Brixhe-Lejeune-1984",
+      "to": "TITUS-Phrygian",
+      "relation": "edition_baseline_for_old_phrygian"
+    },
+    {
+      "from": "Obrador-Cursach-2020",
+      "to": "UD-Phrygian-KUL",
+      "relation": "principal_text_and_lemma_source"
+    },
+    {
+      "from": "Oreshko-Alagoz-2023",
+      "to": "UD-Phrygian-KUL",
+      "relation": "additional_text_source"
+    },
+    {
+      "from": "Trismegistos",
+      "to": "UD-Phrygian-KUL",
+      "relation": "stable_identity_and_metadata_linkage"
+    }
+  ],
+  "independence_rules": [
+    "UD and its cited editions are not independent epigraphic confirmations.",
+    "TITUS and Brixhe-Lejeune-derived readings are not independent when TITUS follows that edition.",
+    "TM identity/provenance metadata can corroborate identity fields but does not independently verify a reading merely by linking the same inscription.",
+    "Two digital representations ultimately based on the same edition count as one reading lineage until an independent collation is demonstrated."
+  ],
+  "open_edges": [
+    "Record-level mapping of each of 162 current UD-linked TM IDs to exact edition lineage.",
+    "Dependence mapping for the broader 536-attestation TM discovery benchmark.",
+    "Later independent editions/collations where available."
+  ],
+  "status": "BIBLIOGRAPHIC_DEPENDENCE_SKELETON_COMPLETE_RECORD_LEVEL_OPEN"
+}
