@@ -1,0 +1,83 @@
+{
+  "schema_version": "0.3.1",
+  "skill_version": "0.3.1",
+  "source_commit": "b70098e37041105e43983725e2e0a13999110f19",
+  "canonical_repository": true,
+  "generated_at_utc": "2026-10-02T23:18:47+00:00",
+  "contract": {
+    "corpus_is_authoritative": true,
+    "missing_means_unknown": true,
+    "cross_corpus_equivalence_requires_explicit_evidence": true,
+    "preserve_uncertainty": true,
+    "preserve_source_independence": true,
+    "preserve_rights": true
+  },
+  "artifacts": [
+    {
+      "role": "current_status",
+      "path": "analysis/current-status.json",
+      "sha256": "27fce7325f296bf704cd3164c97469fa624b342edee4c87bd8bbc255267df76f",
+      "bytes": 1420
+    },
+    {
+      "role": "ud_source_documentation",
+      "path": "imports/ud-phrygian-kul-readme.md",
+      "sha256": "396131d9c22897458aa6750491d23c0384d9a82edc1c6a8df90a88c76eaf29d1",
+      "bytes": 6995
+    },
+    {
+      "role": "source_documentation_reconciliation",
+      "path": "research/source-documentation-reconciliation-v1.json",
+      "sha256": "2098080f48246e07b39f4969237cd45f5e41e91493382460828ed708ab29d786",
+      "bytes": 1375
+    },
+    {
+      "role": "source_inspection",
+      "path": "research/source-inspection-2026-10-02.json",
+      "sha256": "0cf56ee8a8ac05cc81f7761b40b0501cfe09dcc927aea1e1d3aa341b3b01467e",
+      "bytes": 2554
+    },
+    {
+      "role": "sources",
+      "path": "data/sources.json",
+      "sha256": "7128e84e087a4fcbb3db285b4d5bb3287efc4bfb4fd3b8a1e99d66248b7e1926",
+      "bytes": 838
+    },
+    {
+      "role": "ud_import",
+      "path": "imports/ud-phrygian-kul.json",
+      "sha256": "f5f829534c479ee65af5adc554978a2e54cb0ea5c7a93eccbfa992a25da8696c",
+      "bytes": 101726
+    },
+    {
+      "role": "rights",
+      "path": "docs/RIGHTS.md",
+      "sha256": "0863a27e124b356c9024c3ad6feb317633fd9a386638c64007c1a07b03d9f723",
+      "bytes": 581
+    },
+    {
+      "role": "method",
+      "path": "docs/METHOD.md",
+      "sha256": "43181fd641391ccf3ee29a3a4116fd52ffc24a39635704171f4a086536aec3b2",
+      "bytes": 755
+    },
+    {
+      "role": "interoperability",
+      "path": "schemas/interoperability-contract.json",
+      "sha256": "8254b130a3524e1e8a41f51074912de0bd85a8d57735db7b050cae6155d57005",
+      "bytes": 841
+    },
+    {
+      "role": "pre_expert_maximum",
+      "path": "research/pre-expert-maximum.json",
+      "sha256": "5907bece1b68b7d4f17dcef84e25b1af8039a0e14090dc307406498a9a1830a4",
+      "bytes": 3062
+    },
+    {
+      "role": "tm_reconciliation",
+      "path": "research/tm-reconciliation-ledger.json",
+      "sha256": "93373f0a590ee56a2ae81f653482cfe590f6b4a9707264a46501b99618d92d5e",
+      "bytes": 89943
+    }
+  ]
+}

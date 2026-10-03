@@ -1,6 +1,6 @@
 # Phrygian Open Corpus
 
-A source-attributed research corpus and reproducible toolkit for Old and Neo-Phrygian inscriptions.
+A source-attributed research corpus and reproducible toolkit for Old, Middle and Neo-Phrygian inscriptions.
 
 ## AI research skill
 
@@ -35,3 +35,5 @@ python -m unittest discover -s tests -v
 ```
 
 See `docs/METHOD.md`, `docs/RIGHTS.md`, and `schemas/interoperability-contract.json`.
+
+The licensed upstream README is pinned in `imports/ud-phrygian-kul-readme.md` with attribution to the UD Phrygian-KUL contributors (CC BY-SA 4.0). Run `python scripts/reconcile_source_documentation.py` to replay its two explicit edition/TM joins. The reference layer remains separate from canonical epigraphic admission. See `research/source-inspection-2026-10-02.json` for edition genealogy and representation limits.

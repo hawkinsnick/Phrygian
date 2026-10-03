@@ -21,5 +21,11 @@
   },
   "canonical_epigraphic_record_count": 0,
   "committed_reference_record_count": 203,
-  "layer_boundary": "imports/ud-phrygian-kul.json is a source-attributed reference layer; data/records.json is the canonical epigraphic layer and remains empty pending source-level reconciliation."
+  "layer_boundary": "imports/ud-phrygian-kul.json is a source-attributed reference layer; data/records.json is the canonical epigraphic layer and remains empty pending source-level reconciliation.",
+  "edition_reconciliation": {
+    "register": "research/source-inspection-2026-10-02.json",
+    "explicit_source_documentation_joins": 2,
+    "independent_epigraphic_reviews": 0,
+    "period_scope": "Old, Middle and New Phrygian (upstream reported; no project per-record period assignments inferred)"
+  }
 }

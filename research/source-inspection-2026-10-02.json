@@ -1,0 +1,64 @@
+{
+  "schema_version": "1.0",
+  "checked": "2026-10-02",
+  "scope": "Upstream edition genealogy and explicit two-row edition/TM join; metadata only.",
+  "sources": [
+    {
+      "source_id": "ud-phrygian-kul-readme",
+      "url": "https://github.com/UniversalDependencies/UD_Phrygian-KUL/blob/master/README.md",
+      "source_blob_sha": "0892896f3d97bdb08ddbfc7b9304c21338c031aa",
+      "path": "imports/ud-phrygian-kul-readme.md",
+      "sha256": "396131d9c22897458aa6750491d23c0384d9a82edc1c6a8df90a88c76eaf29d1",
+      "license": "CC-BY-SA-4.0",
+      "locator": "Edition table and Changelog 2026-05-15",
+      "role": "dependent_source_documentation"
+    },
+    {
+      "source_id": "titus-phrygian",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm",
+      "locator": "Old-Phrygian introduction and spelling conventions",
+      "role": "dependent_digital_edition",
+      "inspection": [
+        {
+          "file_name": "phrygian-titus.html",
+          "sha256": "519c54472afd41976aff7b61c7798953b8ace7631491d990f858a03c7132ccc4",
+          "bytes": 466703,
+          "redistributed": false
+        }
+      ]
+    }
+  ],
+  "assertions": [
+    {
+      "trismegistos_id": "TM1002268",
+      "editor": "Anfosso 2021",
+      "edition_number": "34.2",
+      "period": "New Phrygian",
+      "source_locator": "README Edition table",
+      "reference_record_ids": [
+        "UD-TM1002268-1"
+      ],
+      "status": "UPSTREAM_DOCUMENTATION_JOIN_NOT_INDEPENDENT_COLLATION"
+    },
+    {
+      "trismegistos_id": "TM1002269",
+      "editor": "Güney & Yanık 2022",
+      "edition_number": "67.1",
+      "period": "New Phrygian",
+      "source_locator": "README Edition table",
+      "reference_record_ids": [
+        "UD-TM1002269-1"
+      ],
+      "status": "UPSTREAM_DOCUMENTATION_JOIN_NOT_INDEPENDENT_COLLATION"
+    }
+  ],
+  "independent_review": false,
+  "canonical_admission_granted": false,
+  "limitations": [
+    "UD is mainly based on Obrador-Cursach 2020 pp. 525–606 and Oreshko & Alagöz 2023; TITUS Old Phrygian cites Brixhe & Lejeune 1984. Neither digital source is an independent witness.",
+    "UD includes Old, Middle and New Phrygian; Old subset M, Dd, HP is partial and Middle includes W-11 and G-12. Do not infer periods from script alone.",
+    "G-12 ś to S is an explicit upstream encoding convention, not a new project sign identity.",
+    "TITUS interlinear Greek rendition is a supplied representation, not a second witness.",
+    "No TITUS full readings redistributed; no canonical record admitted."
+  ]
+}

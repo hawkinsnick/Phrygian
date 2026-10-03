@@ -2787,7 +2787,16 @@
       "physical_object_id": null,
       "period": null,
       "provenance": null,
-      "expert_required_for_reading_adjudication": true
+      "expert_required_for_reading_adjudication": true,
+      "source_documentation_edition_assertions": [
+        {
+          "editor": "Anfosso (2021)",
+          "edition_number": "34.2",
+          "source_path": "imports/ud-phrygian-kul-readme.md",
+          "source_locator": "README Edition table",
+          "status": "dependent_upstream_assertion"
+        }
+      ]
     },
     {
       "trismegistos_id": "TM1002269",
@@ -2804,7 +2813,17 @@
       "physical_object_id": null,
       "period": null,
       "provenance": null,
-      "expert_required_for_reading_adjudication": true
+      "expert_required_for_reading_adjudication": true,
+      "source_documentation_edition_assertions": [
+        {
+          "editor": "G\u00fcney & Yan\u0131k (2022)",
+          "edition_number": "67.1",
+          "source_path": "imports/ud-phrygian-kul-readme.md",
+          "source_locator": "README Edition table",
+          "status": "dependent_upstream_assertion"
+        }
+      ]
     }
-  ]
+  ],
+  "source_documentation_reconciliation": "research/source-documentation-reconciliation-v1.json"
 }
