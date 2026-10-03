@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "checked": "2026-10-02",
+  "authority": "Trismegistos language page for Phrygian (language_id=87)",
+  "discovery_benchmark": {
+    "reported_attestations": 536,
+    "description": "TM reports 536 attestations of texts with Phrygian language/script and says it should contain most Phrygian inscriptions based on Brixhe & Lejeune 1984 plus journal additions.",
+    "denominator_status": "AUTHORITATIVE_DISCOVERY_BENCHMARK_NOT_EXHAUSTIVE_WORLD_TOTAL"
+  },
+  "current_reference_layer": {
+    "distinct_tm_ids": 162,
+    "ud_sentences": 203,
+    "approx_share_of_tm_reported_attestations": 0.3022,
+    "comparison_caution": "Distinct UD-linked TM IDs and TM language-page attestations are useful coverage signals but must be reconciled record-by-record before asserting exact missing-object count."
+  },
+  "expansion_frontier": {
+    "unrepresented_benchmark_difference": 374,
+    "status": "DISCOVERY_QUEUE_MAGNITUDE_ONLY_NOT_CANONICAL_MISSING_COUNT"
+  },
+  "rights": {
+    "tm_data_services": "TM states public data services are CC BY-SA 4.0; retain attribution/share-alike requirements for imported TM data.",
+    "ud": "UD Phrygian-KUL is CC BY-SA 4.0; it remains a dependent annotated reference layer."
+  },
+  "source_independence": "TM identity/metadata and UD linguistic annotation are not automatically independent epigraphic witnesses; both point to published editions.",
+  "next": [
+    "enumerate TM Phrygian IDs beyond current 162 where public service permits",
+    "reconcile overlap and duplicates",
+    "capture period/provenance/material/publication metadata under upstream terms",
+    "keep canonical epigraphic admission separate from discovery"
+  ]
+}
