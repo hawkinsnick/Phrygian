@@ -41,3 +41,4 @@ Read `docs/SOURCE-RECONCILIATION.md` and the indexed source-reconciliation artif
 - G-12 has seven publisher lines and ten candidate UD sentences; no physical line alignment or catalogue-certified TM join is established.
 - TITUS heading catalogue includes Old-Phryg., Mys., and Neo-Phryg. sections; Mys. is a comparison section, not automatically Phrygian evidence.
 - The TITUS identity-unit audit retains 305 headings, 272 mechanical numeric-stem groups and twelve multi-heading stems as incompatible counting views. Eight multi-heading groups co-list an unsuffixed parent heading with suffixes; this is catalogue hierarchy, not a certified physical relationship or inscription count.
+- The TITUS hierarchy audit permits only 23 relations whose parent and child headings are both co-listed in the same period/provenance scope (18 integer-to-suffix and five letter-to-Roman-subdivision). These remain label relations, never physical-object relations.

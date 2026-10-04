@@ -1,0 +1,221 @@
+{
+  "format": "phrygian-titus-heading-hierarchy-audit-v1",
+  "source_path": "research/titus-heading-catalogue.json",
+  "source_sha256": "ffc91381b5a91c288039eee5c75175ee8fba979fead4ec05ce6191d48aa3f0e4",
+  "explicit_colisted_parent_edge_count": 23,
+  "relation_counts": {
+    "suffix_heading_of_colisted_integer_heading": 18,
+    "roman_subdivision_of_colisted_letter_heading": 5
+  },
+  "edges": [
+    {
+      "period_label_reported": "Neo-Phryg.",
+      "provenance_label_reported": "_",
+      "parent_label": "4",
+      "parent_heading_id": "Phryg._Neo-Phryg.___4",
+      "child_label": "4b",
+      "child_heading_id": "Phryg._Neo-Phryg.___4b",
+      "relation": "suffix_heading_of_colisted_integer_heading"
+    },
+    {
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "parent_label": "150",
+      "parent_heading_id": "Phryg._Old-Phryg._G_150",
+      "child_label": "150A",
+      "child_heading_id": "Phryg._Old-Phryg._G_150A",
+      "relation": "suffix_heading_of_colisted_integer_heading"
+    },
+    {
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "parent_label": "150",
+      "parent_heading_id": "Phryg._Old-Phryg._G_150",
+      "child_label": "150C",
+      "child_heading_id": "Phryg._Old-Phryg._G_150C",
+      "relation": "suffix_heading_of_colisted_integer_heading"
+    },
+    {
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "parent_label": "183",
+      "parent_heading_id": "Phryg._Old-Phryg._G_183",
+      "child_label": "183A",
+      "child_heading_id": "Phryg._Old-Phryg._G_183A",
+      "relation": "suffix_heading_of_colisted_integer_heading"
+    },
+    {
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "parent_label": "183",
+      "parent_heading_id": "Phryg._Old-Phryg._G_183",
+      "child_label": "183B",
+      "child_heading_id": "Phryg._Old-Phryg._G_183B",
+      "relation": "suffix_heading_of_colisted_integer_heading"
+    },
+    {
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "parent_label": "1",
+      "parent_heading_id": "Phryg._Old-Phryg._G_1",
+      "child_label": "1A",
+      "child_heading_id": "Phryg._Old-Phryg._G_1A",
+      "relation": "suffix_heading_of_colisted_integer_heading"
+    },
+    {
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "parent_label": "1",
+      "parent_heading_id": "Phryg._Old-Phryg._G_1",
+      "child_label": "1B",
+      "child_heading_id": "Phryg._Old-Phryg._G_1B",
+      "relation": "suffix_heading_of_colisted_integer_heading"
+    },
+    {
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "parent_label": "1",
+      "parent_heading_id": "Phryg._Old-Phryg._G_1",
+      "child_label": "1C",
+      "child_heading_id": "Phryg._Old-Phryg._G_1C",
+      "relation": "suffix_heading_of_colisted_integer_heading"
+    },
+    {
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "parent_label": "224",
+      "parent_heading_id": "Phryg._Old-Phryg._G_224",
+      "child_label": "224A",
+      "child_heading_id": "Phryg._Old-Phryg._G_224A",
+      "relation": "suffix_heading_of_colisted_integer_heading"
+    },
+    {
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "parent_label": "224",
+      "parent_heading_id": "Phryg._Old-Phryg._G_224",
+      "child_label": "224B",
+      "child_heading_id": "Phryg._Old-Phryg._G_224B",
+      "relation": "suffix_heading_of_colisted_integer_heading"
+    },
+    {
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "parent_label": "274",
+      "parent_heading_id": "Phryg._Old-Phryg._G_274",
+      "child_label": "274A",
+      "child_heading_id": "Phryg._Old-Phryg._G_274A",
+      "relation": "suffix_heading_of_colisted_integer_heading"
+    },
+    {
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "parent_label": "2",
+      "parent_heading_id": "Phryg._Old-Phryg._G_2",
+      "child_label": "2A",
+      "child_heading_id": "Phryg._Old-Phryg._G_2A",
+      "relation": "suffix_heading_of_colisted_integer_heading"
+    },
+    {
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "parent_label": "2",
+      "parent_heading_id": "Phryg._Old-Phryg._G_2",
+      "child_label": "2B",
+      "child_heading_id": "Phryg._Old-Phryg._G_2B",
+      "relation": "suffix_heading_of_colisted_integer_heading"
+    },
+    {
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "parent_label": "2",
+      "parent_heading_id": "Phryg._Old-Phryg._G_2",
+      "child_label": "2C",
+      "child_heading_id": "Phryg._Old-Phryg._G_2C",
+      "relation": "suffix_heading_of_colisted_integer_heading"
+    },
+    {
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "M",
+      "parent_label": "1d",
+      "parent_heading_id": "Phryg._Old-Phryg._M_1d",
+      "child_label": "1dI",
+      "child_heading_id": "Phryg._Old-Phryg._M_1dI",
+      "relation": "roman_subdivision_of_colisted_letter_heading"
+    },
+    {
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "M",
+      "parent_label": "1d",
+      "parent_heading_id": "Phryg._Old-Phryg._M_1d",
+      "child_label": "1dII",
+      "child_heading_id": "Phryg._Old-Phryg._M_1dII",
+      "relation": "roman_subdivision_of_colisted_letter_heading"
+    },
+    {
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "T",
+      "parent_label": "3",
+      "parent_heading_id": "Phryg._Old-Phryg._T_3",
+      "child_label": "3a",
+      "child_heading_id": "Phryg._Old-Phryg._T_3a",
+      "relation": "suffix_heading_of_colisted_integer_heading"
+    },
+    {
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "T",
+      "parent_label": "3",
+      "parent_heading_id": "Phryg._Old-Phryg._T_3",
+      "child_label": "3b",
+      "child_heading_id": "Phryg._Old-Phryg._T_3b",
+      "relation": "suffix_heading_of_colisted_integer_heading"
+    },
+    {
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "T",
+      "parent_label": "3",
+      "parent_heading_id": "Phryg._Old-Phryg._T_3",
+      "child_label": "3c",
+      "child_heading_id": "Phryg._Old-Phryg._T_3c",
+      "relation": "suffix_heading_of_colisted_integer_heading"
+    },
+    {
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "T",
+      "parent_label": "3",
+      "parent_heading_id": "Phryg._Old-Phryg._T_3",
+      "child_label": "3d",
+      "child_heading_id": "Phryg._Old-Phryg._T_3d",
+      "relation": "suffix_heading_of_colisted_integer_heading"
+    },
+    {
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "W",
+      "parent_label": "1a",
+      "parent_heading_id": "Phryg._Old-Phryg._W_1a",
+      "child_label": "1aI",
+      "child_heading_id": "Phryg._Old-Phryg._W_1aI",
+      "relation": "roman_subdivision_of_colisted_letter_heading"
+    },
+    {
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "W",
+      "parent_label": "1a",
+      "parent_heading_id": "Phryg._Old-Phryg._W_1a",
+      "child_label": "1aII",
+      "child_heading_id": "Phryg._Old-Phryg._W_1aII",
+      "relation": "roman_subdivision_of_colisted_letter_heading"
+    },
+    {
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "W",
+      "parent_label": "1a",
+      "parent_heading_id": "Phryg._Old-Phryg._W_1a",
+      "child_label": "1aIII",
+      "child_heading_id": "Phryg._Old-Phryg._W_1aIII",
+      "relation": "roman_subdivision_of_colisted_letter_heading"
+    }
+  ],
+  "certified_physical_relationship_count": null,
+  "boundary": "Edges encode label morphology only where the proposed parent heading is independently present in the same TITUS period/provenance scope. They do not assert that parent and child are parts of one stone, one inscription, one text, one face, or one edition. No absent parent is synthesized and ranges are not expanded."
+}
