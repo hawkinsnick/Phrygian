@@ -16,3 +16,4 @@ jobs:
       - run: python -m unittest discover -s tests -v
       - run: python scripts/replay_reference.py --check
       - run: python scripts/reconcile_g12.py --check
+      - run: python scripts/audit_titus_identity_units.py --check

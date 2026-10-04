@@ -1,0 +1,171 @@
+{
+  "format": "phrygian-titus-identity-unit-audit-v1",
+  "source_path": "research/titus-heading-catalogue.json",
+  "source_sha256": "ffc91381b5a91c288039eee5c75175ee8fba979fead4ec05ce6191d48aa3f0e4",
+  "heading_count": 305,
+  "label_class_counts": {
+    "integer": 263,
+    "letter_suffix": 33,
+    "qualified": 1,
+    "range": 1,
+    "roman_subdivision": 5,
+    "trailing_punctuation": 2
+  },
+  "numeric_stem_group_count": 272,
+  "multi_heading_numeric_stem_group_count": 12,
+  "multi_heading_numeric_stem_groups": [
+    {
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "M",
+      "numeric_stem": "1",
+      "headings": [
+        "1a",
+        "1b",
+        "1c",
+        "1d",
+        "1dI",
+        "1dII",
+        "1e",
+        "1f"
+      ]
+    },
+    {
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "W",
+      "numeric_stem": "1",
+      "headings": [
+        "1a",
+        "1aI",
+        "1aII",
+        "1aIII",
+        "1b",
+        "1c"
+      ]
+    },
+    {
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "W",
+      "numeric_stem": "5",
+      "headings": [
+        "5a",
+        "5b"
+      ]
+    },
+    {
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "numeric_stem": "1",
+      "headings": [
+        "1",
+        "1A",
+        "1B",
+        "1C"
+      ]
+    },
+    {
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "numeric_stem": "2",
+      "headings": [
+        "2",
+        "2A",
+        "2B",
+        "2C"
+      ]
+    },
+    {
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "numeric_stem": "150",
+      "headings": [
+        "150",
+        "150A",
+        "150C"
+      ]
+    },
+    {
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "numeric_stem": "183",
+      "headings": [
+        "183",
+        "183A",
+        "183B"
+      ]
+    },
+    {
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "numeric_stem": "224",
+      "headings": [
+        "224",
+        "224A",
+        "224B"
+      ]
+    },
+    {
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "numeric_stem": "274",
+      "headings": [
+        "274",
+        "274A"
+      ]
+    },
+    {
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "P",
+      "numeric_stem": "4",
+      "headings": [
+        "4a",
+        "4b",
+        "4c"
+      ]
+    },
+    {
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "T",
+      "numeric_stem": "3",
+      "headings": [
+        "3",
+        "3a",
+        "3b",
+        "3c",
+        "3d"
+      ]
+    },
+    {
+      "period_label_reported": "Neo-Phryg.",
+      "provenance_label_reported": "_",
+      "numeric_stem": "4",
+      "headings": [
+        "4",
+        "4b"
+      ]
+    }
+  ],
+  "exceptional_labels": [
+    {
+      "source_heading_id": "Phryg._Old-Phryg._W_11(?)",
+      "label": "11(?)",
+      "class": "qualified"
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._Bay_1-7",
+      "label": "1-7",
+      "class": "range"
+    },
+    {
+      "source_heading_id": "Phryg._Neo-Phryg.___14.",
+      "label": "14.",
+      "class": "trailing_punctuation"
+    },
+    {
+      "source_heading_id": "Phryg._Neo-Phryg.___53.",
+      "label": "53.",
+      "class": "trailing_punctuation"
+    }
+  ],
+  "certified_physical_inscription_count": null,
+  "boundary": "Heading labels, numeric stems, ranges, letter suffixes and Roman subdivisions are source representation units. This mechanical audit does not decide which headings share a stone, text, copy, face, line, edition or physical inscription; it never expands the range 1-7 into seven records."
+}

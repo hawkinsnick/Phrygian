@@ -10,12 +10,14 @@ This checkpoint makes the reference layer reproducible and exposes defects and r
 | `research/g12-primary-edition.json` | Publisher-located G-12 metadata and rights; candidate join to TM1001271 remains uncertified. |
 | `analysis/g12-edition-comparison.json` | Seven licensed publisher lines with original HTML and superscript positions, compared at inventory level with ten UD sentences. |
 | `research/titus-heading-catalogue.json` | 305 discovery headings: 194 Old-Phryg., 7 Mys., 104 Neo-Phryg. Heading subdivisions and comparison material are not new physical inscriptions. |
+| `analysis/titus-identity-unit-audit.json` | Mechanical label-unit audit: 263 integer labels, 33 letter-suffixed labels, five Roman subdivisions, one qualified label, one range and two labels with trailing punctuation. It exposes twelve shared numeric-stem groups without collapsing them. |
 
 Run these offline checks from the extracted repository:
 
 ```sh
 python scripts/replay_reference.py --check
 python scripts/reconcile_g12.py --check
+python scripts/audit_titus_identity_units.py --check
 python -m unittest discover -s tests -v
 ```
 
@@ -31,4 +33,4 @@ G-12 provides a concrete primary-source pilot. The publisher explicitly licenses
 
 ## Remaining frontier
 
-Reconcile TITUS heading identities, subdivisions and editions with the UD ledger and the larger TM discovery benchmark. Verify the G-12 TM join using an accessible authoritative catalogue. Map further inscriptions to their primary editions, collate damaged readings, and document source dependence. The canonical layer remains empty; this checkpoint is a verified technical and source-acquisition improvement, not a claim to have exhausted nonexpert work.
+The mechanical TITUS audit now separates 305 headings from 272 numeric-stem groups and identifies twelve stems shared by multiple headings. These are representation counts, not physical-inscription counts: the audit does not expand `Bay 1-7`, strip qualification from `W 11(?)`, or decide whether suffixes denote faces, lines, variants or distinct objects. Reconcile these units with editions, the UD ledger and the larger TM discovery benchmark. Verify the G-12 TM join using an accessible authoritative catalogue. Map further inscriptions to their primary editions, collate damaged readings, and document source dependence. The canonical layer remains empty; this checkpoint is a verified technical and source-acquisition improvement, not a claim to have exhausted nonexpert work.

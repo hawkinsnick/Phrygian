@@ -76,6 +76,11 @@
       "role": "titus_heading_catalogue",
       "path": "research/titus-heading-catalogue.json",
       "required": true
+    },
+    {
+      "role": "titus_identity_unit_audit",
+      "path": "analysis/titus-identity-unit-audit.json",
+      "required": true
     }
   ],
   "behavioral_gates": [
