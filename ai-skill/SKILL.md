@@ -33,3 +33,10 @@ Read `ai-skill/generated/source-state.json` before substantive work. It records 
 - Digital source entries and alternate editions are not automatically independent physical witnesses
 - Normalized or Greek-script renderings never overwrite source readings
 - TITUS and underlying edition rights remain controlling
+
+## Source reconciliation checkpoint
+Read `docs/SOURCE-RECONCILIATION.md` and the indexed source-reconciliation artifacts before comparing versions, counting identities, or preparing specialist review.
+- Replay pinned UD bytes and all ten token columns before using derived data; retain twelve Ref diagnostics and six source-text/token-surface differences.
+- 162 UD source identity labels contain two letter-suffixed labels sharing one numeric stem; neither 162 labels nor 161 numeric stems is a certified physical-inscription count.
+- G-12 has seven publisher lines and ten candidate UD sentences; no physical line alignment or catalogue-certified TM join is established.
+- TITUS heading catalogue includes Old-Phryg., Mys., and Neo-Phryg. sections; Mys. is a comparison section, not automatically Phrygian evidence.

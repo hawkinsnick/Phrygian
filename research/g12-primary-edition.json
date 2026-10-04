@@ -1,0 +1,55 @@
+{
+  "format": "phrygian-primary-edition-inspection-v1",
+  "checked": "2026-10-04",
+  "source": {
+    "source_id": "oreshko-alagoz-2023",
+    "authors": [
+      "Rostyslav Oreshko",
+      "Umut Alagöz"
+    ],
+    "citation": "Belleten 87(310) (2023), 793–831",
+    "doi": "10.37879/belleten.2023.793",
+    "url": "https://belleten.gov.tr/tam-metin/3749/eng",
+    "license": "CC-BY-NC-4.0",
+    "license_locator": "Licence statement after Figures and article metadata",
+    "snapshot_path": "data/source-evidence/g12-belleten-2023-text.html",
+    "snapshot_sha256": "87ba88416cf4741d35b19e8e99a9c9e490b044377caa14cfe4f1fd77704ae178",
+    "publisher_page_sha256": "927ee4bf199e6aadad2efcd70a93402d35101ea9c5248734fd3e6804a525a688",
+    "redistribution_scope": "Seven numbered transcription paragraphs only; original HTML and combining characters preserved. No photographs or article commentary redistributed."
+  },
+  "edition_object": {
+    "siglum": "G-12",
+    "museum": "Museum of Anatolian Civilizations, Ankara",
+    "inventory_number": "35-1-22",
+    "discovery_year_reported": 2021,
+    "museum_transfer_year_reported": 2022,
+    "height_mm": 435,
+    "preserved_width_mm": 680,
+    "thickness_mm_range": [
+      140,
+      170
+    ],
+    "reported_line_count": 7,
+    "metadata_locator": "Edition of the text §1",
+    "dating_claim": {
+      "range_bce": [
+        276,
+        270
+      ],
+      "status": "AUTHORS_HISTORICAL_INTERPRETATION",
+      "locator": "Historical context §10, final paragraph"
+    },
+    "damage_summary": "Right portion missing; plough gouge affects lines 2–6; precise discovery spot uncertain."
+  },
+  "ud_candidate_join": {
+    "trismegistos_id": "TM1001271",
+    "status": "CANDIDATE_TEXT_AND_DOCUMENTATION_CORRESPONDENCE",
+    "identity_certified": false,
+    "reason": "Pinned UD README names G-12; its TM1001271 group contains corresponding name sequences and the documented S-for-ś convention. TM object page was inaccessible; no catalogue-certified join is asserted.",
+    "physical_line_alignment_established": false,
+    "source_dependency": "UD explicitly derives readings from Oreshko and Alagöz 2023; agreement is not independent replication."
+  },
+  "period_label_caution": "Publisher title calls it New Phrygian, while UD calls G-12 Middle Phrygian. Preserve each classification as attributed; do not silently equate categories.",
+  "canonical_admission_granted": false,
+  "independent_epigraphic_review": false
+}

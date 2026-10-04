@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "corpus": "Phrygian",
   "target": "PRE_EXPERT_MAXIMUM",
-  "checked": "2026-10-02",
+  "checked": "2026-10-04",
   "established": [
     {
       "gate": "licensed_machine_reference",
@@ -36,16 +36,27 @@
       "distinct_tm_ids": 162,
       "source_sentences": 203,
       "canonical_admissions": 0
+    },
+    {
+      "gate": "source_reconciliation_checkpoint",
+      "status": "PASS_SCOPED",
+      "evidence_paths": [
+        "analysis/reference-replay.json",
+        "research/g12-primary-edition.json",
+        "analysis/g12-edition-comparison.json",
+        "research/titus-heading-catalogue.json"
+      ],
+      "independent_review": false
     }
   ],
   "remaining_nonexpert_work": [
     {
       "id": "PHR-PRE-000",
       "scope": "TM Phrygian discovery benchmark",
-      "action": "Expand identity discovery beyond the 162 UD-linked TM IDs toward the 536-attestation TM language-page benchmark, preserving duplicates/period/source distinctions.",
+      "action": "Reconcile 305 TITUS discovery headings, subdivisions/comparison sections and 162 UD source labels (161 numeric stems) to catalogue identities before measuring overlap with the 536-attestation TM discovery benchmark.",
       "blocked_by": "public enumeration/API access and record-level reconciliation",
       "status": "OPEN_LARGE_MACHINE_FRONTIER",
-      "evidence": "research/tm-coverage-benchmark.json"
+      "evidence": "research/titus-heading-catalogue.json; research/tm-coverage-benchmark.json"
     },
     {
       "id": "PHR-PRE-001",
@@ -89,6 +100,8 @@
   "discovery_benchmark": {
     "tm_reported_attestations": 536,
     "current_ud_linked_tm_ids": 162,
-    "status": "LARGE_DISCOVERY_EXPANSION_FRONTIER"
+    "status": "LARGE_DISCOVERY_EXPANSION_FRONTIER",
+    "current_ud_identity_label_count": 162,
+    "numeric_tm_stems_not_certified_objects": 161
   }
 }

@@ -1,0 +1,3065 @@
+{
+  "format": "phrygian-titus-heading-catalogue-v1",
+  "source_url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm",
+  "source_sha256": "519c54472afd41976aff7b61c7798953b8ace7631491d990f858a03c7132ccc4",
+  "heading_count": 305,
+  "period_heading_counts": {
+    "Old-Phryg.": 194,
+    "Mys.": 7,
+    "Neo-Phryg.": 104
+  },
+  "redistribution_scope": "Identifier/heading metadata only; full source HTML and inscription readings are not redistributed.",
+  "boundary": "Source headings include subdivisions and alternatives. No unique-object total, TM join, exhaustive discovery or independent witness count is implied.",
+  "entries": [
+    {
+      "source_heading_id": "Phryg._Old-Phryg._M_1a",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "M",
+      "inscription_label_reported": "1a",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._M_1a",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._M_1b",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "M",
+      "inscription_label_reported": "1b",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._M_1b",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._M_1c",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "M",
+      "inscription_label_reported": "1c",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._M_1c",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._M_1d",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "M",
+      "inscription_label_reported": "1d",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._M_1d",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._M_1dI",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "M",
+      "inscription_label_reported": "1dI",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._M_1dI",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._M_1dII",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "M",
+      "inscription_label_reported": "1dII",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._M_1dII",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._M_1e",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "M",
+      "inscription_label_reported": "1e",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._M_1e",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._M_1f",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "M",
+      "inscription_label_reported": "1f",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._M_1f",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._M_2",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "M",
+      "inscription_label_reported": "2",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._M_2",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._M_3",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "M",
+      "inscription_label_reported": "3",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._M_3",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._M_4",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "M",
+      "inscription_label_reported": "4",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._M_4",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._M_5",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "M",
+      "inscription_label_reported": "5",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._M_5",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._M_6",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "M",
+      "inscription_label_reported": "6",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._M_6",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._M_7",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "M",
+      "inscription_label_reported": "7",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._M_7",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._M_8",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "M",
+      "inscription_label_reported": "8",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._M_8",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._M_9",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "M",
+      "inscription_label_reported": "9",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._M_9",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._M_10",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "M",
+      "inscription_label_reported": "10",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._M_10",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._W_1a",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "W",
+      "inscription_label_reported": "1a",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._W_1a",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._W_1aI",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "W",
+      "inscription_label_reported": "1aI",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._W_1aI",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._W_1aII",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "W",
+      "inscription_label_reported": "1aII",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._W_1aII",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._W_1aIII",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "W",
+      "inscription_label_reported": "1aIII",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._W_1aIII",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._W_1b",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "W",
+      "inscription_label_reported": "1b",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._W_1b",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._W_1c",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "W",
+      "inscription_label_reported": "1c",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._W_1c",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._W_2",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "W",
+      "inscription_label_reported": "2",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._W_2",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._W_3",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "W",
+      "inscription_label_reported": "3",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._W_3",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._W_4",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "W",
+      "inscription_label_reported": "4",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._W_4",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._W_5a",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "W",
+      "inscription_label_reported": "5a",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._W_5a",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._W_5b",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "W",
+      "inscription_label_reported": "5b",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._W_5b",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._W_6",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "W",
+      "inscription_label_reported": "6",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._W_6",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._W_7",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "W",
+      "inscription_label_reported": "7",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._W_7",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._W_8",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "W",
+      "inscription_label_reported": "8",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._W_8",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._W_9",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "W",
+      "inscription_label_reported": "9",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._W_9",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._W_10",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "W",
+      "inscription_label_reported": "10",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._W_10",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._W_11(?)",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "W",
+      "inscription_label_reported": "11(?)",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._W_11(?)",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._B_1",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "B",
+      "inscription_label_reported": "1",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._B_1",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._B_2",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "B",
+      "inscription_label_reported": "2",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._B_2",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._B_3",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "B",
+      "inscription_label_reported": "3",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._B_3",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_1",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "1",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_1",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_1A",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "1A",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_1A",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_1B",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "1B",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_1B",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_1C",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "1C",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_1C",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_2",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "2",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_2",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_2A",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "2A",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_2A",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_2B",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "2B",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_2B",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_2C",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "2C",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_2C",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_3",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "3",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_3",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_4",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "4",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_4",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_6",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "6",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_6",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_7",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "7",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_7",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_8",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "8",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_8",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_9",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "9",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_9",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_101",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "101",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_101",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_103",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "103",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_103",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_104",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "104",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_104",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_105",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "105",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_105",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_107",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "107",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_107",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_108",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "108",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_108",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_109",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "109",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_109",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_110",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "110",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_110",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_111",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "111",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_111",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_112",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "112",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_112",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_113",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "113",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_113",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_114",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "114",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_114",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_115",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "115",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_115",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_116",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "116",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_116",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_117",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "117",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_117",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_118",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "118",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_118",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_119",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "119",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_119",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_121",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "121",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_121",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_122",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "122",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_122",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_123",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "123",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_123",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_125",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "125",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_125",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_127",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "127",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_127",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_128",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "128",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_128",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_129",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "129",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_129",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_130",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "130",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_130",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_131",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "131",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_131",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_132",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "132",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_132",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_133",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "133",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_133",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_135",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "135",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_135",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_136",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "136",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_136",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_137",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "137",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_137",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_138",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "138",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_138",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_139",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "139",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_139",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_140",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "140",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_140",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_141",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "141",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_141",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_142",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "142",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_142",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_143",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "143",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_143",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_144",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "144",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_144",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_145",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "145",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_145",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_146",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "146",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_146",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_147",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "147",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_147",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_148",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "148",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_148",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_150",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "150",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_150",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_150A",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "150A",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_150A",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_150C",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "150C",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_150C",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_153",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "153",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_153",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_155",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "155",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_155",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_158",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "158",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_158",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_159",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "159",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_159",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_160",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "160",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_160",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_161",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "161",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_161",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_162",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "162",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_162",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_163",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "163",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_163",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_164",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "164",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_164",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_165",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "165",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_165",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_166",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "166",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_166",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_170",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "170",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_170",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_173",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "173",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_173",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_174",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "174",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_174",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_176",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "176",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_176",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_177",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "177",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_177",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_178",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "178",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_178",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_179",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "179",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_179",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_182",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "182",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_182",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_183",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "183",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_183",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_183A",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "183A",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_183A",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_183B",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "183B",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_183B",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_184",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "184",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_184",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_185",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "185",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_185",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_189",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "189",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_189",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_196",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "196",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_196",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_197",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "197",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_197",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_198",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "198",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_198",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_199",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "199",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_199",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_202",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "202",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_202",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_204",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "204",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_204",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_210",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "210",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_210",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_212",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "212",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_212",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_214",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "214",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_214",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_215",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "215",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_215",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_216",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "216",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_216",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_219",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "219",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_219",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_221",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "221",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_221",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_222",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "222",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_222",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_224",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "224",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_224",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_224A",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "224A",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_224A",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_224B",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "224B",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_224B",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_226",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "226",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_226",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_228",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "228",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_228",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_229",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "229",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_229",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_230",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "230",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_230",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_234",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "234",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_234",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_236",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "236",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_236",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_237",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "237",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_237",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_239",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "239",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_239",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_245",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "245",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_245",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_249",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "249",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_249",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_250",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "250",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_250",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_251",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "251",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_251",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_252",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "252",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_252",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_253",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "253",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_253",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_255",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "255",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_255",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_258",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "258",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_258",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_259",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "259",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_259",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_261",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "261",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_261",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_262",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "262",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_262",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_264",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "264",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_264",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_268",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "268",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_268",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_269",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "269",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_269",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_272",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "272",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_272",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_274",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "274",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_274",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_274A",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "274A",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_274A",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_275",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "275",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_275",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._G_276",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "G",
+      "inscription_label_reported": "276",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._G_276",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._C_1",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "C",
+      "inscription_label_reported": "1",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._C_1",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._C_101",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "C",
+      "inscription_label_reported": "101",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._C_101",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._C_102",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "C",
+      "inscription_label_reported": "102",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._C_102",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._P_1",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "P",
+      "inscription_label_reported": "1",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._P_1",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._P_2",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "P",
+      "inscription_label_reported": "2",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._P_2",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._P_3",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "P",
+      "inscription_label_reported": "3",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._P_3",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._P_4a",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "P",
+      "inscription_label_reported": "4a",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._P_4a",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._P_4b",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "P",
+      "inscription_label_reported": "4b",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._P_4b",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._P_4c",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "P",
+      "inscription_label_reported": "4c",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._P_4c",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._P_5",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "P",
+      "inscription_label_reported": "5",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._P_5",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._P_6",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "P",
+      "inscription_label_reported": "6",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._P_6",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._P_101",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "P",
+      "inscription_label_reported": "101",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._P_101",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._P_106",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "P",
+      "inscription_label_reported": "106",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._P_106",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._T_2b",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "T",
+      "inscription_label_reported": "2b",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._T_2b",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._T_3",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "T",
+      "inscription_label_reported": "3",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._T_3",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._T_3a",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "T",
+      "inscription_label_reported": "3a",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._T_3a",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._T_3b",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "T",
+      "inscription_label_reported": "3b",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._T_3b",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._T_3c",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "T",
+      "inscription_label_reported": "3c",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._T_3c",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._T_3d",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "T",
+      "inscription_label_reported": "3d",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._T_3d",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._Dask_1",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "Dask",
+      "inscription_label_reported": "1",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._Dask_1",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._Dask_2",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "Dask",
+      "inscription_label_reported": "2",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._Dask_2",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._Dask_3",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "Dask",
+      "inscription_label_reported": "3",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._Dask_3",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._Dask_4",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "Dask",
+      "inscription_label_reported": "4",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._Dask_4",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._Bay_1-7",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "Bay",
+      "inscription_label_reported": "1-7",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._Bay_1-7",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._Bay_8",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "Bay",
+      "inscription_label_reported": "8",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._Bay_8",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._Bay_9",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "Bay",
+      "inscription_label_reported": "9",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._Bay_9",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._Bay_10",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "Bay",
+      "inscription_label_reported": "10",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._Bay_10",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._Dd_101",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "Dd",
+      "inscription_label_reported": "101",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._Dd_101",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Old-Phryg._Dd_102",
+      "period_label_reported": "Old-Phryg.",
+      "provenance_label_reported": "Dd",
+      "inscription_label_reported": "102",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Old-Phryg._Dd_102",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Mys._BO_1",
+      "period_label_reported": "Mys.",
+      "provenance_label_reported": "BO",
+      "inscription_label_reported": "1",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Mys._BO_1",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Mys._BO_2",
+      "period_label_reported": "Mys.",
+      "provenance_label_reported": "BO",
+      "inscription_label_reported": "2",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Mys._BO_2",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Mys._BO_3",
+      "period_label_reported": "Mys.",
+      "provenance_label_reported": "BO",
+      "inscription_label_reported": "3",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Mys._BO_3",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Mys._BO_4",
+      "period_label_reported": "Mys.",
+      "provenance_label_reported": "BO",
+      "inscription_label_reported": "4",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Mys._BO_4",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Mys._BO_5",
+      "period_label_reported": "Mys.",
+      "provenance_label_reported": "BO",
+      "inscription_label_reported": "5",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Mys._BO_5",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Mys._BO_6",
+      "period_label_reported": "Mys.",
+      "provenance_label_reported": "BO",
+      "inscription_label_reported": "6",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Mys._BO_6",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Mys._BO_7",
+      "period_label_reported": "Mys.",
+      "provenance_label_reported": "BO",
+      "inscription_label_reported": "7",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Mys._BO_7",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Neo-Phryg.___2",
+      "period_label_reported": "Neo-Phryg.",
+      "provenance_label_reported": "_",
+      "inscription_label_reported": "2",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Neo-Phryg.___2",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Neo-Phryg.___3",
+      "period_label_reported": "Neo-Phryg.",
+      "provenance_label_reported": "_",
+      "inscription_label_reported": "3",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Neo-Phryg.___3",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Neo-Phryg.___4",
+      "period_label_reported": "Neo-Phryg.",
+      "provenance_label_reported": "_",
+      "inscription_label_reported": "4",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Neo-Phryg.___4",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Neo-Phryg.___4b",
+      "period_label_reported": "Neo-Phryg.",
+      "provenance_label_reported": "_",
+      "inscription_label_reported": "4b",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Neo-Phryg.___4b",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Neo-Phryg.___5",
+      "period_label_reported": "Neo-Phryg.",
+      "provenance_label_reported": "_",
+      "inscription_label_reported": "5",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Neo-Phryg.___5",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Neo-Phryg.___6",
+      "period_label_reported": "Neo-Phryg.",
+      "provenance_label_reported": "_",
+      "inscription_label_reported": "6",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Neo-Phryg.___6",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Neo-Phryg.___7",
+      "period_label_reported": "Neo-Phryg.",
+      "provenance_label_reported": "_",
+      "inscription_label_reported": "7",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Neo-Phryg.___7",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Neo-Phryg.___8",
+      "period_label_reported": "Neo-Phryg.",
+      "provenance_label_reported": "_",
+      "inscription_label_reported": "8",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Neo-Phryg.___8",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Neo-Phryg.___9",
+      "period_label_reported": "Neo-Phryg.",
+      "provenance_label_reported": "_",
+      "inscription_label_reported": "9",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Neo-Phryg.___9",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Neo-Phryg.___10",
+      "period_label_reported": "Neo-Phryg.",
+      "provenance_label_reported": "_",
+      "inscription_label_reported": "10",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Neo-Phryg.___10",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Neo-Phryg.___11",
+      "period_label_reported": "Neo-Phryg.",
+      "provenance_label_reported": "_",
+      "inscription_label_reported": "11",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Neo-Phryg.___11",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Neo-Phryg.___12",
+      "period_label_reported": "Neo-Phryg.",
+      "provenance_label_reported": "_",
+      "inscription_label_reported": "12",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Neo-Phryg.___12",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Neo-Phryg.___13",
+      "period_label_reported": "Neo-Phryg.",
+      "provenance_label_reported": "_",
+      "inscription_label_reported": "13",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Neo-Phryg.___13",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Neo-Phryg.___14.",
+      "period_label_reported": "Neo-Phryg.",
+      "provenance_label_reported": "_",
+      "inscription_label_reported": "14.",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Neo-Phryg.___14.",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Neo-Phryg.___15",
+      "period_label_reported": "Neo-Phryg.",
+      "provenance_label_reported": "_",
+      "inscription_label_reported": "15",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Neo-Phryg.___15",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Neo-Phryg.___17",
+      "period_label_reported": "Neo-Phryg.",
+      "provenance_label_reported": "_",
+      "inscription_label_reported": "17",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Neo-Phryg.___17",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Neo-Phryg.___18",
+      "period_label_reported": "Neo-Phryg.",
+      "provenance_label_reported": "_",
+      "inscription_label_reported": "18",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Neo-Phryg.___18",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Neo-Phryg.___19",
+      "period_label_reported": "Neo-Phryg.",
+      "provenance_label_reported": "_",
+      "inscription_label_reported": "19",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Neo-Phryg.___19",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Neo-Phryg.___20",
+      "period_label_reported": "Neo-Phryg.",
+      "provenance_label_reported": "_",
+      "inscription_label_reported": "20",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Neo-Phryg.___20",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Neo-Phryg.___21",
+      "period_label_reported": "Neo-Phryg.",
+      "provenance_label_reported": "_",
+      "inscription_label_reported": "21",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Neo-Phryg.___21",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Neo-Phryg.___25",
+      "period_label_reported": "Neo-Phryg.",
+      "provenance_label_reported": "_",
+      "inscription_label_reported": "25",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Neo-Phryg.___25",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Neo-Phryg.___26",
+      "period_label_reported": "Neo-Phryg.",
+      "provenance_label_reported": "_",
+      "inscription_label_reported": "26",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Neo-Phryg.___26",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Neo-Phryg.___27",
+      "period_label_reported": "Neo-Phryg.",
+      "provenance_label_reported": "_",
+      "inscription_label_reported": "27",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Neo-Phryg.___27",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Neo-Phryg.___28",
+      "period_label_reported": "Neo-Phryg.",
+      "provenance_label_reported": "_",
+      "inscription_label_reported": "28",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Neo-Phryg.___28",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Neo-Phryg.___29",
+      "period_label_reported": "Neo-Phryg.",
+      "provenance_label_reported": "_",
+      "inscription_label_reported": "29",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Neo-Phryg.___29",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Neo-Phryg.___30",
+      "period_label_reported": "Neo-Phryg.",
+      "provenance_label_reported": "_",
+      "inscription_label_reported": "30",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Neo-Phryg.___30",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Neo-Phryg.___31",
+      "period_label_reported": "Neo-Phryg.",
+      "provenance_label_reported": "_",
+      "inscription_label_reported": "31",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Neo-Phryg.___31",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Neo-Phryg.___32",
+      "period_label_reported": "Neo-Phryg.",
+      "provenance_label_reported": "_",
+      "inscription_label_reported": "32",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Neo-Phryg.___32",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Neo-Phryg.___33",
+      "period_label_reported": "Neo-Phryg.",
+      "provenance_label_reported": "_",
+      "inscription_label_reported": "33",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Neo-Phryg.___33",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Neo-Phryg.___34",
+      "period_label_reported": "Neo-Phryg.",
+      "provenance_label_reported": "_",
+      "inscription_label_reported": "34",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Neo-Phryg.___34",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Neo-Phryg.___35",
+      "period_label_reported": "Neo-Phryg.",
+      "provenance_label_reported": "_",
+      "inscription_label_reported": "35",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Neo-Phryg.___35",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Neo-Phryg.___36",
+      "period_label_reported": "Neo-Phryg.",
+      "provenance_label_reported": "_",
+      "inscription_label_reported": "36",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Neo-Phryg.___36",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Neo-Phryg.___37",
+      "period_label_reported": "Neo-Phryg.",
+      "provenance_label_reported": "_",
+      "inscription_label_reported": "37",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Neo-Phryg.___37",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Neo-Phryg.___38",
+      "period_label_reported": "Neo-Phryg.",
+      "provenance_label_reported": "_",
+      "inscription_label_reported": "38",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Neo-Phryg.___38",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Neo-Phryg.___39",
+      "period_label_reported": "Neo-Phryg.",
+      "provenance_label_reported": "_",
+      "inscription_label_reported": "39",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Neo-Phryg.___39",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Neo-Phryg.___40",
+      "period_label_reported": "Neo-Phryg.",
+      "provenance_label_reported": "_",
+      "inscription_label_reported": "40",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Neo-Phryg.___40",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Neo-Phryg.___42",
+      "period_label_reported": "Neo-Phryg.",
+      "provenance_label_reported": "_",
+      "inscription_label_reported": "42",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Neo-Phryg.___42",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Neo-Phryg.___43",
+      "period_label_reported": "Neo-Phryg.",
+      "provenance_label_reported": "_",
+      "inscription_label_reported": "43",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Neo-Phryg.___43",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Neo-Phryg.___44",
+      "period_label_reported": "Neo-Phryg.",
+      "provenance_label_reported": "_",
+      "inscription_label_reported": "44",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Neo-Phryg.___44",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Neo-Phryg.___45",
+      "period_label_reported": "Neo-Phryg.",
+      "provenance_label_reported": "_",
+      "inscription_label_reported": "45",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Neo-Phryg.___45",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Neo-Phryg.___47",
+      "period_label_reported": "Neo-Phryg.",
+      "provenance_label_reported": "_",
+      "inscription_label_reported": "47",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Neo-Phryg.___47",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Neo-Phryg.___48",
+      "period_label_reported": "Neo-Phryg.",
+      "provenance_label_reported": "_",
+      "inscription_label_reported": "48",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Neo-Phryg.___48",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Neo-Phryg.___51",
+      "period_label_reported": "Neo-Phryg.",
+      "provenance_label_reported": "_",
+      "inscription_label_reported": "51",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Neo-Phryg.___51",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Neo-Phryg.___53.",
+      "period_label_reported": "Neo-Phryg.",
+      "provenance_label_reported": "_",
+      "inscription_label_reported": "53.",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Neo-Phryg.___53.",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Neo-Phryg.___54",
+      "period_label_reported": "Neo-Phryg.",
+      "provenance_label_reported": "_",
+      "inscription_label_reported": "54",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Neo-Phryg.___54",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Neo-Phryg.___55",
+      "period_label_reported": "Neo-Phryg.",
+      "provenance_label_reported": "_",
+      "inscription_label_reported": "55",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Neo-Phryg.___55",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Neo-Phryg.___56",
+      "period_label_reported": "Neo-Phryg.",
+      "provenance_label_reported": "_",
+      "inscription_label_reported": "56",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Neo-Phryg.___56",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Neo-Phryg.___57",
+      "period_label_reported": "Neo-Phryg.",
+      "provenance_label_reported": "_",
+      "inscription_label_reported": "57",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Neo-Phryg.___57",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Neo-Phryg.___58",
+      "period_label_reported": "Neo-Phryg.",
+      "provenance_label_reported": "_",
+      "inscription_label_reported": "58",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Neo-Phryg.___58",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Neo-Phryg.___59",
+      "period_label_reported": "Neo-Phryg.",
+      "provenance_label_reported": "_",
+      "inscription_label_reported": "59",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Neo-Phryg.___59",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Neo-Phryg.___60",
+      "period_label_reported": "Neo-Phryg.",
+      "provenance_label_reported": "_",
+      "inscription_label_reported": "60",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Neo-Phryg.___60",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Neo-Phryg.___61",
+      "period_label_reported": "Neo-Phryg.",
+      "provenance_label_reported": "_",
+      "inscription_label_reported": "61",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Neo-Phryg.___61",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Neo-Phryg.___62",
+      "period_label_reported": "Neo-Phryg.",
+      "provenance_label_reported": "_",
+      "inscription_label_reported": "62",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Neo-Phryg.___62",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Neo-Phryg.___63",
+      "period_label_reported": "Neo-Phryg.",
+      "provenance_label_reported": "_",
+      "inscription_label_reported": "63",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Neo-Phryg.___63",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Neo-Phryg.___64",
+      "period_label_reported": "Neo-Phryg.",
+      "provenance_label_reported": "_",
+      "inscription_label_reported": "64",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Neo-Phryg.___64",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Neo-Phryg.___65",
+      "period_label_reported": "Neo-Phryg.",
+      "provenance_label_reported": "_",
+      "inscription_label_reported": "65",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Neo-Phryg.___65",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Neo-Phryg.___67",
+      "period_label_reported": "Neo-Phryg.",
+      "provenance_label_reported": "_",
+      "inscription_label_reported": "67",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Neo-Phryg.___67",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Neo-Phryg.___68",
+      "period_label_reported": "Neo-Phryg.",
+      "provenance_label_reported": "_",
+      "inscription_label_reported": "68",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Neo-Phryg.___68",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Neo-Phryg.___69",
+      "period_label_reported": "Neo-Phryg.",
+      "provenance_label_reported": "_",
+      "inscription_label_reported": "69",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Neo-Phryg.___69",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Neo-Phryg.___70",
+      "period_label_reported": "Neo-Phryg.",
+      "provenance_label_reported": "_",
+      "inscription_label_reported": "70",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Neo-Phryg.___70",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Neo-Phryg.___71",
+      "period_label_reported": "Neo-Phryg.",
+      "provenance_label_reported": "_",
+      "inscription_label_reported": "71",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Neo-Phryg.___71",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Neo-Phryg.___72",
+      "period_label_reported": "Neo-Phryg.",
+      "provenance_label_reported": "_",
+      "inscription_label_reported": "72",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Neo-Phryg.___72",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Neo-Phryg.___73",
+      "period_label_reported": "Neo-Phryg.",
+      "provenance_label_reported": "_",
+      "inscription_label_reported": "73",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Neo-Phryg.___73",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Neo-Phryg.___75",
+      "period_label_reported": "Neo-Phryg.",
+      "provenance_label_reported": "_",
+      "inscription_label_reported": "75",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Neo-Phryg.___75",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Neo-Phryg.___76",
+      "period_label_reported": "Neo-Phryg.",
+      "provenance_label_reported": "_",
+      "inscription_label_reported": "76",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Neo-Phryg.___76",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Neo-Phryg.___77",
+      "period_label_reported": "Neo-Phryg.",
+      "provenance_label_reported": "_",
+      "inscription_label_reported": "77",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Neo-Phryg.___77",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Neo-Phryg.___78",
+      "period_label_reported": "Neo-Phryg.",
+      "provenance_label_reported": "_",
+      "inscription_label_reported": "78",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Neo-Phryg.___78",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Neo-Phryg.___79",
+      "period_label_reported": "Neo-Phryg.",
+      "provenance_label_reported": "_",
+      "inscription_label_reported": "79",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Neo-Phryg.___79",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Neo-Phryg.___80",
+      "period_label_reported": "Neo-Phryg.",
+      "provenance_label_reported": "_",
+      "inscription_label_reported": "80",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Neo-Phryg.___80",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Neo-Phryg.___81",
+      "period_label_reported": "Neo-Phryg.",
+      "provenance_label_reported": "_",
+      "inscription_label_reported": "81",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Neo-Phryg.___81",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Neo-Phryg.___82",
+      "period_label_reported": "Neo-Phryg.",
+      "provenance_label_reported": "_",
+      "inscription_label_reported": "82",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Neo-Phryg.___82",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Neo-Phryg.___84",
+      "period_label_reported": "Neo-Phryg.",
+      "provenance_label_reported": "_",
+      "inscription_label_reported": "84",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Neo-Phryg.___84",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Neo-Phryg.___85",
+      "period_label_reported": "Neo-Phryg.",
+      "provenance_label_reported": "_",
+      "inscription_label_reported": "85",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Neo-Phryg.___85",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Neo-Phryg.___86",
+      "period_label_reported": "Neo-Phryg.",
+      "provenance_label_reported": "_",
+      "inscription_label_reported": "86",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Neo-Phryg.___86",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Neo-Phryg.___87",
+      "period_label_reported": "Neo-Phryg.",
+      "provenance_label_reported": "_",
+      "inscription_label_reported": "87",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Neo-Phryg.___87",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Neo-Phryg.___88",
+      "period_label_reported": "Neo-Phryg.",
+      "provenance_label_reported": "_",
+      "inscription_label_reported": "88",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Neo-Phryg.___88",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Neo-Phryg.___89",
+      "period_label_reported": "Neo-Phryg.",
+      "provenance_label_reported": "_",
+      "inscription_label_reported": "89",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Neo-Phryg.___89",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Neo-Phryg.___90",
+      "period_label_reported": "Neo-Phryg.",
+      "provenance_label_reported": "_",
+      "inscription_label_reported": "90",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Neo-Phryg.___90",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Neo-Phryg.___91",
+      "period_label_reported": "Neo-Phryg.",
+      "provenance_label_reported": "_",
+      "inscription_label_reported": "91",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Neo-Phryg.___91",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Neo-Phryg.___92",
+      "period_label_reported": "Neo-Phryg.",
+      "provenance_label_reported": "_",
+      "inscription_label_reported": "92",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Neo-Phryg.___92",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Neo-Phryg.___93",
+      "period_label_reported": "Neo-Phryg.",
+      "provenance_label_reported": "_",
+      "inscription_label_reported": "93",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Neo-Phryg.___93",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Neo-Phryg.___94",
+      "period_label_reported": "Neo-Phryg.",
+      "provenance_label_reported": "_",
+      "inscription_label_reported": "94",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Neo-Phryg.___94",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Neo-Phryg.___95",
+      "period_label_reported": "Neo-Phryg.",
+      "provenance_label_reported": "_",
+      "inscription_label_reported": "95",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Neo-Phryg.___95",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Neo-Phryg.___96",
+      "period_label_reported": "Neo-Phryg.",
+      "provenance_label_reported": "_",
+      "inscription_label_reported": "96",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Neo-Phryg.___96",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Neo-Phryg.___97",
+      "period_label_reported": "Neo-Phryg.",
+      "provenance_label_reported": "_",
+      "inscription_label_reported": "97",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Neo-Phryg.___97",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Neo-Phryg.___98",
+      "period_label_reported": "Neo-Phryg.",
+      "provenance_label_reported": "_",
+      "inscription_label_reported": "98",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Neo-Phryg.___98",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Neo-Phryg.___99",
+      "period_label_reported": "Neo-Phryg.",
+      "provenance_label_reported": "_",
+      "inscription_label_reported": "99",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Neo-Phryg.___99",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Neo-Phryg.___100",
+      "period_label_reported": "Neo-Phryg.",
+      "provenance_label_reported": "_",
+      "inscription_label_reported": "100",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Neo-Phryg.___100",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Neo-Phryg.___101",
+      "period_label_reported": "Neo-Phryg.",
+      "provenance_label_reported": "_",
+      "inscription_label_reported": "101",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Neo-Phryg.___101",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Neo-Phryg.___102",
+      "period_label_reported": "Neo-Phryg.",
+      "provenance_label_reported": "_",
+      "inscription_label_reported": "102",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Neo-Phryg.___102",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Neo-Phryg.___103",
+      "period_label_reported": "Neo-Phryg.",
+      "provenance_label_reported": "_",
+      "inscription_label_reported": "103",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Neo-Phryg.___103",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Neo-Phryg.___104",
+      "period_label_reported": "Neo-Phryg.",
+      "provenance_label_reported": "_",
+      "inscription_label_reported": "104",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Neo-Phryg.___104",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Neo-Phryg.___105",
+      "period_label_reported": "Neo-Phryg.",
+      "provenance_label_reported": "_",
+      "inscription_label_reported": "105",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Neo-Phryg.___105",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Neo-Phryg.___106",
+      "period_label_reported": "Neo-Phryg.",
+      "provenance_label_reported": "_",
+      "inscription_label_reported": "106",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Neo-Phryg.___106",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Neo-Phryg.___107",
+      "period_label_reported": "Neo-Phryg.",
+      "provenance_label_reported": "_",
+      "inscription_label_reported": "107",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Neo-Phryg.___107",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Neo-Phryg.___108",
+      "period_label_reported": "Neo-Phryg.",
+      "provenance_label_reported": "_",
+      "inscription_label_reported": "108",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Neo-Phryg.___108",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Neo-Phryg.___109",
+      "period_label_reported": "Neo-Phryg.",
+      "provenance_label_reported": "_",
+      "inscription_label_reported": "109",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Neo-Phryg.___109",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Neo-Phryg.___110",
+      "period_label_reported": "Neo-Phryg.",
+      "provenance_label_reported": "_",
+      "inscription_label_reported": "110",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Neo-Phryg.___110",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Neo-Phryg.___111",
+      "period_label_reported": "Neo-Phryg.",
+      "provenance_label_reported": "_",
+      "inscription_label_reported": "111",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Neo-Phryg.___111",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Neo-Phryg.___112",
+      "period_label_reported": "Neo-Phryg.",
+      "provenance_label_reported": "_",
+      "inscription_label_reported": "112",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Neo-Phryg.___112",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Neo-Phryg.___113",
+      "period_label_reported": "Neo-Phryg.",
+      "provenance_label_reported": "_",
+      "inscription_label_reported": "113",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Neo-Phryg.___113",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Neo-Phryg.___114",
+      "period_label_reported": "Neo-Phryg.",
+      "provenance_label_reported": "_",
+      "inscription_label_reported": "114",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Neo-Phryg.___114",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Neo-Phryg.___115",
+      "period_label_reported": "Neo-Phryg.",
+      "provenance_label_reported": "_",
+      "inscription_label_reported": "115",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Neo-Phryg.___115",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "source_heading_id": "Phryg._Neo-Phryg.___116",
+      "period_label_reported": "Neo-Phryg.",
+      "provenance_label_reported": "_",
+      "inscription_label_reported": "116",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/phrygian/phrygt.htm#Phryg._Neo-Phryg.___116",
+      "tm_identity": null,
+      "canonical_admission_granted": false,
+      "independent_epigraphic_review": false
+    }
+  ]
+}

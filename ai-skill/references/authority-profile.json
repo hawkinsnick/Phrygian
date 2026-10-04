@@ -56,6 +56,26 @@
       "role": "ud_source_documentation",
       "path": "imports/ud-phrygian-kul-readme.md",
       "required": true
+    },
+    {
+      "role": "reference_replay",
+      "path": "analysis/reference-replay.json",
+      "required": true
+    },
+    {
+      "role": "g12_primary_edition",
+      "path": "research/g12-primary-edition.json",
+      "required": true
+    },
+    {
+      "role": "g12_edition_comparison",
+      "path": "analysis/g12-edition-comparison.json",
+      "required": true
+    },
+    {
+      "role": "titus_heading_catalogue",
+      "path": "research/titus-heading-catalogue.json",
+      "required": true
     }
   ],
   "behavioral_gates": [
@@ -65,6 +85,10 @@
     "Normalized or Greek-script renderings never overwrite source readings",
     "TITUS and underlying edition rights remain controlling",
     "Machine-readable linguistic annotations remain attributed source assertions and are not independent epigraphic confirmation.",
-    "A Trismegistos identity anchor does not establish an authoritative edition, physical-object identity, date, provenance, period assignment, or independently verified reading."
+    "A Trismegistos identity anchor does not establish an authoritative edition, physical-object identity, date, provenance, period assignment, or independently verified reading.",
+    "Replay pinned UD bytes and all ten token columns before using derived data; retain twelve Ref diagnostics and six source-text/token-surface differences.",
+    "162 UD source identity labels contain two letter-suffixed labels sharing one numeric stem; neither 162 labels nor 161 numeric stems is a certified physical-inscription count.",
+    "G-12 has seven publisher lines and ten candidate UD sentences; no physical line alignment or catalogue-certified TM join is established.",
+    "TITUS heading catalogue includes Old-Phryg., Mys., and Neo-Phryg. sections; Mys. is a comparison section, not automatically Phrygian evidence."
   ]
 }

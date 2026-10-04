@@ -1,0 +1,1753 @@
+{
+  "format": "phrygian-lossless-reference-replay-v1",
+  "source_path": "data/upstream/ud-phrygian-kul/xpg_kul-ud-test.conllu",
+  "source_sha256": "efdea547cb551da56901b2933563f961ce5788a1d6e34a6c28557a3a30f092bc",
+  "source_blob_sha": "399fa856aa61dca243db5dbf2138e28db7bb52ef",
+  "counts": {
+    "sentences": 203,
+    "tokens": 1921,
+    "distinct_trismegistos_ids": 162
+  },
+  "reference_json_exact_replay": true,
+  "tm_ledger_exact_replay": true,
+  "token_ref_diagnostic_count": 12,
+  "token_surface_difference_count": 6,
+  "boundary": "Source text and token segmentation are distinct upstream representations. Differences are diagnostic, not silent corrections or independent witnesses.",
+  "sentences": [
+    {
+      "sent_id": "TM756906-1",
+      "integer_token_count": 7,
+      "token_rows_sha256": "603dd954d696fd649c9c0aa9a176f491dfdcf02a31c7322c1afeb76294682e9e",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM756907-1",
+      "integer_token_count": 7,
+      "token_rows_sha256": "83c5059207af3b9b63d1a95192f67359fa4cf6b4bc4e44069af47a7d12367747",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM756908-1",
+      "integer_token_count": 3,
+      "token_rows_sha256": "b530f1439ff9a8278a376b8e66d9f7daa85cb13e31b4f3d1a60a30211532f72a",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM756909-1",
+      "integer_token_count": 5,
+      "token_rows_sha256": "a55a7a2dcaabd969cda34c4f02fbb9a77ae384407d24eb43e4c9af35e7c6b7a7",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM756909-2",
+      "integer_token_count": 2,
+      "token_rows_sha256": "d61028eb5cf3dd96811382d2d521c4de6df200e2060ccb9175f2e1ae43e67139",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM1001273-1",
+      "integer_token_count": 3,
+      "token_rows_sha256": "dcf3df5fa0389afe8a74485cebe53e48fe893c110da5b3da604aa2a97f162ebc",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM756910-1",
+      "integer_token_count": 6,
+      "token_rows_sha256": "157882ba1a93828c6743765b76f7a9d72192c2606ab29a83003f55b155f7ed15",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM756911-1",
+      "integer_token_count": 6,
+      "token_rows_sha256": "17fb465093c761e5b4f92a9d4c5f3f3b69041a450e7cf3b5e34fdb6aab7d2fd0",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM756912-1",
+      "integer_token_count": 3,
+      "token_rows_sha256": "786ce39684d2d4ff64e30ecef0ae2de620580e66064c720e4b642f1874592ff3",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM756913-1",
+      "integer_token_count": 4,
+      "token_rows_sha256": "380ce853cd2515f7d22f08cf5382490ce882959e5a66caa1d52edde9de40ed43",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM756914-1",
+      "integer_token_count": 3,
+      "token_rows_sha256": "83610750857efb07118a5bf926982f1a2126676963e8331d2dee20612eb40dad",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM756915-1",
+      "integer_token_count": 4,
+      "token_rows_sha256": "1de95207ba0c2ef75c019a91ef91ed16267e1883f698a21dc82373069dfacc45",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM756916-1",
+      "integer_token_count": 1,
+      "token_rows_sha256": "a94b5c274de6279c6fc8c99987cbb5a0bc4f520bd8b2c28b3f1a6b25c1f96aab",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM756917-1",
+      "integer_token_count": 1,
+      "token_rows_sha256": "e219822605c00a28ca0ee7fbbaf4b7604f749052fc07d46ee90ab5a861ce6801",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM756918-1",
+      "integer_token_count": 2,
+      "token_rows_sha256": "661b639cce3a7d9e8849c6a08b3572270c37ea784ece5541a452f7c7fa50160f",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM756919-1",
+      "integer_token_count": 2,
+      "token_rows_sha256": "9d5c4d9706117d2b7c79d762e990eb62d565bc47aa41302c08e994d6195f7a02",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM756919-2",
+      "integer_token_count": 2,
+      "token_rows_sha256": "e9a01ccd88b5fe08305379b7b47188896971d2ee604470c1f4f28524f183a64e",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM984504-1",
+      "integer_token_count": 1,
+      "token_rows_sha256": "b34e41a946b16c4a10589122c9a7d0b562ddf409943e3b71620bbf23d7c294e9",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM757149a-1",
+      "integer_token_count": 2,
+      "token_rows_sha256": "c747f5690758c91b2f26b2ab0f96794121f307799f0d12d3f965688aa003861a",
+      "token_ref_diagnostics": [
+        {
+          "token_id": "1",
+          "expected_ref": "TM757149a-1-1",
+          "reported_refs": [
+            "TM757149a-1-2"
+          ]
+        }
+      ],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM757149b-1",
+      "integer_token_count": 2,
+      "token_rows_sha256": "6a4df65f71b82cf78c99ae9148accc53316121fec0e86d6994793eb353a93def",
+      "token_ref_diagnostics": [
+        {
+          "token_id": "1",
+          "expected_ref": "TM757149b-1-1",
+          "reported_refs": [
+            "TM757149b-1-2"
+          ]
+        }
+      ],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM757150-1",
+      "integer_token_count": 2,
+      "token_rows_sha256": "41087f6f165d9bc0b2756049a139b9864647a1eccc346f7fb7a9a5ea4097c7ab",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM757271-1",
+      "integer_token_count": 2,
+      "token_rows_sha256": "fb967d023c8fe58d5f19cec691490bb8a9ee2ee47669669a68203a88ff6fda8f",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM1002266-1",
+      "integer_token_count": 1,
+      "token_rows_sha256": "616a2004716450739b33de45cfa2ecd0afc62212d911a30d8737c9201d28261a",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM1002267-1",
+      "integer_token_count": 1,
+      "token_rows_sha256": "275225ada6d51f3abe33e43609173660b013ba066e985e4c4c44c1e0e8ceadaa",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM984513-1",
+      "integer_token_count": 1,
+      "token_rows_sha256": "7918c2b5d016124eef0bb72a47c6cb02a7ac7274e6141f00b285e56e02aec3f2",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM984512-1",
+      "integer_token_count": 1,
+      "token_rows_sha256": "95cb3153498e24a0ae1cbdee7d5c7ecdbb142cb9332da70ccda22f42502ecf9b",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM984512-2",
+      "integer_token_count": 3,
+      "token_rows_sha256": "78622df4d47967ea3c72424391282ed14e6056ca517a1df3b89c516997084b05",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM984512-3",
+      "integer_token_count": 1,
+      "token_rows_sha256": "a623dbc8550a7cd029184ff43067b1249317b788b3a8c76f13ddd6a724dd545c",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM757257-1",
+      "integer_token_count": 1,
+      "token_rows_sha256": "44b816c9ba1d4de182ee704c0963d318e0222212797a1ef7ca38414df3a81fdc",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM757258-1",
+      "integer_token_count": 3,
+      "token_rows_sha256": "aef3bbc0df6535a2737a1f517dbe27bcbfdb27a34c327709ad5458973763717d",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM757259-1",
+      "integer_token_count": 1,
+      "token_rows_sha256": "da92c0203a536294d00a43eb877b25260a7576bfb1e37c78e4d91503e9224ab2",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM757260-1",
+      "integer_token_count": 1,
+      "token_rows_sha256": "967132ef713c63cc4d94f2d2c3323ca13485e61328b4131d0277f4a8cdfed1ee",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM757261-1",
+      "integer_token_count": 1,
+      "token_rows_sha256": "bb4c43aec75e3ac254801f301f2ecf7e9c1edc34cfe8c1fedf664d180ff9bdab",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM757262-1",
+      "integer_token_count": 1,
+      "token_rows_sha256": "32c26ae09edcad48fdacd684835c224b2dfcab096609f70553f1099ae3a0a484",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM757263-1",
+      "integer_token_count": 1,
+      "token_rows_sha256": "5174cb85cdc2b05e8511cf89d7d49aca71852472ad2e21fa4614f79f68e33a4a",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM757264-1",
+      "integer_token_count": 1,
+      "token_rows_sha256": "909847b013bc4cd2bcfc07a206ea5e1797e751e43c0919894d322a90a9a3c3fd",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM757265-1",
+      "integer_token_count": 1,
+      "token_rows_sha256": "f8f487444bd4b4a6bcfb86cd39a878881249b4b83a83ab5acd3acd26ff160db8",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM757266-1",
+      "integer_token_count": 1,
+      "token_rows_sha256": "ee0dd1bd995cc965bf8c6af2facd5d2d7e6205939e26174bb9f894329348f1d5",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM757267-1",
+      "integer_token_count": 1,
+      "token_rows_sha256": "e247ba3db9bd209f53039d313e6a3ff90f5500a30b180bfb62a2213c74ae0eaa",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM757268-1",
+      "integer_token_count": 1,
+      "token_rows_sha256": "525a3a7c0c19b61aa4b42839653386a67f05e58ec3813204e40335a7b4671119",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM757269-1",
+      "integer_token_count": 1,
+      "token_rows_sha256": "e5e34de62201138e2677420ea259e0e2f2fee3fb548240b56287933bb45e27be",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM757270-1",
+      "integer_token_count": 2,
+      "token_rows_sha256": "d8729086bb84ee674ea6f30f05589192324f78150f8bc6e63fa6ffb660a4222a",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM757270-2",
+      "integer_token_count": 2,
+      "token_rows_sha256": "93b459d4ba8264bdce78a704f953f708d7f0c8f17be2b077a8d403f6838daa14",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM757270-3",
+      "integer_token_count": 3,
+      "token_rows_sha256": "e9d4238c15b932eb8990850abf296833472fc77c233f5d6f63a18d8d919818d9",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM757270-4",
+      "integer_token_count": 2,
+      "token_rows_sha256": "9e2b2c0454915d7af14ac7addff0039fe5fdc31b5cbb356202fe4a1f136d7a3b",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM757270-5",
+      "integer_token_count": 2,
+      "token_rows_sha256": "eb7967c550b5c9f418ad7eebc05585d71f20de5861bf3db506b7f7d3cba008bc",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM757270-6",
+      "integer_token_count": 3,
+      "token_rows_sha256": "f375fcb68cc01f28e6ab6e43a6e66258d52bf07adedaf305111ecd4016eb9797",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM757270-7",
+      "integer_token_count": 2,
+      "token_rows_sha256": "38b445bb8e6c1f5c18c5188db2ddbde52af22be0c19b39fc8d6a1d2ff47986e5",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM757270-8",
+      "integer_token_count": 2,
+      "token_rows_sha256": "0e5611edd69340d804b5745e152c5c4dce85bde98cab32dc4e1c4c08eba40c9c",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM757270-9",
+      "integer_token_count": 1,
+      "token_rows_sha256": "7adab56d13a6a59afc325e98c00d61047dba4c9ab3d420369a8889f187d61948",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM757270-10",
+      "integer_token_count": 2,
+      "token_rows_sha256": "f444a566fac5816facce1fad01f7f65b1cff3c51fcdf32944d5c8a402102f479",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM984511-1",
+      "integer_token_count": 1,
+      "token_rows_sha256": "fbeed269f7c24d5e5e82d39e886c9e92003815d3bd8438414b1700b5b60a7bf8",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM984510-1",
+      "integer_token_count": 1,
+      "token_rows_sha256": "b9777220e5582b6836e9c7656f4a14c80a4218174a781d1bc57312c30c7ef1f0",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM757243-1",
+      "integer_token_count": 9,
+      "token_rows_sha256": "b200c220943ecb14cb9cd53d7b62182d6b4775a33f261f0bc4f722e360cfa375",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM757243-2",
+      "integer_token_count": 9,
+      "token_rows_sha256": "e1523b6d7908dbb76b3f04d83f7c5fed9c1950a57f56f3011965746c8b16231d",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM757243-3",
+      "integer_token_count": 10,
+      "token_rows_sha256": "b3115b9eb3c61d809741226a721e98bdacdcc24e9beccd87e83e0670e77889ef",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM757243-4",
+      "integer_token_count": 7,
+      "token_rows_sha256": "a57e3d5474342a12ece94be996d3684d0a2e5c4893a08836f117a7971cb0d364",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM757243-5",
+      "integer_token_count": 9,
+      "token_rows_sha256": "b18e55f5f65a4cdec03477bc11f7678fa2c173d378014987a506dcd7dd9ff308",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM757243-6",
+      "integer_token_count": 8,
+      "token_rows_sha256": "e4f1c616c26c9872c0152fa0482e2cbab3f0d3f192322630a288f2dec10a782e",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM1001271-1",
+      "integer_token_count": 5,
+      "token_rows_sha256": "70280428382ea9d22a1d8b38e63e459126a1f2572bf95ab6fe624ec72267bfb4",
+      "token_ref_diagnostics": [
+        {
+          "token_id": "1",
+          "expected_ref": "TM1001271-1-1",
+          "reported_refs": [
+            "TM1001271-1-2"
+          ]
+        }
+      ],
+      "surface_difference": {
+        "source_text": "[...] antiyokoy ∙ Silẹṿkoỵ-kẹỵ",
+        "reconstructed_token_surface": "[...] antiyokoy ∙ Silẹṿkoỵ kẹỵ"
+      },
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM1001271-2",
+      "integer_token_count": 6,
+      "token_rows_sha256": "c465a25ecf744f8b008ecdb8a960592399681f55bb4085ab711fe23a465df933",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM1001271-3",
+      "integer_token_count": 2,
+      "token_rows_sha256": "014ee3e4c61e7d41ae0cd806209d8e4b684bcabaac51433b1735ee80ca14ba4e",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM1001271-4",
+      "integer_token_count": 4,
+      "token_rows_sha256": "18caa1e66cedda99e1b019c382aa902dce1423fbf2d33cac4000101a98b3fc52",
+      "token_ref_diagnostics": [
+        {
+          "token_id": "4",
+          "expected_ref": "TM1001271-4-4",
+          "reported_refs": [
+            "TM1001271-4-3"
+          ]
+        }
+      ],
+      "surface_difference": {
+        "source_text": "eḳ ṃroteS-key [...]",
+        "reconstructed_token_surface": "eḳ ṃroteS key [...]"
+      },
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM1001271-5",
+      "integer_token_count": 3,
+      "token_rows_sha256": "7f6dbafc3bc316419969c8b9b4805e02ec5ebad0a48f01b8e27d984f6a5f536d",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM1001271-6",
+      "integer_token_count": 7,
+      "token_rows_sha256": "e0edad3ee9cce00787dd6a600f2dcd31b91be0a3782a484424decee57a5d8091",
+      "token_ref_diagnostics": [],
+      "surface_difference": {
+        "source_text": "eS-k ṃrey veiṢ-t perkạmạṇeiṣ [...]",
+        "reconstructed_token_surface": "eS k ṃrey veiṢ-t perkạmạṇeiṣ [...]"
+      },
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM1001271-7",
+      "integer_token_count": 6,
+      "token_rows_sha256": "1759b011d5e11ddbe3030fa27303f144705cfcecfdca6ce637e7e27149d5438e",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM1001271-8",
+      "integer_token_count": 4,
+      "token_rows_sha256": "076e703a8e6da031c0f315cdb3e37b81897f5823f8f293b4590875487dd99153",
+      "token_ref_diagnostics": [],
+      "surface_difference": {
+        "source_text": "[...]ṇin-key oḷvomun ∙",
+        "reconstructed_token_surface": "[...]ṇin key oḷvomun ∙"
+      },
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM1001271-9",
+      "integer_token_count": 4,
+      "token_rows_sha256": "6865245cf9760423901d6ce4bbfa165fa2529586de0878865986adcbe4d54274",
+      "token_ref_diagnostics": [],
+      "surface_difference": {
+        "source_text": "opoS-key iḅẹy [...]",
+        "reconstructed_token_surface": "opoS key iḅẹy [...]"
+      },
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM1001271-10",
+      "integer_token_count": 4,
+      "token_rows_sha256": "78cba2acb5178c60c5f752df79727e5023bc6a01929a25819037aef968a311ce",
+      "token_ref_diagnostics": [],
+      "surface_difference": {
+        "source_text": "[...]ọy ạẹỵ-t maneis",
+        "reconstructed_token_surface": "[...]ọy ạẹỵ t maneis"
+      },
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM867450-1",
+      "integer_token_count": 2,
+      "token_rows_sha256": "809d6b19a0dec02b0c8db7c1faa6424463a7b62f9f163ab6a47f144a1b67faa8",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM867450-2",
+      "integer_token_count": 5,
+      "token_rows_sha256": "2a97cfbd45c4622ce9a63b8a4fe02eabd719e420535470c743b42ef5ebae5cec",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM867450-3",
+      "integer_token_count": 10,
+      "token_rows_sha256": "4a99d6af556ddfdca9732f2eb0459bf6a70f91fce64e56ad777ee344b4eb6761",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM867450-4",
+      "integer_token_count": 7,
+      "token_rows_sha256": "86630aeaf12f1d1e7ce12705bd057bd0f1071faaa90938a5f26edc0022e5b6da",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM877307-3",
+      "integer_token_count": 5,
+      "token_rows_sha256": "f2cc557f40c02ba7ac94b74c801b094a29cac3b013a38622e48f2eee800343d2",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM984523-1",
+      "integer_token_count": 12,
+      "token_rows_sha256": "49869d6f2dfe64ddb17b19848823b08f61337f112b4b2d35ad50197b95894eda",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM984519-2",
+      "integer_token_count": 14,
+      "token_rows_sha256": "e131b728ab8728838cb4a833c34475e7e0b62b1ebe91b4c03824a0b578803e0e",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM984519-3",
+      "integer_token_count": 17,
+      "token_rows_sha256": "4b15740928a776fa0504dda5333ee2999fe44900439c8ccd5b9887e39f2f115a",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM984519-8",
+      "integer_token_count": 10,
+      "token_rows_sha256": "6bec1d947b7c5179dfe75da16cd1d82c64b09aeb9a36afee9a1e69271d80b574",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM984524-3",
+      "integer_token_count": 18,
+      "token_rows_sha256": "c0d87dd91b997967e60d70ec1e9571129456a6454fdc0c84e8ab0252044bc3f3",
+      "token_ref_diagnostics": [
+        {
+          "token_id": "17",
+          "expected_ref": "TM984524-3-17",
+          "reported_refs": [
+            "TM984524-3-16"
+          ]
+        }
+      ],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM984525-2",
+      "integer_token_count": 15,
+      "token_rows_sha256": "7ba3f02d6a3007d8e124f8345888c8d84372b7b56d7a07a5dfc780feab6c4a07",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM931661-2",
+      "integer_token_count": 9,
+      "token_rows_sha256": "351134c447693292b7f51f8fa0e23f8e5a4a649b9d0e9132dfbeee6dc506d26d",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM978063-2",
+      "integer_token_count": 21,
+      "token_rows_sha256": "4dc15774ec1b63223faf4f9673aca9cf9faf1bc77d3c15730013c798e6936006",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM984526-1",
+      "integer_token_count": 18,
+      "token_rows_sha256": "3437596c356d9a8788a050a1573962bc0c3431ebf1164e70a2cc12e45cc8ab0a",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM867154-1",
+      "integer_token_count": 19,
+      "token_rows_sha256": "e84c1fca12c30f5890f78d867b6b9989eee164044620d1e8e8b1795869f22906",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM919096-2",
+      "integer_token_count": 10,
+      "token_rows_sha256": "5b4ea368a8f0062de2699fad55e9f67d952b84893b4bcd0df993351168577e1d",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM984527-2",
+      "integer_token_count": 15,
+      "token_rows_sha256": "d468fb70a573a3bea136d15399f648f68cf246dc89182bbbbd20e72d5ac80c07",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM984528-1",
+      "integer_token_count": 20,
+      "token_rows_sha256": "34f399df22ea14e3b411abb43c9c89ed46c6311096c47270a5db0871f1865086",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM984529-1",
+      "integer_token_count": 18,
+      "token_rows_sha256": "21bec108b1cadff4166e26f1699fd5fc81f359e3129cf71b8ec831f8bb2a107e",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM919107-2",
+      "integer_token_count": 15,
+      "token_rows_sha256": "10144ce0d325748d75282e860cd13b9fb5ed177a0a1476d372f148d820d7544c",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM984530-1",
+      "integer_token_count": 12,
+      "token_rows_sha256": "5352600e4289c6820c126765532c2a03ad7513b7e22c8c1fac45149ee5536593",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM918580-1",
+      "integer_token_count": 4,
+      "token_rows_sha256": "4c928f5f44c4ea6f7ff4c274589d295f1b116747241d6ede8934c23d69e77405",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM984531-1",
+      "integer_token_count": 30,
+      "token_rows_sha256": "63041d73d7c77c03ce1a727f2fac7be740cf0abfc9d44fa68ad39cf1e551498e",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM984531-2",
+      "integer_token_count": 15,
+      "token_rows_sha256": "baa7ca006ad1e8416d54e7854d62662792512b4cdecdb195aad2cb6d94c46172",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM984532-1",
+      "integer_token_count": 4,
+      "token_rows_sha256": "e6b9a9339317f3251e09c44f565d8bc5023a84a991fefd25f3a8f16c22580881",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM984533-3",
+      "integer_token_count": 11,
+      "token_rows_sha256": "f6e880dc3be8c0c60e46ab5f6e213f98e1e69fc3357f2e9b0faec28961b343b8",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM969745-2",
+      "integer_token_count": 11,
+      "token_rows_sha256": "3f0c1e3b719b624233bad5488edf8b9cd6a7b2aa07c987fa3b116e338f539af3",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM918555-2",
+      "integer_token_count": 16,
+      "token_rows_sha256": "2d5912aa1bd40265fd1af12139c7b9e841edb3bebfd4b1bdcb1345acc7da2e6f",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM984534-1",
+      "integer_token_count": 4,
+      "token_rows_sha256": "9bee21ce9370d8873df4cb61ad6763044b408a91358be9fb9daa3b58f1796bc3",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM984534-2",
+      "integer_token_count": 14,
+      "token_rows_sha256": "6018002e37c8f1a09fa5ee7079989500b57d9741f5ba4119fdd50f4ee2e22cdf",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM984534-3",
+      "integer_token_count": 10,
+      "token_rows_sha256": "3ae22466dee24db583784b5b0b49933d920aa1fdbc3d4421b96febf55e027d36",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM984535-1",
+      "integer_token_count": 54,
+      "token_rows_sha256": "88bf1f6d2aa66ee4f6c408858e9acaa5412aab08038ab806088c7ba0f83fd6ff",
+      "token_ref_diagnostics": [
+        {
+          "token_id": "20",
+          "expected_ref": "TM984535-1-20",
+          "reported_refs": [
+            "TM984535-2-20"
+          ]
+        }
+      ],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM984535-2",
+      "integer_token_count": 4,
+      "token_rows_sha256": "7da02c3f79685d6695832ab454a61cb49a2dab6177025e60a02b19edf3c17441",
+      "token_ref_diagnostics": [
+        {
+          "token_id": "1",
+          "expected_ref": "TM984535-2-1",
+          "reported_refs": [
+            "TM984535-7-1"
+          ]
+        },
+        {
+          "token_id": "2",
+          "expected_ref": "TM984535-2-2",
+          "reported_refs": [
+            "TM984535-7-2"
+          ]
+        },
+        {
+          "token_id": "3",
+          "expected_ref": "TM984535-2-3",
+          "reported_refs": [
+            "TM984535-7-3"
+          ]
+        },
+        {
+          "token_id": "4",
+          "expected_ref": "TM984535-2-4",
+          "reported_refs": [
+            "TM984535-7-4"
+          ]
+        }
+      ],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM928661-2",
+      "integer_token_count": 5,
+      "token_rows_sha256": "599a3f77add3a83332d60372ca19eb22a8200c5c20835c3175c3d15f8acbc1cf",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM918546-1",
+      "integer_token_count": 20,
+      "token_rows_sha256": "d2e5c4a8a96ce35dde180fbd4ad888ccf7b34257e42773b993568fdee0d6d8c6",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM931697-1",
+      "integer_token_count": 19,
+      "token_rows_sha256": "39d6a79dfd8e6eb3872e79800da7684a01104bf9212e0cc617074ad14f07f144",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM846122-2",
+      "integer_token_count": 9,
+      "token_rows_sha256": "2b633f3b91000231dec07d5dda9ba1d562911125eeb7d4183b877cb7a6725a8b",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM918536-1",
+      "integer_token_count": 14,
+      "token_rows_sha256": "89245758427dede90d3629c8f9365851c295ba540b1b4d38428d562770edb753",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM984536-2",
+      "integer_token_count": 16,
+      "token_rows_sha256": "97411cf8deb10bcd37f5d8fd64ae416d1cef36f0d62f91b879345cb112830a43",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM932245-2",
+      "integer_token_count": 15,
+      "token_rows_sha256": "cddc0b22f45e3e32e834f621f843014cf707c4da8f772f2e8ec6a56dee423b27",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM931700-2",
+      "integer_token_count": 13,
+      "token_rows_sha256": "5639f942d4844fd047c81e3ad2c69fe612097ca7581b42fd760b7b20a43cf330",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM984537-1",
+      "integer_token_count": 21,
+      "token_rows_sha256": "46a4ff3748a59cf3a0faab0ff8d5ebf6e7c88c0adb5fed04c41c29cd9f56470b",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM918549-2",
+      "integer_token_count": 8,
+      "token_rows_sha256": "91d05818ef80b238daae1e3e44ee9959c5bb9c0d8b7b295c4317ecea3757551a",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM984538-1",
+      "integer_token_count": 15,
+      "token_rows_sha256": "0d9ad732c3bbc3972cd24c1a25cb70aa0cd0cc5e6e13f38be463c33ff378fb26",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM918559-1",
+      "integer_token_count": 13,
+      "token_rows_sha256": "b6505c225271f436e78ba680db14e5fcc29bf213185935f16963c17abd99563e",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM963204-2",
+      "integer_token_count": 18,
+      "token_rows_sha256": "d733bdfdc358ad231be8dbbac47fb87e979aa8122fbcc68a36964fe94fc40933",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM984539-1",
+      "integer_token_count": 17,
+      "token_rows_sha256": "1057444e76231d0a5043c4a4802a85f830bc61ca63c31f1419a82e25a8aed7a3",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM918557-2",
+      "integer_token_count": 16,
+      "token_rows_sha256": "f424e52d3628f0710a8493253620422572e209f0cade12f1bacfd74f6f1cac2a",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM918556-2",
+      "integer_token_count": 9,
+      "token_rows_sha256": "ce014f43e2582158701e1201cfd5b77b8e1a466195de3ac8163dede6b27d67c6",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM846124-1",
+      "integer_token_count": 13,
+      "token_rows_sha256": "31cf0ebd739cd3885d878565534d10118d3dfad642a4fc24e2451900a1413c4a",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM984540-1",
+      "integer_token_count": 15,
+      "token_rows_sha256": "e6c7483bcfa8ae0d2366d9f5a7922b9e1769c3a7f50b5acc6baf06a5ccc4e602",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM932096-2",
+      "integer_token_count": 4,
+      "token_rows_sha256": "87072cca7cc849344a42d6b9eaca5b45b1ba737958f4588cd775e23d4aecdc8a",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM846169-1",
+      "integer_token_count": 13,
+      "token_rows_sha256": "89105390b9549c678f49e2a6cafdad414c5588d760ef6fe13794e2c625b7c539",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM884470-2",
+      "integer_token_count": 15,
+      "token_rows_sha256": "1236c30d010eca4a798457471464059b08641fe4e3c1f8237ab20b54ec64dcf4",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM984517-2",
+      "integer_token_count": 12,
+      "token_rows_sha256": "dc4c295e24c520581972b21470ecbfb7a26164d97cafb5ee06c2b07f08760ab6",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM938752-1",
+      "integer_token_count": 4,
+      "token_rows_sha256": "a11e5f80c03d4c1bd20eb3ce3278938eb1c38fcb6a1a479ad1ab9585dfdf5f33",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM918553-1",
+      "integer_token_count": 9,
+      "token_rows_sha256": "462ad1a6497ed4c65f3ea14e932cc6d5ab4c1148c41f33da5cc7dfd1a4827f1a",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM846203-2",
+      "integer_token_count": 20,
+      "token_rows_sha256": "9ef985f8871d2f6cf9f0dace2043905187638d42f8c592fe0c3c4dbe8759c1e0",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM932144-1",
+      "integer_token_count": 7,
+      "token_rows_sha256": "707996ec763eab1c316bb2e47147f3011c24495fbeb5fbe895401f282f436c4a",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM984541-1",
+      "integer_token_count": 20,
+      "token_rows_sha256": "9911895a36980c159c7f28f9c63fc9ea0cf2faf9cdc3270c7aa5f500bf3558ff",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM984542-2",
+      "integer_token_count": 21,
+      "token_rows_sha256": "8b9f4257e9ffe076ad372ee33d7e5fa891234239de1c53f8d8b563ee45d7fac7",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM984543-2",
+      "integer_token_count": 12,
+      "token_rows_sha256": "0d8592042b48da65456c207ab2eb1e81e45b70513b248126d395ce84a5c083b3",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM846319-2",
+      "integer_token_count": 9,
+      "token_rows_sha256": "5de0093cb2fc8550ec1fb6933087a4a3dc894d9ba7e45883311e88bf387906f8",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM846318-1",
+      "integer_token_count": 12,
+      "token_rows_sha256": "06e80adb5c44065147686a75f62ff80268956e71a642468d40f50f1f09b3e892",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM846320-2",
+      "integer_token_count": 11,
+      "token_rows_sha256": "5321bc1a4c206e2501ab8a91e26b34940edefbbf8ddbdfc68b904ae7aaf477c5",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM846322-1",
+      "integer_token_count": 3,
+      "token_rows_sha256": "9a9a5cf200dbd5cf8413cba34131a175949dae8938a9e158f8c4ab1ac14abb49",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM846322-2",
+      "integer_token_count": 6,
+      "token_rows_sha256": "7b6381c77fabc479ae75f6b3f3f21950ccd490e4cec4e0b1e61238c8e063ce08",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM984518-1",
+      "integer_token_count": 11,
+      "token_rows_sha256": "01aef3be20933314f59b66fe3a12d28c6307b65b79aa99fd7ee4b3e8fb64b790",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM846321-2",
+      "integer_token_count": 12,
+      "token_rows_sha256": "21908661a29dd5a5f23fcbe7598e6e3c47b5cd75fa64367a179e9cfa7a539fd9",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM1002268-1",
+      "integer_token_count": 15,
+      "token_rows_sha256": "1889b8e07d6fd5ea569aa72323f24be1f0339c8750ee5069584fcaa7d19e30a4",
+      "token_ref_diagnostics": [
+        {
+          "token_id": "2",
+          "expected_ref": "TM1002268-1-2",
+          "reported_refs": [
+            "TM1002268-2"
+          ]
+        }
+      ],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM984544-1",
+      "integer_token_count": 19,
+      "token_rows_sha256": "52e7be23889c0c69a8c23afed02fd6e272174e1a915b1cd0357d7d256f7ede73",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM984545-1",
+      "integer_token_count": 13,
+      "token_rows_sha256": "8ef33e94f28355a37838f5d2c63e7eddfe9d241ace91c000444dc1bd202de62a",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM984546-1",
+      "integer_token_count": 5,
+      "token_rows_sha256": "7fc2079bb74b4f366e34fd2449b68e682e20cf82ef42d34a4e5eb639f1893efb",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM847650-1",
+      "integer_token_count": 11,
+      "token_rows_sha256": "d1784961f839054c5f5520ff43bb0ee5d6847373368511fd38161b4e5ad0ba80",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM984547-2",
+      "integer_token_count": 11,
+      "token_rows_sha256": "9f3afa0347a9a00d2068391687c3f5a37576cd928aac3d7338a90e35e3a28f4d",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM918640-1",
+      "integer_token_count": 11,
+      "token_rows_sha256": "7f0c7863bc64c69a45846484f7c4afb796325b13433335b39d8c3da798383fd7",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM918640-2",
+      "integer_token_count": 10,
+      "token_rows_sha256": "7484c17938c124129753df56e5a9bf660e12a98d458494d3254a15462aac550e",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM845335-1",
+      "integer_token_count": 11,
+      "token_rows_sha256": "b25de9d080b9ce3c8f388d54cece49c5222558194e407b737a4df4437e168bae",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM984548-1",
+      "integer_token_count": 12,
+      "token_rows_sha256": "00055d174b2baa0a82f15b4402fae07f0e9b9b6d5a461540c2a36b7f164f42ed",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM928663-2",
+      "integer_token_count": 17,
+      "token_rows_sha256": "bee4692eb5a5319d3d78e76c938f4226ea94f62b82a07a33cb364ef160763a96",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM942648-1",
+      "integer_token_count": 8,
+      "token_rows_sha256": "052dd338c02ab8f15055fff390b24d661cf2c573f9686fe471d234004bba03e1",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM932138-1",
+      "integer_token_count": 18,
+      "token_rows_sha256": "e4834753d30f1cceeacd5424428d8082cc76966661d706d69ab3598c658711b8",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM932138-2",
+      "integer_token_count": 11,
+      "token_rows_sha256": "8ad28fd60b1d50699f83c3741c340e5cc76be50f160e2eb62a026664e424d0db",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM845306-1",
+      "integer_token_count": 15,
+      "token_rows_sha256": "1b201f91142156630561d492abe32c9d5f2d43e629f0dead508d04d31e791d1f",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM845334-1",
+      "integer_token_count": 10,
+      "token_rows_sha256": "311ddd3ce04054732a47dc413f74e42ef2e16f337941f6e3b992e538f3483a32",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM845198-1",
+      "integer_token_count": 12,
+      "token_rows_sha256": "b79d5b2bccf42c43ca67762d19c9f1a87b96eb1442da9216e3db8a5228d5cdb5",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM844853-1",
+      "integer_token_count": 21,
+      "token_rows_sha256": "80c17a749ca7eaed59ac4b0bcfa195d9919a17cbac22edbf40dc87e725c98a17",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM844853-2",
+      "integer_token_count": 15,
+      "token_rows_sha256": "f75b640f5644322e01a576a7599fc191f57f4b89f50f88f106471784570cda40",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM932142-2",
+      "integer_token_count": 12,
+      "token_rows_sha256": "45cb6990787bd658a4adfa50d0b392c8f202444a7411836c3b45a6477dfa8a72",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM984549-1",
+      "integer_token_count": 12,
+      "token_rows_sha256": "e32a128291c734dbe4387de73a478c26a58bda108167612bc161e6ae49283c83",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM932037-2",
+      "integer_token_count": 12,
+      "token_rows_sha256": "a1e038420980a2f3c54c5f59fa4cd31d50c524423d3a8a02655a0278dee92110",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM867059-1",
+      "integer_token_count": 12,
+      "token_rows_sha256": "010262593b5d02e5d7de154ac1d7c8ed574640f319bff66850287f11b510afa7",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM844852-2",
+      "integer_token_count": 14,
+      "token_rows_sha256": "023d9346c94cd461cb19e634c185af54aaa6977a7957e7e17934b8e3650de7e4",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM932139-2",
+      "integer_token_count": 11,
+      "token_rows_sha256": "58c0dc43c4e39571fdc65b42f417961d78b30990b00e4ff1162f172ff1fe3bd8",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM932139-3",
+      "integer_token_count": 2,
+      "token_rows_sha256": "01b5afd9b3987eea6640c088b30eb6483492cb6861eb7ca921d0d5437f704061",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM875203-2",
+      "integer_token_count": 3,
+      "token_rows_sha256": "44dee57d6b9131613a8dbe622aa282291c301c4e29c5d86d391d44654b3d897d",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM845156-2",
+      "integer_token_count": 5,
+      "token_rows_sha256": "fe46573f5954327f78e8ce2835a4110ec32205c20a6b5c39d668d92e68d05f9e",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM845157-1",
+      "integer_token_count": 6,
+      "token_rows_sha256": "7df70d5a64bd8eb7d6c76d706802cedce0007df14f60b11533099119b8054fb8",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM845632-1",
+      "integer_token_count": 5,
+      "token_rows_sha256": "b6cd91df56ea37a3614b712a91a8a0df8711efcad91035f244efa7e2d2360157",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM932140-2",
+      "integer_token_count": 11,
+      "token_rows_sha256": "5afd670188f3a7a50439f78e41f443c16fbd469c893e5e51fb0f0e7ba2b72b08",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM932141-2",
+      "integer_token_count": 12,
+      "token_rows_sha256": "4a86d42ebf922e0b63b685cfe72966fd69a31647e637f0307528e00cff4d04a7",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM867074-1",
+      "integer_token_count": 11,
+      "token_rows_sha256": "349a8255530b1dbc2edfedd635ec80769124e61fddff226a2433ae16430bad8b",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM845532-1",
+      "integer_token_count": 11,
+      "token_rows_sha256": "26beeb3a9744817ebb90605143e745c3e479e834ca65be7397194b31ca258910",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM867135-2",
+      "integer_token_count": 24,
+      "token_rows_sha256": "dab2a4779cee614f3bfaf17a188cf12c0ac7358277feb9d721cc30557fb29b27",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM932155-1",
+      "integer_token_count": 12,
+      "token_rows_sha256": "9cb35cf8a514252c531ceb10664ededaf5bb0503d0ee0945dd9f3b3911f45b21",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM845617-2",
+      "integer_token_count": 3,
+      "token_rows_sha256": "99cc488c6ca8139d1c6928003a70b77a7556e9371955ba62d49629395854c327",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM845586-1",
+      "integer_token_count": 23,
+      "token_rows_sha256": "9ddb70d711837c9c41ea2021cfd9769a86c7331519f52b010bbcf83034a78700",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM845616-2",
+      "integer_token_count": 12,
+      "token_rows_sha256": "28d7450a34fc5a7077800f601ebf0123611c2937cdc2e8d76c8cce7793a44a01",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM867130-2",
+      "integer_token_count": 12,
+      "token_rows_sha256": "dc44e49bd018e43748baf37b003591e9246b0cf99ec18fa347b52455eb4ee4a5",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM867131-2",
+      "integer_token_count": 6,
+      "token_rows_sha256": "00de313950dc9ee68a53a91b2c73fe5de3bc39479ae39657d2e24503d7aa2d2a",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM942649-3",
+      "integer_token_count": 17,
+      "token_rows_sha256": "d6088aaa2d0530427f5fe9759254b9abe83d192cbede331aafd82c6a9e6742ec",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM918632-1",
+      "integer_token_count": 10,
+      "token_rows_sha256": "d2137fd21ba119b41a6e8beef453362aeaaf50f68b904533c29c8ae3ed4a76a8",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM932145-1",
+      "integer_token_count": 26,
+      "token_rows_sha256": "692cd914cd007ece59f4e604b43fb94fa029cb4067be252d43320e3b9de82d2d",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM845570-2",
+      "integer_token_count": 4,
+      "token_rows_sha256": "55a0167f6f1079cd36918d541d1152043eb82b79a705fd07320e4b5bdaf7c450",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM932092-2",
+      "integer_token_count": 9,
+      "token_rows_sha256": "bc40ada599cdfef8f120ae964cad3c32816995c7ff8e26fb2998dc8076492f96",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM845568-5",
+      "integer_token_count": 16,
+      "token_rows_sha256": "5269c0697d460b5f9caf6aa4953494b708e336f21d5ca5c9a04ed175d263b4fb",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM845569-1",
+      "integer_token_count": 19,
+      "token_rows_sha256": "870edb676d5ce7c39d69738d843f48658b3d24c81ff625c855dea2c7d7fde174",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM917781-1",
+      "integer_token_count": 9,
+      "token_rows_sha256": "86bd9976de466446d7b5852e1dfab44827ea6a7de389efebaca4a2717bd82e7f",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM867098-2",
+      "integer_token_count": 12,
+      "token_rows_sha256": "c63846c8bbc0a0fb084b2ad852e1df89b6602208e510f71c8ac90ba8f1723b0f",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM917779-1",
+      "integer_token_count": 14,
+      "token_rows_sha256": "4d432fb43cb87f59b231060525ebb38b8e0180fbf67064ad5874d3b2bfeafd54",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM867069-2",
+      "integer_token_count": 13,
+      "token_rows_sha256": "df5011f79d0b12e9c6658f408b1a4f0e3f4e3a83e8002a6276556b2dee91a7d9",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM867070-2",
+      "integer_token_count": 28,
+      "token_rows_sha256": "25dec97bfc738fad5032276bf1d3103b8cb86cf704c6020b186df6c72fdfab3e",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM867071-2",
+      "integer_token_count": 12,
+      "token_rows_sha256": "eeb212e5ec6bdf0a52d8b02da12caff1b33cb0591a789363a9a8051de9434223",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM867072-2",
+      "integer_token_count": 14,
+      "token_rows_sha256": "0c59f40f57821fad9374473c365e510df9ade8db751ece7ea0e1b653483c4530",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM867073-2",
+      "integer_token_count": 23,
+      "token_rows_sha256": "d98d7cecd4b91c257a993c4926b74f171f216b8876c020bbff0c41da7b703bed",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM845501-1",
+      "integer_token_count": 12,
+      "token_rows_sha256": "663b6fb7bbd1c676b138c04e8f4ce2589b1135e187325c35fc54be5126450603",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM970282-3",
+      "integer_token_count": 11,
+      "token_rows_sha256": "27b752ede8fef3b7939fd33865c40b82aa3608f18f92a1855bd23aec48374d16",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM867064-2",
+      "integer_token_count": 11,
+      "token_rows_sha256": "8fc25f0960869a7801f1899d5bfd0ded6bcd53cdd54940ca171a3017b59a48fd",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM918589-2",
+      "integer_token_count": 10,
+      "token_rows_sha256": "4a8daec445e0d524122b231e3350044425051b90911271e30f5042e5291f4efd",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM845437-1",
+      "integer_token_count": 3,
+      "token_rows_sha256": "2531dec9c738e14e22da546d43d79d77ef0a36e1d21d5289fa1bc8fbfa050cc5",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM938753-2",
+      "integer_token_count": 11,
+      "token_rows_sha256": "e0db26bd973d5d1dcccb2fc980aaed8e4a79113c0493ded82236e41d6bcb4239",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM970283-2",
+      "integer_token_count": 15,
+      "token_rows_sha256": "058500d0bad510296cc50aac0620d9996a500c7d9f2b7c562f1c149f3ae1e4dd",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM845394-2",
+      "integer_token_count": 18,
+      "token_rows_sha256": "8fefab54f21816c1eac96b82604ca189652ed30a48f02bf3caefa1992b5aad0e",
+      "token_ref_diagnostics": [],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    },
+    {
+      "sent_id": "TM1002269-1",
+      "integer_token_count": 9,
+      "token_rows_sha256": "3d5f5e0eef65d4da288d663e233ac06d7615ce3c8e35c5947b12fb40d5ac3b55",
+      "token_ref_diagnostics": [
+        {
+          "token_id": "6",
+          "expected_ref": "TM1002269-1-6",
+          "reported_refs": [
+            "TM1002269-1-7"
+          ]
+        }
+      ],
+      "surface_difference": null,
+      "canonical_admission_granted": false
+    }
+  ]
+}

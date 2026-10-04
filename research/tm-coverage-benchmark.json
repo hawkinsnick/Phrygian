@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "checked": "2026-10-02",
+  "checked": "2026-10-04",
   "authority": "Trismegistos language page for Phrygian (language_id=87)",
   "discovery_benchmark": {
     "reported_attestations": 536,
@@ -10,12 +10,16 @@
   "current_reference_layer": {
     "distinct_tm_ids": 162,
     "ud_sentences": 203,
-    "approx_share_of_tm_reported_attestations": 0.3022,
-    "comparison_caution": "Distinct UD-linked TM IDs and TM language-page attestations are useful coverage signals but must be reconciled record-by-record before asserting exact missing-object count."
+    "approx_share_of_tm_reported_attestations": null,
+    "comparison_caution": "162 UD source identity labels include suffix alternatives a/b on TM757149. 161 numeric stems are not independently reconciled ancient objects. Neither source-label count nor numeric-stem count is an admissible exact numerator against 536 TM language-page attestations.",
+    "source_identity_label_count": 162,
+    "distinct_numeric_tm_stems": 161
   },
   "expansion_frontier": {
-    "unrepresented_benchmark_difference": 374,
-    "status": "DISCOVERY_QUEUE_MAGNITUDE_ONLY_NOT_CANONICAL_MISSING_COUNT"
+    "unrepresented_benchmark_difference": null,
+    "status": "DENOMINATOR_AND_SOURCE_VARIANTS_REQUIRE_RECONCILIATION",
+    "titus_metadata_headings": 305,
+    "titus_metadata_path": "research/titus-heading-catalogue.json"
   },
   "rights": {
     "tm_data_services": "TM states public data services are CC BY-SA 4.0; retain attribution/share-alike requirements for imported TM data.",

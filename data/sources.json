@@ -15,6 +15,15 @@
       "role": "machine_readable_reference",
       "rights_status": "CC-BY-SA-4.0",
       "notes": "Separately attributed machine-readable reference with stable inscription identifiers; not treated as independent epigraphic confirmation."
+    },
+    {
+      "source_id": "oreshko-alagoz-2023",
+      "name": "G-12 primary edition, Oreshko and Alagöz 2023",
+      "url": "https://belleten.gov.tr/tam-metin/3749/eng",
+      "doi": "10.37879/belleten.2023.793",
+      "role": "primary_edition_reference",
+      "rights_status": "CC-BY-NC-4.0",
+      "notes": "Only seven publisher text paragraphs retained with markup; separate reference layer, not canonical admission. Attribution in NOTICE and research/g12-primary-edition.json."
     }
   ]
 }

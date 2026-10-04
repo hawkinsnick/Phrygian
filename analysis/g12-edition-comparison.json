@@ -1,0 +1,100 @@
+{
+  "format": "phrygian-g12-edition-comparison-v1",
+  "source": {
+    "source_id": "oreshko-alagoz-2023",
+    "authors": [
+      "Rostyslav Oreshko",
+      "Umut Alagöz"
+    ],
+    "citation": "Belleten 87(310) (2023), 793–831",
+    "doi": "10.37879/belleten.2023.793",
+    "url": "https://belleten.gov.tr/tam-metin/3749/eng",
+    "license": "CC-BY-NC-4.0",
+    "license_locator": "Licence statement after Figures and article metadata",
+    "snapshot_path": "data/source-evidence/g12-belleten-2023-text.html",
+    "snapshot_sha256": "87ba88416cf4741d35b19e8e99a9c9e490b044377caa14cfe4f1fd77704ae178",
+    "publisher_page_sha256": "927ee4bf199e6aadad2efcd70a93402d35101ea9c5248734fd3e6804a525a688",
+    "redistribution_scope": "Seven numbered transcription paragraphs only; original HTML and combining characters preserved. No photographs or article commentary redistributed."
+  },
+  "primary_edition_lines": [
+    {
+      "line": 1,
+      "source_html": "1. … ] <em>Antiyokoy ∙ Śilẹṿkoỵ-kẹỵ vac.</em>",
+      "literal_text": "1. … ] Antiyokoy ∙ Śilẹṿkoỵ-kẹỵ vac.",
+      "superscript_spans": [],
+      "source_locator": "Edition of the text, Text., line 1"
+    },
+    {
+      "line": 2,
+      "source_html": "2. … ]<em>n manaṇ mlalin śit-t vac. ꓘ</em>",
+      "literal_text": "2. … ]n manaṇ mlalin śit-t vac. ꓘ",
+      "superscript_spans": [],
+      "source_locator": "Edition of the text, Text., line 2"
+    },
+    {
+      "line": 3,
+      "source_html": "3. … ]<em>ṃetebaẹs eḳ ṃroteś-key vac.</em> ",
+      "literal_text": "3. … ]ṃetebaẹs eḳ ṃroteś-key vac. ",
+      "superscript_spans": [],
+      "source_locator": "Edition of the text, Text., line 3"
+    },
+    {
+      "line": 4,
+      "source_html": "4. … ] <em>Parśaparnas˙ eś-k ṃrey veiṣ́-t Perkạmạṇ<sup>eiṣ</sup></em> ",
+      "literal_text": "4. … ] Parśaparnas˙ eś-k ṃrey veiṣ́-t Perkạmạṇeiṣ ",
+      "superscript_spans": [
+        {
+          "start": 50,
+          "end": 54
+        }
+      ],
+      "source_locator": "Edition of the text, Text., line 4"
+    },
+    {
+      "line": 5,
+      "source_html": "5. … <em>i]ḅey Gordiyoy puprayọỵ veban vac.</em> ",
+      "literal_text": "5. … i]ḅey Gordiyoy puprayọỵ veban vac. ",
+      "superscript_spans": [],
+      "source_locator": "Edition of the text, Text., line 5"
+    },
+    {
+      "line": 6,
+      "source_html": "6. … <em>]ṇin-key oḷvomun ∙ opoś-key iḅẹy vac.</em> ",
+      "literal_text": "6. … ]ṇin-key oḷvomun ∙ opoś-key iḅẹy vac. ",
+      "superscript_spans": [],
+      "source_locator": "Edition of the text, Text., line 6"
+    },
+    {
+      "line": 7,
+      "source_html": "7. … <em>]ọy ạẹỵ-t maneis vac.</em>",
+      "literal_text": "7. … ]ọy ạẹỵ-t maneis vac.",
+      "superscript_spans": [],
+      "source_locator": "Edition of the text, Text., line 7"
+    }
+  ],
+  "ud_candidate_sentence_ids": [
+    "UD-TM1001271-1",
+    "UD-TM1001271-2",
+    "UD-TM1001271-3",
+    "UD-TM1001271-4",
+    "UD-TM1001271-5",
+    "UD-TM1001271-6",
+    "UD-TM1001271-7",
+    "UD-TM1001271-8",
+    "UD-TM1001271-9",
+    "UD-TM1001271-10"
+  ],
+  "ud_candidate_sentence_count": 10,
+  "primary_physical_line_count": 7,
+  "identity_join_status": "CANDIDATE_TEXT_AND_DOCUMENTATION_CORRESPONDENCE",
+  "physical_line_alignment_established": false,
+  "independent_epigraphic_review": false,
+  "canonical_admission_granted": false,
+  "representation_differences": [
+    "Seven edition lines versus ten UD sentences; these are different units.",
+    "Publisher ś/Ś and underdots versus UD S/Ṣ convention; do not rewrite source letters.",
+    "Publisher line 4 has raised letters, retained in HTML and superscript spans.",
+    "Publisher vacat and punctuation remain in source text; UD linguistic tokenization is a separate representation."
+  ],
+  "boundary": "This replays a published reading; it neither adjudicates its correctness nor treats the dependent UD dataset as an independent witness."
+}

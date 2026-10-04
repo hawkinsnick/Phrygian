@@ -5,3 +5,7 @@ This repository distinguishes ancient/public-domain subject matter from modern s
 Project-original material is licensed only as stated in LICENSE, LICENSE-CODE, LICENSE-CONTENT.md, and LICENSING.md. Third-party/source-derived material retains its upstream terms and is not relicensed by this project. Public-domain material remains public domain. Bibliographic citation, public web access, or inclusion of factual metadata does not by itself establish permission to redistribute protected source content.
 
 Consult source metadata, provenance files, rights matrices/registers, and per-record source fields before redistributing derived material. No endorsement by cited scholars, publishers, museums, databases, or institutions is implied.
+
+G-12 source excerpt: Rostyslav Oreshko and Umut Alagöz (2023), Belleten 87(310), 793–831, DOI 10.37879/belleten.2023.793, https://belleten.gov.tr/tam-metin/3749/eng. The publisher states CC BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/). data/source-evidence/g12-belleten-2023-text.html extracts the seven Text paragraphs without changes to their internal HTML. JSON views flatten HTML text and retain superscript offsets; no new critical reading or author endorsement is implied. Photographs and drawings are not included.
+
+The lossless UD replay retains source-derived text and annotations from UniversalDependencies/UD_Phrygian-KUL under CC BY-SA 4.0; see the bundled upstream licence and README attribution. TITUS discovery metadata contains heading identifiers only; full readings and source HTML are not redistributed.

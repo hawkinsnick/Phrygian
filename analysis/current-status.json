@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "repository_version": "0.2.0",
-  "checked": "2026-10-02",
+  "checked": "2026-10-04",
   "milestone": "SOURCE_ACQUISITION_AND_ALIGNMENT",
   "blocked_claims": [
     "exhaustive_world_corpus",
@@ -27,5 +27,24 @@
     "explicit_source_documentation_joins": 2,
     "independent_epigraphic_reviews": 0,
     "period_scope": "Old, Middle and New Phrygian (upstream reported; no project per-record period assignments inferred)"
-  }
+  },
+  "source_replay": {
+    "report": "analysis/reference-replay.json",
+    "exact_reference_and_ledger_replay": true,
+    "token_ref_diagnostics": 12,
+    "source_text_token_surface_differences": 6
+  },
+  "primary_edition_reference": {
+    "siglum": "G-12",
+    "lines": 7,
+    "license": "CC-BY-NC-4.0",
+    "register": "research/g12-primary-edition.json",
+    "canonical_admission": false
+  },
+  "discovery_catalogue": {
+    "path": "research/titus-heading-catalogue.json",
+    "source_headings": 305,
+    "not_unique_inscription_count": true
+  },
+  "identity_count_caution": "162 source identity labels include TM757149a and TM757149b; 161 distinct numeric stems. Preserve alternatives, do not infer physical totals."
 }
