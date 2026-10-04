@@ -15,14 +15,53 @@
       "printed_page": 113,
       "pdf_page_one_based": 19,
       "figure_locators": "p. 119, figs. 3–4",
-      "access": "Indexed PDF text inspected; repeated live page-image fetches returned HTTP 403. Persée bibliographic record inspected; page-query routes unavailable.",
+      "access": "Direct author-hosted PDF downloaded over HTTPS with status 200; printed pp. 112–113 and p. 119 photographs rendered and inspected. Earlier viewer 403 retained as historical route failure, not a current source blocker.",
       "primary_excerpt": "[…] ιος σεμουν κνουμανε […]",
       "excerpt_role": "published fragment, not a complete curse formula",
       "provenance_assertion": "Kır Çeşmesi; associated by the author with the Tymandos series.",
       "identity_boundary": "The author rejects identity with MAMA IV 243. 34.2 is supplied by UD, not verified as a label printed in this article; external TM identity remains uninspected.",
-      "reading_status": "PRIMARY_FRAGMENT_DIFFERS_FROM_UD_COMPLETE_FORMULA",
-      "resolution": "Keep the UD text intact; quarantine its use as a diplomatic transcription of this fragment pending inspection of source images and the catalogue join.",
-      "rights": "No open reuse license verified. Only this short attributed quotation and original factual notes are included; PDF and photographs are not redistributed."
+      "reading_status": "GENERAL_FORMULA_MATCH_OBJECT_READING_UNSUPPORTED",
+      "resolution": "Text-role discrepancy located: UD corresponds to the p. 112 general formula after terminal-comma omission, not the p. 113 fragment. Keep import intact and exclude it from object-specific reading support. The intent of the UD identity assignment remains unresolved.",
+      "rights": "No open reuse license verified. Only this short attributed quotation and original factual notes are included; PDF and photographs are not redistributed.",
+      "source_file": {
+        "bytes": 4441214,
+        "sha256": "764bf4413e7c6980168ab6ccac31ff4bf73a6b26191f9861dd39bd3c1d2ffcb2",
+        "redistributed": false,
+        "pdf_page_count": 44
+      },
+      "general_formula": {
+        "printed_page": 112,
+        "pdf_page_one_based": 18,
+        "excerpt": "ιος νι σεμουν κνουμανε κακουν αδδακετ\n(με δεως κε ζεμελως κε) τιττετικμενος ειτου,",
+        "role": "General formula presented before the newly discovered inscription; not its diplomatic reading."
+      },
+      "photograph_inspection": {
+        "printed_page": 119,
+        "pdf_page_one_based": 25,
+        "figures": [
+          3,
+          4
+        ],
+        "credit": "Guy Labarre and Mehmet Özsait",
+        "scope": "Published page images inspected; no new signs inferred or independent epigraphic collation claimed."
+      },
+      "catalogue_access_attempts": [
+        {
+          "url": "https://www.trismegistos.org/text/1002268",
+          "result": "HTTP 502 Bad Gateway",
+          "checked": "2026-10-04"
+        },
+        {
+          "url": "https://www.trismegistos.org/tm/detail.php?tm=1002268",
+          "result": "HTTP 502 Bad Gateway",
+          "checked": "2026-10-04"
+        }
+      ],
+      "persee_page_route": {
+        "url": "https://www.persee.fr/doc/ista_0000-0000_2021_act_1522_1_3889?pageId=T6_112",
+        "result": "HTTP 200",
+        "boundary": "Published page identifier is T6_112; earlier T1_112 attempts did not establish source inaccessibility."
+      }
     },
     {
       "trismegistos_id": "TM1002269",

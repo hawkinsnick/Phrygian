@@ -18,6 +18,9 @@ class PrimaryComparisonTests(unittest.TestCase):
         rows = {r['trismegistos_id']: r for r in actual['records']}
         self.assertFalse(rows['TM1002268']['exact_after_line_break_fold'])
         self.assertEqual(rows['TM1002268']['fragment_word_count'], 3)
+        self.assertFalse(rows['TM1002268']['general_formula_exact_after_whitespace_fold'])
+        self.assertTrue(rows['TM1002268']['general_formula_matches_after_terminal_comma_omission'])
+        self.assertFalse(rows['TM1002268']['object_specific_reading_support'])
         self.assertTrue(rows['TM1002269']['exact_after_line_break_fold'])
         self.assertEqual(rows['TM1002269']['printed_edition_line_count'], 2)
 
@@ -44,6 +47,17 @@ class PrimaryComparisonTests(unittest.TestCase):
 
     def test_upstream_number_cannot_become_primary_catalogue_number(self):
         self.mutated_dossier(lambda d: d['records'][1].update(ud_number='2'))
+
+    def test_general_formula_cannot_be_changed_to_fragment(self):
+        self.mutated_dossier(lambda d: d['records'][0]['general_formula'].update(
+            excerpt=d['records'][0]['primary_excerpt']))
+
+    def test_unregistered_pdf_is_rejected_before_extraction(self):
+        with tempfile.TemporaryDirectory() as directory:
+            path = Path(directory)/'wrong.pdf'
+            path.write_bytes(b'Unregistered source bytes')
+            with self.assertRaises(ValueError):
+                module.verify_source_pdf(path)
 
 
 if __name__ == '__main__':
