@@ -1,9 +1,9 @@
 {
   "schema_version": "0.3.1",
   "skill_version": "0.3.1",
-  "source_commit": "f7e747d70de581955545303946e6ba90d668a246",
+  "source_commit": "756493cd9aff743fbb70417000b1d6a675356b56",
   "canonical_repository": true,
-  "generated_at_utc": "2026-10-04T11:59:19+00:00",
+  "generated_at_utc": "2026-10-04T15:23:45+00:00",
   "contract": {
     "corpus_is_authoritative": true,
     "missing_means_unknown": true,
@@ -16,26 +16,26 @@
     {
       "role": "expert_review_queue",
       "path": "research/expert-review-queue.json",
-      "sha256": "961ea29290fcc72377f1f753c78cbdae4b39c7e6e6a39df100604e2807bd3186",
-      "bytes": 2887
+      "sha256": "4f35a9aa32035f5b4acf99b73a2efa88b588637672b5a199b32398c996221ddc",
+      "bytes": 2975
     },
     {
       "role": "new_primary_dossier",
       "path": "research/new-phrygian-primary-dossier.json",
-      "sha256": "a73068687e986f094efb1f92f85d117c47ff0ad15189bd18345376829be98e0c",
-      "bytes": 4410
+      "sha256": "757db8e72bde0bccd736e862f09c61d4e33ab3ee1afd83cfbe9aafb4bc3304a7",
+      "bytes": 6181
     },
     {
       "role": "new_primary_comparison",
       "path": "analysis/new-primary-comparison.json",
-      "sha256": "d89c87086864ee772c4073878590d69b24b45992a8dfe4494cc902c43ce3a7b5",
-      "bytes": 2037
+      "sha256": "467377825e437e56c419407208ef849af5d4b29267f6f2b12c81567b646d3f49",
+      "bytes": 2256
     },
     {
       "role": "source_reconciliation_guide",
       "path": "docs/SOURCE-RECONCILIATION.md",
-      "sha256": "d982fc142a83b6c53eeac3ae07e9f55af4d0141df6e0634354d17171de7e1bc5",
-      "bytes": 9305
+      "sha256": "acf1cf4889750c6315d720f54d26f78e94f2985d5e18ebc46680feabbe056c26",
+      "bytes": 9993
     },
     {
       "role": "reference_replay",
@@ -64,8 +64,8 @@
     {
       "role": "explicit_source_lineage_audit",
       "path": "analysis/explicit-source-lineage-audit.json",
-      "sha256": "93d76a18467c415f0ddd2b184e4b48d694fb0f15e60896477397c45622668f7c",
-      "bytes": 2224
+      "sha256": "83a0c5201f741cbb95d9f45ee59eabad10c2e6b5a3b46daebe32c6d6ad54d8d7",
+      "bytes": 2223
     },
     {
       "role": "titus_heading_catalogue",
