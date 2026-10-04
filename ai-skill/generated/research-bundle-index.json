@@ -1,9 +1,9 @@
 {
   "schema_version": "0.3.1",
   "skill_version": "0.3.1",
-  "source_commit": "e95b07db1b13d709b410fc0ca969093f641e94c3",
+  "source_commit": "3c27c60c4aa30a545d3eb9b3cc6da5344c101315",
   "canonical_repository": true,
-  "generated_at_utc": "2026-10-04T03:51:13+00:00",
+  "generated_at_utc": "2026-10-04T05:10:52+00:00",
   "contract": {
     "corpus_is_authoritative": true,
     "missing_means_unknown": true,
@@ -16,8 +16,8 @@
     {
       "role": "source_reconciliation_guide",
       "path": "docs/SOURCE-RECONCILIATION.md",
-      "sha256": "5a1c332cc27da494a4029c3a65ea55416c2272fb593e6993f78a4427934220ed",
-      "bytes": 3279
+      "sha256": "213f21996ce550103e21c4f22ea0d61f4ddbf97e476958ff6939c4e7823fc16c",
+      "bytes": 3951
     },
     {
       "role": "reference_replay",
@@ -42,6 +42,12 @@
       "path": "research/titus-heading-catalogue.json",
       "sha256": "ffc91381b5a91c288039eee5c75175ee8fba979fead4ec05ce6191d48aa3f0e4",
       "bytes": 125980
+    },
+    {
+      "role": "titus_identity_unit_audit",
+      "path": "analysis/titus-identity-unit-audit.json",
+      "sha256": "be419e5db7dfbe4006f2d60708b1fcad6ea156b094fd4e6176f5b5483f5e1d90",
+      "bytes": 3878
     },
     {
       "role": "current_status",
