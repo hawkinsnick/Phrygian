@@ -1,0 +1,87 @@
+{
+  "format": "phrygian-g12-reference-fingerprint-audit-v1",
+  "algorithm": {
+    "normalization": "Unicode NFD; remove combining marks; lowercase; map ś and ṣ to s; remove literal vac; retain ASCII letters only; concatenate in source order",
+    "comparison": "set Jaccard similarity of character 4-grams plus exact normalized-string equality"
+  },
+  "primary_normalized_character_count": 150,
+  "tm_group_count": 162,
+  "exact_match_count": 1,
+  "exact_match_tm_id": "TM1001271",
+  "top_ranked_groups": [
+    {
+      "trismegistos_id": "TM1001271",
+      "normalized_character_count": 150,
+      "shared_4gram_count": 142,
+      "jaccard_4gram_score": 1.0,
+      "exact_normalized_text_match": true
+    },
+    {
+      "trismegistos_id": "TM757149b",
+      "normalized_character_count": 13,
+      "shared_4gram_count": 3,
+      "jaccard_4gram_score": 0.020134228188,
+      "exact_normalized_text_match": false
+    },
+    {
+      "trismegistos_id": "TM757149a",
+      "normalized_character_count": 13,
+      "shared_4gram_count": 3,
+      "jaccard_4gram_score": 0.020134228188,
+      "exact_normalized_text_match": false
+    },
+    {
+      "trismegistos_id": "TM757271",
+      "normalized_character_count": 9,
+      "shared_4gram_count": 2,
+      "jaccard_4gram_score": 0.013698630137,
+      "exact_normalized_text_match": false
+    },
+    {
+      "trismegistos_id": "TM756913",
+      "normalized_character_count": 32,
+      "shared_4gram_count": 2,
+      "jaccard_4gram_score": 0.011834319527,
+      "exact_normalized_text_match": false
+    },
+    {
+      "trismegistos_id": "TM757265",
+      "normalized_character_count": 4,
+      "shared_4gram_count": 1,
+      "jaccard_4gram_score": 0.007042253521,
+      "exact_normalized_text_match": false
+    },
+    {
+      "trismegistos_id": "TM756912",
+      "normalized_character_count": 12,
+      "shared_4gram_count": 1,
+      "jaccard_4gram_score": 0.006666666667,
+      "exact_normalized_text_match": false
+    },
+    {
+      "trismegistos_id": "TM756907",
+      "normalized_character_count": 46,
+      "shared_4gram_count": 1,
+      "jaccard_4gram_score": 0.005434782609,
+      "exact_normalized_text_match": false
+    },
+    {
+      "trismegistos_id": "TM984549",
+      "normalized_character_count": 0,
+      "shared_4gram_count": 0,
+      "jaccard_4gram_score": 0.0,
+      "exact_normalized_text_match": false
+    },
+    {
+      "trismegistos_id": "TM984548",
+      "normalized_character_count": 0,
+      "shared_4gram_count": 0,
+      "jaccard_4gram_score": 0.0,
+      "exact_normalized_text_match": false
+    }
+  ],
+  "external_catalogue_identity_certified": false,
+  "physical_line_alignment_established": false,
+  "independent_witness_added": false,
+  "boundary": "Exact normalized transcription correspondence makes the candidate digital-text join reproducible. UD cites the publisher edition and is therefore dependent evidence. This audit does not inspect or certify the Trismegistos object page, equate seven physical lines with ten UD sentences, validate the reading, or admit a canonical record."
+}
