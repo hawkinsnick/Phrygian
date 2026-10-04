@@ -18,5 +18,6 @@ jobs:
       - run: python scripts/reconcile_g12.py --check
       - run: python scripts/audit_g12_reference_fingerprint.py --check
       - run: python scripts/audit_explicit_source_lineage.py --check
+      - run: python scripts/reconcile_new_primary.py --check
       - run: python scripts/audit_titus_identity_units.py --check
       - run: python scripts/audit_titus_heading_hierarchy.py --check

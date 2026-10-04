@@ -1,0 +1,39 @@
+{
+  "format": "phrygian-new-primary-comparison-v1",
+  "input_hashes": {
+    "research/new-phrygian-primary-dossier.json": "a73068687e986f094efb1f92f85d117c47ff0ad15189bd18345376829be98e0c",
+    "research/source-inspection-2026-10-02.json": "0cf56ee8a8ac05cc81f7761b40b0501cfe09dcc927aea1e1d3aa341b3b01467e",
+    "imports/ud-phrygian-kul.json": "f5f829534c479ee65af5adc554978a2e54cb0ea5c7a93eccbfa992a25da8696c"
+  },
+  "normalization": "Remove only hyphen immediately followed by newline; fold whitespace. Preserve case, underdots, brackets, spelling and punctuation.",
+  "records": [
+    {
+      "trismegistos_id": "TM1002268",
+      "reference_record_id": "UD-TM1002268-1",
+      "ud_text_sha256": "bd62c3283b4ddd3fd68e7e21bc11d4d82cb27637aca320c5d542863987ce6d09",
+      "primary_excerpt_sha256": "9e1783c7c9eadae383b39b646e67776914682dcd3fe6bb8f6483bae9864b494c",
+      "status": "PRIMARY_FRAGMENT_DIFFERS_FROM_UD_COMPLETE_FORMULA",
+      "exact_after_line_break_fold": false,
+      "independent_epigraphic_review": false,
+      "canonical_admission": false,
+      "fragment_is_contiguous_in_ud": false,
+      "fragment_words_occur_in_ud_order": true,
+      "fragment_word_count": 3,
+      "ud_whitespace_word_count": 13
+    },
+    {
+      "trismegistos_id": "TM1002269",
+      "reference_record_id": "UD-TM1002269-1",
+      "ud_text_sha256": "387f455774cd13e7803dadeda8544ad762f751069c5d957521be73526ab0e7f0",
+      "primary_excerpt_sha256": "c61ec5a863747387c374c6a961eae090bb5e2ed4c00e5b37c8e9d75f6410b71f",
+      "status": "UD_MATCHES_SHORT_EDITION_READING_AFTER_LINE_BREAK_FOLD",
+      "exact_after_line_break_fold": true,
+      "independent_epigraphic_review": false,
+      "canonical_admission": false,
+      "printed_edition_line_count": 2,
+      "catalogue_number": "2",
+      "survey_inventory_number": "134"
+    }
+  ],
+  "boundary": "Replay verifies project excerpts against pinned UD data; it cannot refetch or authenticate publication bytes, collate stones, resolve the discrepant join or certify external identities."
+}

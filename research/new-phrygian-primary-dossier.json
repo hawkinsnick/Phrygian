@@ -1,0 +1,64 @@
+{
+  "format": "phrygian-new-primary-dossier-v1",
+  "checked": "2026-10-04",
+  "scope": "Published-text comparison of two upstream joins; no independent stone collation or TM catalogue certification.",
+  "records": [
+    {
+      "trismegistos_id": "TM1002268",
+      "reference_record_id": "UD-TM1002268-1",
+      "ud_number": "34.2",
+      "edition": "Anfosso 2021",
+      "title": "Les inscriptions néo-phrygiennes : une revendication d’identité ethnique",
+      "article_pages": "101–125",
+      "bibliographic_url": "https://www.persee.fr/doc/ista_0000-0000_2021_act_1522_1_3889",
+      "inspection_url": "https://milenanfosso.com/admin/public/uploads/Allegato_992024_145245.pdf",
+      "printed_page": 113,
+      "pdf_page_one_based": 19,
+      "figure_locators": "p. 119, figs. 3–4",
+      "access": "Indexed PDF text inspected; repeated live page-image fetches returned HTTP 403. Persée bibliographic record inspected; page-query routes unavailable.",
+      "primary_excerpt": "[…] ιος σεμουν κνουμανε […]",
+      "excerpt_role": "published fragment, not a complete curse formula",
+      "provenance_assertion": "Kır Çeşmesi; associated by the author with the Tymandos series.",
+      "identity_boundary": "The author rejects identity with MAMA IV 243. 34.2 is supplied by UD, not verified as a label printed in this article; external TM identity remains uninspected.",
+      "reading_status": "PRIMARY_FRAGMENT_DIFFERS_FROM_UD_COMPLETE_FORMULA",
+      "resolution": "Keep the UD text intact; quarantine its use as a diplomatic transcription of this fragment pending inspection of source images and the catalogue join.",
+      "rights": "No open reuse license verified. Only this short attributed quotation and original factual notes are included; PDF and photographs are not redistributed."
+    },
+    {
+      "trismegistos_id": "TM1002269",
+      "reference_record_id": "UD-TM1002269-1",
+      "ud_number": "67.1",
+      "edition": "Güney & Yanık 2022",
+      "title": "New Inscriptions from Northeast Phrygia: The 2021 Survey",
+      "article_pages": "161–177",
+      "doi": "10.47589/adalya.1239436",
+      "bibliographic_url": "https://dergipark.org.tr/en/pub/adalya/article/1239436",
+      "inspection_url": "https://dergipark.org.tr/tr/download/article-file/2905212",
+      "printed_page": 165,
+      "pdf_page_one_based": 11,
+      "commentary_page": 166,
+      "commentary_pdf_page_one_based": 12,
+      "primary_catalogue_number": "2",
+      "survey_inventory_number": "134",
+      "figure_locators": "p. 165, fig. 3 (photograph credited to H. Güney)",
+      "access": "PDF text and rendered pages 165–166 inspected.",
+      "primary_excerpt": "[ιος νι σεμον κνου]μ̣ανει κακον αδδακετ τιτετικ-\n[μεν]ος ειτου.",
+      "excerpt_role": "two printed edition lines; line-break hyphen retained",
+      "provenance_assertion": "Doğanay village, Çifteler District; grey marble lintel broken on the left.",
+      "identity_boundary": "Catalogue no. 2, survey inventory 134 and UD number 67.1 are separate namespaces. Their bridge to TM1002269 remains UD-dependent, not an inspected TM record.",
+      "reading_status": "UD_MATCHES_SHORT_EDITION_READING_AFTER_LINE_BREAK_FOLD",
+      "competing_reading": {
+        "locator": "p. 166, commentary on no. 2, paragraph beginning There is enough space; note 29",
+        "condition": "Read the second-line round letter as omega rather than omicron.",
+        "alternative_restoration": "A longer apodosis restores a gods-and-men expression in the damaged span; this competes with the short text printed on p. 165.",
+        "preference_boundary": "The authors cite a parallel for the short form; the project does not choose between the readings."
+      },
+      "rights": "No open reuse license verified during this inspection. Short attributed edition quotation and original notes only; no PDF or photograph redistribution. Imported UD text retains its separate CC BY-SA 4.0 attribution."
+    }
+  ],
+  "boundaries": [
+    "Neither comparison adds an independent reading lineage: UD names these editions as its sources.",
+    "Published edition lines, digital sentences, survey inventory numbers and catalogue numbers are distinct units.",
+    "No canonical admission, expert approval, physical-object identity certification or reading correction is granted."
+  ]
+}

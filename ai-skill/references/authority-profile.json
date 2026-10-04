@@ -96,6 +96,16 @@
       "role": "titus_heading_hierarchy_audit",
       "path": "analysis/titus-heading-hierarchy-audit.json",
       "required": true
+    },
+    {
+      "role": "new_primary_dossier",
+      "path": "research/new-phrygian-primary-dossier.json",
+      "required": true
+    },
+    {
+      "role": "new_primary_comparison",
+      "path": "analysis/new-primary-comparison.json",
+      "required": true
     }
   ],
   "behavioral_gates": [
@@ -111,6 +121,7 @@
     "A declared lossy fingerprint normalization makes TM1001271 the unique exact G-12 text match among 162 UD TM groups; this dependent digital-text correspondence does not certify the external catalogue identity, physical line alignment, reading, or an independent witness.",
     "Only three of 162 TM groups have record-specific edition lineage explicit in inspected evidence; corpus-level source statements cannot be expanded into unproved record-level joins.",
     "TITUS heading catalogue includes Old-Phryg., Mys., and Neo-Phryg. sections; Mys. is a comparison section, not automatically Phrygian evidence.",
-    "Twenty-three explicit co-listed TITUS heading edges describe catalogue label hierarchy only, never certified physical relationships."
+    "Twenty-three explicit co-listed TITUS heading edges describe catalogue label hierarchy only, never certified physical relationships.",
+    "TM1002268 has an unresolved published-fragment versus complete-UD-formula discrepancy; TM1002269 matches only the short published reading, whose longer alternative must be retained. Both edition/TM bridges remain UD-dependent."
   ]
 }

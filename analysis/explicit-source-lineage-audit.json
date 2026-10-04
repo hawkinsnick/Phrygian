@@ -3,7 +3,8 @@
   "input_hashes": {
     "research/source-inspection-2026-10-02.json": "0cf56ee8a8ac05cc81f7761b40b0501cfe09dcc927aea1e1d3aa341b3b01467e",
     "analysis/g12-reference-fingerprint-audit.json": "d43c056d953ac8f422f47601bbaf82e9125fb1eb63842021cc5855001dfb29ea",
-    "imports/ud-phrygian-kul.json": "f5f829534c479ee65af5adc554978a2e54cb0ea5c7a93eccbfa992a25da8696c"
+    "imports/ud-phrygian-kul.json": "f5f829534c479ee65af5adc554978a2e54cb0ea5c7a93eccbfa992a25da8696c",
+    "analysis/new-primary-comparison.json": "d89c87086864ee772c4073878590d69b24b45992a8dfe4494cc902c43ce3a7b5"
   },
   "tm_group_count": 162,
   "explicit_edition_lineage_count": 3,
@@ -11,9 +12,31 @@
   "independently_collated_lineage_count": 0,
   "canonical_admission_count": 0,
   "records": [
-    {"trismegistos_id": "TM1001271", "edition": "Oreshko & Alagöz 2023", "edition_number": "G-12", "evidence_locator": "UD README G-12 edition note plus licensed publisher text fingerprint", "lineage_status": "PRIMARY_TEXT_TO_DEPENDENT_UD_EXPLICIT"},
-    {"trismegistos_id": "TM1002268", "edition": "Anfosso 2021", "edition_number": "34.2", "evidence_locator": "README Edition table", "lineage_status": "UPSTREAM_DOCUMENTATION_EXPLICIT_DEPENDENT"},
-    {"trismegistos_id": "TM1002269", "edition": "Güney & Yanık 2022", "edition_number": "67.1", "evidence_locator": "README Edition table", "lineage_status": "UPSTREAM_DOCUMENTATION_EXPLICIT_DEPENDENT"}
+    {
+      "trismegistos_id": "TM1001271",
+      "edition": "Oreshko & Alagöz 2023",
+      "edition_number": "G-12",
+      "evidence_locator": "UD README G-12 edition note plus licensed publisher text fingerprint",
+      "lineage_status": "PRIMARY_TEXT_TO_DEPENDENT_UD_EXPLICIT"
+    },
+    {
+      "trismegistos_id": "TM1002268",
+      "edition": "Anfosso 2021",
+      "edition_number": "34.2",
+      "evidence_locator": "README Edition table",
+      "lineage_status": "UPSTREAM_DOCUMENTATION_EXPLICIT_DEPENDENT",
+      "published_text_comparison_status": "PRIMARY_FRAGMENT_DIFFERS_FROM_UD_COMPLETE_FORMULA",
+      "comparison_locator": "analysis/new-primary-comparison.json"
+    },
+    {
+      "trismegistos_id": "TM1002269",
+      "edition": "Güney & Yanık 2022",
+      "edition_number": "67.1",
+      "evidence_locator": "README Edition table",
+      "lineage_status": "UPSTREAM_DOCUMENTATION_EXPLICIT_DEPENDENT",
+      "published_text_comparison_status": "UD_MATCHES_SHORT_EDITION_READING_AFTER_LINE_BREAK_FOLD",
+      "comparison_locator": "analysis/new-primary-comparison.json"
+    }
   ],
   "boundary": "Only three TM groups currently have record-specific edition lineage explicit in inspected project evidence. The remaining groups may derive principally from sources named by UD, but a corpus-level statement is not a record-level join. Explicit lineage documents dependence; it does not independently validate a reading, period, object identity or provenance."
 }

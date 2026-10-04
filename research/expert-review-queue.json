@@ -35,6 +35,24 @@
       "task": "Determine which digital witnesses derive from the same editions and therefore are not independent confirmations.",
       "decision_needed": "source dependence graph",
       "status": "awaiting_source_reconciliation"
+    },
+    {
+      "id": "PHR-VAL-005",
+      "priority": "critical",
+      "object_scope": "UD-TM1002268-1 / upstream number 34.2",
+      "task": "Resolve Anfosso p. 113 fragment versus complete UD formula using publication images and an authoritative catalogue entry; determine whether the import represents another text, a restoration or an illustrative formula.",
+      "decision_needed": "reading support and edition/TM identity bridge",
+      "status": "unresolved_primary_text_discrepancy",
+      "evidence_path": "research/new-phrygian-primary-dossier.json"
+    },
+    {
+      "id": "PHR-VAL-006",
+      "priority": "high",
+      "object_scope": "UD-TM1002269-1 / no. 2 / survey inventory 134",
+      "task": "Collate the disputed round letter and longer reconstruction in Güney and Yanık pp. 165–166; retain the short edition reading and conditional alternative.",
+      "decision_needed": "damaged letter and restoration; independent catalogue bridge",
+      "status": "published_short_text_compared_alternative_unadjudicated",
+      "evidence_path": "research/new-phrygian-primary-dossier.json"
     }
   ],
   "admission_rule": "Do not upgrade digital-source assertions to independently verified readings without source-level reconciliation."
