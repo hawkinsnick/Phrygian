@@ -10,7 +10,7 @@ This checkpoint makes the reference layer reproducible and exposes defects and r
 | `research/g12-primary-edition.json` | Publisher-located G-12 metadata and rights; candidate join to TM1001271 remains uncertified. |
 | `analysis/g12-edition-comparison.json` | Seven licensed publisher lines with original HTML and superscript positions, compared at inventory level with ten UD sentences. |
 | `research/titus-heading-catalogue.json` | 305 discovery headings: 194 Old-Phryg., 7 Mys., 104 Neo-Phryg. Heading subdivisions and comparison material are not new physical inscriptions. |
-| `analysis/titus-identity-unit-audit.json` | Mechanical label-unit audit: 263 integer labels, 33 letter-suffixed labels, five Roman subdivisions, one qualified label, one range and two labels with trailing punctuation. It exposes twelve shared numeric-stem groups without collapsing them. |
+| `analysis/titus-identity-unit-audit.json` | Mechanical label-unit audit: 263 integer labels, 33 letter-suffixed labels, five Roman subdivisions, one qualified label, one range and two labels with trailing punctuation. It exposes twelve shared numeric-stem groups without collapsing them; eight contain both an unsuffixed parent heading and suffixed headings, demonstrating catalogue hierarchy rather than extra stones. |
 
 Run these offline checks from the extracted repository:
 

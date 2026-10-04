@@ -40,4 +40,4 @@ Read `docs/SOURCE-RECONCILIATION.md` and the indexed source-reconciliation artif
 - 162 UD source identity labels contain two letter-suffixed labels sharing one numeric stem; neither 162 labels nor 161 numeric stems is a certified physical-inscription count.
 - G-12 has seven publisher lines and ten candidate UD sentences; no physical line alignment or catalogue-certified TM join is established.
 - TITUS heading catalogue includes Old-Phryg., Mys., and Neo-Phryg. sections; Mys. is a comparison section, not automatically Phrygian evidence.
-- The TITUS identity-unit audit retains 305 headings, 272 mechanical numeric-stem groups and twelve multi-heading stems as incompatible counting views; none is a certified physical-inscription count.
+- The TITUS identity-unit audit retains 305 headings, 272 mechanical numeric-stem groups and twelve multi-heading stems as incompatible counting views. Eight multi-heading groups co-list an unsuffixed parent heading with suffixes; this is catalogue hierarchy, not a certified physical relationship or inscription count.

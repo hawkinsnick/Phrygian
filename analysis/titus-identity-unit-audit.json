@@ -13,11 +13,14 @@
   },
   "numeric_stem_group_count": 272,
   "multi_heading_numeric_stem_group_count": 12,
+  "multi_heading_groups_with_unsuffixed_parent": 8,
+  "multi_heading_groups_without_unsuffixed_parent": 4,
   "multi_heading_numeric_stem_groups": [
     {
       "period_label_reported": "Old-Phryg.",
       "provenance_label_reported": "M",
       "numeric_stem": "1",
+      "unsuffixed_parent_heading_present": false,
       "headings": [
         "1a",
         "1b",
@@ -33,6 +36,7 @@
       "period_label_reported": "Old-Phryg.",
       "provenance_label_reported": "W",
       "numeric_stem": "1",
+      "unsuffixed_parent_heading_present": false,
       "headings": [
         "1a",
         "1aI",
@@ -46,6 +50,7 @@
       "period_label_reported": "Old-Phryg.",
       "provenance_label_reported": "W",
       "numeric_stem": "5",
+      "unsuffixed_parent_heading_present": false,
       "headings": [
         "5a",
         "5b"
@@ -55,6 +60,7 @@
       "period_label_reported": "Old-Phryg.",
       "provenance_label_reported": "G",
       "numeric_stem": "1",
+      "unsuffixed_parent_heading_present": true,
       "headings": [
         "1",
         "1A",
@@ -66,6 +72,7 @@
       "period_label_reported": "Old-Phryg.",
       "provenance_label_reported": "G",
       "numeric_stem": "2",
+      "unsuffixed_parent_heading_present": true,
       "headings": [
         "2",
         "2A",
@@ -77,6 +84,7 @@
       "period_label_reported": "Old-Phryg.",
       "provenance_label_reported": "G",
       "numeric_stem": "150",
+      "unsuffixed_parent_heading_present": true,
       "headings": [
         "150",
         "150A",
@@ -87,6 +95,7 @@
       "period_label_reported": "Old-Phryg.",
       "provenance_label_reported": "G",
       "numeric_stem": "183",
+      "unsuffixed_parent_heading_present": true,
       "headings": [
         "183",
         "183A",
@@ -97,6 +106,7 @@
       "period_label_reported": "Old-Phryg.",
       "provenance_label_reported": "G",
       "numeric_stem": "224",
+      "unsuffixed_parent_heading_present": true,
       "headings": [
         "224",
         "224A",
@@ -107,6 +117,7 @@
       "period_label_reported": "Old-Phryg.",
       "provenance_label_reported": "G",
       "numeric_stem": "274",
+      "unsuffixed_parent_heading_present": true,
       "headings": [
         "274",
         "274A"
@@ -116,6 +127,7 @@
       "period_label_reported": "Old-Phryg.",
       "provenance_label_reported": "P",
       "numeric_stem": "4",
+      "unsuffixed_parent_heading_present": false,
       "headings": [
         "4a",
         "4b",
@@ -126,6 +138,7 @@
       "period_label_reported": "Old-Phryg.",
       "provenance_label_reported": "T",
       "numeric_stem": "3",
+      "unsuffixed_parent_heading_present": true,
       "headings": [
         "3",
         "3a",
@@ -138,6 +151,7 @@
       "period_label_reported": "Neo-Phryg.",
       "provenance_label_reported": "_",
       "numeric_stem": "4",
+      "unsuffixed_parent_heading_present": true,
       "headings": [
         "4",
         "4b"
@@ -167,5 +181,5 @@
     }
   ],
   "certified_physical_inscription_count": null,
-  "boundary": "Heading labels, numeric stems, ranges, letter suffixes and Roman subdivisions are source representation units. This mechanical audit does not decide which headings share a stone, text, copy, face, line, edition or physical inscription; it never expands the range 1-7 into seven records."
+  "boundary": "Heading labels, numeric stems, ranges, letter suffixes and Roman subdivisions are source representation units. An unsuffixed heading co-listed with suffixed headings demonstrates catalogue hierarchy but does not define physical relationships. This mechanical audit does not decide which headings share a stone, text, copy, face, line, edition or physical inscription; it never expands the range 1-7 into seven records."
 }
