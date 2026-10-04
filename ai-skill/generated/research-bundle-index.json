@@ -1,9 +1,9 @@
 {
   "schema_version": "0.3.1",
   "skill_version": "0.3.1",
-  "source_commit": "c4bec2b91b40f53b587fdbaa9c5c52aec169b0ca",
+  "source_commit": "f7e747d70de581955545303946e6ba90d668a246",
   "canonical_repository": true,
-  "generated_at_utc": "2026-10-04T10:08:06+00:00",
+  "generated_at_utc": "2026-10-04T11:59:19+00:00",
   "contract": {
     "corpus_is_authoritative": true,
     "missing_means_unknown": true,
@@ -14,10 +14,28 @@
   },
   "artifacts": [
     {
+      "role": "expert_review_queue",
+      "path": "research/expert-review-queue.json",
+      "sha256": "961ea29290fcc72377f1f753c78cbdae4b39c7e6e6a39df100604e2807bd3186",
+      "bytes": 2887
+    },
+    {
+      "role": "new_primary_dossier",
+      "path": "research/new-phrygian-primary-dossier.json",
+      "sha256": "a73068687e986f094efb1f92f85d117c47ff0ad15189bd18345376829be98e0c",
+      "bytes": 4410
+    },
+    {
+      "role": "new_primary_comparison",
+      "path": "analysis/new-primary-comparison.json",
+      "sha256": "d89c87086864ee772c4073878590d69b24b45992a8dfe4494cc902c43ce3a7b5",
+      "bytes": 2037
+    },
+    {
       "role": "source_reconciliation_guide",
       "path": "docs/SOURCE-RECONCILIATION.md",
-      "sha256": "ec531b9e4932b54588067493d3efb82e642b494f8540cc23f89cd5c68b0e9005",
-      "bytes": 6536
+      "sha256": "d982fc142a83b6c53eeac3ae07e9f55af4d0141df6e0634354d17171de7e1bc5",
+      "bytes": 9305
     },
     {
       "role": "reference_replay",
@@ -46,8 +64,8 @@
     {
       "role": "explicit_source_lineage_audit",
       "path": "analysis/explicit-source-lineage-audit.json",
-      "sha256": "cca07ee2259c3e381f016d00be33598a2d71ddbf1480bac7e8079c669aab9b71",
-      "bytes": 1673
+      "sha256": "93d76a18467c415f0ddd2b184e4b48d694fb0f15e60896477397c45622668f7c",
+      "bytes": 2224
     },
     {
       "role": "titus_heading_catalogue",
