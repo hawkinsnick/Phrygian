@@ -1,9 +1,9 @@
 {
   "schema_version": "0.3.1",
   "skill_version": "0.3.1",
-  "source_commit": "985614b5e536c19f4306cad4e3e5c6b4f39f57f8",
+  "source_commit": "bcd55acfdb6890a1933bad6a3834b92876fd6793",
   "canonical_repository": true,
-  "generated_at_utc": "2026-10-03T17:39:20+00:00",
+  "generated_at_utc": "2026-10-04T03:51:02+00:00",
   "contract": {
     "corpus_is_authoritative": true,
     "missing_means_unknown": true,
@@ -14,10 +14,40 @@
   },
   "artifacts": [
     {
+      "role": "source_reconciliation_guide",
+      "path": "docs/SOURCE-RECONCILIATION.md",
+      "sha256": "5a1c332cc27da494a4029c3a65ea55416c2272fb593e6993f78a4427934220ed",
+      "bytes": 3279
+    },
+    {
+      "role": "reference_replay",
+      "path": "analysis/reference-replay.json",
+      "sha256": "c00b2c44d22d38c8de9ef44c759eb8f3d7dfe84e311086f629682700b6c71524",
+      "bytes": 61075
+    },
+    {
+      "role": "g12_primary_edition",
+      "path": "research/g12-primary-edition.json",
+      "sha256": "598c31ce7c9fe814b2f52315ab56de3011e2487fb308186e2a7328071a5bcee6",
+      "bytes": 2470
+    },
+    {
+      "role": "g12_edition_comparison",
+      "path": "analysis/g12-edition-comparison.json",
+      "sha256": "6fb41ed83ce9430d5933ebad9e5de56047b29390e6f139c174b2701983568042",
+      "bytes": 4066
+    },
+    {
+      "role": "titus_heading_catalogue",
+      "path": "research/titus-heading-catalogue.json",
+      "sha256": "ffc91381b5a91c288039eee5c75175ee8fba979fead4ec05ce6191d48aa3f0e4",
+      "bytes": 125980
+    },
+    {
       "role": "current_status",
       "path": "analysis/current-status.json",
-      "sha256": "27fce7325f296bf704cd3164c97469fa624b342edee4c87bd8bbc255267df76f",
-      "bytes": 1420
+      "sha256": "8363e71e2423668ba76738adc02b4f12a57b17d323b65a2745a3ca8bfa241e2f",
+      "bytes": 2140
     },
     {
       "role": "ud_source_documentation",
@@ -40,8 +70,8 @@
     {
       "role": "sources",
       "path": "data/sources.json",
-      "sha256": "7128e84e087a4fcbb3db285b4d5bb3287efc4bfb4fd3b8a1e99d66248b7e1926",
-      "bytes": 838
+      "sha256": "96d09133ba976e8d6e1a5bcf6edcb58de8fde8f82d0667e01162de20d9628a73",
+      "bytes": 1329
     },
     {
       "role": "ud_import",
@@ -52,8 +82,8 @@
     {
       "role": "rights",
       "path": "docs/RIGHTS.md",
-      "sha256": "0863a27e124b356c9024c3ad6feb317633fd9a386638c64007c1a07b03d9f723",
-      "bytes": 581
+      "sha256": "070c325b7131ababf4bc61247f9c4c1e05f0897a68d9801e1860cc1bf0ac6d59",
+      "bytes": 998
     },
     {
       "role": "method",
@@ -70,14 +100,14 @@
     {
       "role": "notice",
       "path": "NOTICE",
-      "sha256": "cc5120da762ed398aac92590de299e5f07114af48ec2766259df03dc81c98cdb",
-      "bytes": 918
+      "sha256": "a342cfc8b7007832870b799fe6d55e72342f67ebf8d3c598bb8fb2a13b19b93a",
+      "bytes": 1760
     },
     {
       "role": "pre_expert_maximum",
       "path": "research/pre-expert-maximum.json",
-      "sha256": "a8b0e04ab1e2754fb88993b0d5fa5eaca483b056c7bb8b7ec65a790ef9c66c1f",
-      "bytes": 3669
+      "sha256": "793b525c13789dd11869fe7d86d767f3a287f66bfb09e19162531ff1a08e6019",
+      "bytes": 4202
     },
     {
       "role": "tm_reconciliation",
