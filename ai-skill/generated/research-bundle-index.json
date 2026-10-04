@@ -1,9 +1,9 @@
 {
   "schema_version": "0.3.1",
   "skill_version": "0.3.1",
-  "source_commit": "94b76ed7872f32f8c89c8f1395eb440afa8dc42c",
+  "source_commit": "c4bec2b91b40f53b587fdbaa9c5c52aec169b0ca",
   "canonical_repository": true,
-  "generated_at_utc": "2026-10-04T09:01:25+00:00",
+  "generated_at_utc": "2026-10-04T10:08:06+00:00",
   "contract": {
     "corpus_is_authoritative": true,
     "missing_means_unknown": true,
@@ -16,8 +16,8 @@
     {
       "role": "source_reconciliation_guide",
       "path": "docs/SOURCE-RECONCILIATION.md",
-      "sha256": "2b66968b0fe12492945eb86a4d1689b0d67e03b072ae2f4d175372b3ea15bb7b",
-      "bytes": 5559
+      "sha256": "ec531b9e4932b54588067493d3efb82e642b494f8540cc23f89cd5c68b0e9005",
+      "bytes": 6536
     },
     {
       "role": "reference_replay",
@@ -42,6 +42,12 @@
       "path": "analysis/g12-reference-fingerprint-audit.json",
       "sha256": "d43c056d953ac8f422f47601bbaf82e9125fb1eb63842021cc5855001dfb29ea",
       "bytes": 3063
+    },
+    {
+      "role": "explicit_source_lineage_audit",
+      "path": "analysis/explicit-source-lineage-audit.json",
+      "sha256": "cca07ee2259c3e381f016d00be33598a2d71ddbf1480bac7e8079c669aab9b71",
+      "bytes": 1673
     },
     {
       "role": "titus_heading_catalogue",
