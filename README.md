@@ -45,3 +45,7 @@ See [the 4 October 2026 evidence checkpoint](docs/SOURCE-RECONCILIATION.md) for 
 
 ## Offline corpus browser
 Run `python scripts/build_corpus_browser.py` to generate `workbench/corpus-browser.html`. It searches only files explicitly admitted by `research/browser-sources.json`. Browser admission requires rights/provenance review; never recursively ingest restricted or raw upstream material. Display does not establish decipherment, source independence, or expert validation.
+
+
+## Linear A method-parity gate
+Phrygian has reached the machine-resolvable pre-expert method-parity baseline for the evidence currently lawful to use: source dependence, disagreements, rights controls, discovery/counting cautions, rights-allowlisted browser, read-only API, loss-aware exports, reproducible audits and reviewer packaging are explicit. Read `docs/RIGHTS-ONLY-READINESS.md` and `research/residual-blocker-ledger.json` before completeness claims. Further systematic critical-edition growth is constrained by rights/access to Brixhe–Lejeune, Obrador-Cursach, TITUS and item-level evidence. The licensed UD layer remains dependent reference evidence and must not be promoted into an independently verified critical edition. Expert adjudication remains downstream.
