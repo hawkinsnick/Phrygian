@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "corpus": "Phrygian",
+  "checked": "2026-10-06",
+  "target": "DEFENSIBLE_SCORE_GT_9",
+  "sources": [
+    {
+      "id": "PHR-TM-DATASERVICES",
+      "authority": "Trismegistos Data Services",
+      "rights": "CC BY-SA 4.0",
+      "role": "open stable-identifier/cross-project relation infrastructure",
+      "available_services": [
+        "TexRelations Matcher",
+        "GeoRelations Matcher",
+        "GeoResponder",
+        "GeoRDF",
+        "PerResponder"
+      ],
+      "boundary": "Open data services can strengthen identity/place/person linkage; they do not supply independent epigraphic readings or make 536 reported attestations physical-object counts."
+    },
+    {
+      "id": "PHR-EDAK-2026",
+      "authority": "Epigraphic Database of Ancient Asia Minor beta",
+      "doi": "10.25592/uhhfdm.18503",
+      "rights": "CC BY 4.0",
+      "scope": "Greek/Latin inscriptions including Phrygia",
+      "role": "regional place/object/bibliographic cross-reference source",
+      "boundary": "Not a Phrygian-language critical corpus."
+    }
+  ],
+  "next_actions": [
+    "Use TM open relation services to enrich the 162 TM-linked identity ledger where endpoints return rights-clear relation metadata.",
+    "Preserve 161 numeric stems versus 162 source labels distinction.",
+    "Use EDAK only for regional concordance where it matches Phrygian objects/places; do not inflate language coverage."
+  ]
+}
