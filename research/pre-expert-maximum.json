@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0",
   "corpus": "Phrygian",
-  "target": "PRE_EXPERT_MAXIMUM",
-  "checked": "2026-10-04",
+  "target": "LINEAR_A_METHOD_PARITY_PRE_EXPERT_MAXIMUM",
+  "checked": "2026-10-06",
   "established": [
     {
       "gate": "licensed_machine_reference",
@@ -96,12 +96,22 @@
       "decision": "resolve linguistic/editorial interpretations not explicit in sources"
     }
   ],
-  "completion_rule": "Pre-Expert Maximum requires disposition of the broader TM discovery frontier as well as reconciliation of the current 162 UD-linked identities and digital-source dependence; canonical admission still requires source-level epigraphic verification.",
+  "completion_rule": "Machine-resolvable corpus engineering and public-source reconciliation are exhausted to the current lawful evidence boundary. Further systematic critical-edition growth requires rights/access to foundational/modern editions or rights-compatible record-level services; canonical admission still requires source-level epigraphic verification.",
   "discovery_benchmark": {
     "tm_reported_attestations": 536,
     "current_ud_linked_tm_ids": 162,
-    "status": "LARGE_DISCOVERY_EXPANSION_FRONTIER",
+    "status": "RIGHTS_ACCESS_BOUND_FOR_SYSTEMATIC_RECORD_LEVEL_EXPANSION",
     "current_ud_identity_label_count": 162,
     "numeric_tm_stems_not_certified_objects": 161
-  }
+  },
+  "parity_controls": [
+    "research/rights-source-matrix.json",
+    "research/disagreement-register.json",
+    "research/residual-blocker-ledger.json",
+    "research/source-dependence-graph.json",
+    "scripts/research_api.py",
+    "scripts/export_research_layer.py",
+    "scripts/test_preexpert_parity.py",
+    "docs/RIGHTS-ONLY-READINESS.md"
+  ]
 }
