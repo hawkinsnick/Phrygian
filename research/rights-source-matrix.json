@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "corpus": "Phrygian",
+  "sources": [
+    {
+      "id": "UD-Phrygian-KUL",
+      "role": "annotated machine reference",
+      "rights": "CC-BY-SA-4.0",
+      "admission": "redistributable with attribution/share-alike; dependent on cited editions; not independent epigraphic verification"
+    },
+    {
+      "id": "Trismegistos",
+      "role": "identity/metadata discovery",
+      "rights": "public data services reported CC-BY-SA-4.0",
+      "admission": "use only fields actually obtained through rights-compatible public services; TM linkage does not verify readings"
+    },
+    {
+      "id": "TITUS-Phrygian",
+      "role": "digital edition/catalogue",
+      "rights": "REDISTRIBUTION_TERMS_REQUIRE_VERIFICATION",
+      "admission": "metadata/locators and project-derived audits only until reuse terms for systematic text redistribution are established"
+    },
+    {
+      "id": "Brixhe-Lejeune-1984",
+      "role": "foundational Old Phrygian critical corpus",
+      "rights": "COPYRIGHTED_CRITICAL_EDITION_RIGHTS_NOT_ESTABLISHED_FOR_SYSTEMATIC_REDISTRIBUTION",
+      "admission": "bibliographic/locator use; systematic structured transcription/facsimile extraction requires rights determination or permission"
+    },
+    {
+      "id": "Obrador-Cursach-2020",
+      "role": "modern corpus/lexicon and principal UD edition source",
+      "rights": "COPYRIGHTED_BOOK_CHAPTERS/CATALOGUE; SYSTEMATIC_DERIVATIVE_RIGHTS_NOT_ESTABLISHED",
+      "admission": "bibliographic/source-lineage use; systematic public structured extraction requires permission/clear terms"
+    },
+    {
+      "id": "Oreshko-Alagoz-2023-G12",
+      "role": "primary edition",
+      "rights": "CC-BY-NC-4.0 for retained publisher text",
+      "admission": "retain component attribution/license; dependence with UD explicit"
+    },
+    {
+      "id": "Anatolian-Alphabetic-Database",
+      "role": "object/sign metadata and drawings/photos",
+      "rights": "ITEM_LEVEL_RESTRICTIONS; SITE EXPLICITLY WITHHOLDS SOME PHOTOS/LETTER_CUTOUTS_FOR_PERMISSION",
+      "admission": "public factual metadata may guide reconciliation; do not copy restricted visual material"
+    }
+  ],
+  "rule": "Public access is not blanket redistribution permission. Component rights remain controlling."
+}
