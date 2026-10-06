@@ -70,3 +70,9 @@ Read `research/catalogue-denominator-control.json`, `research/subcorpus-source-g
 The lawful factual-metadata lane now extends beyond M-03/M-06. Consult `research/public-object-metadata-lane.json` for controlled Midas City and selected outlier records. Preserve catalogue namespaces: the public source explicitly distinguishes its Menekse Kayalar W-11 from Brixhe W-11, represented there as MPhr-01. Never merge these by label alone.
 
 For K-01, consult `research/k01-open-primary-route.json`. ISAC/OI exposes OIP 135 as a publisher-hosted downloadable excavation volume with inscription fragments cat. nos. 13-20 and an inventory/catalogue concordance. Treat this as lawful inspection access, not automatic redistribution permission. Extract attributed factual provenance/identity controls only where inspected; do not copy protected figures, prose or critical text merely because the PDF is downloadable.
+
+
+### Gordion and Kerkenes small-object frontier
+Read `research/gordion-institutional-discovery.json` and `research/coverage-denominator-register.json`. Penn Museum's Digital Gordion reports 11 Early Phrygian stone inscriptions and 245 graffiti, primarily on vases. These are source-reported category counts, not automatically unique-object totals, and expose a major small-object frontier omitted by monument-focused discovery resources.
+
+Read `research/kerkenes-oip148-graffiti-route.json` alongside the K-01 dossier. OIP 148 provides a separate publisher-hosted archaeological route for pot marks/graffiti and context. Never classify every mark as linguistic Phrygian, and never count a repeated discussion of K-01 as a new witness.
