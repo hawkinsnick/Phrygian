@@ -79,6 +79,93 @@
       },
       "canonical_reading_admitted": false,
       "independent_witness": false
+    },
+    {
+      "siglum": "M-07",
+      "public_facts": {
+        "context": "underside of vault in cave reached by rock stairs, northeast Midas plateau",
+        "discovered": "Haspels 1938",
+        "direction": "dextroverse",
+        "extent": "single word"
+      },
+      "canonical_reading_admitted": false,
+      "independent_witness": false
+    },
+    {
+      "siglum": "M-08",
+      "public_facts": {
+        "context": "rock beside ancient road on west side of Midas City plateau",
+        "direction": "sinistroverse"
+      },
+      "canonical_reading_admitted": false,
+      "independent_witness": false
+    },
+    {
+      "siglum": "M-09",
+      "public_facts": {
+        "object": "architectural fragment",
+        "find": "1913 ravine south of Midas City plateau",
+        "current_location": "unknown",
+        "preservation_witness": "known from Calder drawing",
+        "direction": "dextroverse"
+      },
+      "canonical_reading_admitted": false,
+      "independent_witness": false
+    },
+    {
+      "siglum": "M-10",
+      "public_facts": {
+        "object": "stone block",
+        "find": "G. Toklu 1970 cleaning operation, Midas City",
+        "current_location": "Eskisehir Museum as reported",
+        "direction": "dextroverse"
+      },
+      "canonical_reading_admitted": false,
+      "independent_witness": false
+    },
+    {
+      "siglum": "M-11",
+      "public_facts": {
+        "context": "rock surface about 20 m north of Altar 32",
+        "direction": "dextroverse",
+        "condition": "weathered/difficult to see",
+        "discovery": "noticed 2002 by site guide/guard Veysel Gundogdu"
+      },
+      "canonical_reading_admitted": false,
+      "independent_witness": false
+    },
+    {
+      "siglum": "W-14",
+      "public_facts": {
+        "object": "stele with idol figures",
+        "line_count": 4,
+        "direction": "line 1 sinistroverse; remaining three boustrophedon starting sinistroverse"
+      },
+      "canonical_reading_admitted": false,
+      "independent_witness": false
+    },
+    {
+      "siglum": "MPhr-01",
+      "public_facts": {
+        "object": "white marble funerary stele",
+        "find": "field at Alanyurt, 17 km north of ancient Dokimeion, Afyonkarahisar",
+        "line_count": 8,
+        "period_label": "Middle Phrygian",
+        "identity_note": "source says MPhr-01 corresponds to Brixhe W-11; do not confuse with source's newer W-11 Menekse Kayalar label"
+      },
+      "canonical_reading_admitted": false,
+      "independent_witness": false
+    },
+    {
+      "siglum": "HP-01",
+      "public_facts": {
+        "object": "stone/orthostat fragment at Karkamis",
+        "extent": "one-word six-letter inscription",
+        "direction": "sinistroverse",
+        "discovery_lineage": "noticed by P. Meriggi; first published by Borker-Klahn 1994 as reported"
+      },
+      "canonical_reading_admitted": false,
+      "independent_witness": false
     }
   ],
   "expansion_rule": "This source can support record-by-record public factual metadata enrichment where inspected. It cannot by itself turn dependent displayed readings into independently verified canonical texts.",
@@ -175,5 +262,19 @@
       "group labels do not certify physical-object counts"
     ],
     "source_lineage": "Index says classification follows Obrador-Cursach Lexicon; individual pages cite Brixhe-Lejeune 1984 and Obrador-Cursach. Therefore catalogue overlap is dependent scholarship, not independent reading confirmation."
-  }
+  },
+  "identity_hazards": [
+    {
+      "hazard": "W-11 label collision",
+      "control": "Public source explicitly warns its Menekse Kayalar W-11 is not Brixhe W-11; Brixhe W-11 is represented there as MPhr-01. Preserve catalogue-system namespace."
+    },
+    {
+      "hazard": "M-09 missing object",
+      "control": "Do not invent current museum/accession; preserve current_location unknown and Calder drawing as derivative preservation witness."
+    },
+    {
+      "hazard": "M-10 museum statement",
+      "control": "Eskisehir Museum is a reported current location, not an accession number; do not infer inventory ID."
+    }
+  ]
 }
