@@ -71,6 +71,22 @@
         "research/public-object-metadata-lane.json"
       ],
       "result": "M-03 and M-06 demonstrate lawful record-level object/layout/direction enrichment without promoting dependent readings."
+    },
+    {
+      "gate": "gordion_institutional_discovery",
+      "status": "PASS_SCOPED",
+      "evidence_paths": [
+        "research/gordion-institutional-discovery.json"
+      ],
+      "result": "Institutional source establishes 11 stone inscriptions and 245 mostly-vessel graffiti as separate Early Phrygian Gordion discovery categories; no canonical readings promoted."
+    },
+    {
+      "gate": "coverage_denominator_register",
+      "status": "PASS",
+      "evidence_paths": [
+        "research/coverage-denominator-register.json"
+      ],
+      "result": "TM, TITUS, UD, Gordion stone/graffiti and monumental-index views are explicitly non-interchangeable."
     }
   ],
   "remaining_nonexpert_work": [
@@ -104,6 +120,14 @@
       "action": "Corpus/subcorpus dependence is now explicit. Continue record-specific lineage only where lawful public sources or edition documentation establish it.",
       "blocked_by": "record_specific_evidence",
       "status": "CORPUS_LEVEL_GENEALOGY_COMPLETE_RECORD_LEVEL_OPEN"
+    },
+    {
+      "id": "PHR-PRE-004",
+      "scope": "Gordion Early Phrygian small-object/graffiti corpus",
+      "action": "Build identity/provenance catalogue for the institutional-source-reported 245 graffiti and 11 stone inscriptions using lawful excavation/publication metadata; reconcile against TITUS/TM/UD only record by record.",
+      "blocked_by": "item_level_publication_or_institutional_metadata_access",
+      "status": "OPEN_LARGE_PUBLIC_DISCOVERY_FRONTIER",
+      "evidence": "research/gordion-institutional-discovery.json; research/coverage-denominator-register.json"
     }
   ],
   "human_only_boundary": [
