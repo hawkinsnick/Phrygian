@@ -44,3 +44,7 @@ Read `docs/SOURCE-RECONCILIATION.md` and the indexed source-reconciliation artif
 - TITUS heading catalogue includes Old-Phryg., Mys., and Neo-Phryg. sections; Mys. is a comparison section, not automatically Phrygian evidence.
 - The TITUS identity-unit audit retains 305 headings, 272 mechanical numeric-stem groups and twelve multi-heading stems as incompatible counting views. Eight multi-heading groups co-list an unsuffixed parent heading with suffixes; this is catalogue hierarchy, not a certified physical relationship or inscription count.
 - The TITUS hierarchy audit permits only 23 relations whose parent and child headings are both co-listed in the same period/provenance scope (18 integer-to-suffix and five letter-to-Roman-subdivision). These remain label relations, never physical-object relations.
+
+
+## Offline corpus browser
+Run `python scripts/build_corpus_browser.py` to generate `workbench/corpus-browser.html`. It searches only files explicitly admitted by `research/browser-sources.json`. Browser admission requires rights/provenance review; never recursively ingest restricted or raw upstream material. Display does not establish decipherment, source independence, or expert validation.
