@@ -64,3 +64,9 @@ Read `research/catalogue-denominator-control.json`, `research/subcorpus-source-g
 - UD, TITUS and their underlying editions must be counted by reading lineage, not as independent epigraphic confirmations.
 - Public monument pages may support attributed factual object/layout/direction metadata when individually inspected; dependent displayed readings remain non-canonical until source-level verification.
 - Keep canonical epigraphic admission sealed rather than using a licensed NLP corpus as a substitute for critical epigraphy.
+
+
+### Public monumental and Kerkenes expansion
+The lawful factual-metadata lane now extends beyond M-03/M-06. Consult `research/public-object-metadata-lane.json` for controlled Midas City and selected outlier records. Preserve catalogue namespaces: the public source explicitly distinguishes its Menekse Kayalar W-11 from Brixhe W-11, represented there as MPhr-01. Never merge these by label alone.
+
+For K-01, consult `research/k01-open-primary-route.json`. ISAC/OI exposes OIP 135 as a publisher-hosted downloadable excavation volume with inscription fragments cat. nos. 13-20 and an inventory/catalogue concordance. Treat this as lawful inspection access, not automatic redistribution permission. Extract attributed factual provenance/identity controls only where inspected; do not copy protected figures, prose or critical text merely because the PDF is downloadable.
