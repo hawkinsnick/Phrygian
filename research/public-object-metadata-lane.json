@@ -4,23 +4,176 @@
   "purpose": "Define a lawful public metadata lane for Old Phrygian object-level enrichment without treating modern web presentations as independent critical editions.",
   "source": {
     "name": "Phrygian Monuments",
-    "public_item_examples": ["M-03","M-06"],
+    "public_item_examples": [
+      "M-03",
+      "M-06"
+    ],
     "site_rights_statement": "Site states that pictures taken by its author/associates may be used for non-commercial and academic purposes with reference; contact requested for higher resolution/other use.",
     "project_policy": "Do not bulk-copy images or source transcriptions. Use attributed factual object/layout/direction metadata only after record-specific inspection; preserve source reading as a dependent presentation citing Brixhe-Lejeune/Obrador-Cursach."
   },
   "pilot_controls": [
     {
       "siglum": "M-03",
-      "public_facts": {"monument_context":"projection above stepped altar 27, Midas City","direction":"dextroverse","damage":"line mutilated at left, right and top"},
+      "public_facts": {
+        "monument_context": "projection above stepped altar 27, Midas City",
+        "direction": "dextroverse",
+        "damage": "line mutilated at left, right and top"
+      },
       "canonical_reading_admitted": false,
       "independent_witness": false
     },
     {
       "siglum": "M-06",
-      "public_facts": {"monument_context":"stepped altar 14, Midas City","line_count":2,"direction":"both lines sinistroverse"},
+      "public_facts": {
+        "monument_context": "stepped altar 14, Midas City",
+        "line_count": 2,
+        "direction": "both lines sinistroverse"
+      },
+      "canonical_reading_admitted": false,
+      "independent_witness": false
+    },
+    {
+      "siglum": "M-01",
+      "public_facts": {
+        "monument_context": "Midas Monument facade/niches, Midas City",
+        "subinscriptions": [
+          "M-01a",
+          "M-01b",
+          "M-01c",
+          "M-01d",
+          "M-01dI",
+          "M-01dII",
+          "M-01e",
+          "M-01f"
+        ],
+        "direction_control": "multiple subinscriptions; page explicitly describes dextroverse and sinistroverse placements"
+      },
+      "canonical_reading_admitted": false,
+      "independent_witness": false
+    },
+    {
+      "siglum": "M-02",
+      "public_facts": {
+        "monument_context": "bedrock outcrop beside King's Road ramp, Midas City",
+        "line_count": 3,
+        "direction": "boustrophedon; first line dextroverse"
+      },
+      "canonical_reading_admitted": false,
+      "independent_witness": false
+    },
+    {
+      "siglum": "M-04",
+      "public_facts": {
+        "monument_context": "stepped altar 28 / Throne Monument, Midas City",
+        "line_count": 2,
+        "direction": "upper dextroverse; lower sinistroverse"
+      },
+      "canonical_reading_admitted": false,
+      "independent_witness": false
+    },
+    {
+      "siglum": "M-05",
+      "public_facts": {
+        "monument_context": "rock-cut pediment remains / Broken Monument, Midas City",
+        "direction": "sinistroverse"
+      },
       "canonical_reading_admitted": false,
       "independent_witness": false
     }
   ],
-  "expansion_rule": "This source can support record-by-record public factual metadata enrichment where inspected. It cannot by itself turn dependent displayed readings into independently verified canonical texts."
+  "expansion_rule": "This source can support record-by-record public factual metadata enrichment where inspected. It cannot by itself turn dependent displayed readings into independently verified canonical texts.",
+  "monumental_discovery_register": {
+    "status": "PUBLIC_DISCOVERY_LAYER_ESTABLISHED",
+    "scope_note": "Public Phrygian Monuments index states it covers almost all inscriptions on rock and detached stone monuments, excluding most smaller sherd/metal/seal material. Treat as scoped discovery, not exhaustive Phrygian corpus.",
+    "groups": [
+      {
+        "group": "M",
+        "reported_range": "M-01..M-11",
+        "context": "Midas City"
+      },
+      {
+        "group": "W",
+        "reported_items": [
+          "W-01",
+          "W-02",
+          "W-03",
+          "W-04",
+          "W-05",
+          "W-06",
+          "W-07",
+          "W-08",
+          "W-09",
+          "W-10",
+          "W-11",
+          "W-13",
+          "W-12",
+          "W-14"
+        ],
+        "context": "western/highland monuments"
+      },
+      {
+        "group": "B",
+        "reported_items": [
+          "B-01",
+          "B-08",
+          "B-02",
+          "B-03",
+          "B-04",
+          "B-05",
+          "B-06",
+          "B-07"
+        ],
+        "context": "Bithynia/Daskyleion group as labelled by source"
+      },
+      {
+        "group": "G/C",
+        "reported_range": "G-01..G-12 plus C-01",
+        "context": "Gordion"
+      },
+      {
+        "group": "P",
+        "reported_range": "P-01..P-06",
+        "context": "Alacahoyuk/Kalehisar"
+      },
+      {
+        "group": "T",
+        "reported_range": "T-01..T-03",
+        "context": "Tyana/Kemerhisar"
+      },
+      {
+        "group": "NW",
+        "reported_range": "NW-01..NW-02",
+        "context": "Dorylaion/Sarhoyuk"
+      },
+      {
+        "group": "K",
+        "reported_items": [
+          "K-01"
+        ],
+        "context": "Kerkenes"
+      },
+      {
+        "group": "HP",
+        "reported_items": [
+          "HP-01",
+          "HP-02"
+        ],
+        "context": "outside-Phrygia labels"
+      },
+      {
+        "group": "MPhr",
+        "reported_items": [
+          "MPhr-01"
+        ],
+        "context": "Alanyurt / Middle Phrygian label"
+      }
+    ],
+    "exclusions": [
+      "small-object corpus not covered by this discovery register",
+      "displayed readings/translations not admitted",
+      "images not copied",
+      "group labels do not certify physical-object counts"
+    ],
+    "source_lineage": "Index says classification follows Obrador-Cursach Lexicon; individual pages cite Brixhe-Lejeune 1984 and Obrador-Cursach. Therefore catalogue overlap is dependent scholarship, not independent reading confirmation."
+  }
 }
