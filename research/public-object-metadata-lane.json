@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "checked": "2026-10-06",
+  "purpose": "Define a lawful public metadata lane for Old Phrygian object-level enrichment without treating modern web presentations as independent critical editions.",
+  "source": {
+    "name": "Phrygian Monuments",
+    "public_item_examples": ["M-03","M-06"],
+    "site_rights_statement": "Site states that pictures taken by its author/associates may be used for non-commercial and academic purposes with reference; contact requested for higher resolution/other use.",
+    "project_policy": "Do not bulk-copy images or source transcriptions. Use attributed factual object/layout/direction metadata only after record-specific inspection; preserve source reading as a dependent presentation citing Brixhe-Lejeune/Obrador-Cursach."
+  },
+  "pilot_controls": [
+    {
+      "siglum": "M-03",
+      "public_facts": {"monument_context":"projection above stepped altar 27, Midas City","direction":"dextroverse","damage":"line mutilated at left, right and top"},
+      "canonical_reading_admitted": false,
+      "independent_witness": false
+    },
+    {
+      "siglum": "M-06",
+      "public_facts": {"monument_context":"stepped altar 14, Midas City","line_count":2,"direction":"both lines sinistroverse"},
+      "canonical_reading_admitted": false,
+      "independent_witness": false
+    }
+  ],
+  "expansion_rule": "This source can support record-by-record public factual metadata enrichment where inspected. It cannot by itself turn dependent displayed readings into independently verified canonical texts."
+}
