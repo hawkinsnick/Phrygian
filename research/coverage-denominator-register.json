@@ -1,0 +1,22 @@
+{
+  "schema_version":"1.0",
+  "checked":"2026-10-06",
+  "purpose":"Maintain non-interchangeable Phrygian coverage denominators and prevent false completeness claims.",
+  "views":[
+    {"id":"TM-LANG-87","count":536,"unit":"TM reported attestations","scope":"Phrygian language/script discovery benchmark","certified_unique_objects":false},
+    {"id":"TITUS-HEADINGS","count":305,"unit":"source headings","scope":"Old-Phrygian, Mysian comparison, Neo-Phrygian","certified_unique_objects":false},
+    {"id":"UD-TM-LABELS","count":162,"unit":"distinct TM identity labels in UD","scope":"licensed annotated reference","certified_unique_objects":false},
+    {"id":"UD-SENTENCES","count":203,"unit":"annotated sentences","scope":"licensed annotated reference","certified_unique_objects":false},
+    {"id":"GORDION-EARLY-STONE","count":11,"unit":"source-reported inscriptions on stone","scope":"Early Phrygian Gordion","certified_unique_objects":"source_category_count_only"},
+    {"id":"GORDION-EARLY-GRAFFITI","count":245,"unit":"source-reported graffiti primarily on vases","scope":"Early Phrygian Gordion","certified_unique_objects":"source_category_count_only"},
+    {"id":"PUBLIC-MONUMENTAL-INDEX","count":null,"unit":"named monumental catalogue labels","scope":"almost all rock/detached-stone inscriptions according to public source; small objects mostly excluded","certified_unique_objects":false}
+  ],
+  "rules":[
+    "Never report a single corpus coverage percentage by dividing counts from different units.",
+    "Suffixes/subdivisions and catalogue-parent relations require identity reconciliation before object counting.",
+    "Gordion institutional category counts expose a major small-object frontier absent from the monumental index.",
+    "Mysian comparison headings remain outside Phrygian admission unless independently justified.",
+    "Canonical epigraphic count remains zero until source-level admission gates are met."
+  ],
+  "coverage_gap_statement":"The project has strong machine/reference and monumental discovery layers but remains underdeveloped in source-reconciled Gordion graffiti/small-object identities and critical-edition-backed canonical records."
+}
