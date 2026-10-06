@@ -1,0 +1,28 @@
+{
+  "schema_version":"1.0",
+  "checked":"2026-10-06",
+  "target":"K-01 / Kerkenes Old Phrygian inscription complex",
+  "public_primary_route":{
+    "publication":"Draycott, Summers, with Brixhe, Kerkenes Special Studies 1, OIP 135 (2008)",
+    "publisher":"University of Chicago Oriental Institute / ISAC",
+    "access":"publisher exposes direct downloadable PDF",
+    "contents_control":["excavation context","catalogue of inscription fragments cat. nos. 13-20","Brixhe inscription commentary","concordance of inventory and catalogue numbers","photographs and line drawings"],
+    "rights_rule":"Public download establishes lawful inspection access, not blanket permission to redistribute protected prose, photographs, drawings or a systematic derivative transcription."
+  },
+  "archaeological_controls":{
+    "find_context":"Monumental Entrance to Palatial Complex at Kerkenes Dag",
+    "find_years":"2003-2005 discoveries as publisher reports",
+    "fragment_catalogue_range":"13-20",
+    "reconstruction_caution":"Publication states fragments may derive from major pieces and reconstruction is tentative; do not collapse fragment catalogue numbers into one physical inscription/object without source-specific adjudication.",
+    "chronology_context":"mid-sixth-century BCE destruction context reported by publication"
+  },
+  "source_lineage":{
+    "primary_edition_note":"OIP 135 preface points to Brixhe and Summers 2006 as primary edition of the Old Phrygian inscriptions.",
+    "project_disposition":"OIP 135 is an accessible excavation/catalogue witness and bridge to the primary edition; it does not automatically authorize copying the critical text."
+  },
+  "canonical_admission":{
+    "reading_admitted":false,
+    "object_metadata_admissible":"record-level factual metadata may be admitted with attribution after direct page/figure inspection",
+    "next":"build inventory/catalogue concordance and fragment-level provenance from the accessible publisher volume; seek/inspect Brixhe-Summers 2006 under lawful terms for critical-text admission."
+  }
+}
