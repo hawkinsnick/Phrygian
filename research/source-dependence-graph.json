@@ -31,6 +31,11 @@
       "id": "Trismegistos",
       "type": "identity_metadata_aggregator",
       "role": "stable text identities/provenance/date discovery benchmark"
+    },
+    {
+      "id": "Anatolian-Alphabetic-Database",
+      "type": "digital_epigraphic_database",
+      "role": "object/sign metadata and visual-evidence discovery; some visuals explicitly permission-restricted"
     }
   ],
   "edges": [
@@ -53,6 +58,11 @@
       "from": "Trismegistos",
       "to": "UD-Phrygian-KUL",
       "relation": "stable_identity_and_metadata_linkage"
+    },
+    {
+      "from": "Brixhe-Lejeune-1984",
+      "to": "Anatolian-Alphabetic-Database",
+      "relation": "drawings may be attributed to foundational edition at item level; database is not automatically independent reading witness"
     }
   ],
   "independence_rules": [
@@ -62,9 +72,9 @@
     "Two digital representations ultimately based on the same edition count as one reading lineage until an independent collation is demonstrated."
   ],
   "open_edges": [
-    "Record-level mapping of each of 162 current UD-linked TM IDs to exact edition lineage.",
-    "Dependence mapping for the broader 536-attestation TM discovery benchmark.",
-    "Later independent editions/collations where available."
+    "Exact record-level lineage beyond explicitly evidenced joins remains blocked by critical-edition/TITUS access and rights-compatible systematic collation.",
+    "Broader TM discovery benchmark lineage requires record-level public metadata or source access.",
+    "Later independent editions/collations must be mapped only where directly evidenced."
   ],
-  "status": "BIBLIOGRAPHIC_DEPENDENCE_SKELETON_COMPLETE_RECORD_LEVEL_OPEN"
+  "status": "BIBLIOGRAPHIC_DEPENDENCE_SKELETON_MAXIMIZED_WITHOUT_SYSTEMATIC_RESTRICTED_SOURCE_EXTRACTION"
 }
