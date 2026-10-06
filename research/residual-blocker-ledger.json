@@ -3,7 +3,7 @@
   "corpus": "Phrygian",
   "target": "LINEAR_A_METHOD_PARITY_PRE_EXPERT_MAXIMUM",
   "checked": "2026-10-06",
-  "assessment": "PUBLIC_METADATA_AND_IDENTITY_RECONCILIATION_STILL_OPEN_RIGHTS_DOMINANT_FOR_CRITICAL_TEXT",
+  "assessment": "PUBLIC_OBJECT_IDENTITY_AND_GORDION_SMALL_OBJECT_FRONTIERS_OPEN_RIGHTS_DOMINANT_ONLY_FOR_PROTECTED_CRITICAL_TEXT",
   "blockers": [
     {
       "id": "PHR-BLK-001",
@@ -65,6 +65,13 @@
       "status": "OPEN_ROUTE_CONFIRMED",
       "scope": "K-01 Kerkenes fragment/object concordance",
       "needed": "Use publisher-hosted OIP 135 to reconcile cat. nos. 13-20, inventory/catalogue concordance, find context and fragment relationships; keep protected figures/text behind source-specific reuse boundary."
+    },
+    {
+      "id": "PHR-BLK-010",
+      "class": "PUBLIC_INSTITUTIONAL_DISCOVERY",
+      "status": "OPEN_LARGE",
+      "scope": "Gordion 245 graffiti / 11 stone-inscription institutional categories",
+      "needed": "Resolve item-level identities/provenance against lawful excavation/publication metadata, then reconcile with TITUS/TM/UD without treating category counts as unique-object totals."
     }
   ],
   "completion_rule": "Rights-only readiness is premature while PHR-BLK-008 or equivalent lawful public identity/metadata work remains open. Protected critical text/facsimile extraction remains a separate rights wall.",
