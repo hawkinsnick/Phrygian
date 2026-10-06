@@ -55,8 +55,9 @@
   ],
   "completion_rule": "Close all machine-resolvable discovery, lineage and engineering work before calling rights/access the current evidence-growth blocker.",
   "validation": {
-    "ci_wired": false,
-    "latest_status": "NOT_CHECKED",
-    "note": "Do not claim CI pass until workflow is wired and a successful run is observed."
+    "ci_wired": true,
+    "workflow": ".github/workflows/validate.yml",
+    "latest_status": "PENDING_OR_NOT_YET_REPORTED",
+    "note": "Workflow includes existing corpus tests plus browser/API/export/parity checks. Do not claim CI pass until GitHub reports completed success."
   }
 }
