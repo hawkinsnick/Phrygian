@@ -3,21 +3,21 @@
   "corpus": "Phrygian",
   "target": "LINEAR_A_METHOD_PARITY_PRE_EXPERT_MAXIMUM",
   "checked": "2026-10-06",
-  "assessment": "RIGHTS_ACCESS_DOMINANT_PRE_EXPERT_ENGINEERING_COMPLETE",
+  "assessment": "PUBLIC_METADATA_AND_IDENTITY_RECONCILIATION_STILL_OPEN_RIGHTS_DOMINANT_FOR_CRITICAL_TEXT",
   "blockers": [
     {
       "id": "PHR-BLK-001",
-      "class": "RIGHTS_ACCESS",
-      "status": "PUBLIC_DISCOVERY_EXHAUSTED_TO_CURRENT_RIGHTS_COMPATIBLE_LAYER",
+      "class": "MIXED_PUBLIC_METADATA_AND_RIGHTS",
+      "status": "PUBLIC_RECONCILIATION_STILL_OPEN",
       "scope": "536-attestation TM discovery benchmark",
-      "needed": "rights-compatible record-level TM/critical-edition metadata service or permission for systematic expansion beyond current reconciled discovery views"
+      "needed": "Continue lawful heading/object/identity metadata reconciliation. Rights-compatible TM services or permission are needed for systematic TM expansion, but public non-TM discovery work is not exhausted."
     },
     {
       "id": "PHR-BLK-002",
-      "class": "RIGHTS_ACCESS",
-      "status": "MAXIMIZED_WITHOUT_RESTRICTED_SYSTEMATIC_COLLATION",
+      "class": "MIXED_PUBLIC_METADATA_AND_RIGHTS",
+      "status": "CORPUS_LEVEL_LINEAGE_COMPLETE_RECORD_LEVEL_OPEN",
       "scope": "record-level edition lineage",
-      "needed": "critical-edition/TITUS access and reuse terms sufficient for systematic record-level lineage mapping"
+      "needed": "Record-level lineage may be added where public documentation establishes it; protected systematic critical-edition extraction remains rights-gated."
     },
     {
       "id": "PHR-BLK-003",
@@ -51,13 +51,20 @@
       "class": "SCIENTIFIC_REVIEW",
       "status": "DOWNSTREAM",
       "needed": "expert/object adjudication after admissible source evidence exists"
+    },
+    {
+      "id": "PHR-BLK-008",
+      "class": "PUBLIC_METADATA",
+      "status": "OPEN",
+      "scope": "Old Phrygian public object metadata",
+      "needed": "Record-by-record reconciliation of lawful public monument/object facts (pilot M-03/M-06 established) without bulk copying dependent readings/images."
     }
   ],
-  "completion_rule": "Close all machine-resolvable discovery, lineage and engineering work before calling rights/access the current evidence-growth blocker.",
+  "completion_rule": "Rights-only readiness is premature while PHR-BLK-008 or equivalent lawful public identity/metadata work remains open. Protected critical text/facsimile extraction remains a separate rights wall.",
   "validation": {
     "ci_wired": true,
     "workflow": ".github/workflows/validate.yml",
-    "latest_status": "PENDING_OR_NOT_YET_REPORTED",
+    "latest_status": "AWAITING_CI_FOR_CURRENT_HEAD",
     "note": "Workflow includes existing corpus tests plus browser/API/export/parity checks. Do not claim CI pass until GitHub reports completed success."
   }
 }
