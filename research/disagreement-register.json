@@ -1,0 +1,51 @@
+{
+  "schema_version": "1.0",
+  "corpus": "Phrygian",
+  "items": [
+    {
+      "id": "PHR-DIS-001",
+      "scope": "TM1002268",
+      "kind": "source_join/text_role",
+      "status": "UNRESOLVED",
+      "assertions": [
+        "UD text corresponds to a general formula",
+        "Anfosso p.113 object fragment is shorter"
+      ],
+      "boundary": "Do not use the general-formula match as object-specific diplomatic support."
+    },
+    {
+      "id": "PHR-DIS-002",
+      "scope": "TM1002269",
+      "kind": "reading/restoration",
+      "status": "UNRESOLVED",
+      "assertions": [
+        "short printed edition",
+        "longer competing restoration discussed by editors"
+      ],
+      "boundary": "Preserve both; project does not choose."
+    },
+    {
+      "id": "PHR-DIS-003",
+      "scope": "TITUS hierarchy",
+      "kind": "catalogue_identity",
+      "status": "CONTROLLED",
+      "assertions": [
+        "305 headings",
+        "272 mechanical numeric-stem groups",
+        "23 permitted co-listed hierarchy relations"
+      ],
+      "boundary": "None is automatically a physical-inscription count."
+    },
+    {
+      "id": "PHR-DIS-004",
+      "scope": "TM/UD identity labels",
+      "kind": "identity_count",
+      "status": "CONTROLLED",
+      "assertions": [
+        "162 source labels",
+        "161 numeric stems due to a/b alternatives"
+      ],
+      "boundary": "Neither is a certified physical-object count."
+    }
+  ]
+}
