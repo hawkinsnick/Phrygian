@@ -1,9 +1,9 @@
 {
   "schema_version": "0.3.1",
   "skill_version": "0.3.1",
-  "source_commit": "5b395fa27bc2a8b57cddb3038a5b6a7f5d39f6a5",
+  "source_commit": "b9fc849f68dcba8e0ff78a4898daca373da21384",
   "canonical_repository": true,
-  "generated_at_utc": "2026-10-06T12:55:36+00:00",
+  "generated_at_utc": "2026-10-06T15:02:44+00:00",
   "contract": {
     "corpus_is_authoritative": true,
     "missing_means_unknown": true,
@@ -88,8 +88,8 @@
     {
       "role": "current_status",
       "path": "analysis/current-status.json",
-      "sha256": "8363e71e2423668ba76738adc02b4f12a57b17d323b65a2745a3ca8bfa241e2f",
-      "bytes": 2140
+      "sha256": "129589055a2afb296e188b7779e67ea4dff0c58483520c697c0e6b8c7fb563d9",
+      "bytes": 2624
     },
     {
       "role": "ud_source_documentation",
@@ -148,8 +148,8 @@
     {
       "role": "pre_expert_maximum",
       "path": "research/pre-expert-maximum.json",
-      "sha256": "793b525c13789dd11869fe7d86d767f3a287f66bfb09e19162531ff1a08e6019",
-      "bytes": 4202
+      "sha256": "bee082c56b839451c2ea04f60e3a4bec696b66e981060b1854c1949c5e0292e4",
+      "bytes": 4692
     },
     {
       "role": "tm_reconciliation",
