@@ -52,3 +52,15 @@ Run `python scripts/build_corpus_browser.py` to generate `workbench/corpus-brows
 
 ## Linear A method-parity gate
 Phrygian has reached the machine-resolvable pre-expert method-parity baseline for the evidence currently lawful to use: source dependence, disagreements, rights controls, discovery/counting cautions, rights-allowlisted browser, read-only API, loss-aware exports, reproducible audits and reviewer packaging are explicit. Read `docs/RIGHTS-ONLY-READINESS.md` and `research/residual-blocker-ledger.json` before completeness claims. Further systematic critical-edition growth is constrained by rights/access to Brixhe–Lejeune, Obrador-Cursach, TITUS and item-level evidence. The licensed UD layer remains dependent reference evidence and must not be promoted into an independently verified critical edition. Expert adjudication remains downstream.
+
+
+## Maximum pre-expert campaign (2026-10-06)
+
+The earlier rights-only declaration has been narrowed. Protected systematic extraction from Brixhe-Lejeune, Obrador-Cursach and uncertain-rights digital editions remains rights-gated, but lawful public record-level factual metadata and identity reconciliation are still an open corpus-development lane.
+
+Read `research/catalogue-denominator-control.json`, `research/subcorpus-source-genealogy.json`, and `research/public-object-metadata-lane.json`.
+- Never divide 162 UD TM labels into the TM 536-attestation benchmark as an exact coverage percentage before identity reconciliation.
+- TITUS's 305 headings include subdivisions/alternatives and a Mysian comparison section; they are not 305 unique Phrygian inscriptions.
+- UD, TITUS and their underlying editions must be counted by reading lineage, not as independent epigraphic confirmations.
+- Public monument pages may support attributed factual object/layout/direction metadata when individually inspected; dependent displayed readings remain non-canonical until source-level verification.
+- Keep canonical epigraphic admission sealed rather than using a licensed NLP corpus as a substitute for critical epigraphy.
