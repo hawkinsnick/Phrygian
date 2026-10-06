@@ -3,21 +3,21 @@
   "corpus": "Phrygian",
   "target": "LINEAR_A_METHOD_PARITY_PRE_EXPERT_MAXIMUM",
   "checked": "2026-10-06",
-  "assessment": "OPEN_MACHINE_FRONTIER",
+  "assessment": "RIGHTS_ACCESS_DOMINANT_PRE_EXPERT_ENGINEERING_COMPLETE",
   "blockers": [
     {
       "id": "PHR-BLK-001",
-      "class": "DISCOVERY_RECONCILIATION",
-      "status": "OPEN",
+      "class": "RIGHTS_ACCESS",
+      "status": "PUBLIC_DISCOVERY_EXHAUSTED_TO_CURRENT_RIGHTS_COMPATIBLE_LAYER",
       "scope": "536-attestation TM discovery benchmark",
-      "needed": "enumerate/reconcile rights-compatible public metadata beyond current UD-linked identities without treating benchmark as certified world total"
+      "needed": "rights-compatible record-level TM/critical-edition metadata service or permission for systematic expansion beyond current reconciled discovery views"
     },
     {
       "id": "PHR-BLK-002",
-      "class": "SOURCE_LINEAGE",
-      "status": "OPEN",
+      "class": "RIGHTS_ACCESS",
+      "status": "MAXIMIZED_WITHOUT_RESTRICTED_SYSTEMATIC_COLLATION",
       "scope": "record-level edition lineage",
-      "needed": "push explicit source dependence beyond the currently proven joins; do not infer corpus-level genealogy per record"
+      "needed": "critical-edition/TITUS access and reuse terms sufficient for systematic record-level lineage mapping"
     },
     {
       "id": "PHR-BLK-003",
@@ -43,8 +43,8 @@
     {
       "id": "PHR-BLK-006",
       "class": "ENGINEERING",
-      "status": "OPEN",
-      "needed": "research API, loss-aware exports, parity validation, reviewer-ready rights/lineage/disagreement interfaces"
+      "status": "COMPLETE",
+      "needed": "Implemented rights/lineage/disagreement controls, browser, API, loss-aware exports, parity validation and reviewer documentation."
     },
     {
       "id": "PHR-BLK-007",
@@ -53,5 +53,10 @@
       "needed": "expert/object adjudication after admissible source evidence exists"
     }
   ],
-  "completion_rule": "Close all machine-resolvable discovery, lineage and engineering work before calling rights/access the current evidence-growth blocker."
+  "completion_rule": "Close all machine-resolvable discovery, lineage and engineering work before calling rights/access the current evidence-growth blocker.",
+  "validation": {
+    "ci_wired": false,
+    "latest_status": "NOT_CHECKED",
+    "note": "Do not claim CI pass until workflow is wired and a successful run is observed."
+  }
 }
