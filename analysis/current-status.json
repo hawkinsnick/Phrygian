@@ -1,15 +1,15 @@
 {
   "schema_version": "1.0",
   "repository_version": "0.2.0",
-  "checked": "2026-10-04",
-  "milestone": "SOURCE_ACQUISITION_AND_ALIGNMENT",
+  "checked": "2026-10-06",
+  "milestone": "LINEAR_A_METHOD_PARITY_RIGHTS_ACCESS_FRONTIER",
   "blocked_claims": [
     "exhaustive_world_corpus",
     "independently_verified_critical_edition",
     "independent_replication_between_digital_sources",
     "corpus_complete_frequency"
   ],
-  "next_gate": "Reconcile UD/TM-linked records with epigraphic source editions and period metadata; acquire independent/source-primary confirmation before upgrading source assertions.",
+  "next_gate": "Obtain rights/access sufficient for systematic structured collation of foundational and modern critical editions and rights-compatible record-level metadata expansion; preserve canonical zero-admission until source-level epigraphic verification.",
   "machine_readable_reference": {
     "source": "UniversalDependencies/UD_Phrygian-KUL",
     "source_blob_sha": "399fa856aa61dca243db5dbf2138e28db7bb52ef",
@@ -46,5 +46,14 @@
     "source_headings": 305,
     "not_unique_inscription_count": true
   },
-  "identity_count_caution": "162 source identity labels include TM757149a and TM757149b; 161 distinct numeric stems. Preserve alternatives, do not infer physical totals."
+  "identity_count_caution": "162 source identity labels include TM757149a and TM757149b; 161 distinct numeric stems. Preserve alternatives, do not infer physical totals.",
+  "method_parity": {
+    "rights_matrix": "research/rights-source-matrix.json",
+    "disagreements": "research/disagreement-register.json",
+    "blockers": "research/residual-blocker-ledger.json",
+    "readiness": "docs/RIGHTS-ONLY-READINESS.md",
+    "api": "scripts/research_api.py",
+    "exports": "scripts/export_research_layer.py",
+    "validator": "scripts/test_preexpert_parity.py"
+  }
 }
