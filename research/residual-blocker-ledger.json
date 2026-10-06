@@ -55,9 +55,16 @@
     {
       "id": "PHR-BLK-008",
       "class": "PUBLIC_METADATA",
-      "status": "OPEN",
+      "status": "OPEN_EXPANDING",
       "scope": "Old Phrygian public object metadata",
-      "needed": "Record-by-record reconciliation of lawful public monument/object facts (pilot M-03/M-06 established) without bulk copying dependent readings/images."
+      "needed": "Continue record-by-record monumental metadata reconciliation; M-01..M-11 plus W-14, MPhr-01 and HP-01 now controlled at factual-metadata level; broader public catalogue remains."
+    },
+    {
+      "id": "PHR-BLK-009",
+      "class": "PUBLIC_PRIMARY_INSPECTION",
+      "status": "OPEN_ROUTE_CONFIRMED",
+      "scope": "K-01 Kerkenes fragment/object concordance",
+      "needed": "Use publisher-hosted OIP 135 to reconcile cat. nos. 13-20, inventory/catalogue concordance, find context and fragment relationships; keep protected figures/text behind source-specific reuse boundary."
     }
   ],
   "completion_rule": "Rights-only readiness is premature while PHR-BLK-008 or equivalent lawful public identity/metadata work remains open. Protected critical text/facsimile extraction remains a separate rights wall.",
