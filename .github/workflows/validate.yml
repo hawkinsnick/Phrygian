@@ -21,3 +21,11 @@ jobs:
       - run: python scripts/reconcile_new_primary.py --check
       - run: python scripts/audit_titus_identity_units.py --check
       - run: python scripts/audit_titus_heading_hierarchy.py --check
+      - name: Validate Linear A method-parity interfaces
+        run: |
+          python scripts/test_preexpert_parity.py
+          python scripts/build_corpus_browser.py
+          test -s workbench/corpus-browser.html
+          python scripts/research_api.py tm --text TM --limit 2 > /tmp/phrygian-api.json
+          python scripts/export_research_layer.py tm-reference json /tmp/phrygian-reference.json
+          test -s /tmp/phrygian-reference.json.manifest.json
