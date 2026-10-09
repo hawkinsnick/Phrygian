@@ -47,15 +47,55 @@
         "research/titus-heading-catalogue.json"
       ],
       "independent_review": false
+    },
+    {
+      "gate": "catalogue_denominator_control",
+      "status": "PASS_SCOPED",
+      "evidence_paths": [
+        "research/catalogue-denominator-control.json"
+      ],
+      "result": "CIPPh, modern catalogue, TITUS, UD and TM denominators separated; none treated as interchangeable inscription totals."
+    },
+    {
+      "gate": "subcorpus_source_genealogy",
+      "status": "PASS_SCOPED",
+      "evidence_paths": [
+        "research/subcorpus-source-genealogy.json"
+      ],
+      "result": "Old/Middle/New and Mysian comparison material receive explicit source-dependence/admission rules."
+    },
+    {
+      "gate": "public_object_metadata_lane",
+      "status": "OPEN_AND_PILOTED",
+      "evidence_paths": [
+        "research/public-object-metadata-lane.json"
+      ],
+      "result": "M-03 and M-06 demonstrate lawful record-level object/layout/direction enrichment without promoting dependent readings."
+    },
+    {
+      "gate": "gordion_institutional_discovery",
+      "status": "PASS_SCOPED",
+      "evidence_paths": [
+        "research/gordion-institutional-discovery.json"
+      ],
+      "result": "Institutional source establishes 11 stone inscriptions and 245 mostly-vessel graffiti as separate Early Phrygian Gordion discovery categories; no canonical readings promoted."
+    },
+    {
+      "gate": "coverage_denominator_register",
+      "status": "PASS",
+      "evidence_paths": [
+        "research/coverage-denominator-register.json"
+      ],
+      "result": "TM, TITUS, UD, Gordion stone/graffiti and monumental-index views are explicitly non-interchangeable."
     }
   ],
   "remaining_nonexpert_work": [
     {
       "id": "PHR-PRE-000",
       "scope": "TM Phrygian discovery benchmark",
-      "action": "Reconcile 305 TITUS discovery headings, subdivisions/comparison sections and 162 UD source labels (161 numeric stems) to catalogue identities before measuring overlap with the 536-attestation TM discovery benchmark.",
-      "blocked_by": "public enumeration/API access and record-level reconciliation",
-      "status": "OPEN_LARGE_MACHINE_FRONTIER",
+      "action": "Continue reconciling TITUS heading identities and lawful record-level public metadata; denominator controls now prevent headings/subdivisions/Mysian comparison material from being counted as inscriptions.",
+      "blocked_by": "record_level_identity_reconciliation_not_blanket_rights",
+      "status": "OPEN_PUBLIC_METADATA_FRONTIER",
       "evidence": "research/titus-heading-catalogue.json; research/tm-coverage-benchmark.json"
     },
     {
@@ -77,9 +117,17 @@
     {
       "id": "PHR-PRE-003",
       "scope": "digital witnesses",
-      "action": "Document derivation/dependence between UD, TITUS and cited editions wherever bibliographically determinable.",
-      "blocked_by": "source_lineage_access",
-      "status": "OPEN"
+      "action": "Corpus/subcorpus dependence is now explicit. Continue record-specific lineage only where lawful public sources or edition documentation establish it.",
+      "blocked_by": "record_specific_evidence",
+      "status": "CORPUS_LEVEL_GENEALOGY_COMPLETE_RECORD_LEVEL_OPEN"
+    },
+    {
+      "id": "PHR-PRE-004",
+      "scope": "Gordion Early Phrygian small-object/graffiti corpus",
+      "action": "Build identity/provenance catalogue for the institutional-source-reported 245 graffiti and 11 stone inscriptions using lawful excavation/publication metadata; reconcile against TITUS/TM/UD only record by record.",
+      "blocked_by": "item_level_publication_or_institutional_metadata_access",
+      "status": "OPEN_LARGE_PUBLIC_DISCOVERY_FRONTIER",
+      "evidence": "research/gordion-institutional-discovery.json; research/coverage-denominator-register.json"
     }
   ],
   "human_only_boundary": [
@@ -96,7 +144,7 @@
       "decision": "resolve linguistic/editorial interpretations not explicit in sources"
     }
   ],
-  "completion_rule": "Machine-resolvable corpus engineering and public-source reconciliation are exhausted to the current lawful evidence boundary. Further systematic critical-edition growth requires rights/access to foundational/modern editions or rights-compatible record-level services; canonical admission still requires source-level epigraphic verification.",
+  "completion_rule": "Do not declare rights-only readiness while lawful public record-level metadata and identity reconciliation remain available. Seal canonical readings until source-level epigraphic verification; rights/access governs protected critical-edition extraction, not all factual metadata work.",
   "discovery_benchmark": {
     "tm_reported_attestations": 536,
     "current_ud_linked_tm_ids": 162,

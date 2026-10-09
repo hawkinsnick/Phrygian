@@ -1,0 +1,23 @@
+{
+  "schema_version":"1.0",
+  "checked":"2026-10-06",
+  "source":"Digital Gordion / Penn Museum",
+  "scope":"Early Phrygian inscriptions from Gordion",
+  "public_factual_controls":{
+    "pre_1950_context":"Three Early Phrygian inscriptions G-101 to G-103 were known from the Korte excavations of 1900; one had been misidentified as Greek.",
+    "american_excavations":"Excavations beginning in 1950 demonstrated major epigraphic richness.",
+    "published_summary":"Public Digital Gordion states 11 inscriptions on stone and 245 graffiti, primarily on vases, and says Gordion remains the richest site for Early Phrygian epigraphy.",
+    "publication_lineage":"Digital Gordion attributes publication of the inscriptions to C. Brixhe and M. Lejeune and cites Young 1969 as an earlier survey."
+  },
+  "denominator_policy":[
+    "11 stone inscriptions and 245 graffiti are source-reported Gordion Early Phrygian category counts, not a project-certified unique-object total.",
+    "Do not merge these counts with TITUS headings, TM attestations, or UD identities without record-level reconciliation.",
+    "Use Digital Gordion as an institutional factual/discovery witness; it does not independently certify every reading."
+  ],
+  "new_frontier":{
+    "target":"Gordion small-object/graffiti identity register",
+    "priority":"HIGH",
+    "reason":"The monumental web lane omits most small objects, while the institutional Gordion source establishes a much larger published graffiti population.",
+    "canonical_readings":"sealed pending source-level reconciliation"
+  }
+}

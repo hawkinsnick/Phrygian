@@ -24,6 +24,7 @@ jobs:
       - name: Validate Linear A method-parity interfaces
         run: |
           python scripts/test_preexpert_parity.py
+      - run: python scripts/validate_identity_graph.py
           python scripts/build_corpus_browser.py
           test -s workbench/corpus-browser.html
           python scripts/research_api.py tm --text TM --limit 2 > /tmp/phrygian-api.json

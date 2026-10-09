@@ -52,3 +52,27 @@ Run `python scripts/build_corpus_browser.py` to generate `workbench/corpus-brows
 
 ## Linear A method-parity gate
 Phrygian has reached the machine-resolvable pre-expert method-parity baseline for the evidence currently lawful to use: source dependence, disagreements, rights controls, discovery/counting cautions, rights-allowlisted browser, read-only API, loss-aware exports, reproducible audits and reviewer packaging are explicit. Read `docs/RIGHTS-ONLY-READINESS.md` and `research/residual-blocker-ledger.json` before completeness claims. Further systematic critical-edition growth is constrained by rights/access to Brixhe–Lejeune, Obrador-Cursach, TITUS and item-level evidence. The licensed UD layer remains dependent reference evidence and must not be promoted into an independently verified critical edition. Expert adjudication remains downstream.
+
+
+## Maximum pre-expert campaign (2026-10-06)
+
+The earlier rights-only declaration has been narrowed. Protected systematic extraction from Brixhe-Lejeune, Obrador-Cursach and uncertain-rights digital editions remains rights-gated, but lawful public record-level factual metadata and identity reconciliation are still an open corpus-development lane.
+
+Read `research/catalogue-denominator-control.json`, `research/subcorpus-source-genealogy.json`, and `research/public-object-metadata-lane.json`.
+- Never divide 162 UD TM labels into the TM 536-attestation benchmark as an exact coverage percentage before identity reconciliation.
+- TITUS's 305 headings include subdivisions/alternatives and a Mysian comparison section; they are not 305 unique Phrygian inscriptions.
+- UD, TITUS and their underlying editions must be counted by reading lineage, not as independent epigraphic confirmations.
+- Public monument pages may support attributed factual object/layout/direction metadata when individually inspected; dependent displayed readings remain non-canonical until source-level verification.
+- Keep canonical epigraphic admission sealed rather than using a licensed NLP corpus as a substitute for critical epigraphy.
+
+
+### Public monumental and Kerkenes expansion
+The lawful factual-metadata lane now extends beyond M-03/M-06. Consult `research/public-object-metadata-lane.json` for controlled Midas City and selected outlier records. Preserve catalogue namespaces: the public source explicitly distinguishes its Menekse Kayalar W-11 from Brixhe W-11, represented there as MPhr-01. Never merge these by label alone.
+
+For K-01, consult `research/k01-open-primary-route.json`. ISAC/OI exposes OIP 135 as a publisher-hosted downloadable excavation volume with inscription fragments cat. nos. 13-20 and an inventory/catalogue concordance. Treat this as lawful inspection access, not automatic redistribution permission. Extract attributed factual provenance/identity controls only where inspected; do not copy protected figures, prose or critical text merely because the PDF is downloadable.
+
+
+### Gordion and Kerkenes small-object frontier
+Read `research/gordion-institutional-discovery.json` and `research/coverage-denominator-register.json`. Penn Museum's Digital Gordion reports 11 Early Phrygian stone inscriptions and 245 graffiti, primarily on vases. These are source-reported category counts, not automatically unique-object totals, and expose a major small-object frontier omitted by monument-focused discovery resources.
+
+Read `research/kerkenes-oip148-graffiti-route.json` alongside the K-01 dossier. OIP 148 provides a separate publisher-hosted archaeological route for pot marks/graffiti and context. Never classify every mark as linguistic Phrygian, and never count a repeated discussion of K-01 as a new witness.

@@ -6,7 +6,7 @@ class PreExpertMaximum(unittest.TestCase):
   x=json.loads((R/"research/pre-expert-maximum.json").read_text())
   s=json.loads((R/"analysis/current-status.json").read_text())
   ref=json.loads((R/"imports/ud-phrygian-kul.json").read_text())
-  self.assertEqual(x["target"],"PRE_EXPERT_MAXIMUM")
+  self.assertIn(x["target"],{"PRE_EXPERT_MAXIMUM","LINEAR_A_METHOD_PARITY_PRE_EXPERT_MAXIMUM"})
   self.assertEqual(len(ref["records"]),203)
   self.assertEqual(ref["counts"]["distinct_trismegistos_ids"],162)
   self.assertEqual(s["canonical_epigraphic_record_count"],0)

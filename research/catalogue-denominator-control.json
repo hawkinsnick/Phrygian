@@ -1,0 +1,51 @@
+{
+  "schema_version": "1.0",
+  "checked": "2026-10-06",
+  "purpose": "Define external catalogue denominators and source lineages before any canonical epigraphic promotion.",
+  "benchmarks": [
+    {
+      "source": "Brixhe-Lejeune 1984 CIPPh",
+      "scope": "Old Phrygian",
+      "public_review_report": "more than 230 / nearly 250 texts in the foundational corpus",
+      "project_use": "historical coverage benchmark and siglum architecture only",
+      "rights_boundary": "do not reconstruct or redistribute the protected critical edition from reviews"
+    },
+    {
+      "source": "Obrador-Cursach catalogue / Lexicon and 2020 monograph",
+      "scope": "Old, Middle, New Phrygian",
+      "public_repository_report": "catalogue of all known inscriptions assembled as basis for lexicon; Middle essentially one major epitaph",
+      "project_use": "modern catalogue target and source-lineage authority",
+      "rights_boundary": "systematic structured extraction from copyrighted catalogue remains permission/rights dependent"
+    },
+    {
+      "source": "TITUS",
+      "scope": "digital Old/Neo Phrygian representation",
+      "project_heading_count": 305,
+      "project_period_heading_counts": {"Old-Phryg.":194,"Mys.":7,"Neo-Phryg.":104},
+      "project_use": "discovery headings/locators and dependence analysis",
+      "count_caution": "headings include subdivisions, alternatives and a Mysian comparison section; not unique inscription count"
+    },
+    {
+      "source": "UD Phrygian-KUL",
+      "scope": "licensed annotated reference layer",
+      "sentences": 203,
+      "tokens": 1921,
+      "tm_identity_labels": 162,
+      "project_use": "CC-BY-SA dependent machine reference; never independent critical edition"
+    },
+    {
+      "source": "Trismegistos Phrygian language benchmark",
+      "scope": "discovery",
+      "reported_attestations": 536,
+      "project_use": "discovery denominator only",
+      "count_caution": "not certified exhaustive world total; current 162 UD labels cannot be divided into 536 as an exact coverage fraction before identity reconciliation"
+    }
+  ],
+  "period_model": {
+    "Old_Phrygian": "distinct subcorpus using Phrygian alphabet; catalogue sigla commonly geographic (M, W, B, G, C/P/T/NW/Dd/HP etc.)",
+    "Middle_Phrygian": "transitional/limited corpus; do not force every ambiguous 4th-2nd c. item into a period without source evidence",
+    "New_Phrygian": "Greek-alphabet funerary corpus; traditional numeric catalogue tradition",
+    "Mysian": "comparison material in TITUS, not automatically Phrygian corpus evidence"
+  },
+  "admission_rule": "Catalogue existence, TM linkage, or presence in a dependent digital corpus is insufficient for canonical epigraphic admission. Require source-level provenance and reading verification under rights-compatible evidence."
+}

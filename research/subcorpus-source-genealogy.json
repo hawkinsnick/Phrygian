@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "checked": "2026-10-06",
+  "purpose": "Record source-level dependence at the corpus/subcorpus level so digital overlap cannot be misrepresented as independent verification.",
+  "lineages": [
+    {
+      "target": "TITUS Old Phrygian",
+      "depends_on": ["Brixhe-Lejeune 1984 CIPPh unless specifically indicated otherwise"],
+      "evidence": "TITUS source introduction explicitly states that absent special indication its text follows Brixhe/Lejeune 1984.",
+      "independent_epigraphic_witness": false
+    },
+    {
+      "target": "UD Phrygian-KUL",
+      "depends_on": ["Obrador-Cursach 2020 pp. 525-606","Oreshko and Alagöz 2023","other explicitly documented additions"],
+      "evidence": "UD README edition statement/changelog.",
+      "independent_epigraphic_witness": false
+    },
+    {
+      "target": "TM-linked UD identities",
+      "depends_on": ["UD annotation","TM identity/metadata service"],
+      "evidence": "UD MISC stable TM identifiers.",
+      "independent_epigraphic_witness": false,
+      "rule": "TM identity metadata may strengthen identity/provenance/date fields when actually retrieved, but does not independently verify the reading inherited by UD."
+    },
+    {
+      "target": "Obrador-Cursach modern catalogue",
+      "depends_on": ["CIPPh and supplements","New Phrygian catalogue tradition","later discoveries/editions"],
+      "evidence": "Public dissertation repository states that a catalogue of all known Phrygian inscriptions was compiled before lexical analysis.",
+      "independent_epigraphic_witness": "record_specific_only_if_direct_collation_or_independent_edition_is_demonstrated"
+    }
+  ],
+  "period_boundaries": {
+    "Old":"keep source sigla/provenance and Phrygian-script editorial conventions",
+    "Middle":"retain explicit source classification and ambiguity; do not infer solely from date/script",
+    "New":"keep numeric catalogue traditions and Greek-script source representation distinct from Old Phrygian",
+    "Mysian":"comparison/quarantine unless independently admitted as Phrygian"
+  },
+  "canonical_promotion_rule": "Two digital representations sharing an edition lineage count as one reading lineage. Canonical promotion requires an admissible source-level witness and explicit project reconciliation."
+}

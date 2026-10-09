@@ -1,0 +1,28 @@
+{
+  "schema_version":"1.0",
+  "contract":"hawkinsnick/Linear-A:corpus-factory/schemas/universal-identity-graph-contract.json",
+  "status":"PILOT_IMPLEMENTATION",
+  "nodes":[
+    {"id":"project:PHR-M-09","type":"project_record","label":"M-09"},
+    {"id":"object:PHR-M-09-ARCH-FRAGMENT","type":"physical_object","label":"M-09 architectural fragment"},
+    {"id":"edition_siglum:M-09","type":"external_catalogue_record","label":"M-09"},
+    {"id":"project:PHR-M-10","type":"project_record","label":"M-10"},
+    {"id":"object:PHR-M-10-STONE-BLOCK","type":"physical_object","label":"M-10 stone block"},
+    {"id":"museum:ESKISEHIR-UNRESOLVED","type":"museum_collection","label":"Eskisehir Museum; accession unresolved"},
+    {"id":"project:PHR-MPhr-01","type":"project_record","label":"MPhr-01"},
+    {"id":"edition_siglum:BRIXHE-W-11","type":"external_catalogue_record","label":"Brixhe W-11"},
+    {"id":"edition_siglum:MODERN-W-11","type":"external_catalogue_record","label":"modern Menekse Kayalar W-11"},
+    {"id":"project:PHR-K-01","type":"project_record","label":"K-01"},
+    {"id":"publication:OIP135","type":"bibliographic_work","label":"Kerkenes Special Studies 1 / OIP 135"}
+  ],
+  "edges":[
+    {"edge_id":"PHR-ID-001","subject":"project:PHR-M-09","predicate":"catalogued_as","object":"edition_siglum:M-09","assertion_status":"SOURCE_ASSERTED","authority":"public monument catalogue","evidence_locator":"research/public-object-metadata-lane.json","checked_date":"2026-10-06"},
+    {"edge_id":"PHR-ID-002","subject":"project:PHR-M-09","predicate":"text_on","object":"object:PHR-M-09-ARCH-FRAGMENT","assertion_status":"PROJECT_RECONCILED","authority":"project reconciliation of public factual metadata","evidence_locator":"research/public-object-metadata-lane.json","checked_date":"2026-10-06"},
+    {"edge_id":"PHR-ID-003","subject":"project:PHR-M-10","predicate":"text_on","object":"object:PHR-M-10-STONE-BLOCK","assertion_status":"PROJECT_RECONCILED","authority":"project reconciliation of public factual metadata","evidence_locator":"research/public-object-metadata-lane.json","checked_date":"2026-10-06"},
+    {"edge_id":"PHR-ID-004","subject":"object:PHR-M-10-STONE-BLOCK","predicate":"held_by","object":"museum:ESKISEHIR-UNRESOLVED","assertion_status":"SOURCE_ASSERTED","authority":"public monument catalogue","evidence_locator":"reported museum location; no accession inferred","checked_date":"2026-10-06"},
+    {"edge_id":"PHR-ID-005","subject":"project:PHR-MPhr-01","predicate":"catalogued_as","object":"edition_siglum:BRIXHE-W-11","assertion_status":"SOURCE_ASSERTED","authority":"public catalogue crosswalk","evidence_locator":"research/public-object-metadata-lane.json","checked_date":"2026-10-06"},
+    {"edge_id":"PHR-ID-006","subject":"edition_siglum:BRIXHE-W-11","predicate":"not_same_as","object":"edition_siglum:MODERN-W-11","assertion_status":"SOURCE_ASSERTED","authority":"public catalogue warning","evidence_locator":"research/public-object-metadata-lane.json identity_hazards","checked_date":"2026-10-06"},
+    {"edge_id":"PHR-ID-007","subject":"project:PHR-K-01","predicate":"published_as","object":"publication:OIP135","assertion_status":"SOURCE_ASSERTED","authority":"publisher-hosted excavation publication","evidence_locator":"research/k01-open-primary-route.json","checked_date":"2026-10-06"}
+  ],
+  "rules":["No TM/TITUS edge is added until a record-specific join is evidenced.","Museum location is not museum accession.","Negative identity edges are first-class evidence."]
+}

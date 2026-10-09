@@ -1,0 +1,19 @@
+{
+  "schema_version":"1.0",
+  "checked":"2026-10-06",
+  "source":"OIP 148, Excavations at the Palatial Complex: Kerkenes Final Reports 2 (2022)",
+  "publisher":"University of Chicago Oriental Institute / ISAC",
+  "access":"publisher page exposes Download and Terms of Use",
+  "epigraphic_scope":{
+    "chapter_9":"Pot Marks and Graffiti on Pottery at Kerkenes Dag",
+    "relationship_to_K01":"OIP 148 explicitly excludes the sculpture/Paleo-Phrygian inscription already published in OIP 135 while adding specialist treatment of alphabetic/nonalphabetic graffiti and pot marks.",
+    "archaeological_value":"Palatial Complex excavation contexts, find organization and appendices provide an independent archaeological metadata lane around Kerkenes writing practices."
+  },
+  "admission_policy":[
+    "Use factual context, inventory/identification concordances and item classifications after direct inspection under publisher terms.",
+    "Do not assume every pot mark/graffito is linguistic Phrygian.",
+    "Do not duplicate K-01 inscription fragments as new witnesses merely because OIP 148 discusses the same site.",
+    "Check source-specific terms before redistributing figures/tables/text."
+  ],
+  "status":"OPEN_PUBLICATION_RECONCILIATION_FRONTIER"
+}

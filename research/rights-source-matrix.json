@@ -43,7 +43,19 @@
       "role": "object/sign metadata and drawings/photos",
       "rights": "ITEM_LEVEL_RESTRICTIONS; SITE EXPLICITLY WITHHOLDS SOME PHOTOS/LETTER_CUTOUTS_FOR_PERMISSION",
       "admission": "public factual metadata may guide reconciliation; do not copy restricted visual material"
+    },
+    {
+      "id": "OIP-135-Kerkenes-2008",
+      "role": "publisher-hosted excavation catalogue and inscription-fragment witness for K-01",
+      "rights": "PUBLIC_DOWNLOAD_CONFIRMED_REUSE_TERMS_REQUIRE_SOURCE_SPECIFIC_CHECK",
+      "admission": "Lawful inspection route confirmed. Admit attributed factual excavation/catalogue/inventory metadata after direct inspection; do not redistribute protected photographs, drawings, prose or systematic critical transcription solely because PDF is downloadable."
+    },
+    {
+      "id": "OIP-148-Kerkenes-2022",
+      "role": "publisher-hosted excavation context and pot-mark/graffiti specialist publication",
+      "rights": "PUBLIC_DOWNLOAD_AND_TERMS_ROUTE_CONFIRMED_SOURCE_SPECIFIC_REUSE_CHECK_REQUIRED",
+      "admission": "Inspect factual context/inventory/classification under publisher terms; do not automatically admit marks as linguistic Phrygian or redistribute protected figures/tables/prose."
     }
   ],
-  "rule": "Public access is not blanket redistribution permission. Component rights remain controlling."
+  "rule": "Public access is not blanket redistribution permission. Component rights remain controlling. Public factual metadata lanes should nevertheless be exhausted before a source is labelled wholly rights-blocked."
 }
