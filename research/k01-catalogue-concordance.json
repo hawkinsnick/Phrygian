@@ -1,0 +1,446 @@
+{
+  "schema_version": "1.0",
+  "checked": "2026-10-11",
+  "source": {
+    "authors": [
+      "Catherine M. Draycott",
+      "Geoffrey D. Summers"
+    ],
+    "contributor": "Claude Brixhe",
+    "publication": "Oriental Institute Publications 135 (2008)",
+    "url": "https://isac-assets.s3.amazonaws.com/isac-publications/oip135.pdf?VersionId=jjrxeg2oWauWzY8E_1qRVydIHj21JAJj",
+    "publisher_page": "https://isac.uchicago.edu/publications/kerkenes-sculpture-inscriptions-kerkenes-dag-turkey",
+    "pdf_sha256": "bce90812c9cb8701b028e6fac0cce83ef7cc402f773911e6cb4b8c0d95afb6b1",
+    "pdf_pages": 212,
+    "inspected_pdf_pages_1based": [
+      91,
+      92,
+      93,
+      94,
+      103,
+      5
+    ],
+    "inspection_method": "PDF text location followed by rendered-page verification; no physical autopsy or independent human review",
+    "publication_license_observed": "CC-BY-NC-ND-4.0",
+    "terms_url": "https://isac.uchicago.edu/terms-of-use"
+  },
+  "public_payload": "Project-authored factual identifiers, source locators, provenance and qualified metadata only; no source prose, plates, photographs, drawings or critical text. Publication and third-party component rights remain separate. Not an AI training dataset.",
+  "records": [
+    {
+      "record_id": "OIP135-CAT-13",
+      "record_unit": "source_catalogue_entry",
+      "catalogue_number": "13",
+      "inscription_fragment_labels": [
+        "I"
+      ],
+      "site_inventory": "K03.168",
+      "identification_numbers": [
+        "03TR11U03stn01"
+      ],
+      "catalogue_description_reported_pieces": 2,
+      "find_context": {
+        "years": [
+          2003
+        ],
+        "trenches": [
+          11
+        ],
+        "units": [
+          3,
+          8
+        ]
+      },
+      "placement_status": "ATTRIBUTED_BOTTOM_LEFT_FRONT",
+      "shared_relief_catalogue_label": null,
+      "source_id": "OIP-135-Kerkenes-2008",
+      "evidence": [
+        {
+          "printed_page": 67,
+          "pdf_page_1based": 91,
+          "section": "catalogue header and factual description"
+        },
+        {
+          "printed_page": 79,
+          "pdf_page_1based": 103,
+          "section": "inventory concordance"
+        }
+      ],
+      "assertion_status": "SOURCE_ASSERTED",
+      "physical_object_count": null,
+      "critical_reading_admitted": false,
+      "independently_reviewed": false
+    },
+    {
+      "record_id": "OIP135-CAT-14",
+      "record_unit": "source_catalogue_entry",
+      "catalogue_number": "14",
+      "inscription_fragment_labels": [
+        "II"
+      ],
+      "site_inventory": "K03.168",
+      "identification_numbers": [
+        "03TR11U04stn02"
+      ],
+      "catalogue_description_reported_pieces": 1,
+      "find_context": {
+        "years": [
+          2003
+        ],
+        "trenches": [
+          11
+        ],
+        "units": [
+          4
+        ]
+      },
+      "placement_status": "UNPLACED",
+      "shared_relief_catalogue_label": null,
+      "source_id": "OIP-135-Kerkenes-2008",
+      "evidence": [
+        {
+          "printed_page": 67,
+          "pdf_page_1based": 91,
+          "section": "catalogue header and factual description"
+        },
+        {
+          "printed_page": 79,
+          "pdf_page_1based": 103,
+          "section": "inventory concordance"
+        }
+      ],
+      "assertion_status": "SOURCE_ASSERTED",
+      "physical_object_count": null,
+      "critical_reading_admitted": false,
+      "independently_reviewed": false
+    },
+    {
+      "record_id": "OIP135-CAT-15",
+      "record_unit": "source_catalogue_entry",
+      "catalogue_number": "15",
+      "inscription_fragment_labels": [
+        "III"
+      ],
+      "site_inventory": "K03.168",
+      "identification_numbers": [
+        "03TR11U04stn04",
+        "03TR11U08stn10",
+        "03TR11U08stn18"
+      ],
+      "catalogue_description_reported_pieces": 3,
+      "find_context": {
+        "years": [
+          2003
+        ],
+        "trenches": [
+          11
+        ],
+        "units": [
+          4,
+          8
+        ]
+      },
+      "placement_status": "SOURCE_PLACED_MIDDLE_FRONT",
+      "shared_relief_catalogue_label": "3.3",
+      "source_id": "OIP-135-Kerkenes-2008",
+      "evidence": [
+        {
+          "printed_page": 68,
+          "pdf_page_1based": 92,
+          "section": "catalogue header and factual description"
+        },
+        {
+          "printed_page": 79,
+          "pdf_page_1based": 103,
+          "section": "inventory concordance"
+        }
+      ],
+      "assertion_status": "SOURCE_ASSERTED",
+      "physical_object_count": null,
+      "critical_reading_admitted": false,
+      "independently_reviewed": false
+    },
+    {
+      "record_id": "OIP135-CAT-16",
+      "record_unit": "source_catalogue_entry",
+      "catalogue_number": "16",
+      "inscription_fragment_labels": [
+        "IV",
+        "X"
+      ],
+      "site_inventory": "K03.168",
+      "identification_numbers": [
+        "03TR11U04stn09",
+        "03TR11U08stn25"
+      ],
+      "catalogue_description_reported_pieces": 3,
+      "find_context": {
+        "years": [
+          2003
+        ],
+        "trenches": [
+          11
+        ],
+        "units": [
+          4,
+          8
+        ]
+      },
+      "placement_status": "ATTRIBUTED_UPPER_RIGHT_FRONT",
+      "shared_relief_catalogue_label": null,
+      "source_id": "OIP-135-Kerkenes-2008",
+      "evidence": [
+        {
+          "printed_page": 68,
+          "pdf_page_1based": 92,
+          "section": "catalogue header and factual description"
+        },
+        {
+          "printed_page": 79,
+          "pdf_page_1based": 103,
+          "section": "inventory concordance"
+        }
+      ],
+      "assertion_status": "SOURCE_ASSERTED",
+      "physical_object_count": null,
+      "critical_reading_admitted": false,
+      "independently_reviewed": false
+    },
+    {
+      "record_id": "OIP135-CAT-17",
+      "record_unit": "source_catalogue_entry",
+      "catalogue_number": "17",
+      "inscription_fragment_labels": [
+        "V"
+      ],
+      "site_inventory": "K03.168",
+      "identification_numbers": [
+        "03TR11U03stn05",
+        "04TR16U08stn01"
+      ],
+      "catalogue_description_reported_pieces": 3,
+      "find_context": {
+        "years": [
+          2003,
+          2004
+        ],
+        "trenches": [
+          11,
+          16
+        ],
+        "units": [
+          3,
+          8
+        ]
+      },
+      "placement_status": "ATTRIBUTED_TOP_CENTER_FRONT",
+      "shared_relief_catalogue_label": null,
+      "source_id": "OIP-135-Kerkenes-2008",
+      "evidence": [
+        {
+          "printed_page": 69,
+          "pdf_page_1based": 93,
+          "section": "catalogue header and factual description"
+        },
+        {
+          "printed_page": 79,
+          "pdf_page_1based": 103,
+          "section": "inventory concordance"
+        }
+      ],
+      "assertion_status": "SOURCE_ASSERTED",
+      "physical_object_count": null,
+      "critical_reading_admitted": false,
+      "independently_reviewed": false
+    },
+    {
+      "record_id": "OIP135-CAT-18",
+      "record_unit": "source_catalogue_entry",
+      "catalogue_number": "18",
+      "inscription_fragment_labels": [
+        "VI",
+        "VII"
+      ],
+      "site_inventory": "K03.168",
+      "identification_numbers": [
+        "03TR11U08stn02",
+        "03TR11U08stn24",
+        "04TR16U07stn01"
+      ],
+      "catalogue_description_reported_pieces": 5,
+      "find_context": {
+        "contexts": [
+          {
+            "year": 2003,
+            "trench": 11,
+            "units": [
+              8
+            ]
+          },
+          {
+            "year": 2004,
+            "trench": 16,
+            "units": [
+              6,
+              7
+            ]
+          }
+        ]
+      },
+      "placement_status": "SOURCE_PLACED_UPPER_LEFT_FRONT",
+      "shared_relief_catalogue_label": "3.1",
+      "source_id": "OIP-135-Kerkenes-2008",
+      "evidence": [
+        {
+          "printed_page": 69,
+          "pdf_page_1based": 93,
+          "section": "catalogue header and factual description"
+        },
+        {
+          "printed_page": 79,
+          "pdf_page_1based": 103,
+          "section": "inventory concordance"
+        }
+      ],
+      "assertion_status": "SOURCE_ASSERTED",
+      "physical_object_count": null,
+      "critical_reading_admitted": false,
+      "independently_reviewed": false
+    },
+    {
+      "record_id": "OIP135-CAT-19",
+      "record_unit": "source_catalogue_entry",
+      "catalogue_number": "19",
+      "inscription_fragment_labels": [
+        "VIII"
+      ],
+      "site_inventory": "K03.168",
+      "identification_numbers": [
+        "03TR11U08stn28"
+      ],
+      "catalogue_description_reported_pieces": 1,
+      "find_context": {
+        "years": [
+          2003
+        ],
+        "trenches": [
+          11
+        ],
+        "units": [
+          8
+        ]
+      },
+      "placement_status": "POSSIBLE_LOWER_FRONT",
+      "shared_relief_catalogue_label": null,
+      "source_id": "OIP-135-Kerkenes-2008",
+      "evidence": [
+        {
+          "printed_page": 70,
+          "pdf_page_1based": 94,
+          "section": "catalogue header and factual description"
+        },
+        {
+          "printed_page": 79,
+          "pdf_page_1based": 103,
+          "section": "inventory concordance"
+        }
+      ],
+      "assertion_status": "SOURCE_ASSERTED",
+      "physical_object_count": null,
+      "critical_reading_admitted": false,
+      "independently_reviewed": false
+    },
+    {
+      "record_id": "OIP135-CAT-20",
+      "record_unit": "source_catalogue_entry",
+      "catalogue_number": "20",
+      "inscription_fragment_labels": [
+        "XI"
+      ],
+      "site_inventory": "K03.168",
+      "identification_numbers": [
+        "03TR11U08stn32"
+      ],
+      "catalogue_description_reported_pieces": 1,
+      "find_context": {
+        "years": [
+          2003
+        ],
+        "trenches": [
+          11
+        ],
+        "units": [
+          8
+        ]
+      },
+      "placement_status": "UNPLACED_POSSIBLE_INSCRIPTION",
+      "shared_relief_catalogue_label": null,
+      "source_id": "OIP-135-Kerkenes-2008",
+      "evidence": [
+        {
+          "printed_page": 70,
+          "pdf_page_1based": 94,
+          "section": "catalogue header and factual description"
+        },
+        {
+          "printed_page": 79,
+          "pdf_page_1based": 103,
+          "section": "inventory concordance"
+        }
+      ],
+      "assertion_status": "SOURCE_ASSERTED",
+      "physical_object_count": null,
+      "critical_reading_admitted": false,
+      "independently_reviewed": false
+    }
+  ],
+  "excluded_fragment_label": {
+    "label": "IX",
+    "disposition": "SOURCE_IDENTIFIED_MASONS_MARK_REMOVED_FROM_INSCRIPTION_CORPUS",
+    "evidence": {
+      "printed_page": 67,
+      "pdf_page_1based": 91
+    }
+  },
+  "source_disagreements": [
+    {
+      "id": "K01-TOC-20",
+      "issue": "Contents label cat.20 as IX; catalogue p.70 and concordance p.79 label it XI.",
+      "resolution": "Use XI for the catalogue metadata; preserve the discrepant contents reference.",
+      "status": "SOURCE_PAGE_RECONCILIATION_WITH_RETAINED_DISAGREEMENT",
+      "locators": [
+        {
+          "printed_page": "v",
+          "pdf_page_1based": 5
+        },
+        {
+          "printed_page": 70,
+          "pdf_page_1based": 94
+        },
+        {
+          "printed_page": 79,
+          "pdf_page_1based": 103
+        }
+      ]
+    },
+    {
+      "id": "K01-PIECE-COUNT",
+      "issue": "Introductory 18 pieces and 8 joined entries do not equal the sum 19 of the per-entry description counts. Identification labels enumerate 14 entries and are another unit.",
+      "resolution": "Retain each source count and denominator separately; no unique physical-piece total or joining inference.",
+      "status": "COUNT_POLICY_UNRESOLVED",
+      "pages": [
+        67,
+        68,
+        69,
+        70
+      ]
+    }
+  ],
+  "counts": {
+    "catalogue_entries": 8,
+    "distinct_identification_labels": 14,
+    "canonical_reading_admissions": 0,
+    "independently_reviewed": 0,
+    "verified_unique_physical_objects": null
+  },
+  "boundary": "A catalogue crosswalk is not a physical-object census or an independent reading witness."
+}

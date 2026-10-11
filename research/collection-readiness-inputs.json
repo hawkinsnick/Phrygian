@@ -14,13 +14,28 @@
       "pointer": "/records",
       "id_key": "record_id",
       "unit": "derivative_sentence"
+    },
+    {
+      "name": "k01-catalogue",
+      "path": "research/k01-catalogue-concordance.json",
+      "pointer": "/records",
+      "id_key": "record_id",
+      "unit": "source_catalogue_entry"
     }
   ],
   "source_files": [
     "analysis/current-status.json",
     "research/pre-expert-maximum.json",
     "research/residual-blocker-ledger.json",
-    "research/expert-review-queue.json"
+    "research/expert-review-queue.json",
+    "research/k01-catalogue-concordance.json",
+    "research/rights-source-matrix.json",
+    "interchange/export-manifest.json",
+    "analysis/upstream-epidoc-validation.json",
+    "interchange/epidoc/ud-reference.xml",
+    "research/interoperability-identity-graph.json",
+    "interchange/epidoc/upstream-pins.json",
+    "scripts/build_interchange.py"
   ],
   "native_review_links": [
     "docs/SOURCE-RECONCILIATION.md"

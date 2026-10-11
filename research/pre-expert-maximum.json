@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "corpus": "Phrygian",
   "target": "LINEAR_A_METHOD_PARITY_PRE_EXPERT_MAXIMUM",
-  "checked": "2026-10-06",
+  "checked": "2026-10-11",
   "established": [
     {
       "gate": "licensed_machine_reference",
@@ -87,6 +87,24 @@
         "research/coverage-denominator-register.json"
       ],
       "result": "TM, TITUS, UD, Gordion stone/graffiti and monumental-index views are explicitly non-interchangeable."
+    },
+    {
+      "gate": "k01_factual_catalogue_concordance",
+      "status": "PASS_SCOPED_METADATA",
+      "evidence_paths": [
+        "research/k01-catalogue-concordance.json"
+      ],
+      "result": "Catalogue entries 13-20 and 14 identification labels reconciled from rendered publisher pages; count-policy ambiguity retained; zero new readings or independent acceptance."
+    },
+    {
+      "gate": "frozen_reference_interoperability",
+      "status": "PASS_SCOPED_REFERENCE_VIEW",
+      "evidence_paths": [
+        "interchange/export-manifest.json",
+        "research/interoperability-identity-graph.json",
+        "analysis/upstream-epidoc-validation.json"
+      ],
+      "result": "203 native reference records round-trip; exact RNG and all 57 upstream embedded Schematron patterns execute with zero findings. Not full epigraphic coverage."
     }
   ],
   "remaining_nonexpert_work": [

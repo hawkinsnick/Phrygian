@@ -1,9 +1,9 @@
 {
   "schema_version": "0.3.1",
   "skill_version": "0.3.1",
-  "source_commit": "9264948203cd28ca6f8f1b979571c0bb84b442ad",
+  "source_commit": "b03ea018d66f7a66c4bbab13b05209e6ddc7ef62",
   "canonical_repository": true,
-  "generated_at_utc": "2026-10-11T04:55:38+00:00",
+  "generated_at_utc": "2026-10-11T15:23:20+00:00",
   "contract": {
     "corpus_is_authoritative": true,
     "missing_means_unknown": true,
@@ -14,15 +14,45 @@
   },
   "artifacts": [
     {
+      "role": "k01_catalogue_concordance",
+      "path": "research/k01-catalogue-concordance.json",
+      "sha256": "398cfd866b4be23844475ef8034e995feea9d2f7d2e57cfee26050e00f02f0d0",
+      "bytes": 12265
+    },
+    {
+      "role": "interchange_manifest",
+      "path": "interchange/export-manifest.json",
+      "sha256": "e5458f65c8f3a98ddc76e20cd8af551fced3473729b3b79670e8abd727be0077",
+      "bytes": 1976
+    },
+    {
+      "role": "interchange_identity_graph",
+      "path": "research/interoperability-identity-graph.json",
+      "sha256": "4cd905306451381e899e51458a5099ddad37f7175fe567e55e9b8b70be655aa3",
+      "bytes": 221683
+    },
+    {
+      "role": "upstream_epidoc_validation",
+      "path": "analysis/upstream-epidoc-validation.json",
+      "sha256": "bad96c213b68d56586940f7d51bea3515594116607b055860242a6f41a3c67d4",
+      "bytes": 554
+    },
+    {
+      "role": "interchange_guide",
+      "path": "docs/KERKENES-AND-INTERCHANGE.md",
+      "sha256": "b2dfe3fc2fa6cc48c0180036c860db128184649eca11a92069a86b439252b770",
+      "bytes": 4581
+    },
+    {
       "role": "collection_work_ledger",
       "path": "research/collection-work-ledger.json",
-      "sha256": "22bcdc8907424e89a785c5a4193513afb743bde7ae2ffff3cee010f8594adc87",
-      "bytes": 214637
+      "sha256": "4c7983fc085ad3a1b3bfb369bba24cfa9efc35b991a69926f0421ae07fd7f2b4",
+      "bytes": 225294
     },
     {
       "role": "collection_review_packet",
       "path": "review/collection-packet.json",
-      "sha256": "fc16314a904bf1f75866d97ed45f474ebea84eb56ccafa35074e11a145ef0e57",
+      "sha256": "bcd8f9dba3b47eab78e31710ad9fb9893d349b4c05fa4d1cc3f665c7d9bf9e7c",
       "bytes": 1827
     },
     {
@@ -106,8 +136,8 @@
     {
       "role": "current_status",
       "path": "analysis/current-status.json",
-      "sha256": "129589055a2afb296e188b7779e67ea4dff0c58483520c697c0e6b8c7fb563d9",
-      "bytes": 2624
+      "sha256": "0dc620a91683435359975f796d9d3b00174ae4af7cfbb1128a2e000a4f98ea92",
+      "bytes": 3423
     },
     {
       "role": "ud_source_documentation",
@@ -140,6 +170,12 @@
       "bytes": 101726
     },
     {
+      "role": "rights_matrix",
+      "path": "DATA-LICENSE-MATRIX.md",
+      "sha256": "a1e9573fba7d9fd3e7d302462d171cc517143adb764c035c53840d6fc4d468f0",
+      "bytes": 541
+    },
+    {
       "role": "rights",
       "path": "docs/RIGHTS.md",
       "sha256": "070c325b7131ababf4bc61247f9c4c1e05f0897a68d9801e1860cc1bf0ac6d59",
@@ -166,8 +202,8 @@
     {
       "role": "pre_expert_maximum",
       "path": "research/pre-expert-maximum.json",
-      "sha256": "ad2cdd286e214c1240dabcaa639ab6738c1d184c4501e6edd4cab39d37383405",
-      "bytes": 6890
+      "sha256": "6d61fbffebb7751b4b06249f5fd34ef99ed26ab5078b8ea3c3416bd9b18f0912",
+      "bytes": 7743
     },
     {
       "role": "tm_reconciliation",
