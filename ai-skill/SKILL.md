@@ -76,3 +76,7 @@ For K-01, consult `research/k01-open-primary-route.json`. ISAC/OI exposes OIP 13
 Read `research/gordion-institutional-discovery.json` and `research/coverage-denominator-register.json`. Penn Museum's Digital Gordion reports 11 Early Phrygian stone inscriptions and 245 graffiti, primarily on vases. These are source-reported category counts, not automatically unique-object totals, and expose a major small-object frontier omitted by monument-focused discovery resources.
 
 Read `research/kerkenes-oip148-graffiti-route.json` alongside the K-01 dossier. OIP 148 provides a separate publisher-hosted archaeological route for pot marks/graffiti and context. Never classify every mark as linguistic Phrygian, and never count a repeated discussion of K-01 as a new witness.
+
+## Source-bound collection review
+
+Read `docs/COLLECTION-REVIEW.md`, `research/collection-work-ledger.json` and `review/collection-packet.json` before completeness, identity, reading or rights claims. Replay `python scripts/build_collection_handoff.py`; each declared view retains its own unit. No generated packet or syntactically valid decision grants independent review, permission or admission. Keep Linear A restricted source payload local.

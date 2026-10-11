@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "repository": "hawkinsnick/Phrygian",
+  "record_sets": [
+    {
+      "name": "canonical",
+      "path": "data/records.json",
+      "id_key": "record_id",
+      "unit": "canonical_record"
+    },
+    {
+      "name": "ud-reference",
+      "path": "imports/ud-phrygian-kul.json",
+      "pointer": "/records",
+      "id_key": "record_id",
+      "unit": "derivative_sentence"
+    }
+  ],
+  "source_files": [
+    "analysis/current-status.json",
+    "research/pre-expert-maximum.json",
+    "research/residual-blocker-ledger.json",
+    "research/expert-review-queue.json"
+  ],
+  "native_review_links": [
+    "docs/SOURCE-RECONCILIATION.md"
+  ],
+  "scope_rule": "Every row in declared views is indexed; overlapping views are never summed as unique physical objects. Discovery outside these views remains open.",
+  "public_payload_rule": "Identifiers, hashes and pointers only; no new source transcriptions or images. Restricted derivatives remain local.",
+  "source_discovery_rule": "Declare new source/task registers here for offline replay."
+}

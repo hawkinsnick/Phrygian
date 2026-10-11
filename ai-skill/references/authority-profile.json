@@ -106,6 +106,21 @@
       "role": "new_primary_comparison",
       "path": "analysis/new-primary-comparison.json",
       "required": true
+    },
+    {
+      "role": "collection_work_ledger",
+      "path": "research/collection-work-ledger.json",
+      "required": true
+    },
+    {
+      "role": "collection_review_packet",
+      "path": "review/collection-packet.json",
+      "required": true
+    },
+    {
+      "role": "collection_review_guide",
+      "path": "docs/COLLECTION-REVIEW.md",
+      "required": true
     }
   ],
   "behavioral_gates": [

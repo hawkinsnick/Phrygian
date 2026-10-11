@@ -1,9 +1,9 @@
 {
   "schema_version": "0.3.1",
   "skill_version": "0.3.1",
-  "source_commit": "0379f9912b80e94210797db7c454687bc2796e5b",
+  "source_commit": "44d617d291c608fed1d8ddbcae126c5445a571d7",
   "canonical_repository": true,
-  "generated_at_utc": "2026-10-09T02:21:33+00:00",
+  "generated_at_utc": "2026-10-11T04:50:50+00:00",
   "contract": {
     "corpus_is_authoritative": true,
     "missing_means_unknown": true,
@@ -13,6 +13,24 @@
     "preserve_rights": true
   },
   "artifacts": [
+    {
+      "role": "collection_work_ledger",
+      "path": "research/collection-work-ledger.json",
+      "sha256": "22bcdc8907424e89a785c5a4193513afb743bde7ae2ffff3cee010f8594adc87",
+      "bytes": 214637
+    },
+    {
+      "role": "collection_review_packet",
+      "path": "review/collection-packet.json",
+      "sha256": "fc16314a904bf1f75866d97ed45f474ebea84eb56ccafa35074e11a145ef0e57",
+      "bytes": 1827
+    },
+    {
+      "role": "collection_review_guide",
+      "path": "docs/COLLECTION-REVIEW.md",
+      "sha256": "0c9de3329b7386d15b29f288c144e9e1445537a664b5e6aac7c7c00b32700583",
+      "bytes": 1226
+    },
     {
       "role": "expert_review_queue",
       "path": "research/expert-review-queue.json",
