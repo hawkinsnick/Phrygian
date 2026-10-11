@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
 import argparse,json,pathlib
 R=pathlib.Path(__file__).resolve().parents[1]
-FILES={"records":"data/records.json","tm":"research/tm-reconciliation-ledger.json","titus":"research/titus-heading-catalogue.json","disagreements":"research/disagreement-register.json","sources":"data/sources.json"}
+FILES={"interchange_identity":"research/interoperability-identity-graph.json","k01":"research/k01-catalogue-concordance.json","records":"data/records.json","tm":"research/tm-reconciliation-ledger.json","titus":"research/titus-heading-catalogue.json","disagreements":"research/disagreement-register.json","sources":"data/sources.json"}
 def rows(k):
  v=json.loads((R/FILES[k]).read_text(encoding="utf-8"))
  if isinstance(v,list):return v
+ if "nodes" in v and "edges" in v:return [{"record_type":"node","payload":x} for x in v["nodes"]]+[{"record_type":"edge","payload":x} for x in v["edges"]]
  for key in ("records","items","sources","headings"): 
   if isinstance(v.get(key),list):return v[key]
  return [v]

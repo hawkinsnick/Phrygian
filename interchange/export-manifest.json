@@ -1,0 +1,34 @@
+{
+  "builder_sha256": "07c589132f45acb10293058a9e79c1e456876cdcd3ac996333b864bc8c3d4bad",
+  "coverage": {
+    "canonical_reading_admissions": 0,
+    "distinct_source_tm_ids": 162,
+    "k01_source_catalogue_entries": 8,
+    "new_independent_reviews": 0,
+    "new_verified_physical_objects": 0,
+    "reference_sentence_records": 203,
+    "reference_tokens": 1921
+  },
+  "input_sha256": {
+    "imports/ud-phrygian-kul.json": "f5f829534c479ee65af5adc554978a2e54cb0ea5c7a93eccbfa992a25da8696c",
+    "research/identity-graph.json": "076c939013351d8a2b2d4b8355b09feec21af97c72d63abf79e1a6f58e770da6",
+    "research/k01-catalogue-concordance.json": "398cfd866b4be23844475ef8034e995feea9d2f7d2e57cfee26050e00f02f0d0"
+  },
+  "mapping": {
+    "conformance_scope": "Frozen reference view only; applicable upstream validation receipt required. Not complete epigraphic corpus coverage.",
+    "lossy_fields": [],
+    "native_record_unit": "source_sentence; source_catalogue_entry; legacy graph units retained separately",
+    "not_mapped": "Unacquired source corpus, restricted primary critical text/images, unknown object identity, layout and graphical uncertainty absent from source.",
+    "reversible_fields": "All native reference record fields through native-record-json notes; exact source text through ab; no normalization.",
+    "rights": "UD reference XML is a CC-BY-SA-4.0 derivative with attribution; metadata graph contains project-authored factual identifiers and source assertions. OIP source payload is not redistributed.",
+    "validation_commands": [
+      "python scripts/build_interchange.py",
+      "python scripts/validate_upstream_epidoc.py --schema PATH --compiler PATH"
+    ]
+  },
+  "outputs_sha256": {
+    "interchange/epidoc/ud-reference.xml": "14f6cc66fbe6601fccd70c1f96cc0104ce6b2f327b60e2e5143e16793a66ad8c",
+    "research/interoperability-identity-graph.json": "4cd905306451381e899e51458a5099ddad37f7175fe567e55e9b8b70be655aa3"
+  },
+  "schema_version": "1.0"
+}

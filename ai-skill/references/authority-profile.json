@@ -121,6 +121,31 @@
       "role": "collection_review_guide",
       "path": "docs/COLLECTION-REVIEW.md",
       "required": true
+    },
+    {
+      "role": "k01_catalogue_concordance",
+      "path": "research/k01-catalogue-concordance.json",
+      "required": true
+    },
+    {
+      "role": "interchange_manifest",
+      "path": "interchange/export-manifest.json",
+      "required": true
+    },
+    {
+      "role": "interchange_identity_graph",
+      "path": "research/interoperability-identity-graph.json",
+      "required": true
+    },
+    {
+      "role": "upstream_epidoc_validation",
+      "path": "analysis/upstream-epidoc-validation.json",
+      "required": true
+    },
+    {
+      "role": "interchange_guide",
+      "path": "docs/KERKENES-AND-INTERCHANGE.md",
+      "required": true
     }
   ],
   "behavioral_gates": [

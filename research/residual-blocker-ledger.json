@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "corpus": "Phrygian",
   "target": "LINEAR_A_METHOD_PARITY_PRE_EXPERT_MAXIMUM",
-  "checked": "2026-10-06",
+  "checked": "2026-10-11",
   "assessment": "PUBLIC_OBJECT_IDENTITY_AND_GORDION_SMALL_OBJECT_FRONTIERS_OPEN_RIGHTS_DOMINANT_ONLY_FOR_PROTECTED_CRITICAL_TEXT",
   "blockers": [
     {
@@ -62,9 +62,10 @@
     {
       "id": "PHR-BLK-009",
       "class": "PUBLIC_PRIMARY_INSPECTION",
-      "status": "OPEN_ROUTE_CONFIRMED",
+      "status": "FACTUAL_CATALOGUE_CROSSWALK_COMPLETE_COUNT_POLICY_AND_CRITICAL_EDITION_OPEN",
       "scope": "K-01 Kerkenes fragment/object concordance",
-      "needed": "Use publisher-hosted OIP 135 to reconcile cat. nos. 13-20, inventory/catalogue concordance, find context and fragment relationships; keep protected figures/text behind source-specific reuse boundary."
+      "needed": "Eight source catalogue entries and 14 identification labels are reconciled at factual metadata level. The IX/XI contents discrepancy is retained; source piece-count denominators remain unresolved. No physical census, new critical reading, image redistribution or independent acceptance.",
+      "evidence": "research/k01-catalogue-concordance.json"
     },
     {
       "id": "PHR-BLK-010",

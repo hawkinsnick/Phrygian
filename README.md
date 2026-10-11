@@ -54,3 +54,7 @@ Phrygian has reached the machine-resolvable pre-expert method-parity baseline fo
 ## Maximum pre-expert campaign — 6 October 2026
 
 A renewed audit found that the previous rights-only label was too broad. Rights/access still constrain systematic reuse of protected critical editions, but lawful public catalogue, identity and object-level factual metadata reconciliation remains available. The project now separates catalogue denominators, models Old/Middle/New Phrygian and Mysian comparison material explicitly, records digital-source genealogy, and pilots a public object-metadata lane without promoting dependent web readings to canonical epigraphic texts. Canonical admission remains zero until source-level verification warrants it.
+
+### Kerkenes metadata and tested reference interchange
+
+See [the researcher guide](docs/KERKENES-AND-INTERCHANGE.md) for the source-located K-01 catalogue crosswalk, query API and full frozen-reference EpiDoc export. Source-derived units, unresolved count policies, component rights and independent-review gates remain explicit. These additions do not admit new canonical critical readings.

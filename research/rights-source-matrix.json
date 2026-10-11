@@ -47,8 +47,11 @@
     {
       "id": "OIP-135-Kerkenes-2008",
       "role": "publisher-hosted excavation catalogue and inscription-fragment witness for K-01",
-      "rights": "PUBLIC_DOWNLOAD_CONFIRMED_REUSE_TERMS_REQUIRE_SOURCE_SPECIFIC_CHECK",
-      "admission": "Lawful inspection route confirmed. Admit attributed factual excavation/catalogue/inventory metadata after direct inspection; do not redistribute protected photographs, drawings, prose or systematic critical transcription solely because PDF is downloadable."
+      "rights": "CC-BY-NC-ND-4.0_PUBLICATION_LICENSE_OBSERVED_COMPONENT_RIGHTS_RETAINED",
+      "admission": "Attributed factual identifier/context crosswalk only. Do not redistribute source prose, images, drawings, modified publication or systematic critical text; third-party component rights and publisher AI-use terms remain controlling. No model-training permission is inferred.",
+      "license_evidence_url": "https://isac.uchicago.edu/publications/kerkenes-sculpture-inscriptions-kerkenes-dag-turkey",
+      "terms_url": "https://isac.uchicago.edu/terms-of-use",
+      "checked": "2026-10-11"
     },
     {
       "id": "OIP-148-Kerkenes-2022",

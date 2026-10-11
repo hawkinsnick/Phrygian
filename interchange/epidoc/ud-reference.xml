@@ -1,0 +1,841 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Phrygian-UD-reference">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Phrygian frozen UD linguistic reference interchange</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Phrygian corpus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">UD-derived reference content: CC BY-SA 4.0. No project restriction supersedes upstream share-alike.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ref target="https://github.com/UniversalDependencies/UD_Phrygian-KUL">UniversalDependencies/UD_Phrygian-KUL</ref>
+          <idno type="git-blob">399fa856aa61dca243db5dbf2138e28db7bb52ef</idno>
+          <note>Imported source-attributed linguistic reference. TM IDs link inscriptions; this import is not independent epigraphic review and does not make UD annotations project-established facts.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="edition" subtype="source-attributed-derivative-reference">
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM756906-1">
+          <ab type="attributed-reference-text">ates arkiaevais akenanogavos midai lavagtaei vanaktei edaes</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM756906-1","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM756906-1","text":"ates arkiaevais akenanogavos midai lavagtaei vanaktei edaes","token_count":7,"trismegistos_id":"TM756906"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM756907-1">
+          <ab type="attributed-reference-text">baba memevais proitavos kφiyanaveyos sikeneman edaes</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM756907-1","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM756907-1","text":"baba memevais proitavos kφiyanaveyos sikeneman edaes","token_count":7,"trismegistos_id":"TM756907"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM756908-1">
+          <ab type="attributed-reference-text">matẹṛ[--] atatas ṃ?onokaua</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM756908-1","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM756908-1","text":"matẹṛ[--] atatas ṃ?onokaua","token_count":3,"trismegistos_id":"TM756908"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM756909-1">
+          <ab type="attributed-reference-text">midas smateran tvemes eneparkes?</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM756909-1","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM756909-1","text":"midas smateran tvemes eneparkes?","token_count":5,"trismegistos_id":"TM756909"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM756909-2">
+          <ab type="attributed-reference-text">matera[n?] avie[---]</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM756909-2","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM756909-2","text":"matera[n?] avie[---]","token_count":2,"trismegistos_id":"TM756909"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM1001273-1">
+          <ab type="attributed-reference-text">[---] materey [---]</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM1001273-1","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM1001273-1","text":"[---] materey [---]","token_count":3,"trismegistos_id":"TM1001273"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM756910-1">
+          <ab type="attributed-reference-text">[---]as tuav?eniy ae esuryoyoy totin ẹḍaẹ[s]</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM756910-1","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM756910-1","text":"[---]as tuav?eniy ae esuryoyoy totin ẹḍaẹ[s]","token_count":6,"trismegistos_id":"TM756910"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM756911-1">
+          <ab type="attributed-reference-text">bba memevais proitavo[s] k𐋇ianaveyos akaragayun edaes</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM756911-1","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM756911-1","text":"bba memevais proitavo[s] k𐋇ianaveyos akaragayun edaes","token_count":6,"trismegistos_id":"TM756911"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM756912-1">
+          <ab type="attributed-reference-text">[---]abas iṃaṇ akio[---]</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM756912-1","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM756912-1","text":"[---]abas iṃaṇ akio[---]","token_count":3,"trismegistos_id":"TM756912"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM756913-1">
+          <ab type="attributed-reference-text">ạkinanogavaṇ tiyes moḍroṿanak [.?]avarạ[.?]</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM756913-1","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM756913-1","text":"ạkinanogavaṇ tiyes moḍroṿanak [.?]avarạ[.?]","token_count":4,"trismegistos_id":"TM756913"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM756914-1">
+          <ab type="attributed-reference-text">apelan mekas tevanọ[---]</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM756914-1","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM756914-1","text":"apelan mekas tevanọ[---]","token_count":3,"trismegistos_id":"TM756914"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM756915-1">
+          <ab type="attributed-reference-text">[.?]ṛekun deiatiteeạ.? davoi iman</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM756915-1","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM756915-1","text":"[.?]ṛekun deiatiteeạ.? davoi iman","token_count":4,"trismegistos_id":"TM756915"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM756916-1">
+          <ab type="attributed-reference-text">tolos</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM756916-1","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM756916-1","text":"tolos","token_count":1,"trismegistos_id":"TM756916"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM756917-1">
+          <ab type="attributed-reference-text">[---]ṣạbas</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM756917-1","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM756917-1","text":"[---]ṣạbas","token_count":1,"trismegistos_id":"TM756917"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM756918-1">
+          <ab type="attributed-reference-text">[---] ạkeṇ?ano[---]</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM756918-1","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM756918-1","text":"[---] ạkeṇ?ano[---]","token_count":2,"trismegistos_id":"TM756918"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM756919-1">
+          <ab type="attributed-reference-text">[---]gen [---]</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM756919-1","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM756919-1","text":"[---]gen [---]","token_count":2,"trismegistos_id":"TM756919"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM756919-2">
+          <ab type="attributed-reference-text">[---]ṭen [---]</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM756919-2","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM756919-2","text":"[---]ṭen [---]","token_count":2,"trismegistos_id":"TM756919"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM984504-1">
+          <ab type="attributed-reference-text">ṣarag̣iṣ</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM984504-1","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM984504-1","text":"ṣarag̣iṣ","token_count":1,"trismegistos_id":"TM984504"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM757149a-1">
+          <ab type="attributed-reference-text">pseṛkeyoy atas</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM757149a-1","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM757149a-1","text":"pseṛkeyoy atas","token_count":2,"trismegistos_id":"TM757149a"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM757149b-1">
+          <ab type="attributed-reference-text">pseụkeyoy atas</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM757149b-1","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM757149b-1","text":"pseụkeyoy atas","token_count":2,"trismegistos_id":"TM757149b"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM757150-1">
+          <ab type="attributed-reference-text">surgastoy inas</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM757150-1","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM757150-1","text":"surgastoy inas","token_count":2,"trismegistos_id":"TM757150"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM757271-1">
+          <ab type="attributed-reference-text">maneion en</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM757271-1","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM757271-1","text":"maneion en","token_count":2,"trismegistos_id":"TM757271"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM1002266-1">
+          <ab type="attributed-reference-text">midas</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM1002266-1","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM1002266-1","text":"midas","token_count":1,"trismegistos_id":"TM1002266"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM1002267-1">
+          <ab type="attributed-reference-text">pakpuvas</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM1002267-1","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM1002267-1","text":"pakpuvas","token_count":1,"trismegistos_id":"TM1002267"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM984513-1">
+          <ab type="attributed-reference-text">atatas</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM984513-1","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM984513-1","text":"atatas","token_count":1,"trismegistos_id":"TM984513"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM984512-1">
+          <ab type="attributed-reference-text">[-?-]</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM984512-1","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM984512-1","text":"[-?-]","token_count":1,"trismegistos_id":"TM984512"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM984512-2">
+          <ab type="attributed-reference-text">tanarị[---] [---]ḷiake edaie</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM984512-2","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM984512-2","text":"tanarị[---] [---]ḷiake edaie","token_count":3,"trismegistos_id":"TM984512"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM984512-3">
+          <ab type="attributed-reference-text">[-?-]</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM984512-3","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM984512-3","text":"[-?-]","token_count":1,"trismegistos_id":"TM984512"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM757257-1">
+          <ab type="attributed-reference-text">per?bastidages</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM757257-1","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM757257-1","text":"per?bastidages","token_count":1,"trismegistos_id":"TM757257"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM757258-1">
+          <ab type="attributed-reference-text">midas aiasay mạ..uṇ</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM757258-1","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM757258-1","text":"midas aiasay mạ..uṇ","token_count":3,"trismegistos_id":"TM757258"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM757259-1">
+          <ab type="attributed-reference-text">ates</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM757259-1","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM757259-1","text":"ates","token_count":1,"trismegistos_id":"TM757259"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM757260-1">
+          <ab type="attributed-reference-text">ates</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM757260-1","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM757260-1","text":"ates","token_count":1,"trismegistos_id":"TM757260"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM757261-1">
+          <ab type="attributed-reference-text">ates</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM757261-1","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM757261-1","text":"ates","token_count":1,"trismegistos_id":"TM757261"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM757262-1">
+          <ab type="attributed-reference-text">ates</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM757262-1","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM757262-1","text":"ates","token_count":1,"trismegistos_id":"TM757262"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM757263-1">
+          <ab type="attributed-reference-text">ates</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM757263-1","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM757263-1","text":"ates","token_count":1,"trismegistos_id":"TM757263"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM757264-1">
+          <ab type="attributed-reference-text">ates</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM757264-1","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM757264-1","text":"ates","token_count":1,"trismegistos_id":"TM757264"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM757265-1">
+          <ab type="attributed-reference-text">a𐋇ses</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM757265-1","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM757265-1","text":"a𐋇ses","token_count":1,"trismegistos_id":"TM757265"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM757266-1">
+          <ab type="attributed-reference-text">si𐋇idos</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM757266-1","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM757266-1","text":"si𐋇idos","token_count":1,"trismegistos_id":"TM757266"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM757267-1">
+          <ab type="attributed-reference-text">ata</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM757267-1","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM757267-1","text":"ata","token_count":1,"trismegistos_id":"TM757267"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM757268-1">
+          <ab type="attributed-reference-text">dide</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM757268-1","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM757268-1","text":"dide","token_count":1,"trismegistos_id":"TM757268"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM757269-1">
+          <ab type="attributed-reference-text">idi</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM757269-1","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM757269-1","text":"idi","token_count":1,"trismegistos_id":"TM757269"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM757270-1">
+          <ab type="attributed-reference-text">30? ...ẹkẹs</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM757270-1","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM757270-1","text":"30? ...ẹkẹs","token_count":2,"trismegistos_id":"TM757270"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM757270-2">
+          <ab type="attributed-reference-text">30? i?..</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM757270-2","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM757270-2","text":"30? i?..","token_count":2,"trismegistos_id":"TM757270"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM757270-3">
+          <ab type="attributed-reference-text">30? ṿ?ṛ?ekeṣ .</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM757270-3","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM757270-3","text":"30? ṿ?ṛ?ekeṣ .","token_count":3,"trismegistos_id":"TM757270"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM757270-4">
+          <ab type="attributed-reference-text">30? knays</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM757270-4","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM757270-4","text":"30? knays","token_count":2,"trismegistos_id":"TM757270"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM757270-5">
+          <ab type="attributed-reference-text">30? ṣ?i?ṿ?ṛ?i</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM757270-5","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM757270-5","text":"30? ṣ?i?ṿ?ṛ?i","token_count":2,"trismegistos_id":"TM757270"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM757270-6">
+          <ab type="attributed-reference-text">40? knạỵḳẹ?[s]? .?</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM757270-6","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM757270-6","text":"40? knạỵḳẹ?[s]? .?","token_count":3,"trismegistos_id":"TM757270"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM757270-7">
+          <ab type="attributed-reference-text">40? m?akeṛes</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM757270-7","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM757270-7","text":"40? m?akeṛes","token_count":2,"trismegistos_id":"TM757270"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM757270-8">
+          <ab type="attributed-reference-text">40? [---]</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM757270-8","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM757270-8","text":"40? [---]","token_count":2,"trismegistos_id":"TM757270"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM757270-9">
+          <ab type="attributed-reference-text">[-?-]</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM757270-9","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM757270-9","text":"[-?-]","token_count":1,"trismegistos_id":"TM757270"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM757270-10">
+          <ab type="attributed-reference-text">.. ạṇamakạ</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM757270-10","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM757270-10","text":".. ạṇamakạ","token_count":2,"trismegistos_id":"TM757270"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM984511-1">
+          <ab type="attributed-reference-text">[---]ripos</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM984511-1","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM984511-1","text":"[---]ripos","token_count":1,"trismegistos_id":"TM984511"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM984510-1">
+          <ab type="attributed-reference-text">_</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM984510-1","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM984510-1","text":"_","token_count":1,"trismegistos_id":"TM984510"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM757243-1">
+          <ab type="attributed-reference-text">μανκα μεκας σας κιυιν εν κε βιλαταδεναν νεκοινουν :</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM757243-1","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM757243-1","text":"μανκα μεκας σας κιυιν εν κε βιλαταδεναν νεκοινουν :","token_count":9,"trismegistos_id":"TM757243"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM757243-2">
+          <ab type="attributed-reference-text">ποκραιου κη γλουρεος γαμενο̣υ̣ν̣ σ̣α̣ σοροι ματι μακραν :</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM757243-2","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM757243-2","text":"ποκραιου κη γλουρεος γαμενο̣υ̣ν̣ σ̣α̣ σοροι ματι μακραν :","token_count":9,"trismegistos_id":"TM757243"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM757243-3">
+          <ab type="attributed-reference-text">βλασκον κε τακρις κε λο̣υ̣ν̣ι̣ο̣υ̣ μροτις λαπτα ματι αοινουν :</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM757243-3","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM757243-3","text":"βλασκον κε τακρις κε λο̣υ̣ν̣ι̣ο̣υ̣ μροτις λαπτα ματι αοινουν :","token_count":10,"trismegistos_id":"TM757243"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM757243-4">
+          <ab type="attributed-reference-text">νικοστρατο̣ς̣ κ̣λ̣ευμαχοι μιρος αιδομενου ματιν κισυις :̣</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM757243-4","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM757243-4","text":"νικοστρατο̣ς̣ κ̣λ̣ευμαχοι μιρος αιδομενου ματιν κισυις :̣","token_count":7,"trismegistos_id":"TM757243"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM757243-5">
+          <ab type="attributed-reference-text">μ̣ο̣.κρος υιταν παρτιας πλαδε πορ κοροος̣ ..ρ̣ο̣ς̣ παντης :</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM757243-5","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM757243-5","text":"μ̣ο̣.κρος υιταν παρτιας πλαδε πορ κοροος̣ ..ρ̣ο̣ς̣ παντης :","token_count":9,"trismegistos_id":"TM757243"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM757243-6">
+          <ab type="attributed-reference-text">πεννιτι ιος κοροαν δετου̣ν̣ σ̣ο̣υ̣ν ομαστα ομνισιτους</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM757243-6","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM757243-6","text":"πεννιτι ιος κοροαν δετου̣ν̣ σ̣ο̣υ̣ν ομαστα ομνισιτους","token_count":8,"trismegistos_id":"TM757243"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM1001271-1">
+          <ab type="attributed-reference-text">[...] antiyokoy ∙ Silẹṿkoỵ-kẹỵ</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM1001271-1","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM1001271-1","text":"[...] antiyokoy ∙ Silẹṿkoỵ-kẹỵ","token_count":5,"trismegistos_id":"TM1001271"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM1001271-2">
+          <ab type="attributed-reference-text">[...]n manaṇ mlalin Sit-t [...]</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM1001271-2","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM1001271-2","text":"[...]n manaṇ mlalin Sit-t [...]","token_count":6,"trismegistos_id":"TM1001271"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM1001271-3">
+          <ab type="attributed-reference-text">[...] ṃetebaẹs</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM1001271-3","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM1001271-3","text":"[...] ṃetebaẹs","token_count":2,"trismegistos_id":"TM1001271"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM1001271-4">
+          <ab type="attributed-reference-text">eḳ ṃroteS-key [...]</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM1001271-4","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM1001271-4","text":"eḳ ṃroteS-key [...]","token_count":4,"trismegistos_id":"TM1001271"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM1001271-5">
+          <ab type="attributed-reference-text">[...] parSaparnas˙</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM1001271-5","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM1001271-5","text":"[...] parSaparnas˙","token_count":3,"trismegistos_id":"TM1001271"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM1001271-6">
+          <ab type="attributed-reference-text">eS-k ṃrey veiṢ-t perkạmạṇeiṣ [...]</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM1001271-6","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM1001271-6","text":"eS-k ṃrey veiṢ-t perkạmạṇeiṣ [...]","token_count":7,"trismegistos_id":"TM1001271"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM1001271-7">
+          <ab type="attributed-reference-text">[... i]ḅey gordiyoy puprayọỵ veban [...]</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM1001271-7","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM1001271-7","text":"[... i]ḅey gordiyoy puprayọỵ veban [...]","token_count":6,"trismegistos_id":"TM1001271"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM1001271-8">
+          <ab type="attributed-reference-text">[...]ṇin-key oḷvomun ∙</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM1001271-8","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM1001271-8","text":"[...]ṇin-key oḷvomun ∙","token_count":4,"trismegistos_id":"TM1001271"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM1001271-9">
+          <ab type="attributed-reference-text">opoS-key iḅẹy [...]</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM1001271-9","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM1001271-9","text":"opoS-key iḅẹy [...]","token_count":4,"trismegistos_id":"TM1001271"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM1001271-10">
+          <ab type="attributed-reference-text">[...]ọy ạẹỵ-t maneis</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM1001271-10","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM1001271-10","text":"[...]ọy ạẹỵ-t maneis","token_count":4,"trismegistos_id":"TM1001271"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM867450-1">
+          <ab type="attributed-reference-text">[].</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM867450-1","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM867450-1","text":"[].","token_count":2,"trismegistos_id":"TM867450"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM867450-2">
+          <ab type="attributed-reference-text">ε[..]γ̣εντ̣ουμενος νιοισιος ναδροτος ειτου.</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM867450-2","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM867450-2","text":"ε[..]γ̣εντ̣ουμενος νιοισιος ναδροτος ειτου.","token_count":5,"trismegistos_id":"TM867450"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM867450-3">
+          <ab type="attributed-reference-text">μιτραφατα κε μας τεμρογειος κε πουντας βας κε ενσταρνα̣.</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM867450-3","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM867450-3","text":"μιτραφατα κε μας τεμρογειος κε πουντας βας κε ενσταρνα̣.","token_count":10,"trismegistos_id":"TM867450"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM867450-4">
+          <ab type="attributed-reference-text">δουμε κε οι ουεβαν αδδακετ ορουαν,</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM867450-4","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM867450-4","text":"δουμε κε οι ουεβαν αδδακετ ορουαν,","token_count":7,"trismegistos_id":"TM867450"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM877307-3">
+          <ab type="attributed-reference-text">δακαρεν πατερης ευκιν αργου.</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM877307-3","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM877307-3","text":"δακαρεν πατερης ευκιν αργου.","token_count":5,"trismegistos_id":"TM877307"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM984523-1">
+          <ab type="attributed-reference-text">ξευνη ταν ειξα υψοδαν προτυς σ[ε]σταμε̣ναν μανκαν αμι̣α̣σιαν ιοι αναρ δορυκα[νος ---]</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM984523-1","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM984523-1","text":"ξευνη ταν ειξα υψοδαν προτυς σ[ε]σταμε̣ναν μανκαν αμι̣α̣σιαν ιοι αναρ δορυκα[νος ---]","token_count":12,"trismegistos_id":"TM984523"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM984519-2">
+          <ab type="attributed-reference-text">αινι ουεβαν δεδασσιννι πατρε̣ς σεμουν κορομανη σως κη γουμεις, καρπυς ειλικρινη εγουννου.</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM984519-2","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM984519-2","text":"αινι ουεβαν δεδασσιννι πατρε̣ς σεμουν κορομανη σως κη γουμεις, καρπυς ειλικρινη εγουννου.","token_count":14,"trismegistos_id":"TM984519"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM984519-3">
+          <ab type="attributed-reference-text">αινι κος κακην αδδακετ κορομανη σως κη γουμεις, τιττετι[κ]μενος ειτου εικ αδ αυτον μεκαν τιαν.</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM984519-3","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM984519-3","text":"αινι κος κακην αδδακετ κορομανη σως κη γουμεις, τιττετι[κ]μενος ειτου εικ αδ αυτον μεκαν τιαν.","token_count":17,"trismegistos_id":"TM984519"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM984519-8">
+          <ab type="attributed-reference-text">Μ̣Η̣Π̣ΟΣ̣Α̣Ν̣Α̣ -- Ο̣… Ο̣Σ̣ ----- Α....Ε..Υ̣ ΑΣ̣..Α̣Ν̣ ---- Α -.Ο̣....Ο̣Υ̣</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM984519-8","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM984519-8","text":"Μ̣Η̣Π̣ΟΣ̣Α̣Ν̣Α̣ -- Ο̣… Ο̣Σ̣ ----- Α....Ε..Υ̣ ΑΣ̣..Α̣Ν̣ ---- Α -.Ο̣....Ο̣Υ̣","token_count":10,"trismegistos_id":"TM984519"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM984524-3">
+          <ab type="attributed-reference-text">ιος νι σεμον κνουμανε κακεν αδακετ αινι μανκα, με ζε⟨με⟩λως κε δεως κε τιε τιτετικμ[ενος ειτου].</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM984524-3","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM984524-3","text":"ιος νι σεμον κνουμανε κακεν αδακετ αινι μανκα, με ζε⟨με⟩λως κε δεως κε τιε τιτετικμ[ενος ειτου].","token_count":18,"trismegistos_id":"TM984524"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM984525-2">
+          <ab type="attributed-reference-text">ιος σα μανκαι κακουν αδδακετ, τιε τιτ[τ]ετικμενος ειτου υ κε ακαλα οουιτετου ουα ❧</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM984525-2","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM984525-2","text":"ιος σα μανκαι κακουν αδδακετ, τιε τιτ[τ]ετικμενος ειτου υ κε ακαλα οουιτετου ουα ❧","token_count":15,"trismegistos_id":"TM984525"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM931661-2">
+          <ab type="attributed-reference-text">ιος σεμου κνουμανει κα[κον] ⟨αδδακ⟩ε⟨τ⟩, τιτετεικμενος ειτο[υ].</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM931661-2","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM931661-2","text":"ιος σεμου κνουμανει κα[κον] ⟨αδδακ⟩ε⟨τ⟩, τιτετεικμενος ειτο[υ].","token_count":9,"trismegistos_id":"TM931661"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM978063-2">
+          <ab type="attributed-reference-text">❧ ιος νι σεμουν κνουμανει κακε αδδακετ αωρω ουεναουιας, τιγγεγαριτμενος ιτου, πουρ ουανακταν κε ουρανιον ιστ?εικετ διουνσιν. ❧</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM978063-2","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM978063-2","text":"❧ ιος νι σεμουν κνουμανει κακε αδδακετ αωρω ουεναουιας, τιγγεγαριτμενος ιτου, πουρ ουανακταν κε ουρανιον ιστ?εικετ διουνσιν. ❧","token_count":21,"trismegistos_id":"TM978063"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM984526-1">
+          <ab type="attributed-reference-text">ιος νι σεμουν κνουμανει κακουν αββερετοι αινι ατεαμα, τος νι με σζεμελως κε τιε κε τιττετικμενος ειτου</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM984526-1","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM984526-1","text":"ιος νι σεμουν κνουμανει κακουν αββερετοι αινι ατεαμα, τος νι με σζεμελως κε τιε κε τιττετικμενος ειτου","token_count":18,"trismegistos_id":"TM984526"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM867154-1">
+          <ab type="attributed-reference-text">ιος νι σ̣εμον κνουμανει κα̣κε̣ αδακετ, τιτετικμενος ας ιαν ε̣ιτου, με κε οι τοτοσσειτι βας βεκος.</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM867154-1","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM867154-1","text":"ιος νι σ̣εμον κνουμανει κα̣κε̣ αδακετ, τιτετικμενος ας ιαν ε̣ιτου, με κε οι τοτοσσειτι βας βεκος.","token_count":19,"trismegistos_id":"TM867154"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM919096-2">
+          <ab type="attributed-reference-text">[---] ιος αδακετ, βας ιοι β˹ε˺κος με βερετ [---]</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM919096-2","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM919096-2","text":"[---] ιος αδακετ, βας ιοι β˹ε˺κος με βερετ [---]","token_count":10,"trismegistos_id":"TM919096"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM984527-2">
+          <ab type="attributed-reference-text">ιος νι σεμουν κνουμανει κακιν αδακετ αιν’ αδ τεαμα̣ς, τιτετικμενος ασ τιαν [ειτο]υ.</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM984527-2","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM984527-2","text":"ιος νι σεμουν κνουμανει κακιν αδακετ αιν’ αδ τεαμα̣ς, τιτετικμενος ασ τιαν [ειτο]υ.","token_count":15,"trismegistos_id":"TM984527"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM984528-1">
+          <ab type="attributed-reference-text">ιος νι σεμουν κ[νου]μανι κακουν αδδ[α]κετ αινι μανκης, βα[ς] ιοι βεκος με βερε[τ] α̣τ τιη κε τιττετικμ[ε]νος ειτου.</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM984528-1","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM984528-1","text":"ιος νι σεμουν κ[νου]μανι κακουν αδδ[α]κετ αινι μανκης, βα[ς] ιοι βεκος με βερε[τ] α̣τ τιη κε τιττετικμ[ε]νος ειτου.","token_count":20,"trismegistos_id":"TM984528"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM984529-1">
+          <ab type="attributed-reference-text">ιος νι σεμουν κνουμανει κακουν αδακετ αινι τιαμας, α τι αδειτου ο̣υελ̣ασκετου κε ισνου αστοι παρτης.</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM984529-1","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM984529-1","text":"ιος νι σεμουν κνουμανει κακουν αδακετ αινι τιαμας, α τι αδειτου ο̣υελ̣ασκετου κε ισνου αστοι παρτης.","token_count":18,"trismegistos_id":"TM984529"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM919107-2">
+          <ab type="attributed-reference-text">[ι]ος νι σεμον κνουμανε κακον αδακε̣τ̣ αινι ατεαμας, με δεως τιε τιττετικμενος ειτου.</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM919107-2","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM919107-2","text":"[ι]ος νι σεμον κνουμανε κακον αδακε̣τ̣ αινι ατεαμας, με δεως τιε τιττετικμενος ειτου.","token_count":15,"trismegistos_id":"TM919107"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM984530-1">
+          <ab type="attributed-reference-text">[---] [κακο]υν αββερετοι, με σζεμελως κε δυως κε τιτ̣[τετικμενος ειτου].</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM984530-1","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM984530-1","text":"[---] [κακο]υν αββερετοι, με σζεμελως κε δυως κε τιτ̣[τετικμενος ειτου].","token_count":12,"trismegistos_id":"TM984530"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM918580-1">
+          <ab type="attributed-reference-text">[--- …με]ν̣ος ειτου.</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM918580-1","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM918580-1","text":"[--- …με]ν̣ος ειτου.","token_count":4,"trismegistos_id":"TM918580"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM984531-1">
+          <ab type="attributed-reference-text">[---]οι κνουμα ετι δεα̣δ̣α̣ μανκαν μ̣ιμογαδις ακε̣?νικου οκαυγοσι μ̣ιδακας δαδου λευκιωι δακαρ λευκις μ̣ιμογας κε ματαρ ευγεξαρναι̣ κ’οτ ατ̣ι̣αμα κνουμεν ταν ε[.]τας ται κολταμανει ιος νι ουκραον λατομειο̣ν εγ̣δ̣αες μουρσα̣</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM984531-1","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM984531-1","text":"[---]οι κνουμα ετι δεα̣δ̣α̣ μανκαν μ̣ιμογαδις ακε̣?νικου οκαυγοσι μ̣ιδακας δαδου λευκιωι δακαρ λευκις μ̣ιμογας κε ματαρ ευγεξαρναι̣ κ’οτ ατ̣ι̣αμα κνουμεν ταν ε[.]τας ται κολταμανει ιος νι ουκραον λατομειο̣ν εγ̣δ̣αες μουρσα̣","token_count":30,"trismegistos_id":"TM984531"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM984531-2">
+          <ab type="attributed-reference-text">αινι κος σεμουν κνουμανει κακουν αδδακετ αινι μανκα, β̣ε⟨κ⟩ος ιοι με τοτοσσει?τ?ι σαρναν.</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM984531-2","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM984531-2","text":"αινι κος σεμουν κνουμανει κακουν αδδακετ αινι μανκα, β̣ε⟨κ⟩ος ιοι με τοτοσσει?τ?ι σαρναν.","token_count":15,"trismegistos_id":"TM984531"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM984532-1">
+          <ab type="attributed-reference-text">[--- …]μ̣ε̣νος ειτο[υ].</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM984532-1","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM984532-1","text":"[--- …]μ̣ε̣νος ειτο[υ].","token_count":4,"trismegistos_id":"TM984532"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM984533-3">
+          <ab type="attributed-reference-text">ι̣ς̣ ν̣[ι κακου]ν̣ [αδδ]α̣κετορ, διως ορ ζεμ̣[ελ]ω̣ς τιττετικμενος̣ [ειτου].</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM984533-3","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM984533-3","text":"ι̣ς̣ ν̣[ι κακου]ν̣ [αδδ]α̣κετορ, διως ορ ζεμ̣[ελ]ω̣ς τιττετικμενος̣ [ειτου].","token_count":11,"trismegistos_id":"TM984533"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM969745-2">
+          <ab type="attributed-reference-text">[ιο]ς [σε]μ̣ου̣ν [κ]ν̣ουμαν̣ει κακουν [αδ]δ[ακετ], [ατ τιε τιττετικμενος] ειτου.</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM969745-2","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM969745-2","text":"[ιο]ς [σε]μ̣ου̣ν [κ]ν̣ουμαν̣ει κακουν [αδ]δ[ακετ], [ατ τιε τιττετικμενος] ειτου.","token_count":11,"trismegistos_id":"TM969745"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM918555-2">
+          <ab type="attributed-reference-text">ιος νι σεμον κνουμανι κακον αββερετορ αι̣ν̣ι σας μδυ̣ει, [δεως] ζεμελως τιε τιττετικμενος ειτου.</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM918555-2","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM918555-2","text":"ιος νι σεμον κνουμανι κακον αββερετορ αι̣ν̣ι σας μδυ̣ει, [δεως] ζεμελως τιε τιττετικμενος ειτου.","token_count":16,"trismegistos_id":"TM918555"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM984534-1">
+          <ab type="attributed-reference-text">[............ π]αρτυς ουεβρα.</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM984534-1","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM984534-1","text":"[............ π]αρτυς ουεβρα.","token_count":4,"trismegistos_id":"TM984534"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM984534-2">
+          <ab type="attributed-reference-text">ιος νι σεμον το [κνουμα]ν̣ε κακον αδδακετ αιν’ ατεαμα, ις τιε τι[ττετικ]μ̣ε̣ν̣ος ειτυ</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM984534-2","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM984534-2","text":"ιος νι σεμον το [κνουμα]ν̣ε κακον αδδακετ αιν’ ατεαμα, ις τιε τι[ττετικ]μ̣ε̣ν̣ος ειτυ","token_count":14,"trismegistos_id":"TM984534"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM984534-3">
+          <ab type="attributed-reference-text">ουελασκοννου κ’ ηνκ- [.......]υ̣ο̣ι̣ς̣ γ̣ε̣ν̣τ̣ι̣ β̣ε̣π̣α̣ι̣ κε π̣αρτης β̣ε̣κος̣.</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM984534-3","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM984534-3","text":"ουελασκοννου κ’ ηνκ- [.......]υ̣ο̣ι̣ς̣ γ̣ε̣ν̣τ̣ι̣ β̣ε̣π̣α̣ι̣ κε π̣αρτης β̣ε̣κος̣.","token_count":10,"trismegistos_id":"TM984534"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM984535-1">
+          <ab type="attributed-reference-text">ξ̣ε̣υνε ιοσος κε δετον̣ [ο?υ]ψοδ̣αν κε τα̣ν σαυναμαν [.?] κ̣νο̣υμαν κ' ακροδμαν κε λο̣δ̣ιμ̣ον μειομον ριδιτι ται τοα̣ μ̣ε̣ ο̣ν̣ομανιας εναρκε⟨ς⟩ ερμω[λ]α̣ο̣ς̣ κναικο⟨ς⟩ εκατηας ο̣μ̣ο̣υσασαι ποσεκανες ακα[.?]δ̣εο ποκ γονιον τευτωσι ιε[.]ν̣ο̣υταις εδαες πινκε τας δ̣[α?]κ̣ερης ονομανιαις μ̣ι̣ρου ικ[.] κ̣ναικαν εδαες, ις αργμενα[.?] ο̣π̣αρικο οαν οεαυται ις κε εν̣ τοισ̣ινιοι κνουμαν τιαν τε[.]</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM984535-1","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM984535-1","text":"ξ̣ε̣υνε ιοσος κε δετον̣ [ο?υ]ψοδ̣αν κε τα̣ν σαυναμαν [.?] κ̣νο̣υμαν κ' ακροδμαν κε λο̣δ̣ιμ̣ον μειομον ριδιτι ται τοα̣ μ̣ε̣ ο̣ν̣ομανιας εναρκε⟨ς⟩ ερμω[λ]α̣ο̣ς̣ κναικο⟨ς⟩ εκατηας ο̣μ̣ο̣υσασαι ποσεκανες ακα[.?]δ̣εο ποκ γονιον τευτωσι ιε[.]ν̣ο̣υταις εδαες πινκε τας δ̣[α?]κ̣ερης ονομανιαις μ̣ι̣ρου ικ[.] κ̣ναικαν εδαες, ις αργμενα[.?] ο̣π̣αρικο οαν οεαυται ις κε εν̣ τοισ̣ινιοι κνουμαν τιαν τε[.]","token_count":54,"trismegistos_id":"TM984535"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM984535-2">
+          <ab type="attributed-reference-text">[.]μαρδ̣ι ιδετοι οινις.</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM984535-2","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM984535-2","text":"[.]μαρδ̣ι ιδετοι οινις.","token_count":4,"trismegistos_id":"TM984535"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM928661-2">
+          <ab type="attributed-reference-text">ις νι σεμου κνο[υμανει] [---]</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM928661-2","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM928661-2","text":"ις νι σεμου κνο[υμανει] [---]","token_count":5,"trismegistos_id":"TM928661"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM918546-1">
+          <ab type="attributed-reference-text">ιος νι σεμον κνουμανει κακον αδ̣δακετ [αινι]? μ̣αν̣και, τ̣ο̣ς̣ ν̣ι̣ μ̣ε̣ [δ]ε̣[ως κε ζεμελως κ]ε Τιε τιττετικμενος ειτου.</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM918546-1","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM918546-1","text":"ιος νι σεμον κνουμανει κακον αδ̣δακετ [αινι]? μ̣αν̣και, τ̣ο̣ς̣ ν̣ι̣ μ̣ε̣ [δ]ε̣[ως κε ζεμελως κ]ε Τιε τιττετικμενος ειτου.","token_count":20,"trismegistos_id":"TM918546"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM931697-1">
+          <ab type="attributed-reference-text">[ιος σεμου]ν κνουμανι κακα [αδδακ]εν, δεος κε ζεμ[ελος κε] [---] α̣κε οι ειροι α τιε τιττ[ετικμενοι ειν]νου.</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM931697-1","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM931697-1","text":"[ιος σεμου]ν κνουμανι κακα [αδδακ]εν, δεος κε ζεμ[ελος κε] [---] α̣κε οι ειροι α τιε τιττ[ετικμενοι ειν]νου.","token_count":19,"trismegistos_id":"TM931697"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM846122-2">
+          <ab type="attributed-reference-text">[ιος σεμουν] [κνουμ]ανε κακουν αδδακετ, ⟨τ⟩ε̣τ̣τετικμενος ειτο[υ].</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM846122-2","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM846122-2","text":"[ιος σεμουν] [κνουμ]ανε κακουν αδδακετ, ⟨τ⟩ε̣τ̣τετικμενος ειτο[υ].","token_count":9,"trismegistos_id":"TM846122"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM918536-1">
+          <ab type="attributed-reference-text">[ιος νι σε]μ̣ον [κνουμανει] [κ]α̣κου̣[ν α]ββερετοι α⟨ι⟩νι α̣σ̣τ̣αι̣ σα μ̣[ανκ]ε, [τιτ]τετικμενος ειτου.</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM918536-1","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM918536-1","text":"[ιος νι σε]μ̣ον [κνουμανει] [κ]α̣κου̣[ν α]ββερετοι α⟨ι⟩νι α̣σ̣τ̣αι̣ σα μ̣[ανκ]ε, [τιτ]τετικμενος ειτου.","token_count":14,"trismegistos_id":"TM918536"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM984536-2">
+          <ab type="attributed-reference-text">ιο̣ς̣ νι σεμ̣[ουν] τ̣ο κνουμανε κακεν αδδακετ, με ζεμελως κε δεως κε τιτετικμενος ειτου.</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM984536-2","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM984536-2","text":"ιο̣ς̣ νι σεμ̣[ουν] τ̣ο κνουμανε κακεν αδδακετ, με ζεμελως κε δεως κε τιτετικμενος ειτου.","token_count":16,"trismegistos_id":"TM984536"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM932245-2">
+          <ab type="attributed-reference-text">ιος νι σεμον̣ [κνουμανει] κακουν αδακετ αινι οι θαλαμειδη, διως ζεμελω[ς τιτετ]ικμενος ειτου.</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM932245-2","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM932245-2","text":"ιος νι σεμον̣ [κνουμανει] κακουν αδακετ αινι οι θαλαμειδη, διως ζεμελω[ς τιτετ]ικμενος ειτου.","token_count":15,"trismegistos_id":"TM932245"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM931700-2">
+          <ab type="attributed-reference-text">ις κε σεμουν κ⟨ν⟩ουμινος ⟨κακουν⟩ αδακεν, με διω[ς ζ]εμελως τιτετικμενος ητου.</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM931700-2","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM931700-2","text":"ις κε σεμουν κ⟨ν⟩ουμινος ⟨κακουν⟩ αδακεν, με διω[ς ζ]εμελως τιτετικμενος ητου.","token_count":13,"trismegistos_id":"TM931700"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM984537-1">
+          <ab type="attributed-reference-text">[ιο]ς νι σεμουν κνουμανε κ̣[ακον] αββερετ ατ νου[.] μου[ρου]ν, τος νι με ζεμελος κε δεος κ̣ε τιη τιττετικμενος ε[ι]τ̣ου.</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM984537-1","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM984537-1","text":"[ιο]ς νι σεμουν κνουμανε κ̣[ακον] αββερετ ατ νου[.] μου[ρου]ν, τος νι με ζεμελος κε δεος κ̣ε τιη τιττετικμενος ε[ι]τ̣ου.","token_count":21,"trismegistos_id":"TM984537"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM918549-2">
+          <ab type="attributed-reference-text">μ̣ε δεως κε ζεμελως κε τιτετικμ̮ενος ειτου.</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM918549-2","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM918549-2","text":"μ̣ε δεως κε ζεμελως κε τιτετικμ̮ενος ειτου.","token_count":8,"trismegistos_id":"TM918549"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM984538-1">
+          <ab type="attributed-reference-text">ι̣ος νι σα μα̣τ?[ε]ρε κακον αββε̣ρ̣ετοι αινι σερ̣?οα, τος νι με ζ̣εμελω̣[ς ....] [---]</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM984538-1","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM984538-1","text":"ι̣ος νι σα μα̣τ?[ε]ρε κακον αββε̣ρ̣ετοι αινι σερ̣?οα, τος νι με ζ̣εμελω̣[ς ....] [---]","token_count":15,"trismegistos_id":"TM984538"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM918559-1">
+          <ab type="attributed-reference-text">ιος νι σεμουν κνουμανε κακουν αδδα̣κεττο̣ρ, δεως ζεμελως κ̣ε τιτε{τε}τι[̣κμενο]ς [ειτου].</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM918559-1","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM918559-1","text":"ιος νι σεμουν κνουμανε κακουν αδδα̣κεττο̣ρ, δεως ζεμελως κ̣ε τιτε{τε}τι[̣κμενο]ς [ειτου].","token_count":13,"trismegistos_id":"TM918559"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM963204-2">
+          <ab type="attributed-reference-text">ιος νι σεμουν κνουμανε κακουν αδδακετ, με δδεω με ζεμελος τιτετικμενος ειτου ας βαταν ορουεναν κε.</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM963204-2","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM963204-2","text":"ιος νι σεμουν κνουμανε κακουν αδδακετ, με δδεω με ζεμελος τιτετικμενος ειτου ας βαταν ορουεναν κε.","token_count":18,"trismegistos_id":"TM963204"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM984539-1">
+          <ab type="attributed-reference-text">ιος νι σεμυν κνουμανει κακυν αδδακετ αι καν, ατ τιη κε δεως κε τιττετικμενος ειτου.</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM984539-1","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM984539-1","text":"ιος νι σεμυν κνουμανει κακυν αδδακετ αι καν, ατ τιη κε δεως κε τιττετικμενος ειτου.","token_count":17,"trismegistos_id":"TM984539"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM918557-2">
+          <ab type="attributed-reference-text">ιος νι σεμον [κ]ν[ου]μανε[ι κακ]ο[υν] [τ]αι σα τρα[---]τη[ ζε]μελως κε ο̣[υ]ε̣λ̣α̣σ̣κοννου κε ισνιο[υ] αι παρτης.</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM918557-2","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM918557-2","text":"ιος νι σεμον [κ]ν[ου]μανε[ι κακ]ο[υν] [τ]αι σα τρα[---]τη[ ζε]μελως κε ο̣[υ]ε̣λ̣α̣σ̣κοννου κε ισνιο[υ] αι παρτης.","token_count":16,"trismegistos_id":"TM918557"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM918556-2">
+          <ab type="attributed-reference-text">[ι]ο̣ς νι σεμουν κνου[μ]ανει κακουν αδδακετ αινι α [τεαμας?]</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM918556-2","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM918556-2","text":"[ι]ο̣ς νι σεμουν κνου[μ]ανει κακουν αδδακετ αινι α [τεαμας?]","token_count":9,"trismegistos_id":"TM918556"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM846124-1">
+          <ab type="attributed-reference-text">υς δουμ?ετυου πασε δεκμουταις κινο[υ]μα ε̣τι μ⟨α⟩νκαν οπεσταμε̣ν̣α̣ν̣ δαδιτι νεν[υε]ρια παρτυς ουβρα.</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM846124-1","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM846124-1","text":"υς δουμ?ετυου πασε δεκμουταις κινο[υ]μα ε̣τι μ⟨α⟩νκαν οπεσταμε̣ν̣α̣ν̣ δαδιτι νεν[υε]ρια παρτυς ουβρα.","token_count":13,"trismegistos_id":"TM846124"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM984540-1">
+          <ab type="attributed-reference-text">ιος νι σεμον κνουμανει κακον αδδακετ, τετιοκμενος ειτου διως κε ζεμελως κε παρτης.</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM984540-1","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM984540-1","text":"ιος νι σεμον κνουμανει κακον αδδακετ, τετιοκμενος ειτου διως κε ζεμελως κε παρτης.","token_count":15,"trismegistos_id":"TM984540"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM932096-2">
+          <ab type="attributed-reference-text">ιος νι σε[μουν ---]</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM932096-2","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM932096-2","text":"ιος νι σε[μουν ---]","token_count":4,"trismegistos_id":"TM932096"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM846169-1">
+          <ab type="attributed-reference-text">ιος νι σεμουν κνουμανε κακεν αδδακετορ, δεως ζεμελως κε τιττετικμε-•νος ειτου.</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM846169-1","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM846169-1","text":"ιος νι σεμουν κνουμανε κακεν αδδακετορ, δεως ζεμελως κε τιττετικμε-•νος ειτου.","token_count":13,"trismegistos_id":"TM846169"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM884470-2">
+          <ab type="attributed-reference-text">ιος νι σεμον κνουμανει κακον αδακετ αινι σα τ[ο]υ τε͜αμας, τιε τιττετικμενος ειτ͜ου.</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM884470-2","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM884470-2","text":"ιος νι σεμον κνουμανει κακον αδακετ αινι σα τ[ο]υ τε͜αμας, τιε τιττετικμενος ειτ͜ου.","token_count":15,"trismegistos_id":"TM884470"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM984517-2">
+          <ab type="attributed-reference-text">❧ ιος νι σεμουν κνουμανε κακ[ου]ν αδδακετ, Τι•ε τιτ•τε[•]τι•[κμενος] ε̣ιτου̣.</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM984517-2","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM984517-2","text":"❧ ιος νι σεμουν κνουμανε κακ[ου]ν αδδακετ, Τι•ε τιτ•τε[•]τι•[κμενος] ε̣ιτου̣.","token_count":12,"trismegistos_id":"TM984517"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM938752-1">
+          <ab type="attributed-reference-text">[--- …]μενος ειτου.</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM938752-1","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM938752-1","text":"[--- …]μενος ειτου.","token_count":4,"trismegistos_id":"TM938752"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM918553-1">
+          <ab type="attributed-reference-text">[] κακο[υν [....... τι]τετικμενος ειτου, τιτεν̣[.] [.........]ις.</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM918553-1","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM918553-1","text":"[] κακο[υν [....... τι]τετικμενος ειτου, τιτεν̣[.] [.........]ις.","token_count":9,"trismegistos_id":"TM918553"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM846203-2">
+          <ab type="attributed-reference-text">❧ ιος νι σ[εμουν κνου]μανε κακουν [αδακετ αι]νι κορου ουε̣[βας?, με ζεμ]ελωσι κε δεως̣ [κε τιε] κε τιτετικμ[ενος ειτου]</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM846203-2","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM846203-2","text":"❧ ιος νι σ[εμουν κνου]μανε κακουν [αδακετ αι]νι κορου ουε̣[βας?, με ζεμ]ελωσι κε δεως̣ [κε τιε] κε τιτετικμ[ενος ειτου]","token_count":20,"trismegistos_id":"TM846203"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM932144-1">
+          <ab type="attributed-reference-text">τις κε γερε[ν/τ], τιττετικμ̣[ε]νοι ιννου.</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM932144-1","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM932144-1","text":"τις κε γερε[ν/τ], τιττετικμ̣[ε]νοι ιννου.","token_count":7,"trismegistos_id":"TM932144"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM984541-1">
+          <ab type="attributed-reference-text">ιος νι [σ]εμον κν[ου]μανη κακον αβ̣β̣ε̣ρετ ατ νουκτον μρος σας, ιος κε βρειτ περβεδαν, τιη τιττετικμενος ειτου.</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM984541-1","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM984541-1","text":"ιος νι [σ]εμον κν[ου]μανη κακον αβ̣β̣ε̣ρετ ατ νουκτον μρος σας, ιος κε βρειτ περβεδαν, τιη τιττετικμενος ειτου.","token_count":20,"trismegistos_id":"TM984541"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM984542-2">
+          <ab type="attributed-reference-text">ιος νι σ[εμ]ον τ[ου] κνουμαν[ε] κακουν τι α̣δ[δ]ακετ, διος [κ]ε σ̣ζεμελως κε̣ τιτ[τ]ε[τ]ικμεν[ος] ε̣ιτου, ατ τιη κε αδειτου.</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM984542-2","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM984542-2","text":"ιος νι σ[εμ]ον τ[ου] κνουμαν[ε] κακουν τι α̣δ[δ]ακετ, διος [κ]ε σ̣ζεμελως κε̣ τιτ[τ]ε[τ]ικμεν[ος] ε̣ιτου, ατ τιη κε αδειτου.","token_count":21,"trismegistos_id":"TM984542"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM984543-2">
+          <ab type="attributed-reference-text">ιος νι ⟨σ⟩εμ̣[ουν κνουμανε? κα]κουν αδακε[τ --- ατ τι]ε τιτετικ[μενος ειτου].</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM984543-2","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM984543-2","text":"ιος νι ⟨σ⟩εμ̣[ουν κνουμανε? κα]κουν αδακε[τ --- ατ τι]ε τιτετικ[μενος ειτου].","token_count":12,"trismegistos_id":"TM984543"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM846319-2">
+          <ab type="attributed-reference-text">ιος σεμουν κνουμανε αινι μαν̣κ̣α̣ κ̣α̣κ̣ον αδδακ[ετ, ---]</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM846319-2","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM846319-2","text":"ιος σεμουν κνουμανε αινι μαν̣κ̣α̣ κ̣α̣κ̣ον αδδακ[ετ, ---]","token_count":9,"trismegistos_id":"TM846319"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM846318-1">
+          <ab type="attributed-reference-text">ιος νι σεμον κνουμανε κακον̣ αδακετ, δεως ζεμελως τιτετικμενος ειτου.</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM846318-1","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM846318-1","text":"ιος νι σεμον κνουμανε κακον̣ αδακετ, δεως ζεμελως τιτετικμενος ειτου.","token_count":12,"trismegistos_id":"TM846318"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM846320-2">
+          <ab type="attributed-reference-text">ιος νι σεμουν κνουμανε κακουν αδακετ, ι?ος τιτετουκμενουν ειτου.</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM846320-2","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM846320-2","text":"ιος νι σεμουν κνουμανε κακουν αδακετ, ι?ος τιτετουκμενουν ειτου.","token_count":11,"trismegistos_id":"TM846320"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM846322-1">
+          <ab type="attributed-reference-text">[---] [..].</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM846322-1","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM846322-1","text":"[---] [..].","token_count":3,"trismegistos_id":"TM846322"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM846322-2">
+          <ab type="attributed-reference-text">ιος σεμουν κνουμανε κακουν [.....] [---]</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM846322-2","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM846322-2","text":"ιος σεμουν κνουμανε κακουν [.....] [---]","token_count":6,"trismegistos_id":"TM846322"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM984518-1">
+          <ab type="attributed-reference-text">ιος νι σεμον κνουμανι κακον αδ̣ακ˹ετ˺, τιε τιτετικμεν̣[ος ειτου].</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM984518-1","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM984518-1","text":"ιος νι σεμον κνουμανι κακον αδ̣ακ˹ετ˺, τιε τιτετικμεν̣[ος ειτου].","token_count":11,"trismegistos_id":"TM984518"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM846321-2">
+          <ab type="attributed-reference-text">ισος κε σεμουν κνουμανε ❧ [κακουν αδδακετ, τιττετκιμενο]ς ειτου. ❧</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM846321-2","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM846321-2","text":"ισος κε σεμουν κνουμανε ❧ [κακουν αδδακετ, τιττετκιμενο]ς ειτου. ❧","token_count":12,"trismegistos_id":"TM846321"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM1002268-1">
+          <ab type="attributed-reference-text">ιος νι σεμουν κνουμανε κακουν αδδακετ (με δεως κε ζεμελως κε) τιττετικμενος ειτου</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM1002268-1","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM1002268-1","text":"ιος νι σεμουν κνουμανε κακουν αδδακετ (με δεως κε ζεμελως κε) τιττετικμενος ειτου","token_count":15,"trismegistos_id":"TM1002268"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM984544-1">
+          <ab type="attributed-reference-text">ιος νι σιμουν κνουμανι κακουν αββιρετο αινι μμυρα, τος νι δ̣[ιως ζ]ιμε̣λως τι μεκα τ[ιε] τιττετικμενος ειτου.</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM984544-1","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM984544-1","text":"ιος νι σιμουν κνουμανι κακουν αββιρετο αινι μμυρα, τος νι δ̣[ιως ζ]ιμε̣λως τι μεκα τ[ιε] τιττετικμενος ειτου.","token_count":19,"trismegistos_id":"TM984544"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM984545-1">
+          <ab type="attributed-reference-text">ιος νι σεμον κνουμανε κακον δακετ αινι μανκα, τιε τιττετικμενος ειτου.</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM984545-1","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM984545-1","text":"ιος νι σεμον κνουμανε κακον δακετ αινι μανκα, τιε τιττετικμενος ειτου.","token_count":13,"trismegistos_id":"TM984545"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM984546-1">
+          <ab type="attributed-reference-text">ιος σεμον το κακον οδ̣[---]</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM984546-1","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM984546-1","text":"ιος σεμον το κακον οδ̣[---]","token_count":5,"trismegistos_id":"TM984546"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM847650-1">
+          <ab type="attributed-reference-text">[ιος σ]α μακκα κακουν αδακετ, ατ τιε τιτετικμενος ειτου.</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM847650-1","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM847650-1","text":"[ιος σ]α μακκα κακουν αδακετ, ατ τιε τιτετικμενος ειτου.","token_count":11,"trismegistos_id":"TM847650"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM984547-2">
+          <ab type="attributed-reference-text">ιος νι σεμουν του κνουμανει κακουν αδδακετ, [τιττ]ετικμενος ειτου.</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM984547-2","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM984547-2","text":"ιος νι σεμουν του κνουμανει κακουν αδδακετ, [τιττ]ετικμενος ειτου.","token_count":11,"trismegistos_id":"TM984547"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM918640-1">
+          <ab type="attributed-reference-text">[................]ι επρι̣ [...........]ει κ’ ονομα [...........] δ̣ουδας ακαλας ευκιν αργου.</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM918640-1","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM918640-1","text":"[................]ι επρι̣ [...........]ει κ’ ονομα [...........] δ̣ουδας ακαλας ευκιν αργου.","token_count":11,"trismegistos_id":"TM918640"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM918640-2">
+          <ab type="attributed-reference-text">σιβη [...........] ουεβαν εγερετοι αυτω αυταη κε ταν εινν̣ο̣υ̣.</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM918640-2","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM918640-2","text":"σιβη [...........] ουεβαν εγερετοι αυτω αυταη κε ταν εινν̣ο̣υ̣.","token_count":10,"trismegistos_id":"TM918640"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM845335-1">
+          <ab type="attributed-reference-text">[ι]ος α̣ν̣ σ̣[εμουν κακου]ν̣ κνου̣μ̣μανει δοκε[τ, ατ τ]ι αδειτου.</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM845335-1","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM845335-1","text":"[ι]ος α̣ν̣ σ̣[εμουν κακου]ν̣ κνου̣μ̣μανει δοκε[τ, ατ τ]ι αδειτου.","token_count":11,"trismegistos_id":"TM845335"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM984548-1">
+          <ab type="attributed-reference-text">[ιος σε]μον κνου[μανε]ι κακων [....]αν αββε[ρετ, τι]τετικμε[νος α]τ τι αδε[ι]του.</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM984548-1","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM984548-1","text":"[ιος σε]μον κνου[μανε]ι κακων [....]αν αββε[ρετ, τι]τετικμε[νος α]τ τι αδε[ι]του.","token_count":12,"trismegistos_id":"TM984548"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM928663-2">
+          <ab type="attributed-reference-text">ειος νι σεμουν κνουμανι κακον αδδακετ, ζειρα κε οι πετ̣ες κε τιττετικμενα ατ τιε αδειννου.</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM928663-2","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM928663-2","text":"ειος νι σεμουν κνουμανι κακον αδδακετ, ζειρα κε οι πετ̣ες κε τιττετικμενα ατ τιε αδειννου.","token_count":17,"trismegistos_id":"TM928663"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM942648-1">
+          <ab type="attributed-reference-text">[--- κ]α̣κουν αββερετ αιν̣[ι ---] [---] αδειτου.</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM942648-1","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM942648-1","text":"[--- κ]α̣κουν αββερετ αιν̣[ι ---] [---] αδειτου.","token_count":8,"trismegistos_id":"TM942648"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM932138-1">
+          <ab type="attributed-reference-text">ας σεμουν κνουμαν αδιθρερακ ξευνεοι αδικες εσ?αν μανκαν ιαν εσταες βρατερε μαιμαρηαν, πουκρος μανισ[ο]υ ενεπαρκες δετουν.</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM932138-1","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM932138-1","text":"ας σεμουν κνουμαν αδιθρερακ ξευνεοι αδικες εσ?αν μανκαν ιαν εσταες βρατερε μαιμαρηαν, πουκρος μανισ[ο]υ ενεπαρκες δετουν.","token_count":18,"trismegistos_id":"TM932138"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM932138-2">
+          <ab type="attributed-reference-text">[… ξ]ευναν αι δμως βροκειω [.......] δεκμουταης ιου [.........] προ τοσου</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM932138-2","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM932138-2","text":"[… ξ]ευναν αι δμως βροκειω [.......] δεκμουταης ιου [.........] προ τοσου","token_count":11,"trismegistos_id":"TM932138"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM845306-1">
+          <ab type="attributed-reference-text">[ι]ος νι σεμον κνουμανε [κα]κον αδακετ αινι α τεα̣μ̣[ας, α] τιε τιτετικμενος ειτ[ου].</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM845306-1","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM845306-1","text":"[ι]ος νι σεμον κνουμανε [κα]κον αδακετ αινι α τεα̣μ̣[ας, α] τιε τιτετικμενος ειτ[ου].","token_count":15,"trismegistos_id":"TM845306"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM845334-1">
+          <ab type="attributed-reference-text">ιος σεμου[ν κ]νουμ̣ανει κακ̣ο̣υ[ν α]δδακετ τιττετικμενος ατ Τιε αδειτου.</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM845334-1","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM845334-1","text":"ιος σεμου[ν κ]νουμ̣ανει κακ̣ο̣υ[ν α]δδακετ τιττετικμενος ατ Τιε αδειτου.","token_count":10,"trismegistos_id":"TM845334"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM845198-1">
+          <ab type="attributed-reference-text">[ιος νι σεμουν κνο]υνμανει κακουν αδ[δακετ, τιτ?τετικμε]νος ατ τι αδειτου.</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM845198-1","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM845198-1","text":"[ιος νι σεμουν κνο]υνμανει κακουν αδ[δακετ, τιτ?τετικμε]νος ατ τι αδειτου.","token_count":12,"trismegistos_id":"TM845198"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM844853-1">
+          <ab type="attributed-reference-text">εινεα̣͜ μδους, ξευνε πειρ aρεοπ αδεν⟨π⟩ατω κν̣ο̣υμαν [ο]υ̣εκρω δαδωνει ονουεια̣ ειροι τε̣ αδ̣ενπα̣τη̣ς δεουε̣ιας μα̣νεις δαδων κε οκκαυγοι ουρν̣ουσαεν.</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM844853-1","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM844853-1","text":"εινεα̣͜ μδους, ξευνε πειρ aρεοπ αδεν⟨π⟩ατω κν̣ο̣υμαν [ο]υ̣εκρω δαδωνει ονουεια̣ ειροι τε̣ αδ̣ενπα̣τη̣ς δεουε̣ιας μα̣νεις δαδων κε οκκαυγοι ουρν̣ουσαεν.","token_count":21,"trismegistos_id":"TM844853"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM844853-2">
+          <ab type="attributed-reference-text">ιος σαι κακον αδδακετ μανκαι, τ̣[ος] νι ζως κ̣ε πεις κε τιτετικμενος ειτου.</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM844853-2","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM844853-2","text":"ιος σαι κακον αδδακετ μανκαι, τ̣[ος] νι ζως κ̣ε πεις κε τιτετικμενος ειτου.","token_count":15,"trismegistos_id":"TM844853"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM932142-2">
+          <ab type="attributed-reference-text">ιος σεμουν του κνουμανει κακον αδακετ, τιτετικμενος ατ τιε αδειτου.</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM932142-2","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM932142-2","text":"ιος σεμουν του κνουμανει κακον αδακετ, τιτετικμενος ατ τιε αδειτου.","token_count":12,"trismegistos_id":"TM932142"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM984549-1">
+          <ab type="attributed-reference-text">ιος [νι σεμουν] κν[ουμανει κ]ακο[υν αδδα]κετ̣, [τιττετικ]με[νος ατ τι]ε α[δειτου].</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM984549-1","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM984549-1","text":"ιος [νι σεμουν] κν[ουμανει κ]ακο[υν αδδα]κετ̣, [τιττετικ]με[νος ατ τι]ε α[δειτου].","token_count":12,"trismegistos_id":"TM984549"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM932037-2">
+          <ab type="attributed-reference-text">ιος σα τι σκελεδριαι κακουν δακετ, ατετικμενος ατ τι αδειτου.</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM932037-2","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM932037-2","text":"ιος σα τι σκελεδριαι κακουν δακετ, ατετικμενος ατ τι αδειτου.","token_count":12,"trismegistos_id":"TM932037"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM867059-1">
+          <ab type="attributed-reference-text">[]Τ[] ιος σεμου κνουμαν[ει κα]κου[ν] αδ̣[δακε]τ̣, ατ τιη θ̣ιτ[τ]ετικμενο̣[ς αδ]ειτου.</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM867059-1","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM867059-1","text":"[]Τ[] ιος σεμου κνουμαν[ει κα]κου[ν] αδ̣[δακε]τ̣, ατ τιη θ̣ιτ[τ]ετικμενο̣[ς αδ]ειτου.","token_count":12,"trismegistos_id":"TM867059"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM844852-2">
+          <ab type="attributed-reference-text">ιος νι σεμουν κν[ου]μμανει κακουν [α]δδακεττ αι καν̣, τιττετικμεν[ος] ας τιαν ειτου.</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM844852-2","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM844852-2","text":"ιος νι σεμουν κν[ου]μμανει κακουν [α]δδακεττ αι καν̣, τιττετικμεν[ος] ας τιαν ειτου.","token_count":14,"trismegistos_id":"TM844852"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM932139-2">
+          <ab type="attributed-reference-text">[ιος σεμ]ον ρεκ̣τεον̣ [κακου]ν αδακε, ατε[τικμενο]ς ατ τ[ι] αδει[του.</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM932139-2","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM932139-2","text":"[ιος σεμ]ον ρεκ̣τεον̣ [κακου]ν αδακε, ατε[τικμενο]ς ατ τ[ι] αδει[του.","token_count":11,"trismegistos_id":"TM932139"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM932139-3">
+          <ab type="attributed-reference-text">....] α̣σγ̣</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM932139-3","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM932139-3","text":"....] α̣σγ̣","token_count":2,"trismegistos_id":"TM932139"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM875203-2">
+          <ab type="attributed-reference-text">ιος κν̣[ουμανει ---]</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM875203-2","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM875203-2","text":"ιος κν̣[ουμανει ---]","token_count":3,"trismegistos_id":"TM875203"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM845156-2">
+          <ab type="attributed-reference-text">ιος σεμ[ουν του] κνου[μανει ---]</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM845156-2","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM845156-2","text":"ιος σεμ[ουν του] κνου[μανει ---]","token_count":5,"trismegistos_id":"TM845156"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM845157-1">
+          <ab type="attributed-reference-text">[--- …τετικμεν]ο̣ς ατ τι αδειτου.</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM845157-1","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM845157-1","text":"[--- …τετικμεν]ο̣ς ατ τι αδειτου.","token_count":6,"trismegistos_id":"TM845157"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM845632-1">
+          <ab type="attributed-reference-text">ιος σεμουν κνο[υ]μ̣[αν]ε̣ι̣ κακ̣[ουν] [---]</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM845632-1","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM845632-1","text":"ιος σεμουν κνο[υ]μ̣[αν]ε̣ι̣ κακ̣[ουν] [---]","token_count":5,"trismegistos_id":"TM845632"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM932140-2">
+          <ab type="attributed-reference-text">[ι]ος κε σεμουν κνο[υ]μανει κακουν δοκετ, ατ τι αδει[του].</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM932140-2","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM932140-2","text":"[ι]ος κε σεμουν κνο[υ]μανει κακουν δοκετ, ατ τι αδει[του].","token_count":11,"trismegistos_id":"TM932140"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM932141-2">
+          <ab type="attributed-reference-text">ιο[ς νι σεμ]ουν κ[νουμα]νει κ[ακουν] αδδακ[ετ, ..]ι οι πουσ[....]ι διισιν.</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM932141-2","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM932141-2","text":"ιο[ς νι σεμ]ουν κ[νουμα]νει κ[ακουν] αδδακ[ετ, ..]ι οι πουσ[....]ι διισιν.","token_count":12,"trismegistos_id":"TM932141"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM867074-1">
+          <ab type="attributed-reference-text">[ιος σεμο]υ̣ν κνου[μανει] κακουν [α]δδακετ, τιτ̣[ετ]ικμενο[ς] ατ τι αδειτου.</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM867074-1","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM867074-1","text":"[ιος σεμο]υ̣ν κνου[μανει] κακουν [α]δδακετ, τιτ̣[ετ]ικμενο[ς] ατ τι αδειτου.","token_count":11,"trismegistos_id":"TM867074"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM845532-1">
+          <ab type="attributed-reference-text">ιος κακον αββερ̣ετορ κνουμανει αινι [---] ζεμελως ˹τι˺ε τιττετικμενος ειτου̣.</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM845532-1","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM845532-1","text":"ιος κακον αββερ̣ετορ κνουμανει αινι [---] ζεμελως ˹τι˺ε τιττετικμενος ειτου̣.","token_count":11,"trismegistos_id":"TM845532"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM867135-2">
+          <ab type="attributed-reference-text">ιος νι σεμιντ κνουμανει κακουν αδδακετ, τιττετικμενος ατ τι αδειτου ακκε οι βεκος ακκαλος τιδρερουν ειτου, γεγρειμεναν κ’ εγεδου τιος ουταν.</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM867135-2","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM867135-2","text":"ιος νι σεμιντ κνουμανει κακουν αδδακετ, τιττετικμενος ατ τι αδειτου ακκε οι βεκος ακκαλος τιδρερουν ειτου, γεγρειμεναν κ’ εγεδου τιος ουταν.","token_count":24,"trismegistos_id":"TM867135"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM932155-1">
+          <ab type="attributed-reference-text">[ιος νι κουμα][ν]ει κακ[ου]ν αδδακετ, τιττετικμενος ατ τι αδειτου. ☩</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM932155-1","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM932155-1","text":"[ιος νι κουμα][ν]ει κακ[ου]ν αδδακετ, τιττετικμενος ατ τι αδειτου. ☩","token_count":12,"trismegistos_id":"TM932155"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM845617-2">
+          <ab type="attributed-reference-text">ιος νι [---]</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM845617-2","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM845617-2","text":"ιος νι [---]","token_count":3,"trismegistos_id":"TM845617"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM845586-1">
+          <ab type="attributed-reference-text">ιος ν[ι σεμουν κ]νουμανει κακο[υν αδδακ]ε̣τ̣, τιττεττικμε[νος α]τ [Τι] α̣δ̣ειτου γεγρειμε[ναν κε εγεδ]ου τιος ουτ[αν ακκε οι] βεκος ακκαλο̣[ς τιδρ]ε̣γρουν ειδο[υ].</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM845586-1","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM845586-1","text":"ιος ν[ι σεμουν κ]νουμανει κακο[υν αδδακ]ε̣τ̣, τιττεττικμε[νος α]τ [Τι] α̣δ̣ειτου γεγρειμε[ναν κε εγεδ]ου τιος ουτ[αν ακκε οι] βεκος ακκαλο̣[ς τιδρ]ε̣γρουν ειδο[υ].","token_count":23,"trismegistos_id":"TM845586"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM845616-2">
+          <ab type="attributed-reference-text">[ι]ος σας του σκερεδ̣ρ̣ιας κακουν δακετ, [τ]ε̣ιττετικμενος α̣τ̣ τ̣ι̣ε ειτου.</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM845616-2","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM845616-2","text":"[ι]ος σας του σκερεδ̣ρ̣ιας κακουν δακετ, [τ]ε̣ιττετικμενος α̣τ̣ τ̣ι̣ε ειτου.","token_count":12,"trismegistos_id":"TM845616"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM867130-2">
+          <ab type="attributed-reference-text">ιος νι σεμουν κνουμανε κακουν αδδακετ, ττιττετικμενος ατ τι αδειτου.</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM867130-2","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM867130-2","text":"ιος νι σεμουν κνουμανε κακουν αδδακετ, ττιττετικμενος ατ τι αδειτου.","token_count":12,"trismegistos_id":"TM867130"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM867131-2">
+          <ab type="attributed-reference-text">μοναν μροτιη ιον εγεσιτ γεγριμενον.</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM867131-2","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM867131-2","text":"μοναν μροτιη ιον εγεσιτ γεγριμενον.","token_count":6,"trismegistos_id":"TM867131"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM942649-3">
+          <ab type="attributed-reference-text">αι κος [σεμουν του κνουμαν]ει κα[κουν αδδακετ], γεγρ̣[ειμεναν εγεδου Τιος ουταν κε τοτο]σσει[τι βας βεκος].</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM942649-3","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM942649-3","text":"αι κος [σεμουν του κνουμαν]ει κα[κουν αδδακετ], γεγρ̣[ειμεναν εγεδου Τιος ουταν κε τοτο]σσει[τι βας βεκος].","token_count":17,"trismegistos_id":"TM942649"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM918632-1">
+          <ab type="attributed-reference-text">ιος σεμουν̣ [κ]νουμανε κακουν αδ[δ]ακετ, [τ]ετικμε[νο]ς ε̣ι[τ]ο[υ.] Τ̣?Λ?Ω̣?</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM918632-1","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM918632-1","text":"ιος σεμουν̣ [κ]νουμανε κακουν αδ[δ]ακετ, [τ]ετικμε[νο]ς ε̣ι[τ]ο[υ.] Τ̣?Λ?Ω̣?","token_count":10,"trismegistos_id":"TM918632"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM932145-1">
+          <ab type="attributed-reference-text">ιος [νι κε σ]εμ̣ουν κ[νο]υ⟨μανει⟩ {σεμον} κακον αδακετ, [τ]ιτετικμεν̣ος [ατ] τι αδ̣ειτ̣ου, [αι] κος κ̣[ακον αδα]κκιτορ, [.] κε [........]ε αυ̣τος ειτου. ☩</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM932145-1","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM932145-1","text":"ιος [νι κε σ]εμ̣ουν κ[νο]υ⟨μανει⟩ {σεμον} κακον αδακετ, [τ]ιτετικμεν̣ος [ατ] τι αδ̣ειτ̣ου, [αι] κος κ̣[ακον αδα]κκιτορ, [.] κε [........]ε αυ̣τος ειτου. ☩","token_count":26,"trismegistos_id":"TM932145"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM845570-2">
+          <ab type="attributed-reference-text">ιος σεμ̣ιν κνο[μανει] [---]</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM845570-2","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM845570-2","text":"ιος σεμ̣ιν κνο[μανει] [---]","token_count":4,"trismegistos_id":"TM845570"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM932092-2">
+          <ab type="attributed-reference-text">ιος νι σεμ[υ]ν κνουμα̣νει κακο[υ]ν α̣δ̣δ̣α̣κ̣ε̣τ̣, [---] [---]</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM932092-2","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM932092-2","text":"ιος νι σεμ[υ]ν κνουμα̣νει κακο[υ]ν α̣δ̣δ̣α̣κ̣ε̣τ̣, [---] [---]","token_count":9,"trismegistos_id":"TM932092"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM845568-5">
+          <ab type="attributed-reference-text">[ι]ος σεμουν [κνο]υ̣μανει κα[κου]ν̣ αδδακετ, [αββ]ε̣ρετορ [.....]ε̣μερη [...]υ̣ ορβουν [....] τος τυ.[.. γεγ]α̣ριτμ[ενος ειτου].</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM845568-5","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM845568-5","text":"[ι]ος σεμουν [κνο]υ̣μανει κα[κου]ν̣ αδδακετ, [αββ]ε̣ρετορ [.....]ε̣μερη [...]υ̣ ορβουν [....] τος τυ.[.. γεγ]α̣ριτμ[ενος ειτου].","token_count":16,"trismegistos_id":"TM845568"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM845569-1">
+          <ab type="attributed-reference-text">ιος νι σεμουν κνουμανει κακουν αδοκετ ζειραι, τιτετικμενος ατ τι αδειτου, γεγρειμενον κ’ εγεδου ορουενος ουτον.</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM845569-1","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM845569-1","text":"ιος νι σεμουν κνουμανει κακουν αδοκετ ζειραι, τιτετικμενος ατ τι αδειτου, γεγρειμενον κ’ εγεδου ορουενος ουτον.","token_count":19,"trismegistos_id":"TM845569"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM917781-1">
+          <ab type="attributed-reference-text">[---] κακ[ου]ν̣ αδδακετ, γεγρειμεναν εγεδ[ου τ]ιος ουαν.</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM917781-1","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM917781-1","text":"[---] κακ[ου]ν̣ αδδακετ, γεγρειμεναν εγεδ[ου τ]ιος ουαν.","token_count":9,"trismegistos_id":"TM917781"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM867098-2">
+          <ab type="attributed-reference-text">ιος νι σαν κακουν αδ[δα]κε μανκαι, γεγ̣[ρε]ιμεναν εγεδου τιος ουταν.</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM867098-2","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM867098-2","text":"ιος νι σαν κακουν αδ[δα]κε μανκαι, γεγ̣[ρε]ιμεναν εγεδου τιος ουταν.","token_count":12,"trismegistos_id":"TM867098"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM917779-1">
+          <ab type="attributed-reference-text">ιος σεμιν κνουμανε μουρου[ν δα][κετ αι]νι κακουν κιν, τιτετικμεν[ος] [ατ τ]ιε αδε̣[ι]του.</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM917779-1","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM917779-1","text":"ιος σεμιν κνουμανε μουρου[ν δα][κετ αι]νι κακουν κιν, τιτετικμεν[ος] [ατ τ]ιε αδε̣[ι]του.","token_count":14,"trismegistos_id":"TM917779"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM867069-2">
+          <ab type="attributed-reference-text">ιος νι σεμουν κνουμανει ⟦ιο⟧ κ̣α̣κουν αδδακεκ, γεγρειμε̣ναν εγεδου τιος ουταν.</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM867069-2","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM867069-2","text":"ιος νι σεμουν κνουμανει ⟦ιο⟧ κ̣α̣κουν αδδακεκ, γεγρειμε̣ναν εγεδου τιος ουταν.","token_count":13,"trismegistos_id":"TM867069"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM867070-2">
+          <ab type="attributed-reference-text">ιος νι σεμουν κνουμανει κακον αδδακετ, γεγειμεναν εγεδου τιος ουταν α̣κ̣κε οι βεκος ακκαλος τιδρεγρουν ειτου ❧ αυτος κε ουα κο̣?ροκα γεγαριτμενος ας βαταν τευτους.</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM867070-2","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM867070-2","text":"ιος νι σεμουν κνουμανει κακον αδδακετ, γεγειμεναν εγεδου τιος ουταν α̣κ̣κε οι βεκος ακκαλος τιδρεγρουν ειτου ❧ αυτος κε ουα κο̣?ροκα γεγαριτμενος ας βαταν τευτους.","token_count":28,"trismegistos_id":"TM867070"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM867071-2">
+          <ab type="attributed-reference-text">ιος κε σεμ⟨ου⟩ν κνουμανει κακουν αδδακετ, γεγρειμεναν εγεδου τιος ουταν.</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM867071-2","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM867071-2","text":"ιος κε σεμ⟨ου⟩ν κνουμανει κακουν αδδακετ, γεγρειμεναν εγεδου τιος ουταν.","token_count":12,"trismegistos_id":"TM867071"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM867072-2">
+          <ab type="attributed-reference-text">ιος νι σαι κακουν αδδακεμ μανκαι, ας ανανκαι οι παντα κενα ⟨ι⟩ννου.</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM867072-2","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM867072-2","text":"ιος νι σαι κακουν αδδακεμ μανκαι, ας ανανκαι οι παντα κενα ⟨ι⟩ννου.","token_count":14,"trismegistos_id":"TM867072"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM867073-2">
+          <ab type="attributed-reference-text">ιος κε σεμουν κνουμανι κακουν αδακετ, ερα γεγρειμεν[α]ν εγεδο[υ] τιος ουταν, αυτος κ’ ουα κοροκα [γ]εγ̣[αριτ]με[ν]ος α βαταν τευτους.</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM867073-2","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM867073-2","text":"ιος κε σεμουν κνουμανι κακουν αδακετ, ερα γεγρειμεν[α]ν εγεδο[υ] τιος ουταν, αυτος κ’ ουα κοροκα [γ]εγ̣[αριτ]με[ν]ος α βαταν τευτους.","token_count":23,"trismegistos_id":"TM867073"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM845501-1">
+          <ab type="attributed-reference-text">ιος νι σεμουν κνουμανει κακουν αδα[κ]ετ, γεγρειμεναν εγεδου Τιος ουτ[αν] [---]</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM845501-1","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM845501-1","text":"ιος νι σεμουν κνουμανει κακουν αδα[κ]ετ, γεγρειμεναν εγεδου Τιος ουτ[αν] [---]","token_count":12,"trismegistos_id":"TM845501"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM970282-3">
+          <ab type="attributed-reference-text">ιος νι σεμ̣[ουν κνου]μ̣ανει κα̣κ[ουν αδ]δ̣[ακ]ετ, τιε τιττ̣ε̣τ̣̣ικμε̣νος ειτ[ου].</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM970282-3","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM970282-3","text":"ιος νι σεμ̣[ουν κνου]μ̣ανει κα̣κ[ουν αδ]δ̣[ακ]ετ, τιε τιττ̣ε̣τ̣̣ικμε̣νος ειτ[ου].","token_count":11,"trismegistos_id":"TM970282"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM867064-2">
+          <ab type="attributed-reference-text">ιος νι σα του μανκα κακουν αδδακετ, τι̣τ̣ετικμενος ειτου.</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM867064-2","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM867064-2","text":"ιος νι σα του μανκα κακουν αδδακετ, τι̣τ̣ετικμενος ειτου.","token_count":11,"trismegistos_id":"TM867064"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM918589-2">
+          <ab type="attributed-reference-text">ιος νι σεμ[ουν κνου]μανει κακουν αδακετ, τ̣ιτετικμενος αας κνουμ̣[---]</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM918589-2","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM918589-2","text":"ιος νι σεμ[ουν κνου]μανει κακουν αδακετ, τ̣ιτετικμενος αας κνουμ̣[---]","token_count":10,"trismegistos_id":"TM918589"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM845437-1">
+          <ab type="attributed-reference-text">[τιττετι]κμενος ειτου.</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM845437-1","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM845437-1","text":"[τιττετι]κμενος ειτου.","token_count":3,"trismegistos_id":"TM845437"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM938753-2">
+          <ab type="attributed-reference-text">ιος σα σορου κακε αδακετ, με ζεμελως τιττετιμενος ειτου.</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM938753-2","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM938753-2","text":"ιος σα σορου κακε αδακετ, με ζεμελως τιττετιμενος ειτου.","token_count":11,"trismegistos_id":"TM938753"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM970283-2">
+          <ab type="attributed-reference-text">ιος σα του σορου κακε αδδακετ, με ζεμελως οττιττετικμενος ❧ ειτου. ❧ ❧</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM970283-2","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM970283-2","text":"ιος σα του σορου κακε αδδακετ, με ζεμελως οττιττετικμενος ❧ ειτου. ❧ ❧","token_count":15,"trismegistos_id":"TM970283"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM845394-2">
+          <ab type="attributed-reference-text">[ιος] σεμον τι κνουμανι κ[ακ][ον α]βερετι ζ̣ει[ραι] παρταν, το[ς] [νι με] ζ̣ι[μελως] α τι ατιτικμενος [ειτ]ου.</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM845394-2","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM845394-2","text":"[ιος] σεμον τι κνουμανι κ[ακ][ον α]βερετι ζ̣ει[ραι] παρταν, το[ς] [νι με] ζ̣ι[μελως] α τι ατιτικμενος [ειτ]ου.","token_count":18,"trismegistos_id":"TM845394"}</note>
+        </div>
+        <div type="textpart" subtype="ud-source-sentence" xml:id="UD-TM1002269-1">
+          <ab type="attributed-reference-text">[ιος νι σεμον κνου]μ̣ανει κακον αδδακετ τιτετικ[μεν]ος ειτου.</ab>
+          <note type="native-record-json">{"independent_epigraphic_review":false,"record_id":"UD-TM1002269-1","source_assertion":true,"source_blob_sha":"399fa856aa61dca243db5dbf2138e28db7bb52ef","source_file":"xpg_kul-ud-test.conllu","source_id":"ud-phrygian-kul","source_locator":"TM1002269-1","text":"[ιος νι σεμον κνου]μ̣ανει κακον αδδακετ τιτετικ[μεν]ος ειτου.","token_count":9,"trismegistos_id":"TM1002269"}</note>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

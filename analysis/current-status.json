@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0",
   "repository_version": "0.2.0",
-  "checked": "2026-10-06",
-  "milestone": "LINEAR_A_METHOD_PARITY_RIGHTS_ACCESS_FRONTIER",
+  "checked": "2026-10-11",
+  "milestone": "K01_FACTUAL_CONCORDANCE_AND_FROZEN_REFERENCE_INTEROPERABILITY",
   "blocked_claims": [
     "exhaustive_world_corpus",
     "independently_verified_critical_edition",
@@ -55,5 +55,23 @@
     "api": "scripts/research_api.py",
     "exports": "scripts/export_research_layer.py",
     "validator": "scripts/test_preexpert_parity.py"
+  },
+  "k01_catalogue_metadata": {
+    "path": "research/k01-catalogue-concordance.json",
+    "source_catalogue_entries": 8,
+    "identification_labels": 14,
+    "independent_reviews": 0,
+    "verified_physical_object_count": null,
+    "count_policy": "source piece counts retained separately; IX/XI contents discrepancy retained; no critical text admitted"
+  },
+  "reference_interoperability": {
+    "manifest": "interchange/export-manifest.json",
+    "identity_graph": "research/interoperability-identity-graph.json",
+    "upstream_validation": "analysis/upstream-epidoc-validation.json",
+    "source_sentence_records": 203,
+    "upstream_embedded_patterns": 57,
+    "fired_rules": 613,
+    "status": "PASS_FROZEN_REFERENCE_VIEW_ONLY",
+    "full_epigraphic_corpus_coverage": false
   }
 }

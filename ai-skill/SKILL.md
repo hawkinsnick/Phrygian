@@ -80,3 +80,7 @@ Read `research/kerkenes-oip148-graffiti-route.json` alongside the K-01 dossier. 
 ## Source-bound collection review
 
 Read `docs/COLLECTION-REVIEW.md`, `research/collection-work-ledger.json` and `review/collection-packet.json` before completeness, identity, reading or rights claims. Replay `python scripts/build_collection_handoff.py`; each declared view retains its own unit. No generated packet or syntactically valid decision grants independent review, permission or admission. Keep Linear A restricted source payload local.
+
+## Kerkenes metadata and reference interchange
+
+Read `docs/KERKENES-AND-INTERCHANGE.md`, `research/k01-catalogue-concordance.json`, `interchange/export-manifest.json` and `analysis/upstream-epidoc-validation.json`. The eight source catalogue entries and fourteen identification labels are factual metadata, not eight independently verified objects. Retain the IX/XI discrepancy, excluded mason's mark and incompatible source piece-count denominators. The full 203-record frozen UD reference XML preserves source text and all native record fields; do not call it complete epigraphic coverage or promote it into canonical readings. Respect UD CC BY-SA and source-specific OIP/third-party boundaries; no AI-training permission is inferred. Replay `python scripts/build_interchange.py` and the documented upstream validator before interchange claims. No new physical objects, certain joins or independent reviews are established.

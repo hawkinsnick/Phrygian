@@ -1,15 +1,23 @@
 {
   "builder_sha256": "4b61ca559d0817b09e869f6c3ca38ae7478071a0466f89861e71954d1bb499d6",
   "completion_rule": "Enumeration is a completed work map, not completed collation. Resolve every open task using exact inspected evidence or a documented access/rights dependency; leave scientific adjudication to independent review.",
-  "config_sha256": "a8c097cc58e0a0c7a002168708a9b8cf346ba72933cbb9083b1cab3bb3cf229f",
-  "evidence_fingerprint": "e22b64ab13c351e03b18339a87ff5f4d0998bb37205cedb84aa44e3a8d6aa275",
+  "config_sha256": "8a9ca14ad7132f61fea2033912ab1edba24123462dc733d77dfa20fe19b259f7",
+  "evidence_fingerprint": "dfb8ecd65557d154d8d98598c955418f0e1a14a30cee3b4b1a9b8bdfe810e8e8",
   "input_sha256": {
-    "analysis/current-status.json": "129589055a2afb296e188b7779e67ea4dff0c58483520c697c0e6b8c7fb563d9",
+    "analysis/current-status.json": "0dc620a91683435359975f796d9d3b00174ae4af7cfbb1128a2e000a4f98ea92",
+    "analysis/upstream-epidoc-validation.json": "bad96c213b68d56586940f7d51bea3515594116607b055860242a6f41a3c67d4",
     "data/records.json": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
     "imports/ud-phrygian-kul.json": "f5f829534c479ee65af5adc554978a2e54cb0ea5c7a93eccbfa992a25da8696c",
+    "interchange/epidoc/ud-reference.xml": "14f6cc66fbe6601fccd70c1f96cc0104ce6b2f327b60e2e5143e16793a66ad8c",
+    "interchange/epidoc/upstream-pins.json": "240d9f8b31142c9146b6c5f63ce29019af9101cefa276a590cbe78ff637ab01a",
+    "interchange/export-manifest.json": "e5458f65c8f3a98ddc76e20cd8af551fced3473729b3b79670e8abd727be0077",
     "research/expert-review-queue.json": "4f35a9aa32035f5b4acf99b73a2efa88b588637672b5a199b32398c996221ddc",
-    "research/pre-expert-maximum.json": "ad2cdd286e214c1240dabcaa639ab6738c1d184c4501e6edd4cab39d37383405",
-    "research/residual-blocker-ledger.json": "6a969e9cdae5a2bd718736442eda591506b23c422c92e72df71b0a530cd248e8"
+    "research/interoperability-identity-graph.json": "4cd905306451381e899e51458a5099ddad37f7175fe567e55e9b8b70be655aa3",
+    "research/k01-catalogue-concordance.json": "398cfd866b4be23844475ef8034e995feea9d2f7d2e57cfee26050e00f02f0d0",
+    "research/pre-expert-maximum.json": "6d61fbffebb7751b4b06249f5fd34ef99ed26ab5078b8ea3c3416bd9b18f0912",
+    "research/residual-blocker-ledger.json": "87b802621ee29105aa637013a1d125160eb1ec7ca7219376bfe8e3903f60ca3a",
+    "research/rights-source-matrix.json": "46ea1df17129876bc4bfdd267fb4b50a5162e3bb729f9712b7525dd1c7dafa0b",
+    "scripts/build_interchange.py": "07c589132f45acb10293058a9e79c1e456876cdcd3ac996333b864bc8c3d4bad"
   },
   "native_review_links": [
     "docs/SOURCE-RECONCILIATION.md"
@@ -35,6 +43,12 @@
       "representation": "PUBLIC_NATIVE_IDENTIFIERS_AND_POINTERS_ONLY",
       "unit": "derivative_sentence",
       "view": "ud-reference"
+    },
+    {
+      "enumerated": 8,
+      "representation": "PUBLIC_NATIVE_IDENTIFIERS_AND_POINTERS_ONLY",
+      "unit": "source_catalogue_entry",
+      "view": "k01-catalogue"
     }
   ],
   "records": [
@@ -4300,6 +4314,174 @@
       "source_path": "imports/ud-phrygian-kul.json",
       "source_record_sha256": "3d565a607e01345723ce220afa8dcac1bb4c79bd577f310d1eddda4b17dbefd4",
       "unit": "derivative_sentence"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/records/0",
+      "native_id": "OIP135-CAT-13",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "k01-catalogue:OIP135-CAT-13",
+      "source_file_sha256": "398cfd866b4be23844475ef8034e995feea9d2f7d2e57cfee26050e00f02f0d0",
+      "source_lead_pointers": [
+        "/records/0/source_id"
+      ],
+      "source_path": "research/k01-catalogue-concordance.json",
+      "source_record_sha256": "4b212479babb5af8c71347efa35df21f87e4064343043c98a608be8ef01a9814",
+      "unit": "source_catalogue_entry"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/records/1",
+      "native_id": "OIP135-CAT-14",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "k01-catalogue:OIP135-CAT-14",
+      "source_file_sha256": "398cfd866b4be23844475ef8034e995feea9d2f7d2e57cfee26050e00f02f0d0",
+      "source_lead_pointers": [
+        "/records/1/source_id"
+      ],
+      "source_path": "research/k01-catalogue-concordance.json",
+      "source_record_sha256": "4caa6e6fa0148fb86172f0ac0069ae784a903e12c834ca749741442812d8c4da",
+      "unit": "source_catalogue_entry"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/records/2",
+      "native_id": "OIP135-CAT-15",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "k01-catalogue:OIP135-CAT-15",
+      "source_file_sha256": "398cfd866b4be23844475ef8034e995feea9d2f7d2e57cfee26050e00f02f0d0",
+      "source_lead_pointers": [
+        "/records/2/source_id"
+      ],
+      "source_path": "research/k01-catalogue-concordance.json",
+      "source_record_sha256": "acfc126fe4dcca2eae192fc274d79d0514194d0bb7619b0471a8393bc83e9638",
+      "unit": "source_catalogue_entry"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/records/3",
+      "native_id": "OIP135-CAT-16",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "k01-catalogue:OIP135-CAT-16",
+      "source_file_sha256": "398cfd866b4be23844475ef8034e995feea9d2f7d2e57cfee26050e00f02f0d0",
+      "source_lead_pointers": [
+        "/records/3/source_id"
+      ],
+      "source_path": "research/k01-catalogue-concordance.json",
+      "source_record_sha256": "a9c9e28a16aed4329d336a5678b9206752f41a604aaf905595ca1ad7382e6182",
+      "unit": "source_catalogue_entry"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/records/4",
+      "native_id": "OIP135-CAT-17",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "k01-catalogue:OIP135-CAT-17",
+      "source_file_sha256": "398cfd866b4be23844475ef8034e995feea9d2f7d2e57cfee26050e00f02f0d0",
+      "source_lead_pointers": [
+        "/records/4/source_id"
+      ],
+      "source_path": "research/k01-catalogue-concordance.json",
+      "source_record_sha256": "c723ea03ef30fdae6b0848a0e18f7c55bc780abd50bf2f48862c61bb208f90be",
+      "unit": "source_catalogue_entry"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/records/5",
+      "native_id": "OIP135-CAT-18",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "k01-catalogue:OIP135-CAT-18",
+      "source_file_sha256": "398cfd866b4be23844475ef8034e995feea9d2f7d2e57cfee26050e00f02f0d0",
+      "source_lead_pointers": [
+        "/records/5/source_id"
+      ],
+      "source_path": "research/k01-catalogue-concordance.json",
+      "source_record_sha256": "e58436c84b18eebbc81c28382ce52d58b95887d65b1e590381bfc0a922466069",
+      "unit": "source_catalogue_entry"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/records/6",
+      "native_id": "OIP135-CAT-19",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "k01-catalogue:OIP135-CAT-19",
+      "source_file_sha256": "398cfd866b4be23844475ef8034e995feea9d2f7d2e57cfee26050e00f02f0d0",
+      "source_lead_pointers": [
+        "/records/6/source_id"
+      ],
+      "source_path": "research/k01-catalogue-concordance.json",
+      "source_record_sha256": "20ce8146043c976d6d3d811ab13441719e2e2fd98f915d99ec18c92e77dbac76",
+      "unit": "source_catalogue_entry"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/records/7",
+      "native_id": "OIP135-CAT-20",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "k01-catalogue:OIP135-CAT-20",
+      "source_file_sha256": "398cfd866b4be23844475ef8034e995feea9d2f7d2e57cfee26050e00f02f0d0",
+      "source_lead_pointers": [
+        "/records/7/source_id"
+      ],
+      "source_path": "research/k01-catalogue-concordance.json",
+      "source_record_sha256": "1589c24511956235875fdca32f38a4f378eb0e5f0c3ba83b6188a074536c7820",
+      "unit": "source_catalogue_entry"
     }
   ],
   "repository": "hawkinsnick/Phrygian",
@@ -5544,6 +5726,90 @@
       "json_pointer": "/records/202/source_id",
       "kind": "source_id",
       "source_path": "imports/ud-phrygian-kul.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/source",
+      "kind": "source",
+      "source_path": "research/k01-catalogue-concordance.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/source/publication",
+      "kind": "publication",
+      "source_path": "research/k01-catalogue-concordance.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/source/url",
+      "kind": "url",
+      "source_path": "research/k01-catalogue-concordance.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/0/source_id",
+      "kind": "source_id",
+      "source_path": "research/k01-catalogue-concordance.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/1/source_id",
+      "kind": "source_id",
+      "source_path": "research/k01-catalogue-concordance.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/2/source_id",
+      "kind": "source_id",
+      "source_path": "research/k01-catalogue-concordance.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/3/source_id",
+      "kind": "source_id",
+      "source_path": "research/k01-catalogue-concordance.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/4/source_id",
+      "kind": "source_id",
+      "source_path": "research/k01-catalogue-concordance.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/5/source_id",
+      "kind": "source_id",
+      "source_path": "research/k01-catalogue-concordance.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/6/source_id",
+      "kind": "source_id",
+      "source_path": "research/k01-catalogue-concordance.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/7/source_id",
+      "kind": "source_id",
+      "source_path": "research/k01-catalogue-concordance.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/source_disagreements/0/locators/0",
+      "kind": "locators",
+      "source_path": "research/k01-catalogue-concordance.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/source_disagreements/0/locators/1",
+      "kind": "locators",
+      "source_path": "research/k01-catalogue-concordance.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/source_disagreements/0/locators/2",
+      "kind": "locators",
+      "source_path": "research/k01-catalogue-concordance.json"
     }
   ],
   "tasks": [
@@ -5749,7 +6015,7 @@
       "blocker_is_not_established_by_a_label": true,
       "collection_disposition": "OPEN_REQUIRES_DISPOSITION",
       "json_pointer": "/blockers/8",
-      "native_status": "OPEN_ROUTE_CONFIRMED",
+      "native_status": "FACTUAL_CATALOGUE_CROSSWALK_COMPLETE_COUNT_POLICY_AND_CRITICAL_EDITION_OPEN",
       "native_task_id": "PHR-BLK-009",
       "source_path": "research/residual-blocker-ledger.json",
       "task": "K-01 Kerkenes fragment/object concordance"
