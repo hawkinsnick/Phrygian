@@ -58,3 +58,7 @@ A renewed audit found that the previous rights-only label was too broad. Rights/
 ### Kerkenes metadata and tested reference interchange
 
 See [the researcher guide](docs/KERKENES-AND-INTERCHANGE.md) for the source-located K-01 catalogue crosswalk, query API and full frozen-reference EpiDoc export. Source-derived units, unresolved count policies, component rights and independent-review gates remain explicit. These additions do not admit new canonical critical readings.
+
+## AI integrity checkpoint — 2026-10-11
+
+[AI integrity controls](docs/AI-INTEGRITY.md) document source-bound bundle publication and checked cross-corpus dependency safeguards. Reading coverage and scholarly acceptance are unchanged.
