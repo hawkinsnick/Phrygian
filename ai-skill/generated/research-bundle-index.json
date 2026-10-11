@@ -1,9 +1,9 @@
 {
   "schema_version": "0.3.1",
   "skill_version": "0.3.1",
-  "source_commit": "6f0be30df492acdb6b07c05507d9e3f991156314",
+  "source_commit": "734c1f9e35e89a287f37739dc16994ed92e6e881",
   "canonical_repository": true,
-  "generated_at_utc": "2026-10-11T15:29:59+00:00",
+  "generated_at_utc": "2026-10-11T20:49:12+00:00",
   "contract": {
     "corpus_is_authoritative": true,
     "missing_means_unknown": true,
@@ -13,6 +13,18 @@
     "preserve_rights": true
   },
   "artifacts": [
+    {
+      "role": "source_action_plan",
+      "path": "research/source-action-plan.json",
+      "sha256": "eb6bbd30399802f74cddeceb9770a8534d9f64813ae71ecd35ac5cce8cfefe4f",
+      "bytes": 2067
+    },
+    {
+      "role": "source_action_guide",
+      "path": "docs/SOURCE-ACTION-PLAN.md",
+      "sha256": "941a8d2b5f5730031fd75e5004146ae514113ae97539096d6b8ea1739273d6c3",
+      "bytes": 1756
+    },
     {
       "role": "k01_catalogue_concordance",
       "path": "research/k01-catalogue-concordance.json",
@@ -46,13 +58,13 @@
     {
       "role": "collection_work_ledger",
       "path": "research/collection-work-ledger.json",
-      "sha256": "4c7983fc085ad3a1b3bfb369bba24cfa9efc35b991a69926f0421ae07fd7f2b4",
-      "bytes": 225294
+      "sha256": "55999ac6b5edda10fc26d827cfbb659e7fb1af2d539b433925ef50d558217542",
+      "bytes": 228273
     },
     {
       "role": "collection_review_packet",
       "path": "review/collection-packet.json",
-      "sha256": "bcd8f9dba3b47eab78e31710ad9fb9893d349b4c05fa4d1cc3f665c7d9bf9e7c",
+      "sha256": "72a38579bc7479d95b4d7db9ec3d31fa8c14f6132e38662b18890de4cfff7a65",
       "bytes": 1827
     },
     {
