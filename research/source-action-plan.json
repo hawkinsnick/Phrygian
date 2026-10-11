@@ -1,0 +1,44 @@
+{
+  "format": "corpus-source-action-plan-v1",
+  "corpus": "Phrygian",
+  "checked": "2026-10-11",
+  "claim_scope": "BOUNDED_SOURCE_AUDIT_NOT_GLOBAL_EXHAUSTION",
+  "rights_only_ready": false,
+  "tasks": [
+    {
+      "id": "PHR-PUBLIC",
+      "source": "Public monumental and Gordion identity metadata",
+      "dependency": "RECONCILIATION",
+      "status": "OPEN",
+      "evidence": [
+        "research/residual-blocker-ledger.json",
+        "research/gt9-open-identity-frontier.json"
+      ],
+      "next_action": "Continue item-level metadata/identity reconciliation using licensed relation services and attributed institutional facts.",
+      "acceptance": "Exact item/source crosswalk with unresolved joins retained; 245 graffiti / 11 stone categories never treated as unique-object totals."
+    },
+    {
+      "id": "PHR-K01",
+      "source": "Kerkenes K-01 catalogue counts",
+      "dependency": "RECONCILIATION",
+      "status": "OPEN",
+      "evidence": [
+        "research/k01-catalogue-concordance.json"
+      ],
+      "next_action": "Preserve completed eight-entry / fourteen-label factual crosswalk; seek source-defined piece-count denominator for the remaining discrepancy.",
+      "acceptance": "Explicit source definition for count units; catalogue labels never silently become physical fragments."
+    },
+    {
+      "id": "PHR-EDITIONS",
+      "source": "Brixhe-Lejeune / Obrador-Cursach / TITUS",
+      "dependency": "PERMISSION",
+      "status": "BLOCKED",
+      "evidence": [
+        "research/rights-source-matrix.json"
+      ],
+      "next_action": "Establish source-specific intended-use terms before systematic protected text/facsimile ingestion.",
+      "acceptance": "Recorded compatible terms or permission for each source; metadata work remains a separate lane."
+    }
+  ],
+  "rule": "Assess access, intended-use permission, source delivery, machine reconciliation and human adjudication separately. Never infer global exhaustion from a dated search or route failure. Do not reopen completed evidence by ignoring existing native audits."
+}

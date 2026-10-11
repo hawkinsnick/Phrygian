@@ -146,6 +146,16 @@
       "role": "interchange_guide",
       "path": "docs/KERKENES-AND-INTERCHANGE.md",
       "required": true
+    },
+    {
+      "role": "source_action_plan",
+      "path": "research/source-action-plan.json",
+      "required": true
+    },
+    {
+      "role": "source_action_guide",
+      "path": "docs/SOURCE-ACTION-PLAN.md",
+      "required": true
     }
   ],
   "behavioral_gates": [

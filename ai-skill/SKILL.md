@@ -84,3 +84,7 @@ Read `docs/COLLECTION-REVIEW.md`, `research/collection-work-ledger.json` and `re
 ## Kerkenes metadata and reference interchange
 
 Read `docs/KERKENES-AND-INTERCHANGE.md`, `research/k01-catalogue-concordance.json`, `interchange/export-manifest.json` and `analysis/upstream-epidoc-validation.json`. The eight source catalogue entries and fourteen identification labels are factual metadata, not eight independently verified objects. Retain the IX/XI discrepancy, excluded mason's mark and incompatible source piece-count denominators. The full 203-record frozen UD reference XML preserves source text and all native record fields; do not call it complete epigraphic coverage or promote it into canonical readings. Respect UD CC BY-SA and source-specific OIP/third-party boundaries; no AI-training permission is inferred. Replay `python scripts/build_interchange.py` and the documented upstream validator before interchange claims. No new physical objects, certain joins or independent reviews are established.
+
+## Source-specific stopping policy
+
+Read `research/source-action-plan.json` and `docs/SOURCE-ACTION-PLAN.md` before proposing evidence growth or calling the corpus rights-only. Report access, permission for the intended use, source delivery, factual reconciliation and human adjudication separately. A failed endpoint or dated search is not global exhaustion. Preserve completed native crosswalks and identify their remaining edges; no metadata plan certifies a reading or physical identity.
