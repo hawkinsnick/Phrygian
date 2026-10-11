@@ -3,7 +3,7 @@
   "corpus": "Phrygian",
   "target": "LINEAR_A_METHOD_PARITY_PRE_EXPERT_MAXIMUM",
   "checked": "2026-10-11",
-  "assessment": "PUBLIC_OBJECT_IDENTITY_AND_GORDION_SMALL_OBJECT_FRONTIERS_OPEN_RIGHTS_DOMINANT_ONLY_FOR_PROTECTED_CRITICAL_TEXT",
+  "assessment": "SOURCE_SPECIFIC_ACCESS_PERMISSION_RECONCILIATION_AND_HUMAN_GATES",
   "blockers": [
     {
       "id": "PHR-BLK-001",
@@ -81,5 +81,7 @@
     "workflow": ".github/workflows/validate.yml",
     "latest_status": "AWAITING_CI_FOR_CURRENT_HEAD",
     "note": "Workflow includes existing corpus tests plus browser/API/export/parity checks. Do not claim CI pass until GitHub reports completed success."
-  }
+  },
+  "source_action_plan": "research/source-action-plan.json",
+  "rights_only_ready": false
 }

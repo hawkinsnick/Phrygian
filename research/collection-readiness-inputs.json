@@ -35,7 +35,8 @@
     "interchange/epidoc/ud-reference.xml",
     "research/interoperability-identity-graph.json",
     "interchange/epidoc/upstream-pins.json",
-    "scripts/build_interchange.py"
+    "scripts/build_interchange.py",
+    "research/source-action-plan.json"
   ],
   "native_review_links": [
     "docs/SOURCE-RECONCILIATION.md"
