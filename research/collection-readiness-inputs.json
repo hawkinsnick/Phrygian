@@ -36,7 +36,9 @@
     "research/interoperability-identity-graph.json",
     "interchange/epidoc/upstream-pins.json",
     "scripts/build_interchange.py",
-    "research/source-action-plan.json"
+    "research/source-action-plan.json",
+    "research/cross-corpus-dependencies.json",
+    "docs/AI-INTEGRITY.md"
   ],
   "native_review_links": [
     "docs/SOURCE-RECONCILIATION.md"
