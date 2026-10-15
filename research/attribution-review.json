@@ -1,0 +1,100 @@
+{
+  "format": "corpus-attribution-review-v1",
+  "repository": "hawkinsnick/Phrygian",
+  "checked": "2026-10-15",
+  "scope": "All four controls include the Anfosso general-formula/object-fragment mismatch and Güney–Yanık’s short edition versus conditional longer restoration.",
+  "consultation_this_pass": "PINNED_REPOSITORY_EVIDENCE_ONLY",
+  "consultation_boundary": "Existing source consultation receipts and limits are inherited exactly from the referenced native packets. This pass inspects those packets, not the underlying publications afresh. No exhaustive literature search, new autopsy or independent review is claimed.",
+  "rights": "Original project review and bibliographic/source pointers only. Native attribution and rights remain attached to evidence; no new source files, figures or full protected editions are redistributed. Linear A GORILA refusal is not relaxed.",
+  "inputs": [
+    {
+      "path": "research/disagreement-register.json",
+      "sha256": "b6aa4e44a547fae7d3119b8071346a7582cd51a3cea2217d062e01dfb40dfc99",
+      "source_snapshot_commit": "533aa5f63e05190a1a98aa7e6e78122a7d81786f"
+    },
+    {
+      "path": "research/new-phrygian-primary-dossier.json",
+      "sha256": "757db8e72bde0bccd736e862f09c61d4e33ab3ee1afd83cfbe9aafb4bc3304a7",
+      "source_snapshot_commit": "533aa5f63e05190a1a98aa7e6e78122a7d81786f"
+    }
+  ],
+  "complete_selections": [
+    {
+      "path": "research/disagreement-register.json",
+      "pointer": "/items",
+      "expected_rows": 4
+    }
+  ],
+  "cases": [
+    {
+      "review_id": "PHR-DIS-001",
+      "case_class": "SOURCE_ROLE",
+      "finding": "UD 34.2 matches a general formula, not the shorter object fragment on Anfosso p.113; no object reading correction is admitted.",
+      "remaining_gap": "TM identity and the intended UD assignment remain unverified.",
+      "evidence": [
+        {
+          "path": "research/disagreement-register.json",
+          "pointer": "/items/0"
+        },
+        {
+          "path": "research/new-phrygian-primary-dossier.json",
+          "pointer": "/records/0"
+        }
+      ],
+      "pair_attribution": "NOT_APPLICABLE",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    },
+    {
+      "review_id": "PHR-DIS-002",
+      "case_class": "READING_COMPARISON",
+      "finding": "Güney–Yanık catalogue2 p.165 gives a short edition; p.166 n.29 discusses a conditional longer restoration. These are alternatives within one publication.",
+      "remaining_gap": "Assess the round-letter omicron/omega condition and damaged span; the TM bridge remains UD-dependent.",
+      "evidence": [
+        {
+          "path": "research/disagreement-register.json",
+          "pointer": "/items/1"
+        },
+        {
+          "path": "research/new-phrygian-primary-dossier.json",
+          "pointer": "/records/1"
+        }
+      ],
+      "pair_attribution": "SAME_SOURCE_INTERNAL",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    },
+    {
+      "review_id": "PHR-DIS-003",
+      "case_class": "COUNT_OR_IDENTITY",
+      "finding": "TITUS headings, numeric stems and co-listed relations are different documentary units.",
+      "remaining_gap": "Physical inscription census requires explicit identity evidence.",
+      "evidence": [
+        {
+          "path": "research/disagreement-register.json",
+          "pointer": "/items/2"
+        }
+      ],
+      "pair_attribution": "NOT_APPLICABLE",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    },
+    {
+      "review_id": "PHR-DIS-004",
+      "case_class": "COUNT_OR_IDENTITY",
+      "finding": "TM/UD labels and numeric stems differ because a/b labels are retained.",
+      "remaining_gap": "Resolve identifiers through direct catalogue evidence rather than numeric normalization.",
+      "evidence": [
+        {
+          "path": "research/disagreement-register.json",
+          "pointer": "/items/3"
+        }
+      ],
+      "pair_attribution": "NOT_APPLICABLE",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    }
+  ],
+  "new_readings_admitted": 0,
+  "independent_reviews_added": 0
+}

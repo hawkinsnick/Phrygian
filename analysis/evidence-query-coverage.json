@@ -1,7 +1,7 @@
 {
   "format": "corpus-native-evidence-query-coverage-v1",
   "repository": "hawkinsnick/Phrygian",
-  "profile_sha256": "c4f08a1d4cdd39c95c2841c84c6d5c367a7597c8643b37df633245976429c264",
+  "profile_sha256": "3931553c49b7d6614909d0cb376c6797e6d8db8fd9b3b5bc055d8eeb6826c92e",
   "implementation_sha256": "70aa6686802122667b369811fa569c45c407847ed8965b917f58130c5a685550",
   "collections": [
     {
@@ -18,7 +18,7 @@
         "path": "imports/ud-phrygian-kul.json",
         "sha256": "f5f829534c479ee65af5adc554978a2e54cb0ea5c7a93eccbfa992a25da8696c",
         "pointer": "/records",
-        "native_artifacts_snapshot_commit": "c95062b725b9a0ecaeb2b627c25ede045e00c8ec",
+        "native_artifacts_snapshot_commit": null,
         "role": "ud-reference",
         "encoding": "json"
       }
@@ -37,7 +37,7 @@
         "path": "research/titus-heading-catalogue.json",
         "sha256": "ffc91381b5a91c288039eee5c75175ee8fba979fead4ec05ce6191d48aa3f0e4",
         "pointer": "/entries",
-        "native_artifacts_snapshot_commit": "c95062b725b9a0ecaeb2b627c25ede045e00c8ec",
+        "native_artifacts_snapshot_commit": null,
         "role": "titus-headings",
         "encoding": "json"
       }
@@ -55,7 +55,7 @@
         "path": "research/new-phrygian-primary-dossier.json",
         "sha256": "757db8e72bde0bccd736e862f09c61d4e33ab3ee1afd83cfbe9aafb4bc3304a7",
         "pointer": "/records",
-        "native_artifacts_snapshot_commit": "c95062b725b9a0ecaeb2b627c25ede045e00c8ec",
+        "native_artifacts_snapshot_commit": null,
         "role": "primary-comparison-dossiers",
         "encoding": "json"
       }
@@ -74,8 +74,27 @@
         "path": "research/disagreement-register.json",
         "sha256": "b6aa4e44a547fae7d3119b8071346a7582cd51a3cea2217d062e01dfb40dfc99",
         "pointer": "/items",
-        "native_artifacts_snapshot_commit": "c95062b725b9a0ecaeb2b627c25ede045e00c8ec",
+        "native_artifacts_snapshot_commit": null,
         "role": "disagreement-register",
+        "encoding": "json"
+      }
+    },
+    {
+      "name": "attribution-review",
+      "native_unit": "bounded documentary attribution review task",
+      "record_count": 4,
+      "scope": "All four controls include the Anfosso general-formula/object-fragment mismatch and Güney–Yanık’s short edition versus conditional longer restoration.",
+      "example_ids": [
+        "PHR-DIS-001",
+        "PHR-DIS-002",
+        "PHR-DIS-003"
+      ],
+      "provenance": {
+        "path": "research/attribution-review.json",
+        "sha256": "6fa6224a7c4541d74553bbe1c59f7cd6e86b51d76d8bddaeefa9a44c90d9d2d0",
+        "pointer": "/cases",
+        "native_artifacts_snapshot_commit": null,
+        "role": "bounded attribution review",
         "encoding": "json"
       }
     }
@@ -85,7 +104,7 @@
       "path": "imports/ud-phrygian-kul.json",
       "sha256": "f5f829534c479ee65af5adc554978a2e54cb0ea5c7a93eccbfa992a25da8696c",
       "pointer": "",
-      "native_artifacts_snapshot_commit": "c95062b725b9a0ecaeb2b627c25ede045e00c8ec",
+      "native_artifacts_snapshot_commit": null,
       "role": "ud-reference",
       "encoding": "json"
     },
@@ -93,7 +112,7 @@
       "path": "research/titus-heading-catalogue.json",
       "sha256": "ffc91381b5a91c288039eee5c75175ee8fba979fead4ec05ce6191d48aa3f0e4",
       "pointer": "",
-      "native_artifacts_snapshot_commit": "c95062b725b9a0ecaeb2b627c25ede045e00c8ec",
+      "native_artifacts_snapshot_commit": null,
       "role": "titus-headings",
       "encoding": "json"
     },
@@ -101,7 +120,7 @@
       "path": "research/new-phrygian-primary-dossier.json",
       "sha256": "757db8e72bde0bccd736e862f09c61d4e33ab3ee1afd83cfbe9aafb4bc3304a7",
       "pointer": "",
-      "native_artifacts_snapshot_commit": "c95062b725b9a0ecaeb2b627c25ede045e00c8ec",
+      "native_artifacts_snapshot_commit": null,
       "role": "primary-comparison-dossiers",
       "encoding": "json"
     },
@@ -109,7 +128,7 @@
       "path": "research/disagreement-register.json",
       "sha256": "b6aa4e44a547fae7d3119b8071346a7582cd51a3cea2217d062e01dfb40dfc99",
       "pointer": "",
-      "native_artifacts_snapshot_commit": "c95062b725b9a0ecaeb2b627c25ede045e00c8ec",
+      "native_artifacts_snapshot_commit": null,
       "role": "disagreement-register",
       "encoding": "json"
     },
@@ -117,7 +136,7 @@
       "path": "research/g12-primary-edition.json",
       "sha256": "598c31ce7c9fe814b2f52315ab56de3011e2487fb308186e2a7328071a5bcee6",
       "pointer": "",
-      "native_artifacts_snapshot_commit": "c95062b725b9a0ecaeb2b627c25ede045e00c8ec",
+      "native_artifacts_snapshot_commit": null,
       "role": "corpus-level source/rights/context register",
       "encoding": "json"
     },
@@ -125,7 +144,7 @@
       "path": "research/source-dependence-graph.json",
       "sha256": "987a28e2f11c90e5e44a50945af64be9b92eca03711400dd7754564de18b45a6",
       "pointer": "",
-      "native_artifacts_snapshot_commit": "c95062b725b9a0ecaeb2b627c25ede045e00c8ec",
+      "native_artifacts_snapshot_commit": null,
       "role": "corpus-level source/rights/context register",
       "encoding": "json"
     },
@@ -133,7 +152,7 @@
       "path": "research/subcorpus-source-genealogy.json",
       "sha256": "45a455605ddd77bf39ed2d555a4ebc3182acb128da6efa36cc9fffd719307ce6",
       "pointer": "",
-      "native_artifacts_snapshot_commit": "c95062b725b9a0ecaeb2b627c25ede045e00c8ec",
+      "native_artifacts_snapshot_commit": null,
       "role": "corpus-level source/rights/context register",
       "encoding": "json"
     },
@@ -141,7 +160,7 @@
       "path": "research/rights-source-matrix.json",
       "sha256": "46ea1df17129876bc4bfdd267fb4b50a5162e3bb729f9712b7525dd1c7dafa0b",
       "pointer": "",
-      "native_artifacts_snapshot_commit": "c95062b725b9a0ecaeb2b627c25ede045e00c8ec",
+      "native_artifacts_snapshot_commit": null,
       "role": "corpus-level source/rights/context register",
       "encoding": "json"
     },
@@ -149,7 +168,7 @@
       "path": "research/k01-catalogue-concordance.json",
       "sha256": "398cfd866b4be23844475ef8034e995feea9d2f7d2e57cfee26050e00f02f0d0",
       "pointer": "",
-      "native_artifacts_snapshot_commit": "c95062b725b9a0ecaeb2b627c25ede045e00c8ec",
+      "native_artifacts_snapshot_commit": null,
       "role": "corpus-level source/rights/context register",
       "encoding": "json"
     },
@@ -157,7 +176,7 @@
       "path": "LICENSE-CONTENT.md",
       "sha256": "24b4bfcf2de2f729b7ebce80c8011e7d75f82f5626a63bdcf333b28f8a2a2802",
       "pointer": "",
-      "native_artifacts_snapshot_commit": "c95062b725b9a0ecaeb2b627c25ede045e00c8ec",
+      "native_artifacts_snapshot_commit": null,
       "role": "corpus-level source/rights/context register",
       "encoding": "text"
     },
@@ -165,13 +184,22 @@
       "path": "NOTICE",
       "sha256": "a342cfc8b7007832870b799fe6d55e72342f67ebf8d3c598bb8fb2a13b19b93a",
       "pointer": "",
-      "native_artifacts_snapshot_commit": "c95062b725b9a0ecaeb2b627c25ede045e00c8ec",
+      "native_artifacts_snapshot_commit": null,
       "role": "corpus-level source/rights/context register",
       "encoding": "text"
+    },
+    {
+      "path": "research/attribution-review.json",
+      "sha256": "6fa6224a7c4541d74553bbe1c59f7cd6e86b51d76d8bddaeefa9a44c90d9d2d0",
+      "pointer": "",
+      "native_artifacts_snapshot_commit": null,
+      "role": "bounded attribution review",
+      "encoding": "json"
     }
   ],
   "scholarly_limits": [
-    "The empty data/records.json is not evidence of an empty project: populated treebank and heading views are explicitly identified. TM joins and generic formula matches do not certify primary object readings."
+    "The empty data/records.json is not evidence of an empty project: populated treebank and heading views are explicitly identified. TM joins and generic formula matches do not certify primary object readings.",
+    "Attribution review inspects pinned native packets, not underlying sources afresh. Its cases and apparatus notes are not independent witnesses or an alternative-pair total."
   ],
   "alternative_pair_count": null,
   "independent_witness_count": null,
