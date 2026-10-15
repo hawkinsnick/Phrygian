@@ -1,0 +1,119 @@
+{
+  "format": "corpus-native-evidence-query-v1",
+  "repository": "hawkinsnick/Phrygian",
+  "collections": [
+    {
+      "name": "ud-reference",
+      "path": "imports/ud-phrygian-kul.json",
+      "pointer": "/records",
+      "id_pointer": "/record_id",
+      "unit": "UD reference sentence/segment",
+      "scope": "Treebank units do not establish object-specific diplomatic readings."
+    },
+    {
+      "name": "titus-headings",
+      "path": "research/titus-heading-catalogue.json",
+      "pointer": "/entries",
+      "id_pointer": "/source_heading_id",
+      "unit": "TITUS source heading",
+      "scope": "Heading hierarchy is not a physical-object census."
+    },
+    {
+      "name": "primary-comparison-dossiers",
+      "path": "research/new-phrygian-primary-dossier.json",
+      "pointer": "/records",
+      "id_pointer": "/reference_record_id",
+      "unit": "bounded primary-comparison dossier",
+      "scope": "Object text and general formula must remain distinct."
+    },
+    {
+      "name": "disagreement-register",
+      "path": "research/disagreement-register.json",
+      "pointer": "/items",
+      "id_pointer": "/id",
+      "unit": "research disagreement/control item",
+      "scope": "Contains unresolved text-role and identity questions."
+    }
+  ],
+  "relations": [
+    {
+      "from": "ud-reference",
+      "to": "primary-comparison-dossiers",
+      "from_pointer": "/record_id",
+      "to_pointer": "/reference_record_id",
+      "label": "EXACT_DECLARED_ID_MATCH_NOT_PHYSICAL_CERTIFICATION_OR_INDEPENDENCE"
+    }
+  ],
+  "artifacts": [
+    {
+      "path": "imports/ud-phrygian-kul.json",
+      "sha256": "f5f829534c479ee65af5adc554978a2e54cb0ea5c7a93eccbfa992a25da8696c",
+      "encoding": "json",
+      "role": "ud-reference"
+    },
+    {
+      "path": "research/titus-heading-catalogue.json",
+      "sha256": "ffc91381b5a91c288039eee5c75175ee8fba979fead4ec05ce6191d48aa3f0e4",
+      "encoding": "json",
+      "role": "titus-headings"
+    },
+    {
+      "path": "research/new-phrygian-primary-dossier.json",
+      "sha256": "757db8e72bde0bccd736e862f09c61d4e33ab3ee1afd83cfbe9aafb4bc3304a7",
+      "encoding": "json",
+      "role": "primary-comparison-dossiers"
+    },
+    {
+      "path": "research/disagreement-register.json",
+      "sha256": "b6aa4e44a547fae7d3119b8071346a7582cd51a3cea2217d062e01dfb40dfc99",
+      "encoding": "json",
+      "role": "disagreement-register"
+    },
+    {
+      "path": "research/g12-primary-edition.json",
+      "sha256": "598c31ce7c9fe814b2f52315ab56de3011e2487fb308186e2a7328071a5bcee6",
+      "encoding": "json",
+      "role": "corpus-level source/rights/context register"
+    },
+    {
+      "path": "research/source-dependence-graph.json",
+      "sha256": "987a28e2f11c90e5e44a50945af64be9b92eca03711400dd7754564de18b45a6",
+      "encoding": "json",
+      "role": "corpus-level source/rights/context register"
+    },
+    {
+      "path": "research/subcorpus-source-genealogy.json",
+      "sha256": "45a455605ddd77bf39ed2d555a4ebc3182acb128da6efa36cc9fffd719307ce6",
+      "encoding": "json",
+      "role": "corpus-level source/rights/context register"
+    },
+    {
+      "path": "research/rights-source-matrix.json",
+      "sha256": "46ea1df17129876bc4bfdd267fb4b50a5162e3bb729f9712b7525dd1c7dafa0b",
+      "encoding": "json",
+      "role": "corpus-level source/rights/context register"
+    },
+    {
+      "path": "research/k01-catalogue-concordance.json",
+      "sha256": "398cfd866b4be23844475ef8034e995feea9d2f7d2e57cfee26050e00f02f0d0",
+      "encoding": "json",
+      "role": "corpus-level source/rights/context register"
+    },
+    {
+      "path": "LICENSE-CONTENT.md",
+      "sha256": "24b4bfcf2de2f729b7ebce80c8011e7d75f82f5626a63bdcf333b28f8a2a2802",
+      "encoding": "text",
+      "role": "corpus-level source/rights/context register"
+    },
+    {
+      "path": "NOTICE",
+      "sha256": "a342cfc8b7007832870b799fe6d55e72342f67ebf8d3c598bb8fb2a13b19b93a",
+      "encoding": "text",
+      "role": "corpus-level source/rights/context register"
+    }
+  ],
+  "scholarly_limits": [
+    "The empty data/records.json is not evidence of an empty project: populated treebank and heading views are explicitly identified. TM joins and generic formula matches do not certify primary object readings."
+  ],
+  "native_artifacts_snapshot_commit": "c95062b725b9a0ecaeb2b627c25ede045e00c8ec"
+}
