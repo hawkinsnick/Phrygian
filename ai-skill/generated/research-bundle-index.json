@@ -1,9 +1,9 @@
 {
   "schema_version": "0.3.1",
   "skill_version": "0.3.1",
-  "source_commit": "c287aa13937e79889c80b8599f9060ce986b1c0f",
+  "source_commit": "3c2fb15c10e44cc0ebd08902896bdcbf732378e1",
   "canonical_repository": true,
-  "generated_at_utc": "2026-10-15T02:38:09+00:00",
+  "generated_at_utc": "2026-10-16T18:55:03+00:00",
   "contract": {
     "corpus_is_authoritative": true,
     "missing_means_unknown": true,
@@ -46,14 +46,14 @@
     {
       "role": "native_evidence_profile",
       "path": "research/evidence-query-profile.json",
-      "sha256": "3931553c49b7d6614909d0cb376c6797e6d8db8fd9b3b5bc055d8eeb6826c92e",
-      "bytes": 6180
+      "sha256": "0dc78ba481de4939f2a360290380aa38d4b980ae5ba9700b654b191c4da613b1",
+      "bytes": 7031
     },
     {
       "role": "native_evidence_coverage",
       "path": "analysis/evidence-query-coverage.json",
-      "sha256": "45e102457b8dfd2e88fb28c65a47ad6560140a884d9efb938e9e2f56153eb912",
-      "bytes": 7983
+      "sha256": "7da41a14cf6eb8343763507fbab8e636069296e03145364239835c11ea9c7a08",
+      "bytes": 8969
     },
     {
       "role": "native_evidence_query",
@@ -282,6 +282,30 @@
       "path": "research/tm-reconciliation-ledger.json",
       "sha256": "93373f0a590ee56a2ae81f653482cfe590f6b4a9707264a46501b99618d92d5e",
       "bytes": 89943
+    },
+    {
+      "role": "p1_source_followup",
+      "path": "research/p1-source-followup-2026-10-16.json",
+      "sha256": "b7ce69142f693e27456116ec794ecf0eb1ad4097a656a9d7eaffa13c5788da1a",
+      "bytes": 5079
+    },
+    {
+      "role": "p1_source_followup_guide",
+      "path": "docs/P1-SOURCE-FOLLOWUP-2026-10-16.md",
+      "sha256": "c32f00de257f967b8dc2ea50211f548762ebd898bb4ec19df3aaf21ae3363fd9",
+      "bytes": 928
+    },
+    {
+      "role": "p1_source_followup_validator",
+      "path": "scripts/p1_source_followup.py",
+      "sha256": "639fc1159aa77b90b98fd6a0bb9f827a03324d107a6a93fc187b50eb4766476f",
+      "bytes": 4092
+    },
+    {
+      "role": "p1_source_followup_tests",
+      "path": "tests/test_p1_source_followup.py",
+      "sha256": "c8acb26c91ec8eeed2b4d578145f15d034f8e7d86ff7234a30d14ee2a29b5738",
+      "bytes": 3331
     },
     {
       "role": "cross_corpus_dependencies",
