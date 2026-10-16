@@ -1,0 +1,132 @@
+{
+  "format": "corpus-p1-source-followup-v1",
+  "repository": "hawkinsnick/Phrygian",
+  "checked_local_date": "2026-10-16",
+  "date_basis": "America/Chicago",
+  "scope": "Bounded documentary source/identity follow-up; not complete corpus collation or independent epigraphic acceptance.",
+  "inputs": [
+    {
+      "path": "imports/ud-phrygian-kul.json",
+      "sha256": "f5f829534c479ee65af5adc554978a2e54cb0ea5c7a93eccbfa992a25da8696c"
+    },
+    {
+      "path": "research/new-phrygian-primary-dossier.json",
+      "sha256": "757db8e72bde0bccd736e862f09c61d4e33ab3ee1afd83cfbe9aafb4bc3304a7"
+    }
+  ],
+  "sources": [
+    {
+      "id": "anfosso2021",
+      "url": "https://milenanfosso.com/admin/public/uploads/Allegato_992024_145245.pdf",
+      "final_url": "https://milenanfosso.com/admin/public/uploads/Allegato_992024_145245.pdf",
+      "http_status": 200,
+      "bytes": 4441214,
+      "sha256": "764bf4413e7c6980168ab6ccac31ff4bf73a6b26191f9861dd39bd3c1d2ffcb2",
+      "content_type": "application/pdf",
+      "pdf_pages": 44,
+      "consultation": "REACQUIRED_PDF_RENDERED_PAGE_COMPARISON",
+      "source_files_redistributed": false,
+      "page_inspections": [
+        {
+          "pdf_ordinal": 18,
+          "render_sha256": "41e269ad47c91fb23acd477a88ff7342ee2338b885d945d5cc831358b0352a9f",
+          "render_redistributed": false
+        },
+        {
+          "pdf_ordinal": 19,
+          "render_sha256": "b7148986fe89d42e314021606f33e1a1c22382ea2c6b433cd6e65641ce668753",
+          "render_redistributed": false
+        }
+      ],
+      "rights": "No new redistribution permission established; metadata and original findings only."
+    },
+    {
+      "id": "guney2022",
+      "url": "https://dergipark.org.tr/tr/download/article-file/2905212",
+      "final_url": "https://dergipark.org.tr/tr/download/article-file/2905212",
+      "http_status": 200,
+      "bytes": 1169535,
+      "sha256": "501b15917f16c75c6bc25dbeaa601c3ce562dfdb7cbd7d50a11d1a738d90263b",
+      "content_type": "application/pdf",
+      "pdf_pages": 26,
+      "consultation": "REACQUIRED_PDF_RENDERED_PAGE_COMPARISON",
+      "source_files_redistributed": false,
+      "page_inspections": [
+        {
+          "pdf_ordinal": 11,
+          "render_sha256": "2a14548abad14ff18cba90ec7dd57f40bcc876f238170564386c481c67b56b6b",
+          "render_redistributed": false
+        },
+        {
+          "pdf_ordinal": 12,
+          "render_sha256": "218f2d901fcacc72c57a6a2abac13b40bcffd57d2e978b29f32690d1b8b85b48",
+          "render_redistributed": false
+        }
+      ],
+      "rights": "No new redistribution permission established; metadata and original findings only."
+    },
+    {
+      "id": "tm1002268",
+      "url": "https://www.trismegistos.org/text/1002268",
+      "error": "HTTP Error 502: Bad Gateway",
+      "consultation": "CATALOGUE_ROUTE_FAILED_NOT_A_NEGATIVE_IDENTITY_FINDING",
+      "source_files_redistributed": false,
+      "page_inspections": []
+    },
+    {
+      "id": "tm1002269",
+      "url": "https://www.trismegistos.org/text/1002269",
+      "error": "HTTP Error 502: Bad Gateway",
+      "consultation": "CATALOGUE_ROUTE_FAILED_NOT_A_NEGATIVE_IDENTITY_FINDING",
+      "source_files_redistributed": false,
+      "page_inspections": []
+    }
+  ],
+  "cases": [
+    {
+      "id": "PHR-TM1002268-ROLE",
+      "reference_record_id": "UD-TM1002268-1",
+      "source_ids": [
+        "anfosso2021",
+        "tm1002268"
+      ],
+      "disposition": "TEXT_ROLE_COMPARED_CATALOGUE_BRIDGE_UNRESOLVED",
+      "observations": [
+        "Rendered printed112/PDF18 presents a general curse formula before the new find; printed113/PDF19 gives a shorter object fragment and rejects identity with MAMA IV243. Existing UD formula is not promoted to the fragment reading."
+      ],
+      "remaining_work": [
+        "External TM record inspection and upstream assignment intent; no inference from formula resemblance."
+      ],
+      "object_specific_reading_support": false,
+      "canonical_admission": false,
+      "physical_identity_certified": false,
+      "independent_review": false
+    },
+    {
+      "id": "PHR-TM1002269-RESTORATION",
+      "reference_record_id": "UD-TM1002269-1",
+      "source_ids": [
+        "guney2022",
+        "tm1002269"
+      ],
+      "disposition": "SHORT_EDITION_COMPARED_ALTERNATIVE_AND_CATALOGUE_BRIDGE_UNRESOLVED",
+      "observations": [
+        "Printed165/PDF11: catalogue2, survey inventory134 and two edition lines. Printed166/PDF12 retains a conditional longer restoration depending on omega rather than omicron; no preference is adopted."
+      ],
+      "remaining_work": [
+        "Independent damaged-letter/restoration adjudication; external TM namespace bridge."
+      ],
+      "canonical_admission": false,
+      "physical_identity_certified": false,
+      "independent_review": false
+    }
+  ],
+  "limits": {
+    "canonical_readings_added": 0,
+    "physical_identities_certified": 0,
+    "independent_reviews_added": 0,
+    "frozen_readings_changed": false,
+    "source_files_redistributed": false,
+    "literature_exhaustive": false
+  }
+}

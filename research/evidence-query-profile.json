@@ -41,6 +41,14 @@
       "id_pointer": "/review_id",
       "unit": "bounded documentary attribution review task",
       "scope": "All four controls include the Anfosso general-formula/object-fragment mismatch and Güney–Yanık’s short edition versus conditional longer restoration."
+    },
+    {
+      "name": "p1-source-followup",
+      "path": "research/p1-source-followup-2026-10-16.json",
+      "pointer": "/cases",
+      "id_pointer": "/id",
+      "unit": "bounded source/identity follow-up disposition",
+      "scope": "Bounded documentary source/identity follow-up; not complete corpus collation or independent epigraphic acceptance."
     }
   ],
   "relations": [
@@ -50,6 +58,13 @@
       "from_pointer": "/record_id",
       "to_pointer": "/reference_record_id",
       "label": "EXACT_DECLARED_ID_MATCH_NOT_PHYSICAL_CERTIFICATION_OR_INDEPENDENCE"
+    },
+    {
+      "from": "ud-reference",
+      "to": "p1-source-followup",
+      "from_pointer": "/record_id",
+      "to_pointer": "/reference_record_id",
+      "label": "EXACT_RECORD_SOURCE_ROLE_QUALIFICATION_NO_IDENTITY_PROMOTION"
     }
   ],
   "artifacts": [
@@ -135,6 +150,13 @@
       "sha256": "6fa6224a7c4541d74553bbe1c59f7cd6e86b51d76d8bddaeefa9a44c90d9d2d0",
       "encoding": "json",
       "role": "bounded attribution review",
+      "source_snapshot_commit": null
+    },
+    {
+      "path": "research/p1-source-followup-2026-10-16.json",
+      "sha256": "b7ce69142f693e27456116ec794ecf0eb1ad4097a656a9d7eaffa13c5788da1a",
+      "encoding": "json",
+      "role": "p1-source-followup",
       "source_snapshot_commit": null
     }
   ],

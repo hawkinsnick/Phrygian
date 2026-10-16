@@ -1,7 +1,7 @@
 {
   "format": "corpus-native-evidence-query-coverage-v1",
   "repository": "hawkinsnick/Phrygian",
-  "profile_sha256": "3931553c49b7d6614909d0cb376c6797e6d8db8fd9b3b5bc055d8eeb6826c92e",
+  "profile_sha256": "0dc78ba481de4939f2a360290380aa38d4b980ae5ba9700b654b191c4da613b1",
   "implementation_sha256": "70aa6686802122667b369811fa569c45c407847ed8965b917f58130c5a685550",
   "collections": [
     {
@@ -95,6 +95,24 @@
         "pointer": "/cases",
         "native_artifacts_snapshot_commit": null,
         "role": "bounded attribution review",
+        "encoding": "json"
+      }
+    },
+    {
+      "name": "p1-source-followup",
+      "native_unit": "bounded source/identity follow-up disposition",
+      "record_count": 2,
+      "scope": "Bounded documentary source/identity follow-up; not complete corpus collation or independent epigraphic acceptance.",
+      "example_ids": [
+        "PHR-TM1002268-ROLE",
+        "PHR-TM1002269-RESTORATION"
+      ],
+      "provenance": {
+        "path": "research/p1-source-followup-2026-10-16.json",
+        "sha256": "b7ce69142f693e27456116ec794ecf0eb1ad4097a656a9d7eaffa13c5788da1a",
+        "pointer": "/cases",
+        "native_artifacts_snapshot_commit": null,
+        "role": "p1-source-followup",
         "encoding": "json"
       }
     }
@@ -194,6 +212,14 @@
       "pointer": "",
       "native_artifacts_snapshot_commit": null,
       "role": "bounded attribution review",
+      "encoding": "json"
+    },
+    {
+      "path": "research/p1-source-followup-2026-10-16.json",
+      "sha256": "b7ce69142f693e27456116ec794ecf0eb1ad4097a656a9d7eaffa13c5788da1a",
+      "pointer": "",
+      "native_artifacts_snapshot_commit": null,
+      "role": "p1-source-followup",
       "encoding": "json"
     }
   ],
