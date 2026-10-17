@@ -1,0 +1,58 @@
+{
+  "format": "corpus-p1-human-request-v1",
+  "repository": "hawkinsnick/Phrygian",
+  "status": "PREPARED_NOT_REVIEWED",
+  "scope": "Scoped human/source-maintainer questions only; does not certify the whole corpus ready for final acceptance.",
+  "inputs": [
+    {
+      "path": "research/p1-source-followup-2026-10-16.json",
+      "sha256": "b7ce69142f693e27456116ec794ecf0eb1ad4097a656a9d7eaffa13c5788da1a"
+    }
+  ],
+  "questions": [
+    {
+      "id": "PHR-TM1002268-ROLE",
+      "role_required": "upstream_treebank_or_catalogue_maintainer",
+      "stage": "UPSTREAM_CLARIFICATION_PENDING",
+      "question": "Was the full general formula intentionally assigned to34.2/TM1002268, or is an object-fragment assignment/text error present? Cite the source-issued record and intended text role.",
+      "source_packet_pointer": "/cases/0",
+      "evidence_prerequisites": [
+        "External TM record inspection and upstream assignment intent; no inference from formula resemblance."
+      ],
+      "decision_requested": [
+        "supported_with_scope",
+        "rejected_with_counterevidence",
+        "inconclusive",
+        "additional_source_required"
+      ],
+      "effect_of_no_decision": "Retain existing quarantine, alternatives and non-admission."
+    },
+    {
+      "id": "PHR-TM1002269-RESTORATION",
+      "role_required": "independent_epigrapher",
+      "stage": "SCOPED_HUMAN_JUDGMENT_PENDING",
+      "question": "Assess the competing reading/interpretation using the exact source locators; record unresolved objections.",
+      "source_packet_pointer": "/cases/1",
+      "evidence_prerequisites": [
+        "Independent damaged-letter/restoration adjudication; external TM namespace bridge."
+      ],
+      "decision_requested": [
+        "supported_with_scope",
+        "rejected_with_counterevidence",
+        "inconclusive",
+        "additional_source_required"
+      ],
+      "effect_of_no_decision": "Retain existing quarantine, alternatives and non-admission."
+    }
+  ],
+  "reviewer": null,
+  "affiliation": null,
+  "review_date": null,
+  "expertise_evidence": null,
+  "conflicts_and_source_dependence": null,
+  "signed_or_attributed_review_evidence": null,
+  "decisions": [],
+  "scientific_approval_granted": false,
+  "automatic_admission": false,
+  "acceptance_route": "Use native independent-review and human-maintainer verification requirements. Filling or validating this prepared request grants no admission."
+}
