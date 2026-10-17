@@ -1,9 +1,9 @@
 {
   "schema_version": "0.3.1",
   "skill_version": "0.3.1",
-  "source_commit": "3c2fb15c10e44cc0ebd08902896bdcbf732378e1",
+  "source_commit": "5ba55cb68a5d8f0a5a25f57260e77e911a096c33",
   "canonical_repository": true,
-  "generated_at_utc": "2026-10-16T18:55:03+00:00",
+  "generated_at_utc": "2026-10-17T00:48:00+00:00",
   "contract": {
     "corpus_is_authoritative": true,
     "missing_means_unknown": true,
@@ -282,6 +282,30 @@
       "path": "research/tm-reconciliation-ledger.json",
       "sha256": "93373f0a590ee56a2ae81f653482cfe590f6b4a9707264a46501b99618d92d5e",
       "bytes": 89943
+    },
+    {
+      "role": "p1_human_request",
+      "path": "review/p1-human-request.json",
+      "sha256": "367f162300bea18cb83ec1dd570437b27c4bfd163bd689ce5a28db7ef128ebc5",
+      "bytes": 2439
+    },
+    {
+      "role": "p1_human_request",
+      "path": "docs/P1-HUMAN-VALIDATION.md",
+      "sha256": "dbbbfbf5fd7822de04d1deb94bf54ea3cd07070a37f51acff2f61f76cc7665e5",
+      "bytes": 1135
+    },
+    {
+      "role": "p1_human_request",
+      "path": "scripts/p1_human_request.py",
+      "sha256": "3218bdfde3067e2fe4ea04c8864644e39d8527380b3fbc4b3d1760d71fd78cb8",
+      "bytes": 2403
+    },
+    {
+      "role": "p1_human_request",
+      "path": "tests/test_p1_human_request.py",
+      "sha256": "f0f287bdad90da54b98d6c951a1326263ce7224cccf585eb3f841b54d4c53e1c",
+      "bytes": 1587
     },
     {
       "role": "p1_source_followup",
