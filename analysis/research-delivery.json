@@ -1,0 +1,256 @@
+{
+  "format": "native-research-delivery-v1",
+  "repository": "hawkinsnick/Phrygian",
+  "status": "PASS_DELIVERY_CONTROLS_ONLY",
+  "source_attribution_completeness": "NOT_CERTIFIED_BY_FILE_POINTERS",
+  "facts_hypotheses_policy": "PRESERVE_NATIVE_CATEGORIES_NO_AUTOMATIC_PROMOTION",
+  "scholarly_completeness": false,
+  "expert_acceptance_added": false,
+  "model_behavior_empirically_validated": false,
+  "collections": [
+    {
+      "name": "ud-reference",
+      "native_unit": "UD reference sentence/segment",
+      "record_count": 203,
+      "scope": "Treebank units do not establish object-specific diplomatic readings.",
+      "example_ids": [
+        "UD-TM756906-1",
+        "UD-TM756907-1",
+        "UD-TM756908-1"
+      ],
+      "provenance": {
+        "path": "imports/ud-phrygian-kul.json",
+        "sha256": "f5f829534c479ee65af5adc554978a2e54cb0ea5c7a93eccbfa992a25da8696c",
+        "pointer": "/records",
+        "native_artifacts_snapshot_commit": null,
+        "role": "ud-reference",
+        "encoding": "json"
+      }
+    },
+    {
+      "name": "titus-headings",
+      "native_unit": "TITUS source heading",
+      "record_count": 305,
+      "scope": "Heading hierarchy is not a physical-object census.",
+      "example_ids": [
+        "Phryg._Old-Phryg._M_1a",
+        "Phryg._Old-Phryg._M_1b",
+        "Phryg._Old-Phryg._M_1c"
+      ],
+      "provenance": {
+        "path": "research/titus-heading-catalogue.json",
+        "sha256": "ffc91381b5a91c288039eee5c75175ee8fba979fead4ec05ce6191d48aa3f0e4",
+        "pointer": "/entries",
+        "native_artifacts_snapshot_commit": null,
+        "role": "titus-headings",
+        "encoding": "json"
+      }
+    },
+    {
+      "name": "primary-comparison-dossiers",
+      "native_unit": "bounded primary-comparison dossier",
+      "record_count": 2,
+      "scope": "Object text and general formula must remain distinct.",
+      "example_ids": [
+        "UD-TM1002268-1",
+        "UD-TM1002269-1"
+      ],
+      "provenance": {
+        "path": "research/new-phrygian-primary-dossier.json",
+        "sha256": "757db8e72bde0bccd736e862f09c61d4e33ab3ee1afd83cfbe9aafb4bc3304a7",
+        "pointer": "/records",
+        "native_artifacts_snapshot_commit": null,
+        "role": "primary-comparison-dossiers",
+        "encoding": "json"
+      }
+    },
+    {
+      "name": "disagreement-register",
+      "native_unit": "research disagreement/control item",
+      "record_count": 4,
+      "scope": "Contains unresolved text-role and identity questions.",
+      "example_ids": [
+        "PHR-DIS-001",
+        "PHR-DIS-002",
+        "PHR-DIS-003"
+      ],
+      "provenance": {
+        "path": "research/disagreement-register.json",
+        "sha256": "b6aa4e44a547fae7d3119b8071346a7582cd51a3cea2217d062e01dfb40dfc99",
+        "pointer": "/items",
+        "native_artifacts_snapshot_commit": null,
+        "role": "disagreement-register",
+        "encoding": "json"
+      }
+    },
+    {
+      "name": "attribution-review",
+      "native_unit": "bounded documentary attribution review task",
+      "record_count": 4,
+      "scope": "All four controls include the Anfosso general-formula/object-fragment mismatch and Güney–Yanık’s short edition versus conditional longer restoration.",
+      "example_ids": [
+        "PHR-DIS-001",
+        "PHR-DIS-002",
+        "PHR-DIS-003"
+      ],
+      "provenance": {
+        "path": "research/attribution-review.json",
+        "sha256": "6fa6224a7c4541d74553bbe1c59f7cd6e86b51d76d8bddaeefa9a44c90d9d2d0",
+        "pointer": "/cases",
+        "native_artifacts_snapshot_commit": null,
+        "role": "bounded attribution review",
+        "encoding": "json"
+      }
+    },
+    {
+      "name": "p1-source-followup",
+      "native_unit": "bounded source/identity follow-up disposition",
+      "record_count": 2,
+      "scope": "Bounded documentary source/identity follow-up; not complete corpus collation or independent epigraphic acceptance.",
+      "example_ids": [
+        "PHR-TM1002268-ROLE",
+        "PHR-TM1002269-RESTORATION"
+      ],
+      "provenance": {
+        "path": "research/p1-source-followup-2026-10-16.json",
+        "sha256": "b7ce69142f693e27456116ec794ecf0eb1ad4097a656a9d7eaffa13c5788da1a",
+        "pointer": "/cases",
+        "native_artifacts_snapshot_commit": null,
+        "role": "p1-source-followup",
+        "encoding": "json"
+      }
+    }
+  ],
+  "scholarly_limits": [
+    "The empty data/records.json is not evidence of an empty project: populated treebank and heading views are explicitly identified. TM joins and generic formula matches do not certify primary object readings.",
+    "Attribution review inspects pinned native packets, not underlying sources afresh. Its cases and apparatus notes are not independent witnesses or an alternative-pair total."
+  ],
+  "inputs": [
+    {
+      "path": "LICENSE",
+      "sha256": "a6483079a3962d57e0174a735f70813ce644e4371869e1108114dfee6cfd5674",
+      "bytes": 582
+    },
+    {
+      "path": "LICENSE-CODE",
+      "sha256": "da0ea24fe99ee55dffa4fdcc54c2c533be08b240a37fcf093b6e5a716d5cd74a",
+      "bytes": 324
+    },
+    {
+      "path": "LICENSE-CONTENT.md",
+      "sha256": "24b4bfcf2de2f729b7ebce80c8011e7d75f82f5626a63bdcf333b28f8a2a2802",
+      "bytes": 762
+    },
+    {
+      "path": "LICENSING.md",
+      "sha256": "ab9b5ec64d32f4e987fa4081dec15853a6b87858a4a8dbb7162af4ab9a54c7e8",
+      "bytes": 2487
+    },
+    {
+      "path": "NOTICE",
+      "sha256": "a342cfc8b7007832870b799fe6d55e72342f67ebf8d3c598bb8fb2a13b19b93a",
+      "bytes": 1760
+    },
+    {
+      "path": "ai-skill/SKILL.md",
+      "sha256": "1f7366a76eac2af61693a0f0733eb184b511f0d3321bc987db94afc203c99570",
+      "bytes": 15600
+    },
+    {
+      "path": "docs/RESEARCH-DELIVERY.md",
+      "sha256": "e745c98907a4134dc4c1e7b7b89aa584215482be81ceccd835495e84aa889189",
+      "bytes": 4065
+    },
+    {
+      "path": "docs/SOURCE-RECONCILIATION.md",
+      "sha256": "acf1cf4889750c6315d720f54d26f78e94f2985d5e18ebc46680feabbe056c26",
+      "bytes": 9993
+    },
+    {
+      "path": "imports/ud-phrygian-kul.json",
+      "sha256": "f5f829534c479ee65af5adc554978a2e54cb0ea5c7a93eccbfa992a25da8696c",
+      "bytes": 101726
+    },
+    {
+      "path": "research/attribution-review.json",
+      "sha256": "6fa6224a7c4541d74553bbe1c59f7cd6e86b51d76d8bddaeefa9a44c90d9d2d0",
+      "bytes": 4167
+    },
+    {
+      "path": "research/collection-work-ledger.json",
+      "sha256": "0055f68dff7eade6f4bceefb597b4fcf66fedf06363fcdb617ece3f15ded3c4f",
+      "bytes": 228484
+    },
+    {
+      "path": "research/disagreement-register.json",
+      "sha256": "b6aa4e44a547fae7d3119b8071346a7582cd51a3cea2217d062e01dfb40dfc99",
+      "bytes": 1443
+    },
+    {
+      "path": "research/evidence-query-profile.json",
+      "sha256": "0dc78ba481de4939f2a360290380aa38d4b980ae5ba9700b654b191c4da613b1",
+      "bytes": 7031
+    },
+    {
+      "path": "research/g12-primary-edition.json",
+      "sha256": "598c31ce7c9fe814b2f52315ab56de3011e2487fb308186e2a7328071a5bcee6",
+      "bytes": 2470
+    },
+    {
+      "path": "research/k01-catalogue-concordance.json",
+      "sha256": "398cfd866b4be23844475ef8034e995feea9d2f7d2e57cfee26050e00f02f0d0",
+      "bytes": 12265
+    },
+    {
+      "path": "research/new-phrygian-primary-dossier.json",
+      "sha256": "757db8e72bde0bccd736e862f09c61d4e33ab3ee1afd83cfbe9aafb4bc3304a7",
+      "bytes": 6181
+    },
+    {
+      "path": "research/p1-source-followup-2026-10-16.json",
+      "sha256": "b7ce69142f693e27456116ec794ecf0eb1ad4097a656a9d7eaffa13c5788da1a",
+      "bytes": 5079
+    },
+    {
+      "path": "research/rights-source-matrix.json",
+      "sha256": "46ea1df17129876bc4bfdd267fb4b50a5162e3bb729f9712b7525dd1c7dafa0b",
+      "bytes": 3585
+    },
+    {
+      "path": "research/source-dependence-graph.json",
+      "sha256": "987a28e2f11c90e5e44a50945af64be9b92eca03711400dd7754564de18b45a6",
+      "bytes": 2958
+    },
+    {
+      "path": "research/subcorpus-source-genealogy.json",
+      "sha256": "45a455605ddd77bf39ed2d555a4ebc3182acb128da6efa36cc9fffd719307ce6",
+      "bytes": 2302
+    },
+    {
+      "path": "research/titus-heading-catalogue.json",
+      "sha256": "ffc91381b5a91c288039eee5c75175ee8fba979fead4ec05ce6191d48aa3f0e4",
+      "bytes": 125980
+    },
+    {
+      "path": "review/collection-packet.json",
+      "sha256": "2bcff9737e061f6df786e78a182a46a3e591c894f7dae4556deec980f3ac1e48",
+      "bytes": 1827
+    },
+    {
+      "path": "scripts/evidence_query.py",
+      "sha256": "70aa6686802122667b369811fa569c45c407847ed8965b917f58130c5a685550",
+      "bytes": 11289
+    },
+    {
+      "path": "scripts/research_delivery.py",
+      "sha256": "2c113043ed51a459b82dc3959b7f56849bf1aa8c2223719ef3fdaa1321decf8d",
+      "bytes": 10075
+    },
+    {
+      "path": "scripts/test_research_delivery.py",
+      "sha256": "70d2149542b267fdd633d43dd925644dbeeb5d5e66f27675b28c77de7109464b",
+      "bytes": 5678
+    }
+  ],
+  "boundary": "Source assertions, hypotheses and review tasks retain their native categories. Retrieval and byte replay establish neither scholarly completeness nor expert acceptance. Missing source attribution, access, permission and independent review remain open where recorded."
+}
