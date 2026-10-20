@@ -1,0 +1,97 @@
+{
+  "format": "corpus-ai-skill-function-check-v1",
+  "repository": "hawkinsnick/Phrygian",
+  "status": "PASS_SCOPED_FUNCTIONAL_CHECKS",
+  "scope": "NATIVE_EVIDENCE_RETRIEVAL",
+  "skill_name": "phrygian-research",
+  "skill_version": "0.3.1",
+  "skill_sha256": "18592ac5bcb0a0c654b539ac7b2451a981f0befb9da9e939ad299762bdae94c1",
+  "bundle_source_commit": "2973aa6c7f7a14827adc69cfff14068bd92650c7",
+  "bundle_sha256": "d078c01c01c63bd61e253551ee278c31eb765ff756967319c934c604e097984b",
+  "indexed_artifact_entries_checked": 69,
+  "unique_indexed_paths_checked": 69,
+  "lookups": [
+    {
+      "collection": "ud-reference",
+      "id": "UD-TM756906-1",
+      "native_unit": "UD reference sentence/segment",
+      "provenance": {
+        "path": "imports/ud-phrygian-kul.json",
+        "sha256": "f5f829534c479ee65af5adc554978a2e54cb0ea5c7a93eccbfa992a25da8696c",
+        "pointer": "/records/0",
+        "native_artifacts_snapshot_commit": null,
+        "role": "ud-reference",
+        "encoding": "json"
+      }
+    },
+    {
+      "collection": "titus-headings",
+      "id": "Phryg._Old-Phryg._M_1a",
+      "native_unit": "TITUS source heading",
+      "provenance": {
+        "path": "research/titus-heading-catalogue.json",
+        "sha256": "ffc91381b5a91c288039eee5c75175ee8fba979fead4ec05ce6191d48aa3f0e4",
+        "pointer": "/entries/0",
+        "native_artifacts_snapshot_commit": null,
+        "role": "titus-headings",
+        "encoding": "json"
+      }
+    },
+    {
+      "collection": "primary-comparison-dossiers",
+      "id": "UD-TM1002268-1",
+      "native_unit": "bounded primary-comparison dossier",
+      "provenance": {
+        "path": "research/new-phrygian-primary-dossier.json",
+        "sha256": "757db8e72bde0bccd736e862f09c61d4e33ab3ee1afd83cfbe9aafb4bc3304a7",
+        "pointer": "/records/0",
+        "native_artifacts_snapshot_commit": null,
+        "role": "primary-comparison-dossiers",
+        "encoding": "json"
+      }
+    },
+    {
+      "collection": "disagreement-register",
+      "id": "PHR-DIS-001",
+      "native_unit": "research disagreement/control item",
+      "provenance": {
+        "path": "research/disagreement-register.json",
+        "sha256": "b6aa4e44a547fae7d3119b8071346a7582cd51a3cea2217d062e01dfb40dfc99",
+        "pointer": "/items/0",
+        "native_artifacts_snapshot_commit": null,
+        "role": "disagreement-register",
+        "encoding": "json"
+      }
+    },
+    {
+      "collection": "attribution-review",
+      "id": "PHR-DIS-001",
+      "native_unit": "bounded documentary attribution review task",
+      "provenance": {
+        "path": "research/attribution-review.json",
+        "sha256": "6fa6224a7c4541d74553bbe1c59f7cd6e86b51d76d8bddaeefa9a44c90d9d2d0",
+        "pointer": "/cases/0",
+        "native_artifacts_snapshot_commit": null,
+        "role": "bounded attribution review",
+        "encoding": "json"
+      }
+    },
+    {
+      "collection": "p1-source-followup",
+      "id": "PHR-TM1002268-ROLE",
+      "native_unit": "bounded source/identity follow-up disposition",
+      "provenance": {
+        "path": "research/p1-source-followup-2026-10-16.json",
+        "sha256": "b7ce69142f693e27456116ec794ecf0eb1ad4097a656a9d7eaffa13c5788da1a",
+        "pointer": "/cases/0",
+        "native_artifacts_snapshot_commit": null,
+        "role": "p1-source-followup",
+        "encoding": "json"
+      }
+    }
+  ],
+  "missing_id_rejected": true,
+  "scholarly_acceptance_granted": false,
+  "empirical_model_accuracy_established": false,
+  "limits": "Deterministic workflow checks only. Independent model usage exercises are recorded separately; no cross-platform accuracy or scholarly acceptance is inferred."
+}

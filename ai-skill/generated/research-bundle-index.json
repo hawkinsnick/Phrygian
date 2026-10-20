@@ -1,9 +1,9 @@
 {
   "schema_version": "0.3.1",
   "skill_version": "0.3.1",
-  "source_commit": "a28ecb23a5da55e8c6bea13de054cd8fd29fa768",
+  "source_commit": "2973aa6c7f7a14827adc69cfff14068bd92650c7",
   "canonical_repository": true,
-  "generated_at_utc": "2026-10-17T01:07:08+00:00",
+  "generated_at_utc": "2026-10-20T16:51:12+00:00",
   "contract": {
     "corpus_is_authoritative": true,
     "missing_means_unknown": true,
@@ -352,8 +352,8 @@
     {
       "role": "research_delivery",
       "path": "scripts/research_delivery.py",
-      "sha256": "2c113043ed51a459b82dc3959b7f56849bf1aa8c2223719ef3fdaa1321decf8d",
-      "bytes": 10075
+      "sha256": "2c82a9f1fdac786da4b9583c3d463002a77d45fcdd604be86e4234b09070d756",
+      "bytes": 10387
     },
     {
       "role": "research_delivery",
@@ -370,8 +370,62 @@
     {
       "role": "research_delivery",
       "path": "analysis/research-delivery.json",
-      "sha256": "fc706cee41378ac1dd8cc0a9d9a55b32af88439480d394dd779147bedfa04581",
+      "sha256": "687dc1a30225b5ce53457780613a9443c104b6493877fba7870f931212a53efd",
       "bytes": 9187
+    },
+    {
+      "role": "skill_function_validation",
+      "path": "ai-skill/SKILL.md",
+      "sha256": "18592ac5bcb0a0c654b539ac7b2451a981f0befb9da9e939ad299762bdae94c1",
+      "bytes": 16964
+    },
+    {
+      "role": "skill_function_validation",
+      "path": "ai-skill/manifest.json",
+      "sha256": "0dec38662b167a34bb39b82dadff7141ca07952f5a1ca8a1f99f653a0a37d54b",
+      "bytes": 557
+    },
+    {
+      "role": "skill_function_validation",
+      "path": "scripts/validate_ai_skill.py",
+      "sha256": "aacfb721bcf218975802968d4e260abc2dc24a300ac41eac44c0bd0d15fcb9d1",
+      "bytes": 10829
+    },
+    {
+      "role": "skill_function_validation",
+      "path": "scripts/test_ai_skill_validation.py",
+      "sha256": "5c4405e2b856e976bbeb6838ff011c7f3b3d59e910d18e182ac3e6f16b737d57",
+      "bytes": 2395
+    },
+    {
+      "role": "skill_function_validation",
+      "path": "docs/AI-SKILL-VALIDATION.md",
+      "sha256": "0c9d41c0727b2596af247d230e5a26436aacf60e0210338c8604f96fbc9877e8",
+      "bytes": 3189
+    },
+    {
+      "role": "skill_function_validation",
+      "path": ".github/workflows/ai-skill-function.yml",
+      "sha256": "bd930d865b6081bf4cef842e5aed1ef256c14b5f47ad468b5601a10e8d346364",
+      "bytes": 789
+    },
+    {
+      "role": "skill_validator_code",
+      "path": "ai-skill/scripts/build_bundle.py",
+      "sha256": "18915f6e75563a284539550249013ea2ea5fb86ef7b0562211db78659b0f081a",
+      "bytes": 5647
+    },
+    {
+      "role": "skill_validator_code",
+      "path": "ai-skill/scripts/validate_bundle.py",
+      "sha256": "47265033be232f1742f0cc46c23385d82e4091418a1dd18b4c77bfe830d9aa25",
+      "bytes": 1414
+    },
+    {
+      "role": "skill_validator_code",
+      "path": "ai-skill/scripts/sync_skill.py",
+      "sha256": "a4afd4e907a41ecc923ccf73c72a1a229f0b98c78f9eea51b06f06d3f359a30e",
+      "bytes": 232
     }
   ]
 }
