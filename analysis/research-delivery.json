@@ -153,8 +153,13 @@
     },
     {
       "path": "ai-skill/SKILL.md",
-      "sha256": "d4b3512977bf418efbb07596a27afa78d20260f8caeacac4960f97e9e4f18f08",
-      "bytes": 17536
+      "sha256": "4e8a0058b1473f70c640d16a8991346c0134b90a2ec9e4e15a7be66df260325a",
+      "bytes": 19183
+    },
+    {
+      "path": "docs/NONREVIEW-WORK.md",
+      "sha256": "01571cb5139884262d2449473bc418307c63b317eacc4b4ab4ea8c785d220614",
+      "bytes": 2962
     },
     {
       "path": "docs/RESEARCH-DELIVERY.md",
@@ -243,8 +248,8 @@
     },
     {
       "path": "scripts/research_delivery.py",
-      "sha256": "2c82a9f1fdac786da4b9583c3d463002a77d45fcdd604be86e4234b09070d756",
-      "bytes": 10387
+      "sha256": "41a6e40571391e2a4303b06a9a6eb4bf8575a84ca715d3932b8907edda64566c",
+      "bytes": 10514
     },
     {
       "path": "scripts/test_research_delivery.py",
